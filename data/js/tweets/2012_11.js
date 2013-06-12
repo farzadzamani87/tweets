@@ -111,7 +111,7 @@ Grailbird.data.tweets_2012_11 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -157,7 +157,7 @@ Grailbird.data.tweets_2012_11 =
   "geo" : {
   },
   "id_str" : "274291812737372160",
-  "text" : "RT @educreations: Help us win Best Education Startup for 2012 by nominating us. It’s only a few seconds, and you can nominate each day!  ...",
+  "text" : "RT @educreations: Help us win Best Education Startup for 2012 by nominating us. It\u2019s only a few seconds, and you can nominate each day!  ...",
   "retweeted_status" : {
     "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
     "entities" : {
@@ -168,13 +168,13 @@ Grailbird.data.tweets_2012_11 =
         "indices" : [ 118, 138 ],
         "url" : "http://t.co/pqYOH7fl",
         "expanded_url" : "http://crunchies2012.techcrunch.com/nominate/?MTE6RWR1Y3JlYXRpb25z",
-        "display_url" : "crunchies2012.techcrunch.com/nominate/?MTE6…"
+        "display_url" : "crunchies2012.techcrunch.com/nominate/?MTE6\u2026"
       } ]
     },
     "geo" : {
     },
     "id_str" : "274277508411707392",
-    "text" : "Help us win Best Education Startup for 2012 by nominating us. It’s only a few seconds, and you can nominate each day! http://t.co/pqYOH7fl",
+    "text" : "Help us win Best Education Startup for 2012 by nominating us. It\u2019s only a few seconds, and you can nominate each day! http://t.co/pqYOH7fl",
     "id" : 274277508411707392,
     "created_at" : "Thu Nov 29 22:23:48 +0000 2012",
     "user" : {
@@ -208,7 +208,7 @@ Grailbird.data.tweets_2012_11 =
       "indices" : [ 95, 115 ],
       "url" : "http://t.co/PCyLBUHB",
       "expanded_url" : "http://stackoverflow.com/q/13633320/357985?stw=2",
-      "display_url" : "stackoverflow.com/q/13633320/357…"
+      "display_url" : "stackoverflow.com/q/13633320/357\u2026"
     } ]
   },
   "geo" : {
@@ -279,7 +279,7 @@ Grailbird.data.tweets_2012_11 =
   "geo" : {
   },
   "id_str" : "273665253701726208",
-  "text" : "Fantastic way to end the day - reading thank you letters from @teachbaltshaw’s students via @DonorsChoose http://t.co/35Fr3Fiv",
+  "text" : "Fantastic way to end the day - reading thank you letters from @teachbaltshaw\u2019s students via @DonorsChoose http://t.co/35Fr3Fiv",
   "id" : 273665253701726208,
   "created_at" : "Wed Nov 28 05:50:56 +0000 2012",
   "user" : {
@@ -310,7 +310,7 @@ Grailbird.data.tweets_2012_11 =
   },
   "id_str" : "273655154560102400",
   "in_reply_to_user_id" : 14635493,
-  "text" : "@alex_gaynor how does that fit into Django’s queryset and models setup? More queryset methods to do all querying and creation?",
+  "text" : "@alex_gaynor how does that fit into Django\u2019s queryset and models setup? More queryset methods to do all querying and creation?",
   "id" : 273655154560102400,
   "in_reply_to_status_id" : 273637628891508736,
   "created_at" : "Wed Nov 28 05:10:47 +0000 2012",
@@ -341,7 +341,7 @@ Grailbird.data.tweets_2012_11 =
       "indices" : [ 57, 78 ],
       "url" : "https://t.co/qEbWpFHW",
       "expanded_url" : "https://www.djangoproject.com/weblog/2012/nov/27/15-beta-1/",
-      "display_url" : "djangoproject.com/weblog/2012/no…"
+      "display_url" : "djangoproject.com/weblog/2012/no\u2026"
     } ]
   },
   "geo" : {
@@ -446,7 +446,7 @@ Grailbird.data.tweets_2012_11 =
   },
   "id_str" : "273466091945197568",
   "in_reply_to_user_id" : 577359586,
-  "text" : "@MattVelasco0 it only looks like beer. It’s actually apple juice. Zing indeed.",
+  "text" : "@MattVelasco0 it only looks like beer. It\u2019s actually apple juice. Zing indeed.",
   "id" : 273466091945197568,
   "in_reply_to_status_id" : 273465939419361280,
   "created_at" : "Tue Nov 27 16:39:31 +0000 2012",
@@ -511,7 +511,7 @@ Grailbird.data.tweets_2012_11 =
       "indices" : [ 52, 73 ],
       "url" : "https://t.co/K7Kw4q47",
       "expanded_url" : "https://sphotos-b.xx.fbcdn.net/hphotos-ash4/427803_10101172443350933_1749226381_n.jpg",
-      "display_url" : "sphotos-b.xx.fbcdn.net/hphotos-ash4/4…"
+      "display_url" : "sphotos-b.xx.fbcdn.net/hphotos-ash4/4\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "273465041855066113",
@@ -575,7 +575,7 @@ Grailbird.data.tweets_2012_11 =
   "geo" : {
   },
   "id_str" : "273461015474233344",
-  "text" : "I don’t like the look of this http://t.co/h6esEEO7",
+  "text" : "I don\u2019t like the look of this http://t.co/h6esEEO7",
   "id" : 273461015474233344,
   "created_at" : "Tue Nov 27 16:19:21 +0000 2012",
   "user" : {
@@ -609,7 +609,7 @@ Grailbird.data.tweets_2012_11 =
       "indices" : [ 81, 101 ],
       "url" : "http://t.co/MLqgQG9b",
       "expanded_url" : "http://techcrunch.com/2012/11/26/stem-ed-codehs-wants-to-teach-every-american-high-schooler-how-to-code/",
-      "display_url" : "techcrunch.com/2012/11/26/ste…"
+      "display_url" : "techcrunch.com/2012/11/26/ste\u2026"
     } ]
   },
   "geo" : {
@@ -637,7 +637,7 @@ Grailbird.data.tweets_2012_11 =
       "indices" : [ 44, 64 ],
       "url" : "http://t.co/nLEta3Xf",
       "expanded_url" : "http://chrisstreeter.com/archive/2012/11/family-photos.html",
-      "display_url" : "chrisstreeter.com/archive/2012/1…"
+      "display_url" : "chrisstreeter.com/archive/2012/1\u2026"
     } ]
   },
   "geo" : {
@@ -690,7 +690,7 @@ Grailbird.data.tweets_2012_11 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -773,7 +773,7 @@ Grailbird.data.tweets_2012_11 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -803,7 +803,7 @@ Grailbird.data.tweets_2012_11 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -849,7 +849,7 @@ Grailbird.data.tweets_2012_11 =
   },
   "id_str" : "271480632276828160",
   "in_reply_to_user_id" : 393129393,
-  "text" : "@ChaseAdam17 dude, HN isn’t that great. Waaaay to many teenagers and people who don’t know what they’re talking about on there...",
+  "text" : "@ChaseAdam17 dude, HN isn\u2019t that great. Waaaay to many teenagers and people who don\u2019t know what they\u2019re talking about on there...",
   "id" : 271480632276828160,
   "in_reply_to_status_id" : 271472381875326977,
   "created_at" : "Thu Nov 22 05:10:01 +0000 2012",
@@ -871,8 +871,8 @@ Grailbird.data.tweets_2012_11 =
       "name" : "Watsi",
       "screen_name" : "watsi_org",
       "indices" : [ 3, 13 ],
-      "id_str" : "392560474",
-      "id" : 392560474
+      "id_str" : "1301755610",
+      "id" : 1301755610
     }, {
       "name" : "Hacker News 50",
       "screen_name" : "newsyc50",
@@ -926,7 +926,7 @@ Grailbird.data.tweets_2012_11 =
   "id_str" : "270997778157666305",
   "text" : "RT @MikeSilver: Were it not for some flukish circumstances tedford would have taken Cal to 2 rose bowls. Change happens though. We will  ...",
   "retweeted_status" : {
-    "source" : "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry®</a>",
+    "source" : "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry\u00AE</a>",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1026,7 +1026,7 @@ Grailbird.data.tweets_2012_11 =
       "indices" : [ 35, 55 ],
       "url" : "http://t.co/OQlT9as7",
       "expanded_url" : "http://www.calbears.com/sports/m-footbl/spec-rel/112012aaa.html",
-      "display_url" : "calbears.com/sports/m-footb…"
+      "display_url" : "calbears.com/sports/m-footb\u2026"
     } ]
   },
   "geo" : {
@@ -1220,8 +1220,8 @@ Grailbird.data.tweets_2012_11 =
       "name" : "Watsi",
       "screen_name" : "watsi_org",
       "indices" : [ 1, 11 ],
-      "id_str" : "392560474",
-      "id" : 392560474
+      "id_str" : "1301755610",
+      "id" : 1301755610
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1229,7 +1229,7 @@ Grailbird.data.tweets_2012_11 =
       "indices" : [ 59, 79 ],
       "url" : "http://t.co/oMzt5CVF",
       "expanded_url" : "http://blog.watsi.org/post/36099269025/did-you-hear-were-freaking-out",
-      "display_url" : "blog.watsi.org/post/360992690…"
+      "display_url" : "blog.watsi.org/post/360992690\u2026"
     } ]
   },
   "geo" : {
@@ -1266,7 +1266,7 @@ Grailbird.data.tweets_2012_11 =
   },
   "id_str" : "270355124050866176",
   "in_reply_to_user_id" : 14430935,
-  "text" : "@freakboy3742 That doesn’t stop stores in the US from putting up Xmax decorations. Many places start with the decorations early Nov",
+  "text" : "@freakboy3742 That doesn\u2019t stop stores in the US from putting up Xmax decorations. Many places start with the decorations early Nov",
   "id" : 270355124050866176,
   "in_reply_to_status_id" : 270336877754724352,
   "created_at" : "Mon Nov 19 02:37:39 +0000 2012",
@@ -1282,7 +1282,7 @@ Grailbird.data.tweets_2012_11 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1334,7 +1334,7 @@ Grailbird.data.tweets_2012_11 =
   },
   "id_str" : "269550313403457536",
   "in_reply_to_user_id" : 14473864,
-  "text" : "@alexras Congrats! @jeffrey_heer is awesome. Plus, he’s a Cal grad too.",
+  "text" : "@alexras Congrats! @jeffrey_heer is awesome. Plus, he\u2019s a Cal grad too.",
   "id" : 269550313403457536,
   "in_reply_to_status_id" : 269501106797826049,
   "created_at" : "Fri Nov 16 21:19:37 +0000 2012",
@@ -1371,7 +1371,7 @@ Grailbird.data.tweets_2012_11 =
       "indices" : [ 117, 137 ],
       "url" : "http://t.co/OQpGfqHQ",
       "expanded_url" : "http://arstechnica.com/business/2012/11/taliban-fails-to-bcc-an-e-mail-reveals-its-entire-pr-mailing-list/",
-      "display_url" : "arstechnica.com/business/2012/…"
+      "display_url" : "arstechnica.com/business/2012/\u2026"
     } ]
   },
   "geo" : {
@@ -1437,8 +1437,8 @@ Grailbird.data.tweets_2012_11 =
       "name" : "Watsi",
       "screen_name" : "watsi_org",
       "indices" : [ 31, 41 ],
-      "id_str" : "392560474",
-      "id" : 392560474
+      "id_str" : "1301755610",
+      "id" : 1301755610
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1446,7 +1446,7 @@ Grailbird.data.tweets_2012_11 =
       "indices" : [ 117, 137 ],
       "url" : "http://t.co/E3FJzHTZ",
       "expanded_url" : "http://blog.watsi.org/post/35793350107/help-watsi-win-10-000-from-huffington-post",
-      "display_url" : "blog.watsi.org/post/357933501…"
+      "display_url" : "blog.watsi.org/post/357933501\u2026"
     } ]
   },
   "geo" : {
@@ -1471,8 +1471,8 @@ Grailbird.data.tweets_2012_11 =
       "name" : "The Batman",
       "screen_name" : "God_Damn_Batman",
       "indices" : [ 3, 19 ],
-      "id_str" : "126881128",
-      "id" : 126881128
+      "id_str" : "1176900734",
+      "id" : 1176900734
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1481,7 +1481,7 @@ Grailbird.data.tweets_2012_11 =
   "geo" : {
   },
   "id_str" : "269194669362143232",
-  "text" : "RT @God_Damn_Batman: Suspending my War on Crime to fight the War on STORES PUTTING UP STUPID CHRISTMAS DECORATIONS BEFORE IT’S EVEN THAN ...",
+  "text" : "RT @God_Damn_Batman: Suspending my War on Crime to fight the War on STORES PUTTING UP STUPID CHRISTMAS DECORATIONS BEFORE IT\u2019S EVEN THAN ...",
   "retweeted_status" : {
     "source" : "web",
     "entities" : {
@@ -1493,12 +1493,12 @@ Grailbird.data.tweets_2012_11 =
     "geo" : {
     },
     "id_str" : "269179252392488960",
-    "text" : "Suspending my War on Crime to fight the War on STORES PUTTING UP STUPID CHRISTMAS DECORATIONS BEFORE IT’S EVEN THANKSGIVING.",
+    "text" : "Suspending my War on Crime to fight the War on STORES PUTTING UP STUPID CHRISTMAS DECORATIONS BEFORE IT\u2019S EVEN THANKSGIVING.",
     "id" : 269179252392488960,
     "created_at" : "Thu Nov 15 20:45:09 +0000 2012",
     "user" : {
       "name" : "The Batman",
-      "screen_name" : "God_Damn_Batman",
+      "screen_name" : "TheBatman",
       "protected" : false,
       "id_str" : "126881128",
       "profile_image_url_https" : "https://si0.twimg.com/profile_images/792221815/Angry_batman_normal.JPG",
@@ -1533,7 +1533,7 @@ Grailbird.data.tweets_2012_11 =
       "indices" : [ 86, 106 ],
       "url" : "http://t.co/YtO0w1s6",
       "expanded_url" : "http://www.wired.com/gadgetlab/2011/10/holy-smokes-loads-cremation-ashes-into-shotgun-shells/",
-      "display_url" : "wired.com/gadgetlab/2011…"
+      "display_url" : "wired.com/gadgetlab/2011\u2026"
     } ]
   },
   "geo" : {
@@ -1558,8 +1558,8 @@ Grailbird.data.tweets_2012_11 =
       "name" : "Watsi",
       "screen_name" : "watsi_org",
       "indices" : [ 0, 10 ],
-      "id_str" : "392560474",
-      "id" : 392560474
+      "id_str" : "1301755610",
+      "id" : 1301755610
     }, {
       "name" : "UserVoice",
       "screen_name" : "UserVoice",
@@ -1586,7 +1586,7 @@ Grailbird.data.tweets_2012_11 =
   "id" : 268929245265424384,
   "in_reply_to_status_id" : 268929086582308864,
   "created_at" : "Thu Nov 15 04:11:43 +0000 2012",
-  "in_reply_to_screen_name" : "watsi_org",
+  "in_reply_to_screen_name" : "watsi",
   "in_reply_to_user_id_str" : "392560474",
   "user" : {
     "name" : "Chris Streeter",
@@ -1677,7 +1677,7 @@ Grailbird.data.tweets_2012_11 =
   },
   "id_str" : "268188245081325568",
   "in_reply_to_user_id" : 18576413,
-  "text" : "@heyamylin bummed I couldn’t end up making it tonight. Hope it’s a good one!",
+  "text" : "@heyamylin bummed I couldn\u2019t end up making it tonight. Hope it\u2019s a good one!",
   "id" : 268188245081325568,
   "in_reply_to_status_id" : 268184029487063040,
   "created_at" : "Tue Nov 13 03:07:14 +0000 2012",
@@ -1707,12 +1707,6 @@ Grailbird.data.tweets_2012_11 =
       "indices" : [ 12, 26 ],
       "id_str" : "15344895",
       "id" : 15344895
-    }, {
-      "name" : "Not Zach Galifinakas",
-      "screen_name" : "GachZalifinak",
-      "indices" : [ 30, 44 ],
-      "id_str" : "601179654",
-      "id" : 601179654
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1731,12 +1725,6 @@ Grailbird.data.tweets_2012_11 =
         "indices" : [ 0, 14 ],
         "id_str" : "15344895",
         "id" : 15344895
-      }, {
-        "name" : "Not Zach Galifinakas",
-        "screen_name" : "GachZalifinak",
-        "indices" : [ 18, 32 ],
-        "id_str" : "601179654",
-        "id" : 601179654
       } ],
       "media" : [ ],
       "hashtags" : [ ],
@@ -1791,7 +1779,7 @@ Grailbird.data.tweets_2012_11 =
   },
   "id_str" : "268082401601785856",
   "in_reply_to_user_id" : 19261045,
-  "text" : "@ConDri so true. good thing the first person to try garlic wasn’t allergic to it.",
+  "text" : "@ConDri so true. good thing the first person to try garlic wasn\u2019t allergic to it.",
   "id" : 268082401601785856,
   "in_reply_to_status_id" : 268081916027207680,
   "created_at" : "Mon Nov 12 20:06:39 +0000 2012",
@@ -1825,7 +1813,7 @@ Grailbird.data.tweets_2012_11 =
   },
   "id_str" : "267789553044189184",
   "in_reply_to_user_id" : 21851200,
-  "text" : "@kalengallagher how was it? I’m interested in checking it out",
+  "text" : "@kalengallagher how was it? I\u2019m interested in checking it out",
   "id" : 267789553044189184,
   "in_reply_to_status_id" : 267432196896354305,
   "created_at" : "Mon Nov 12 00:42:59 +0000 2012",
@@ -1841,7 +1829,7 @@ Grailbird.data.tweets_2012_11 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1874,7 +1862,7 @@ Grailbird.data.tweets_2012_11 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1960,7 +1948,7 @@ Grailbird.data.tweets_2012_11 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2006,7 +1994,7 @@ Grailbird.data.tweets_2012_11 =
   "geo" : {
   },
   "id_str" : "267022423268917249",
-  "text" : "I’d love for Isiah to be a part of the Lakers org RT @sportsguy33: You know who makes a ton of sense as the next Lakers coach? Isiah Thomas.",
+  "text" : "I\u2019d love for Isiah to be a part of the Lakers org RT @sportsguy33: You know who makes a ton of sense as the next Lakers coach? Isiah Thomas.",
   "id" : 267022423268917249,
   "created_at" : "Fri Nov 09 21:54:41 +0000 2012",
   "user" : {
@@ -2080,7 +2068,7 @@ Grailbird.data.tweets_2012_11 =
   "geo" : {
   },
   "id_str" : "266937117916135425",
-  "text" : "“RT @TechCrunch: Android Veterans Tom Moss, Mike Chan Head To Accel As EIR http://t.co/EE1f0ZnY” My takeaway: left because @RWong is awesome",
+  "text" : "\u201CRT @TechCrunch: Android Veterans Tom Moss, Mike Chan Head To Accel As EIR http://t.co/EE1f0ZnY\u201D My takeaway: left because @RWong is awesome",
   "id" : 266937117916135425,
   "created_at" : "Fri Nov 09 16:15:43 +0000 2012",
   "user" : {
@@ -2171,7 +2159,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "SFGiants",
       "protected" : false,
       "id_str" : "43024351",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2778508626/d28ecbb544aef14cc2c886e94b484d46_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3570779499/88b00b38f6fcaf6cd6bceb1349e9c8a0_normal.jpeg",
       "id" : 43024351,
       "verified" : true
     }
@@ -2206,7 +2194,7 @@ Grailbird.data.tweets_2012_11 =
   },
   "id_str" : "266373857923969024",
   "in_reply_to_user_id" : 21851200,
-  "text" : "@kalengallagher Palo Alto is looking a lot better now, isn’t it ;)",
+  "text" : "@kalengallagher Palo Alto is looking a lot better now, isn\u2019t it ;)",
   "id" : 266373857923969024,
   "in_reply_to_status_id" : 266372205485641728,
   "created_at" : "Thu Nov 08 02:57:31 +0000 2012",
@@ -2243,7 +2231,7 @@ Grailbird.data.tweets_2012_11 =
       "indices" : [ 80, 100 ],
       "url" : "http://t.co/5NZJVtxL",
       "expanded_url" : "http://www.newschools.org/blog/edu-implications",
-      "display_url" : "newschools.org/blog/edu-impli…"
+      "display_url" : "newschools.org/blog/edu-impli\u2026"
     } ]
   },
   "geo" : {
@@ -2298,7 +2286,7 @@ Grailbird.data.tweets_2012_11 =
   "geo" : {
   },
   "id_str" : "266200350267166721",
-  "text" : "Really excited to wake up to #Prop30 passing, the governor’s tax to help fund schools. Such a big win for education in California",
+  "text" : "Really excited to wake up to #Prop30 passing, the governor\u2019s tax to help fund schools. Such a big win for education in California",
   "id" : 266200350267166721,
   "created_at" : "Wed Nov 07 15:28:03 +0000 2012",
   "user" : {
@@ -2341,7 +2329,7 @@ Grailbird.data.tweets_2012_11 =
   "geo" : {
   },
   "id_str" : "266069647651119104",
-  "text" : "Huge bummer RT @latimes: Molly Munger’s #Prop38, a tax hike to raise money for schools, has failed, according to @AP: http://t.co/XGvRLg1g",
+  "text" : "Huge bummer RT @latimes: Molly Munger\u2019s #Prop38, a tax hike to raise money for schools, has failed, according to @AP: http://t.co/XGvRLg1g",
   "id" : 266069647651119104,
   "created_at" : "Wed Nov 07 06:48:41 +0000 2012",
   "user" : {
@@ -2532,7 +2520,7 @@ Grailbird.data.tweets_2012_11 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2634,7 +2622,7 @@ Grailbird.data.tweets_2012_11 =
   },
   "id_str" : "265592323453358080",
   "in_reply_to_user_id" : 25778041,
-  "text" : "@CarebearSF He’s a pretty cool guy. Quite tall in person, so makes sense he used to play football at Stanfurd.",
+  "text" : "@CarebearSF He\u2019s a pretty cool guy. Quite tall in person, so makes sense he used to play football at Stanfurd.",
   "id" : 265592323453358080,
   "in_reply_to_status_id" : 265591083650666496,
   "created_at" : "Mon Nov 05 23:11:59 +0000 2012",
@@ -2723,7 +2711,7 @@ Grailbird.data.tweets_2012_11 =
   },
   "id_str" : "264971459112345601",
   "in_reply_to_user_id" : 14807047,
-  "text" : "@frewsxcv It depends on what you’re looking for. The Canon is my favorite point &amp; shoot ever. I think the current model is the S110",
+  "text" : "@frewsxcv It depends on what you\u2019re looking for. The Canon is my favorite point &amp; shoot ever. I think the current model is the S110",
   "id" : 264971459112345601,
   "in_reply_to_status_id" : 264959480649879552,
   "created_at" : "Sun Nov 04 06:04:53 +0000 2012",
@@ -2899,7 +2887,7 @@ Grailbird.data.tweets_2012_11 =
   },
   "id_str" : "264610529912446976",
   "in_reply_to_user_id" : 14207787,
-  "text" : "@ben_mathes I believe you’re missing an extra ‘L’ in there...",
+  "text" : "@ben_mathes I believe you\u2019re missing an extra \u2018L\u2019 in there...",
   "id" : 264610529912446976,
   "in_reply_to_status_id" : 264559586009288706,
   "created_at" : "Sat Nov 03 06:10:41 +0000 2012",
@@ -3041,7 +3029,7 @@ Grailbird.data.tweets_2012_11 =
   "geo" : {
   },
   "id_str" : "264494116547747840",
-  "text" : "RT @JeremiadLee: There’s an assumption that when you host in the cloud, the datacenter is well above sea level.",
+  "text" : "RT @JeremiadLee: There\u2019s an assumption that when you host in the cloud, the datacenter is well above sea level.",
   "retweeted_status" : {
     "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
     "entities" : {
@@ -3053,7 +3041,7 @@ Grailbird.data.tweets_2012_11 =
     "geo" : {
     },
     "id_str" : "263322845965328384",
-    "text" : "There’s an assumption that when you host in the cloud, the datacenter is well above sea level.",
+    "text" : "There\u2019s an assumption that when you host in the cloud, the datacenter is well above sea level.",
     "id" : 263322845965328384,
     "created_at" : "Tue Oct 30 16:53:53 +0000 2012",
     "user" : {
@@ -3087,7 +3075,7 @@ Grailbird.data.tweets_2012_11 =
       "indices" : [ 16, 36 ],
       "url" : "http://t.co/ezF2Qt1u",
       "expanded_url" : "http://www.youtube.com/watch?v=ykwqXuMPsoc",
-      "display_url" : "youtube.com/watch?v=ykwqXu…"
+      "display_url" : "youtube.com/watch?v=ykwqXu\u2026"
     } ]
   },
   "geo" : {

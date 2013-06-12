@@ -344,7 +344,7 @@ Grailbird.data.tweets_2011_09 =
       "id_str" : "19017659",
       "profile_image_url_https" : "https://si0.twimg.com/profile_images/1232097271/Work_pic_normal.jpg",
       "id" : 19017659,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 117260166453399552,
@@ -563,7 +563,7 @@ Grailbird.data.tweets_2011_09 =
       "indices" : [ 48, 68 ],
       "url" : "http://t.co/xXnI1cdF",
       "expanded_url" : "http://www.chrisstreeter.com/archive/2011/09/821/homebrew-package-update-notifications-via-",
-      "display_url" : "chrisstreeter.com/archive/2011/0…"
+      "display_url" : "chrisstreeter.com/archive/2011/0\u2026"
     } ]
   },
   "geo" : {
@@ -625,7 +625,7 @@ Grailbird.data.tweets_2011_09 =
       "indices" : [ 48, 68 ],
       "url" : "http://t.co/VXMOcInJ",
       "expanded_url" : "http://blog.jarredsumner.com/2011/09/18/sell-to-teachers/",
-      "display_url" : "blog.jarredsumner.com/2011/09/18/sel…"
+      "display_url" : "blog.jarredsumner.com/2011/09/18/sel\u2026"
     } ]
   },
   "geo" : {
@@ -846,7 +846,7 @@ Grailbird.data.tweets_2011_09 =
       "screen_name" : "lorenbaxter",
       "protected" : false,
       "id_str" : "15649565",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/553614733/profile-sketch-color-2_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/344513261567457982/fd35302e2d472713cce91f6f744f1ab6_normal.png",
       "id" : 15649565,
       "verified" : false
     }
@@ -878,7 +878,7 @@ Grailbird.data.tweets_2011_09 =
       "indices" : [ 51, 71 ],
       "url" : "http://t.co/Oergw7tc",
       "expanded_url" : "http://www.techcrunch.tv/show/disrupt/0wNXNzMjqnvtv4ArdN5of6ARTadjInSV",
-      "display_url" : "techcrunch.tv/show/disrupt/0…"
+      "display_url" : "techcrunch.tv/show/disrupt/0\u2026"
     } ]
   },
   "geo" : {
@@ -915,7 +915,7 @@ Grailbird.data.tweets_2011_09 =
       "indices" : [ 36, 56 ],
       "url" : "http://t.co/RtO05tmB",
       "expanded_url" : "http://www.flickr.com/photos/disruptsf2011/6147861686/",
-      "display_url" : "flickr.com/photos/disrupt…"
+      "display_url" : "flickr.com/photos/disrupt\u2026"
     } ]
   },
   "geo" : {
@@ -1173,7 +1173,7 @@ Grailbird.data.tweets_2011_09 =
       "screen_name" : "EdSurge",
       "protected" : false,
       "id_str" : "274793711",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3087645147/06948b388d2530d00348dfd0975cbddb_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3761776057/c30376375f244c545955e234f1d5af67_normal.png",
       "id" : 274793711,
       "verified" : false
     }
@@ -1360,7 +1360,7 @@ Grailbird.data.tweets_2011_09 =
       "screen_name" : "EdSurge",
       "protected" : false,
       "id_str" : "274793711",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3087645147/06948b388d2530d00348dfd0975cbddb_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3761776057/c30376375f244c545955e234f1d5af67_normal.png",
       "id" : 274793711,
       "verified" : false
     }
@@ -1530,7 +1530,7 @@ Grailbird.data.tweets_2011_09 =
       "screen_name" : "delk",
       "protected" : false,
       "id_str" : "45360799",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2334596522/ynbz0hkg0nrrfv9sisvd_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3633497321/6639e584ac2dfef582a30bdf37a9b130_normal.jpeg",
       "id" : 45360799,
       "verified" : false
     }
@@ -1721,7 +1721,7 @@ Grailbird.data.tweets_2011_09 =
   "id_str" : "112137488683909121",
   "text" : "RT @danieljyoo: Friday is a very big day",
   "retweeted_status" : {
-    "source" : "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry®</a>",
+    "source" : "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry\u00AE</a>",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1788,7 +1788,7 @@ Grailbird.data.tweets_2011_09 =
       "indices" : [ 34, 53 ],
       "url" : "http://t.co/ObAOngx",
       "expanded_url" : "http://techcrunch.com/2011/09/07/disrupt-sf-2011-agenda/",
-      "display_url" : "techcrunch.com/2011/09/07/dis…"
+      "display_url" : "techcrunch.com/2011/09/07/dis\u2026"
     } ]
   },
   "geo" : {
@@ -1862,7 +1862,7 @@ Grailbird.data.tweets_2011_09 =
       "indices" : [ 81, 100 ],
       "url" : "http://t.co/JWB2V9g",
       "expanded_url" : "http://mindshift.kqed.org/2011/09/can-mobile-phones-help-teachers-manage-classroom-behavior/",
-      "display_url" : "mindshift.kqed.org/2011/09/can-mo…"
+      "display_url" : "mindshift.kqed.org/2011/09/can-mo\u2026"
     } ]
   },
   "geo" : {

@@ -137,7 +137,7 @@ Grailbird.data.tweets_2009_12 =
   "geo" : {
   },
   "id_str" : "6837764016",
-  "text" : "RT @mikeyk: Turns out the best way to get Internet access at SFO is to sit by the window and use the parked airplanes’ onboard wifi",
+  "text" : "RT @mikeyk: Turns out the best way to get Internet access at SFO is to sit by the window and use the parked airplanes\u2019 onboard wifi",
   "id" : 6837764016,
   "created_at" : "Sat Dec 19 19:47:59 +0000 2009",
   "user" : {

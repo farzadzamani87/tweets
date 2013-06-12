@@ -16,7 +16,7 @@ Grailbird.data.tweets_2010_05 =
   "geo" : {
   },
   "id_str" : "14513293418",
-  "text" : "RT @ConanOBrien: Pac-Man’s 30th birthday was marred by the sudden deportation of the Super Mario Bros. What were those fools doing in Ar ...",
+  "text" : "RT @ConanOBrien: Pac-Man\u2019s 30th birthday was marred by the sudden deportation of the Super Mario Bros. What were those fools doing in Ar ...",
   "retweeted_status" : {
     "source" : "web",
     "entities" : {
@@ -28,7 +28,7 @@ Grailbird.data.tweets_2010_05 =
     "geo" : {
     },
     "id_str" : "14513203785",
-    "text" : "Pac-Man’s 30th birthday was marred by the sudden deportation of the Super Mario Bros. What were those fools doing in Arizona?",
+    "text" : "Pac-Man\u2019s 30th birthday was marred by the sudden deportation of the Super Mario Bros. What were those fools doing in Arizona?",
     "id" : 14513203785,
     "created_at" : "Sat May 22 19:52:13 +0000 2010",
     "user" : {
@@ -61,8 +61,6 @@ Grailbird.data.tweets_2010_05 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 37.544559, -122.305371 ]
   },
   "id_str" : "14511279753",
   "text" : "Maker Fairer is so amazing...",
@@ -86,8 +84,6 @@ Grailbird.data.tweets_2010_05 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 37.4853783846, -122.2142958641 ]
   },
   "id_str" : "14239939043",
   "text" : "Tour of California!",
@@ -225,7 +221,7 @@ Grailbird.data.tweets_2010_05 =
       "screen_name" : "CalAthletics",
       "protected" : false,
       "id_str" : "50545304",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2649276558/05a5ab18e2f3d0e4253b1dab46d9f718_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3504122733/b0adf62878fe465a7047377c5ca7b320_normal.jpeg",
       "id" : 50545304,
       "verified" : true
     }
@@ -492,8 +488,6 @@ Grailbird.data.tweets_2010_05 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 37.170882, -121.671727 ]
   },
   "id_str" : "13283545257",
   "text" : "I almost showed Wildflower. 3hrs 1min. Improved 27min from last year. But didn't break the 3hr mark. Beat my sister though. All that counts.",
@@ -519,7 +513,7 @@ Grailbird.data.tweets_2010_05 =
   "geo" : {
   },
   "id_str" : "13213646135",
-  "text" : "Mentally preparing to be dominated by Wildflower mañana.",
+  "text" : "Mentally preparing to be dominated by Wildflower ma\u00F1ana.",
   "id" : 13213646135,
   "created_at" : "Sat May 01 23:21:39 +0000 2010",
   "user" : {

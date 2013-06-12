@@ -83,7 +83,7 @@ Grailbird.data.tweets_2012_10 =
       "indices" : [ 96, 116 ],
       "url" : "http://t.co/pwbKoNlE",
       "expanded_url" : "http://norvig.com/election-faq-2012.html",
-      "display_url" : "norvig.com/election-faq-2…"
+      "display_url" : "norvig.com/election-faq-2\u2026"
     } ]
   },
   "geo" : {
@@ -100,7 +100,7 @@ Grailbird.data.tweets_2012_10 =
         "indices" : [ 80, 100 ],
         "url" : "http://t.co/pwbKoNlE",
         "expanded_url" : "http://norvig.com/election-faq-2012.html",
-        "display_url" : "norvig.com/election-faq-2…"
+        "display_url" : "norvig.com/election-faq-2\u2026"
       } ]
     },
     "geo" : {
@@ -209,7 +209,7 @@ Grailbird.data.tweets_2012_10 =
   "geo" : {
   },
   "id_str" : "263095726295355392",
-  "text" : "Hey @MattVelasco0, it’s super sunny and yesterday hit 80° in California. Still don’t want to move back home?",
+  "text" : "Hey @MattVelasco0, it\u2019s super sunny and yesterday hit 80\u00B0 in California. Still don\u2019t want to move back home?",
   "id" : 263095726295355392,
   "created_at" : "Tue Oct 30 01:51:23 +0000 2012",
   "user" : {
@@ -489,7 +489,7 @@ Grailbird.data.tweets_2012_10 =
   },
   "id_str" : "262695462270816258",
   "in_reply_to_user_id" : 820873,
-  "text" : "@chalky I do. Do you head down to near PA at all? I don’t have plans to go to the city til Friday.",
+  "text" : "@chalky I do. Do you head down to near PA at all? I don\u2019t have plans to go to the city til Friday.",
   "id" : 262695462270816258,
   "in_reply_to_status_id" : 262685503856463872,
   "created_at" : "Sun Oct 28 23:20:53 +0000 2012",
@@ -505,7 +505,7 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -538,7 +538,7 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -568,7 +568,7 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -671,7 +671,7 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -701,7 +701,7 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -731,7 +731,7 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -823,7 +823,7 @@ Grailbird.data.tweets_2012_10 =
   "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ellen",
+      "name" : "Ellen Kraska",
       "screen_name" : "KraskaE",
       "indices" : [ 0, 8 ],
       "id_str" : "297060789",
@@ -879,7 +879,7 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1006,7 +1006,7 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1057,7 +1057,7 @@ Grailbird.data.tweets_2012_10 =
   "geo" : {
   },
   "id_str" : "255161897991684096",
-  "text" : "Bad news for Venezuelans (and tourists) RT @nytimes: Hugo Chávez wins a 3rd term in Venezuela's presidential election http://t.co/j1yfchuZ",
+  "text" : "Bad news for Venezuelans (and tourists) RT @nytimes: Hugo Ch\u00E1vez wins a 3rd term in Venezuela's presidential election http://t.co/j1yfchuZ",
   "id" : 255161897991684096,
   "created_at" : "Mon Oct 08 04:25:11 +0000 2012",
   "user" : {
@@ -1128,7 +1128,7 @@ Grailbird.data.tweets_2012_10 =
   },
   "id_str" : "255160175231643648",
   "in_reply_to_user_id" : 820873,
-  "text" : "@chalky I hate when (stereotypically) aggressive breeds are on any single track. I just don’t trust them and the lack of space sucks",
+  "text" : "@chalky I hate when (stereotypically) aggressive breeds are on any single track. I just don\u2019t trust them and the lack of space sucks",
   "id" : 255160175231643648,
   "in_reply_to_status_id" : 255120182991790080,
   "created_at" : "Mon Oct 08 04:18:21 +0000 2012",
@@ -1144,7 +1144,7 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1177,7 +1177,7 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1319,7 +1319,7 @@ Grailbird.data.tweets_2012_10 =
   "geo" : {
   },
   "id_str" : "254603268670488578",
-  "text" : "Just 3 1/2 days left until I leave for Nepal. Can hardly believe it’s almost time to leave!",
+  "text" : "Just 3 1/2 days left until I leave for Nepal. Can hardly believe it\u2019s almost time to leave!",
   "id" : 254603268670488578,
   "created_at" : "Sat Oct 06 15:25:24 +0000 2012",
   "user" : {
@@ -1350,7 +1350,7 @@ Grailbird.data.tweets_2012_10 =
   },
   "id_str" : "254603042723336194",
   "in_reply_to_user_id" : 18576413,
-  "text" : "@heyamylin sure thing. though you’ll have to wait until I’m back from Nepal",
+  "text" : "@heyamylin sure thing. though you\u2019ll have to wait until I\u2019m back from Nepal",
   "id" : 254603042723336194,
   "in_reply_to_status_id" : 254458333627564033,
   "created_at" : "Sat Oct 06 15:24:30 +0000 2012",
@@ -1485,7 +1485,7 @@ Grailbird.data.tweets_2012_10 =
   },
   "id_str" : "254290242247467008",
   "in_reply_to_user_id" : 15732699,
-  "text" : "@zeeg I’m running a sentry server, with a single project, but the default landing is the New Project page. Any ideas on how I can fix it?",
+  "text" : "@zeeg I\u2019m running a sentry server, with a single project, but the default landing is the New Project page. Any ideas on how I can fix it?",
   "id" : 254290242247467008,
   "created_at" : "Fri Oct 05 18:41:32 +0000 2012",
   "in_reply_to_screen_name" : "zeeg",
@@ -1531,11 +1531,11 @@ Grailbird.data.tweets_2012_10 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Reid Hoffman",
+      "name" : "OLD Reid Hoffman",
       "screen_name" : "quixotic",
       "indices" : [ 20, 29 ],
-      "id_str" : "10078",
-      "id" : 10078
+      "id_str" : "1120330062",
+      "id" : 1120330062
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1575,7 +1575,7 @@ Grailbird.data.tweets_2012_10 =
   },
   "id_str" : "253929696344039425",
   "in_reply_to_user_id" : 16222402,
-  "text" : "@ayiya_hm take down Chàvez!",
+  "text" : "@ayiya_hm take down Ch\u00E0vez!",
   "id" : 253929696344039425,
   "in_reply_to_status_id" : 253925521728106496,
   "created_at" : "Thu Oct 04 18:48:52 +0000 2012",
@@ -1743,7 +1743,7 @@ Grailbird.data.tweets_2012_10 =
   "geo" : {
   },
   "id_str" : "253276714027855872",
-  "text" : "Be part of the alumni network who’ve raised over $10M and impacted over 4M students http://t.co/7CMR92z8 Apply to @imaginek12’s W12 program!",
+  "text" : "Be part of the alumni network who\u2019ve raised over $10M and impacted over 4M students http://t.co/7CMR92z8 Apply to @imaginek12\u2019s W12 program!",
   "id" : 253276714027855872,
   "created_at" : "Tue Oct 02 23:34:08 +0000 2012",
   "user" : {
@@ -1820,7 +1820,7 @@ Grailbird.data.tweets_2012_10 =
   },
   "id_str" : "252986140607528960",
   "in_reply_to_user_id" : 15668311,
-  "text" : "@mattbornski @feifeixue @smcknight I’ve got running in RWC that morning, so no dice for me. Plus, no more membership there :(",
+  "text" : "@mattbornski @feifeixue @smcknight I\u2019ve got running in RWC that morning, so no dice for me. Plus, no more membership there :(",
   "id" : 252986140607528960,
   "in_reply_to_status_id" : 252827583601840128,
   "created_at" : "Tue Oct 02 04:19:30 +0000 2012",
@@ -1854,7 +1854,7 @@ Grailbird.data.tweets_2012_10 =
   },
   "id_str" : "252828360957374464",
   "in_reply_to_user_id" : 14835908,
-  "text" : "@pydanny but it’s application scale! It sounds like web scale, so it must be good!",
+  "text" : "@pydanny but it\u2019s application scale! It sounds like web scale, so it must be good!",
   "id" : 252828360957374464,
   "in_reply_to_status_id" : 252810214972215297,
   "created_at" : "Mon Oct 01 17:52:33 +0000 2012",

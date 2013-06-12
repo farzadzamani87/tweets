@@ -418,7 +418,7 @@ Grailbird.data.tweets_2010_11 =
   "geo" : {
   },
   "id_str" : "6828636720078849",
-  "text" : "RT @twitter: \"To succeed spectacularly you have to be ready to fail spectacularly\" –@biz http://t.co/hwAWYF3",
+  "text" : "RT @twitter: \"To succeed spectacularly you have to be ready to fail spectacularly\" \u2013@biz http://t.co/hwAWYF3",
   "retweeted_status" : {
     "source" : "web",
     "entities" : {
@@ -441,7 +441,7 @@ Grailbird.data.tweets_2010_11 =
     "geo" : {
     },
     "id_str" : "6811604783996929",
-    "text" : "\"To succeed spectacularly you have to be ready to fail spectacularly\" –@biz http://t.co/hwAWYF3",
+    "text" : "\"To succeed spectacularly you have to be ready to fail spectacularly\" \u2013@biz http://t.co/hwAWYF3",
     "id" : 6811604783996929,
     "created_at" : "Mon Nov 22 20:49:47 +0000 2010",
     "user" : {
@@ -685,7 +685,7 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "darian314",
       "protected" : false,
       "id_str" : "12776692",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2059264434/image_normal.jpg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3253360553/774b49c2f58566d5e1b826540cacac22_normal.jpeg",
       "id" : 12776692,
       "verified" : false
     }

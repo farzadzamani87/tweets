@@ -218,7 +218,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "paleofuture",
       "protected" : false,
       "id_str" : "16877374",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2579943944/3j0771b3kiuvwdr1qkp9_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3539347461/1ba8d74ee412af49293ee2a6ddaa3215_normal.jpeg",
       "id" : 16877374,
       "verified" : false
     }
@@ -320,7 +320,7 @@ Grailbird.data.tweets_2010_12 =
   "geo" : {
   },
   "id_str" : "14794189850017793",
-  "text" : "RT @brunodecock: █████ ██ █ ████ everything ███ █████ is█████ ████ ████ fine ████ ███ █ ██████ love. █████ ███████ ███ your █████ ████ g ...",
+  "text" : "RT @brunodecock: \u2588\u2588\u2588\u2588\u2588 \u2588\u2588 \u2588 \u2588\u2588\u2588\u2588 everything \u2588\u2588\u2588 \u2588\u2588\u2588\u2588\u2588 is\u2588\u2588\u2588\u2588\u2588 \u2588\u2588\u2588\u2588 \u2588\u2588\u2588\u2588 fine \u2588\u2588\u2588\u2588 \u2588\u2588\u2588 \u2588 \u2588\u2588\u2588\u2588\u2588\u2588 love. \u2588\u2588\u2588\u2588\u2588 \u2588\u2588\u2588\u2588\u2588\u2588\u2588 \u2588\u2588\u2588 your \u2588\u2588\u2588\u2588\u2588 \u2588\u2588\u2588\u2588 g ...",
   "retweeted_status" : {
     "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "entities" : {
@@ -333,11 +333,9 @@ Grailbird.data.tweets_2010_12 =
       "urls" : [ ]
     },
     "geo" : {
-      "type" : "Point",
-      "coordinates" : [ 50.92694932, 3.98236876 ]
     },
     "id_str" : "14590086242902016",
-    "text" : "█████ ██ █ ████ everything ███ █████ is█████ ████ ████ fine ████ ███ █ ██████ love. █████ ███████ ███ your █████ ████ government #wikileaks",
+    "text" : "\u2588\u2588\u2588\u2588\u2588 \u2588\u2588 \u2588 \u2588\u2588\u2588\u2588 everything \u2588\u2588\u2588 \u2588\u2588\u2588\u2588\u2588 is\u2588\u2588\u2588\u2588\u2588 \u2588\u2588\u2588\u2588 \u2588\u2588\u2588\u2588 fine \u2588\u2588\u2588\u2588 \u2588\u2588\u2588 \u2588 \u2588\u2588\u2588\u2588\u2588\u2588 love. \u2588\u2588\u2588\u2588\u2588 \u2588\u2588\u2588\u2588\u2588\u2588\u2588 \u2588\u2588\u2588 your \u2588\u2588\u2588\u2588\u2588 \u2588\u2588\u2588\u2588 government #wikileaks",
     "id" : 14590086242902016,
     "created_at" : "Tue Dec 14 07:58:42 +0000 2010",
     "user" : {
@@ -637,7 +635,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "naval",
       "protected" : false,
       "id_str" : "745273",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2828962757/5025ea1febd56482d7fe1999b9bc2f19_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3696617328/667874c5936764d93d56ccc76a2bcc13_normal.jpeg",
       "id" : 745273,
       "verified" : false
     }

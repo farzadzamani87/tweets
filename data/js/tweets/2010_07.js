@@ -14,8 +14,6 @@ Grailbird.data.tweets_2010_07 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 37.3606342077, -122.0238858461 ]
   },
   "id_str" : "19706721363",
   "in_reply_to_user_id" : 68867011,
@@ -469,8 +467,6 @@ Grailbird.data.tweets_2010_07 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 44.0601046, -121.3138394 ]
   },
   "id_str" : "17685209902",
   "text" : "Bend, OR (@ Bend Brewing Company) http://4sq.com/8x4UVO",

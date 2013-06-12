@@ -186,7 +186,7 @@ Grailbird.data.tweets_2012_04 =
       "indices" : [ 57, 77 ],
       "url" : "http://t.co/GdLj0cul",
       "expanded_url" : "http://blog.arongriffis.com/post/dynamic-virtualenvwrapper",
-      "display_url" : "blog.arongriffis.com/post/dynamic-v…"
+      "display_url" : "blog.arongriffis.com/post/dynamic-v\u2026"
     } ]
   },
   "geo" : {
@@ -226,7 +226,7 @@ Grailbird.data.tweets_2012_04 =
       "indices" : [ 53, 73 ],
       "url" : "http://t.co/jKq15R6R",
       "expanded_url" : "http://www.firebase.com/what-people-are-saying.html",
-      "display_url" : "firebase.com/what-people-ar…"
+      "display_url" : "firebase.com/what-people-ar\u2026"
     } ]
   },
   "geo" : {
@@ -249,7 +249,7 @@ Grailbird.data.tweets_2012_04 =
         "indices" : [ 39, 59 ],
         "url" : "http://t.co/jKq15R6R",
         "expanded_url" : "http://www.firebase.com/what-people-are-saying.html",
-        "display_url" : "firebase.com/what-people-ar…"
+        "display_url" : "firebase.com/what-people-ar\u2026"
       } ]
     },
     "geo" : {
@@ -593,14 +593,39 @@ Grailbird.data.tweets_2012_04 =
       "id_str" : "138044104",
       "id" : 138044104
     } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
+    "media" : [ {
+      "expanded_url" : "http://twitter.com/producerchris/status/190887749694402560/photo/1",
       "indices" : [ 108, 128 ],
       "url" : "http://t.co/LOG5SaSd",
-      "expanded_url" : "http://twitter.com/producerchris/status/190887749694402560/photo/1",
+      "media_url" : "http://pbs.twimg.com/media/AqYrZaDCMAEIJej.jpg",
+      "id_str" : "190887749698596865",
+      "id" : 190887749698596865,
+      "media_url_https" : "https://pbs.twimg.com/media/AqYrZaDCMAEIJej.jpg",
+      "sizes" : [ {
+        "h" : 450,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 768,
+        "resize" : "fit",
+        "w" : 1024
+      }, {
+        "h" : 768,
+        "resize" : "fit",
+        "w" : 1024
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 255,
+        "resize" : "fit",
+        "w" : 340
+      } ],
       "display_url" : "pic.twitter.com/LOG5SaSd"
-    } ]
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
   },
   "geo" : {
   },
@@ -1093,7 +1118,7 @@ Grailbird.data.tweets_2012_04 =
       "indices" : [ 95, 115 ],
       "url" : "http://t.co/apZi0Tv0",
       "expanded_url" : "http://www.washingtonpost.com/national/health-science/2012/04/03/gIQABd16sS_graphic.html",
-      "display_url" : "washingtonpost.com/national/healt…"
+      "display_url" : "washingtonpost.com/national/healt\u2026"
     } ]
   },
   "geo" : {
@@ -1146,7 +1171,7 @@ Grailbird.data.tweets_2012_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1247,7 +1272,7 @@ Grailbird.data.tweets_2012_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Imagine K12",
@@ -1383,7 +1408,7 @@ Grailbird.data.tweets_2012_04 =
       "indices" : [ 55, 75 ],
       "url" : "http://t.co/iH0J262C",
       "expanded_url" : "http://42floors.com/blog/posts/be-yourself-abnormal-people-create-abnormal-returns",
-      "display_url" : "42floors.com/blog/posts/be-…"
+      "display_url" : "42floors.com/blog/posts/be-\u2026"
     } ]
   },
   "geo" : {
@@ -1411,7 +1436,7 @@ Grailbird.data.tweets_2012_04 =
       "indices" : [ 44, 64 ],
       "url" : "http://t.co/qqWhNAcE",
       "expanded_url" : "http://www.chrisstreeter.com/archive/2012/04/832/checking-for-python-package-updates-at-pypi",
-      "display_url" : "chrisstreeter.com/archive/2012/0…"
+      "display_url" : "chrisstreeter.com/archive/2012/0\u2026"
     } ]
   },
   "geo" : {

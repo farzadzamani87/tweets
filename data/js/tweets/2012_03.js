@@ -613,7 +613,7 @@ Grailbird.data.tweets_2012_03 =
       "indices" : [ 49, 70 ],
       "url" : "https://t.co/jXzskghi",
       "expanded_url" : "https://docs.djangoproject.com/en/dev/releases/1.4/",
-      "display_url" : "docs.djangoproject.com/en/dev/release…"
+      "display_url" : "docs.djangoproject.com/en/dev/release\u2026"
     } ]
   },
   "geo" : {
@@ -716,7 +716,7 @@ Grailbird.data.tweets_2012_03 =
   "geo" : {
   },
   "id_str" : "183229289741819904",
-  "text" : "RT @WholeFoods: TODAY ONLY! Responsibly farmed sweet white shrimp are $5.99/lb at all U.S. &amp; Canada stores! http://t.co/FBwJU8hk",
+  "text" : "RT @WholeFoods: TODAY ONLY! Responsibly farmed sweet white shrimp are $5.99/lb at all U.S. &amp; Canada stores!\u00A0http://t.co/FBwJU8hk",
   "retweeted_status" : {
     "source" : "<a href=\"http://www.exacttarget.com/social\" rel=\"nofollow\">SocialEngage</a>",
     "entities" : {
@@ -733,7 +733,7 @@ Grailbird.data.tweets_2012_03 =
     "geo" : {
     },
     "id_str" : "183208528226422786",
-    "text" : "TODAY ONLY! Responsibly farmed sweet white shrimp are $5.99/lb at all U.S. &amp; Canada stores! http://t.co/FBwJU8hk",
+    "text" : "TODAY ONLY! Responsibly farmed sweet white shrimp are $5.99/lb at all U.S. &amp; Canada stores!\u00A0http://t.co/FBwJU8hk",
     "id" : 183208528226422786,
     "created_at" : "Fri Mar 23 15:08:11 +0000 2012",
     "user" : {
@@ -1154,7 +1154,7 @@ Grailbird.data.tweets_2012_03 =
   "geo" : {
   },
   "id_str" : "179973836803022848",
-  "text" : "Happy π day!",
+  "text" : "Happy \u03C0 day!",
   "id" : 179973836803022848,
   "created_at" : "Wed Mar 14 16:54:41 +0000 2012",
   "user" : {
@@ -1584,7 +1584,7 @@ Grailbird.data.tweets_2012_03 =
       "indices" : [ 64, 84 ],
       "url" : "http://t.co/bLD4t6Ic",
       "expanded_url" : "http://www.edweek.org/ew/articles/2012/03/07/23biz-startup.h31.html?tkn=RVNFT5E3%2FYCfHmabFwXDuvCA6mbKVF%2Fko89l&cmp=clp-edweek&intc=EW-BE0312-EWH",
-      "display_url" : "edweek.org/ew/articles/20…"
+      "display_url" : "edweek.org/ew/articles/20\u2026"
     } ]
   },
   "geo" : {
@@ -1676,7 +1676,7 @@ Grailbird.data.tweets_2012_03 =
   "geo" : {
   },
   "id_str" : "175974621072470017",
-  "text" : "RT @mikeleeorg: \"If you are not embarrassed by the first version of your product, you’ve launched too late.\" With that said: http://t.co ...",
+  "text" : "RT @mikeleeorg: \"If you are not embarrassed by the first version of your product, you\u2019ve launched too late.\" With that said: http://t.co ...",
   "retweeted_status" : {
     "source" : "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
     "entities" : {
@@ -1693,7 +1693,7 @@ Grailbird.data.tweets_2012_03 =
     "geo" : {
     },
     "id_str" : "175822800718798848",
-    "text" : "\"If you are not embarrassed by the first version of your product, you’ve launched too late.\" With that said: http://t.co/YZJBCnFE",
+    "text" : "\"If you are not embarrassed by the first version of your product, you\u2019ve launched too late.\" With that said: http://t.co/YZJBCnFE",
     "id" : 175822800718798848,
     "created_at" : "Sat Mar 03 05:59:56 +0000 2012",
     "user" : {
@@ -1727,7 +1727,7 @@ Grailbird.data.tweets_2012_03 =
       "indices" : [ 77, 97 ],
       "url" : "http://t.co/spCw0rh4",
       "expanded_url" : "http://docs.celeryproject.org/en/latest/whatsnew-2.5.html#in-other-news",
-      "display_url" : "docs.celeryproject.org/en/latest/what…"
+      "display_url" : "docs.celeryproject.org/en/latest/what\u2026"
     } ]
   },
   "geo" : {
@@ -1838,7 +1838,7 @@ Grailbird.data.tweets_2012_03 =
       "indices" : [ 68, 88 ],
       "url" : "http://t.co/li5npEb3",
       "expanded_url" : "http://www.washingtonpost.com/blogs/virginia-schools-insider/post/the-lorax-helps-market-mazda-suvs-to-elementary-school-children-nationwide/2012/02/28/gIQAQhRMiR_blog.html",
-      "display_url" : "washingtonpost.com/blogs/virginia…"
+      "display_url" : "washingtonpost.com/blogs/virginia\u2026"
     } ]
   },
   "geo" : {

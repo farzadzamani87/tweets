@@ -3,7 +3,7 @@ Grailbird.data.tweets_2011_08 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "®∫`∂2",
+      "name" : "\u00AE\u222B`\u22022",
       "screen_name" : "rjd2",
       "indices" : [ 9, 14 ],
       "id_str" : "21341806",
@@ -72,7 +72,7 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 36, 55 ],
       "url" : "http://t.co/Yuw9W0I",
       "expanded_url" : "http://blendmylearning.com/2011/08/31/the-results/",
-      "display_url" : "blendmylearning.com/2011/08/31/the…"
+      "display_url" : "blendmylearning.com/2011/08/31/the\u2026"
     } ]
   },
   "geo" : {
@@ -264,7 +264,7 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 91, 110 ],
       "url" : "http://t.co/XXahL4W",
       "expanded_url" : "http://www.hackeducation.com/2011/08/26/can-text-messaging-improve-communication-between-the-school-and-the-home/",
-      "display_url" : "hackeducation.com/2011/08/26/can…"
+      "display_url" : "hackeducation.com/2011/08/26/can\u2026"
     } ]
   },
   "geo" : {
@@ -292,7 +292,7 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 91, 110 ],
       "url" : "http://t.co/g0dh2vC",
       "expanded_url" : "http://www.nytimes.com/interactive/2011/08/24/technology/steve-jobs-patents.html",
-      "display_url" : "nytimes.com/interactive/20…"
+      "display_url" : "nytimes.com/interactive/20\u2026"
     } ]
   },
   "geo" : {
@@ -344,7 +344,7 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 73, 92 ],
       "url" : "http://t.co/v3CMNvR",
       "expanded_url" : "http://arstechnica.com/business/news/2011/08/does-apotheker-need-an-apothecary-why-hp-is-exiting-the-pc-business.ars",
-      "display_url" : "arstechnica.com/business/news/…"
+      "display_url" : "arstechnica.com/business/news/\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "105837256803221504",
@@ -496,8 +496,6 @@ Grailbird.data.tweets_2011_08 =
       "urls" : [ ]
     },
     "geo" : {
-      "type" : "Point",
-      "coordinates" : [ 38.9505019, -77.446137 ]
     },
     "id_str" : "105023548367716352",
     "text" : "In-n-out is better than Five Guys. No contest.",
@@ -969,7 +967,7 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 119, 138 ],
       "url" : "http://t.co/4r6esp9",
       "expanded_url" : "http://stackoverflow.com/q/6963857/357985",
-      "display_url" : "stackoverflow.com/q/6963857/3579…"
+      "display_url" : "stackoverflow.com/q/6963857/3579\u2026"
     } ]
   },
   "geo" : {
@@ -1148,7 +1146,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "Percival",
       "protected" : false,
       "id_str" : "2156951",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2434024291/lhonkahuenilnpmh51hp_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3263542418/d766bda68b96e884a65a7cf7448306d3_normal.jpeg",
       "id" : 2156951,
       "verified" : false
     }

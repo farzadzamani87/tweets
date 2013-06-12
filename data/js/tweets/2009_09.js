@@ -244,7 +244,7 @@ Grailbird.data.tweets_2009_09 =
   "geo" : {
   },
   "id_str" : "4029758730",
-  "text" : "RT @teamziller: RT @jeskeets San Fransisco pub owner chides tagger/Lakers fan with taunting letter — http://bit.ly/gFSmk",
+  "text" : "RT @teamziller: RT @jeskeets San Fransisco pub owner chides tagger/Lakers fan with taunting letter \u2014 http://bit.ly/gFSmk",
   "id" : 4029758730,
   "created_at" : "Wed Sep 16 14:13:27 +0000 2009",
   "user" : {

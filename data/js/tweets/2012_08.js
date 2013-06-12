@@ -90,7 +90,7 @@ Grailbird.data.tweets_2012_08 =
   },
   "id_str" : "240964137046392832",
   "in_reply_to_user_id" : 15732699,
-  "text" : "@zeeg I’ve got a question about django-perftools and sentry logging. You on IRC so I could bounce a question off you?",
+  "text" : "@zeeg I\u2019ve got a question about django-perftools and sentry logging. You on IRC so I could bounce a question off you?",
   "id" : 240964137046392832,
   "created_at" : "Thu Aug 30 00:08:21 +0000 2012",
   "in_reply_to_screen_name" : "zeeg",
@@ -236,7 +236,7 @@ Grailbird.data.tweets_2012_08 =
       "indices" : [ 77, 97 ],
       "url" : "http://t.co/TyO43xRv",
       "expanded_url" : "http://blip.tv/djangocon/advanced-django-form-usage-5573287",
-      "display_url" : "blip.tv/djangocon/adva…"
+      "display_url" : "blip.tv/djangocon/adva\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "239692618303406080",
@@ -337,7 +337,7 @@ Grailbird.data.tweets_2012_08 =
   },
   "id_str" : "239595752047923201",
   "in_reply_to_user_id" : 14473864,
-  "text" : "@alexras wait, you’re using 802.11n with your WRT54GL?",
+  "text" : "@alexras wait, you\u2019re using 802.11n with your WRT54GL?",
   "id" : 239595752047923201,
   "in_reply_to_status_id" : 239542010846003200,
   "created_at" : "Sun Aug 26 05:30:53 +0000 2012",
@@ -451,13 +451,13 @@ Grailbird.data.tweets_2012_08 =
       "indices" : [ 83, 103 ],
       "url" : "http://t.co/2zKspTl2",
       "expanded_url" : "http://cl.ly/image/3F3L103s3T1X",
-      "display_url" : "cl.ly/image/3F3L103s…"
+      "display_url" : "cl.ly/image/3F3L103s\u2026"
     } ]
   },
   "geo" : {
   },
   "id_str" : "239126503168819200",
-  "text" : "Thanks for the warning Mr. Advertisement, but luckily I don’t drive in Your Region http://t.co/2zKspTl2",
+  "text" : "Thanks for the warning Mr. Advertisement, but luckily I don\u2019t drive in Your Region http://t.co/2zKspTl2",
   "id" : 239126503168819200,
   "created_at" : "Fri Aug 24 22:26:15 +0000 2012",
   "user" : {
@@ -599,7 +599,7 @@ Grailbird.data.tweets_2012_08 =
   },
   "id_str" : "238839554784768000",
   "in_reply_to_user_id" : 613014542,
-  "text" : "@LibertyAdams If you’ve got an iPad or Mac OS Mountain Lion, Airplay Mirroring is a must. A wireless projector!",
+  "text" : "@LibertyAdams If you\u2019ve got an iPad or Mac OS Mountain Lion, Airplay Mirroring is a must. A wireless projector!",
   "id" : 238839554784768000,
   "created_at" : "Fri Aug 24 03:26:01 +0000 2012",
   "in_reply_to_screen_name" : "LibertyAdams",
@@ -877,13 +877,13 @@ Grailbird.data.tweets_2012_08 =
       "indices" : [ 69, 89 ],
       "url" : "http://t.co/opoqL6zA",
       "expanded_url" : "http://gigaom.com/2012/08/16/learnsprout-frees-up-data-to-let-innovation-break-into-the-classroom/",
-      "display_url" : "gigaom.com/2012/08/16/lea…"
+      "display_url" : "gigaom.com/2012/08/16/lea\u2026"
     } ]
   },
   "geo" : {
   },
   "id_str" : "236217418438037504",
-  "text" : "LearnSprout frees up data to let innovation break into the classroom http://t.co/opoqL6zA /cc @LearnSprout",
+  "text" : "LearnSprout frees up data to let innovation break into the\u00A0classroom http://t.co/opoqL6zA /cc @LearnSprout",
   "id" : 236217418438037504,
   "created_at" : "Thu Aug 16 21:46:35 +0000 2012",
   "user" : {
@@ -917,13 +917,13 @@ Grailbird.data.tweets_2012_08 =
       "indices" : [ 98, 118 ],
       "url" : "http://t.co/xWehWxPD",
       "expanded_url" : "http://techcrunch.com/2012/08/14/educreations-series-a/",
-      "display_url" : "techcrunch.com/2012/08/14/edu…"
+      "display_url" : "techcrunch.com/2012/08/14/edu\u2026"
     } ]
   },
   "geo" : {
   },
   "id_str" : "235951029924020225",
-  "text" : "RT @ripemp: Educreations Grabs $2.2M From Accel, NewSchools To Turn Your iPad Into Your Classroom http://t.co/xWehWxPD via @techcrunch",
+  "text" : "RT @ripemp: Educreations Grabs $2.2M From Accel, NewSchools To Turn Your iPad Into Your\u00A0Classroom http://t.co/xWehWxPD via @techcrunch",
   "retweeted_status" : {
     "source" : "<a href=\"http://twitter.com/tweetbutton\" rel=\"nofollow\">Tweet Button</a>",
     "entities" : {
@@ -940,13 +940,13 @@ Grailbird.data.tweets_2012_08 =
         "indices" : [ 86, 106 ],
         "url" : "http://t.co/xWehWxPD",
         "expanded_url" : "http://techcrunch.com/2012/08/14/educreations-series-a/",
-        "display_url" : "techcrunch.com/2012/08/14/edu…"
+        "display_url" : "techcrunch.com/2012/08/14/edu\u2026"
       } ]
     },
     "geo" : {
     },
     "id_str" : "235717878677110784",
-    "text" : "Educreations Grabs $2.2M From Accel, NewSchools To Turn Your iPad Into Your Classroom http://t.co/xWehWxPD via @techcrunch",
+    "text" : "Educreations Grabs $2.2M From Accel, NewSchools To Turn Your iPad Into Your\u00A0Classroom http://t.co/xWehWxPD via @techcrunch",
     "id" : 235717878677110784,
     "created_at" : "Wed Aug 15 12:41:36 +0000 2012",
     "user" : {
@@ -971,7 +971,7 @@ Grailbird.data.tweets_2012_08 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Imagine K12",
@@ -1016,7 +1016,7 @@ Grailbird.data.tweets_2012_08 =
       "id_str" : "759249",
       "id" : 759249
     }, {
-      "name" : "Planète-éducation",
+      "name" : "Plan\u00E8te-\u00E9ducation",
       "screen_name" : "educations",
       "indices" : [ 71, 82 ],
       "id_str" : "15191814",
@@ -1068,7 +1068,7 @@ Grailbird.data.tweets_2012_08 =
       "indices" : [ 108, 128 ],
       "url" : "http://t.co/oTRHwaq0",
       "expanded_url" : "http://techcrunch.com/2012/08/14/educreations-series-a/",
-      "display_url" : "techcrunch.com/2012/08/14/edu…"
+      "display_url" : "techcrunch.com/2012/08/14/edu\u2026"
     } ]
   },
   "geo" : {
@@ -1091,7 +1091,7 @@ Grailbird.data.tweets_2012_08 =
         "indices" : [ 94, 114 ],
         "url" : "http://t.co/oTRHwaq0",
         "expanded_url" : "http://techcrunch.com/2012/08/14/educreations-series-a/",
-        "display_url" : "techcrunch.com/2012/08/14/edu…"
+        "display_url" : "techcrunch.com/2012/08/14/edu\u2026"
       } ]
     },
     "geo" : {
@@ -1140,7 +1140,7 @@ Grailbird.data.tweets_2012_08 =
   },
   "id_str" : "235431995730169856",
   "in_reply_to_user_id" : 14473864,
-  "text" : "@alexras holy crap. I had the app downloaded but hadn’t opened it until now. Wish I had opened it waaaayyy sooner.",
+  "text" : "@alexras holy crap. I had the app downloaded but hadn\u2019t opened it until now. Wish I had opened it waaaayyy sooner.",
   "id" : 235431995730169856,
   "in_reply_to_status_id" : 235423812685033472,
   "created_at" : "Tue Aug 14 17:45:36 +0000 2012",
@@ -1245,7 +1245,7 @@ Grailbird.data.tweets_2012_08 =
       "indices" : [ 66, 86 ],
       "url" : "http://t.co/LH0eRxgM",
       "expanded_url" : "http://techcrunch.com/2012/08/14/educreations-series-a/",
-      "display_url" : "techcrunch.com/2012/08/14/edu…"
+      "display_url" : "techcrunch.com/2012/08/14/edu\u2026"
     } ]
   },
   "geo" : {
@@ -1354,7 +1354,7 @@ Grailbird.data.tweets_2012_08 =
       "id_str" : "577359586",
       "id" : 577359586
     }, {
-      "name" : "Steve Gerken",
+      "name" : "Steve",
       "screen_name" : "saucypickles",
       "indices" : [ 17, 30 ],
       "id_str" : "113113323",
@@ -1719,12 +1719,12 @@ Grailbird.data.tweets_2012_08 =
       "indices" : [ 65, 85 ],
       "url" : "http://t.co/4DRQJpK1",
       "expanded_url" : "http://www.nytimes.com/interactive/2012/08/05/sports/olympics/the-100-meter-dash-one-race-every-medalist-ever.html",
-      "display_url" : "nytimes.com/interactive/20…"
+      "display_url" : "nytimes.com/interactive/20\u2026"
     }, {
       "indices" : [ 119, 139 ],
       "url" : "http://t.co/rabd7ui0",
       "expanded_url" : "http://www.nytimes.com/interactive/2012/08/04/sports/olympics/bob-beamons-long-olympic-shadow.html",
-      "display_url" : "nytimes.com/interactive/20…"
+      "display_url" : "nytimes.com/interactive/20\u2026"
     } ]
   },
   "geo" : {
@@ -1794,7 +1794,7 @@ Grailbird.data.tweets_2012_08 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Conor Driscoll",
@@ -2033,7 +2033,7 @@ Grailbird.data.tweets_2012_08 =
       "indices" : [ 67, 87 ],
       "url" : "http://t.co/RmPa2Pjj",
       "expanded_url" : "http://redditgifts.com/exchanges/reddit-gifts-teachers/",
-      "display_url" : "redditgifts.com/exchanges/redd…"
+      "display_url" : "redditgifts.com/exchanges/redd\u2026"
     } ]
   },
   "geo" : {

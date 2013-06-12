@@ -9,7 +9,7 @@ Grailbird.data.tweets_2011_05 =
       "indices" : [ 55, 74 ],
       "url" : "http://t.co/WZgKbOz",
       "expanded_url" : "http://www.youtube.com/watch?v=ktdhOv8E5lo",
-      "display_url" : "youtube.com/watch?v=ktdhOv…"
+      "display_url" : "youtube.com/watch?v=ktdhOv\u2026"
     } ]
   },
   "geo" : {
@@ -31,7 +31,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Andrew Mager ♫",
+      "name" : "Andrew Mager \u266B",
       "screen_name" : "mager",
       "indices" : [ 3, 9 ],
       "id_str" : "632023",
@@ -60,7 +60,7 @@ Grailbird.data.tweets_2011_05 =
     "id" : 75646388825894913,
     "created_at" : "Tue May 31 19:34:39 +0000 2011",
     "user" : {
-      "name" : "Andrew Mager ♫",
+      "name" : "Andrew Mager \u266B",
       "screen_name" : "mager",
       "protected" : false,
       "id_str" : "632023",
@@ -227,7 +227,7 @@ Grailbird.data.tweets_2011_05 =
       "indices" : [ 106, 125 ],
       "url" : "http://t.co/zX0drZz",
       "expanded_url" : "http://aht.seriouseats.com/archives/2011/05/in-n-out-vs-five-guys-vs-shake-shack-the-first-bi-coastal-side-by-side-taste-test.html",
-      "display_url" : "aht.seriouseats.com/archives/2011/…"
+      "display_url" : "aht.seriouseats.com/archives/2011/\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "72722448725966848",
@@ -376,7 +376,7 @@ Grailbird.data.tweets_2011_05 =
       "indices" : [ 79, 98 ],
       "url" : "http://t.co/KOTVrj2",
       "expanded_url" : "http://www.washingtonpost.com/wp-srv/special/nation/mississippi-flood-control-plan/",
-      "display_url" : "washingtonpost.com/wp-srv/special…"
+      "display_url" : "washingtonpost.com/wp-srv/special\u2026"
     } ]
   },
   "geo" : {
@@ -566,7 +566,7 @@ Grailbird.data.tweets_2011_05 =
       "indices" : [ 57, 76 ],
       "url" : "http://t.co/Usx1EUN",
       "expanded_url" : "http://failblog.files.wordpress.com/2011/05/epic-fail-photos-caption-fail.jpg",
-      "display_url" : "failblog.files.wordpress.com/2011/05/epic-f…"
+      "display_url" : "failblog.files.wordpress.com/2011/05/epic-f\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "69144233231122433",
@@ -663,7 +663,7 @@ Grailbird.data.tweets_2011_05 =
       "indices" : [ 73, 92 ],
       "url" : "http://t.co/4ERowec",
       "expanded_url" : "http://www.unplggd.com/unplggd/turn-old-credit-cards-into-earbud-holders-146446",
-      "display_url" : "unplggd.com/unplggd/turn-o…"
+      "display_url" : "unplggd.com/unplggd/turn-o\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "68053435014057984",

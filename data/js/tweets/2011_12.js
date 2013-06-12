@@ -244,7 +244,7 @@ Grailbird.data.tweets_2011_12 =
       "screen_name" : "NotBillWalton",
       "protected" : false,
       "id_str" : "261074207",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2012062755/billwaltonfrontparody_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3575009552/0cbfebe3e45f9f8a1fd5082980fbff8a_normal.png",
       "id" : 261074207,
       "verified" : false
     }
@@ -450,7 +450,7 @@ Grailbird.data.tweets_2011_12 =
       "id_str" : "15793108",
       "id" : 15793108
     }, {
-      "name" : "alex choi ",
+      "name" : "alex choi \u2744",
       "screen_name" : "xc",
       "indices" : [ 20, 23 ],
       "id_str" : "26233",
@@ -469,12 +469,12 @@ Grailbird.data.tweets_2011_12 =
   "geo" : {
   },
   "id_str" : "148799670922117121",
-  "text" : "RT @rohitnafday: RT @xc: RT @workforfood: ☑ Kim Jong Il\n☑ Khaddafi\n☑ Osama Bin Laden\n☑ Saddam Hussein\n☐ Internet Explorer",
+  "text" : "RT @rohitnafday: RT @xc: RT @workforfood: \u2611 Kim Jong Il\n\u2611 Khaddafi\n\u2611 Osama Bin Laden\n\u2611 Saddam Hussein\n\u2610 Internet Explorer",
   "retweeted_status" : {
     "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "alex choi ",
+        "name" : "alex choi \u2744",
         "screen_name" : "xc",
         "indices" : [ 3, 6 ],
         "id_str" : "26233",
@@ -493,7 +493,7 @@ Grailbird.data.tweets_2011_12 =
     "geo" : {
     },
     "id_str" : "148761816992972802",
-    "text" : "RT @xc: RT @workforfood: ☑ Kim Jong Il\n☑ Khaddafi\n☑ Osama Bin Laden\n☑ Saddam Hussein\n☐ Internet Explorer",
+    "text" : "RT @xc: RT @workforfood: \u2611 Kim Jong Il\n\u2611 Khaddafi\n\u2611 Osama Bin Laden\n\u2611 Saddam Hussein\n\u2610 Internet Explorer",
     "id" : 148761816992972802,
     "created_at" : "Mon Dec 19 13:49:15 +0000 2011",
     "user" : {
@@ -573,7 +573,7 @@ Grailbird.data.tweets_2011_12 =
       "indices" : [ 62, 83 ],
       "url" : "https://t.co/MmWtyfcL",
       "expanded_url" : "https://twitter.com/search/raping%20presents",
-      "display_url" : "twitter.com/search/raping%…"
+      "display_url" : "twitter.com/search/raping%\u2026"
     } ]
   },
   "geo" : {
@@ -656,7 +656,7 @@ Grailbird.data.tweets_2011_12 =
       "indices" : [ 23, 43 ],
       "url" : "http://t.co/VxALyU2p",
       "expanded_url" : "http://70sbig.spreadshirt.com/occupy-a-squat-rack-A8682258",
-      "display_url" : "70sbig.spreadshirt.com/occupy-a-squat…"
+      "display_url" : "70sbig.spreadshirt.com/occupy-a-squat\u2026"
     } ]
   },
   "geo" : {
@@ -894,7 +894,7 @@ Grailbird.data.tweets_2011_12 =
       "indices" : [ 35, 55 ],
       "url" : "http://t.co/NpNADqv7",
       "expanded_url" : "http://techcrunch.com/2011/12/12/wellnessfx-grabs-4-million-from-javelin-floodgate-to-give-you-a-personal-health-team/",
-      "display_url" : "techcrunch.com/2011/12/12/wel…"
+      "display_url" : "techcrunch.com/2011/12/12/wel\u2026"
     } ]
   },
   "geo" : {
@@ -935,7 +935,7 @@ Grailbird.data.tweets_2011_12 =
   "geo" : {
   },
   "id_str" : "146314183670116352",
-  "text" : "RT @KirstenWinkler: Really impressed by this app: @Educreations – the latest (and best) iPad Whiteboard Recording App for iPad http://t. ...",
+  "text" : "RT @KirstenWinkler: Really impressed by this app: @Educreations \u2013 the latest (and best) iPad Whiteboard Recording App for iPad http://t. ...",
   "retweeted_status" : {
     "source" : "web",
     "entities" : {
@@ -964,7 +964,7 @@ Grailbird.data.tweets_2011_12 =
     "geo" : {
     },
     "id_str" : "146310960938876929",
-    "text" : "Really impressed by this app: @Educreations – the latest (and best) iPad Whiteboard Recording App for iPad http://t.co/5XW0bvOu @imagineK12",
+    "text" : "Really impressed by this app: @Educreations \u2013 the latest (and best) iPad Whiteboard Recording App for iPad http://t.co/5XW0bvOu @imagineK12",
     "id" : 146310960938876929,
     "created_at" : "Mon Dec 12 19:30:26 +0000 2011",
     "user" : {
@@ -1292,7 +1292,7 @@ Grailbird.data.tweets_2011_12 =
       "indices" : [ 95, 115 ],
       "url" : "http://t.co/h5J2eJSz",
       "expanded_url" : "http://en.wikipedia.org/wiki/Bloom_filter",
-      "display_url" : "en.wikipedia.org/wiki/Bloom_fil…"
+      "display_url" : "en.wikipedia.org/wiki/Bloom_fil\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "145139316354588672",
@@ -1371,7 +1371,7 @@ Grailbird.data.tweets_2011_12 =
       "id_str" : "19017659",
       "profile_image_url_https" : "https://si0.twimg.com/profile_images/1232097271/Work_pic_normal.jpg",
       "id" : 19017659,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 145016353441595392,
@@ -1424,7 +1424,7 @@ Grailbird.data.tweets_2011_12 =
       "indices" : [ 32, 52 ],
       "url" : "http://t.co/ePYucFj0",
       "expanded_url" : "http://www.osnews.com/story/25406/What_Eric_Schmidt_Actually_Said",
-      "display_url" : "osnews.com/story/25406/Wh…"
+      "display_url" : "osnews.com/story/25406/Wh\u2026"
     } ]
   },
   "geo" : {
@@ -1441,7 +1441,7 @@ Grailbird.data.tweets_2011_12 =
         "indices" : [ 17, 37 ],
         "url" : "http://t.co/ePYucFj0",
         "expanded_url" : "http://www.osnews.com/story/25406/What_Eric_Schmidt_Actually_Said",
-        "display_url" : "osnews.com/story/25406/Wh…"
+        "display_url" : "osnews.com/story/25406/Wh\u2026"
       } ]
     },
     "geo" : {
@@ -1510,7 +1510,7 @@ Grailbird.data.tweets_2011_12 =
       "indices" : [ 111, 131 ],
       "url" : "http://t.co/e34gRUSd",
       "expanded_url" : "http://www.cfnews13.com/article/sports/2011/december/354487/Magic-CEO-Bob-Vander-Weide-to-retire",
-      "display_url" : "cfnews13.com/article/sports…"
+      "display_url" : "cfnews13.com/article/sports\u2026"
     } ]
   },
   "geo" : {
@@ -1612,7 +1612,7 @@ Grailbird.data.tweets_2011_12 =
       "indices" : [ 93, 113 ],
       "url" : "http://t.co/XMRVrGxL",
       "expanded_url" : "http://www.deaneckles.com/blog/632_a-deluge-of-experiments/",
-      "display_url" : "deaneckles.com/blog/632_a-del…"
+      "display_url" : "deaneckles.com/blog/632_a-del\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "140266214881640450",
@@ -1893,7 +1893,7 @@ Grailbird.data.tweets_2011_12 =
       "indices" : [ 55, 75 ],
       "url" : "http://t.co/Y9AqhH3p",
       "expanded_url" : "http://www.hackeducation.com/2011/12/01/top-ed-tech-trends-of-2011-the-ipad/",
-      "display_url" : "hackeducation.com/2011/12/01/top…"
+      "display_url" : "hackeducation.com/2011/12/01/top\u2026"
     } ]
   },
   "geo" : {

@@ -165,7 +165,7 @@ Grailbird.data.tweets_2011_03 =
   "geo" : {
   },
   "id_str" : "53215047366873088",
-  "text" : "∞ mathematicians walk into a pub. 1st buys a beer, 2nd buys a ½, 3rd buys ¼, 4th buys ⅛. Bartender sighs, rolls his eyes, pours two beers.",
+  "text" : "\u221E mathematicians walk into a pub. 1st buys a beer, 2nd buys a \u00BD, 3rd buys \u00BC, 4th buys \u215B. Bartender sighs, rolls his eyes, pours two beers.",
   "id" : 53215047366873088,
   "created_at" : "Wed Mar 30 22:00:30 +0000 2011",
   "user" : {
@@ -531,8 +531,6 @@ Grailbird.data.tweets_2011_03 =
       "urls" : [ ]
     },
     "geo" : {
-      "type" : "Point",
-      "coordinates" : [ 40.7334658844, -73.9787980278 ]
     },
     "id_str" : "49572694068445184",
     "text" : "On the plus side, it'll be fun to watch the government break up AT&T again in a few years. Keeps re-forming like the T1000 in Terminator 2.",
@@ -543,7 +541,7 @@ Grailbird.data.tweets_2011_03 =
       "screen_name" : "anildash",
       "protected" : false,
       "id_str" : "36823",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2819125443/08240a3283301594794bcf6333ce8e6f_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3588056222/0d62af265381d6b5861371e86d0bff23_normal.jpeg",
       "id" : 36823,
       "verified" : true
     }
@@ -632,7 +630,7 @@ Grailbird.data.tweets_2011_03 =
       "indices" : [ 32, 51 ],
       "url" : "http://t.co/vSG2ZxZ",
       "expanded_url" : "http://www.youtube.com/watch?v=rsCp-1hgfxI",
-      "display_url" : "youtube.com/watch?v=rsCp-1…"
+      "display_url" : "youtube.com/watch?v=rsCp-1\u2026"
     } ]
   },
   "geo" : {
@@ -728,7 +726,7 @@ Grailbird.data.tweets_2011_03 =
       "indices" : [ 71, 90 ],
       "url" : "http://t.co/GeE1uYd",
       "expanded_url" : "http://techcrunch.com/2011/03/20/in-the-race-for-more-spectrum-att-is-acquiring-t-mobile-for-39-billion/",
-      "display_url" : "techcrunch.com/2011/03/20/in-…"
+      "display_url" : "techcrunch.com/2011/03/20/in-\u2026"
     } ]
   },
   "geo" : {
@@ -829,7 +827,7 @@ Grailbird.data.tweets_2011_03 =
       "screen_name" : "ceonyc",
       "protected" : false,
       "id_str" : "768632",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2277822848/3auzqbgs8ae6qt96ylc0_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3285145326/3487ffc0050a17990357399562ac1eba_normal.jpeg",
       "id" : 768632,
       "verified" : false
     }
@@ -1111,7 +1109,7 @@ Grailbird.data.tweets_2011_03 =
   "geo" : {
   },
   "id_str" : "47348403029557248",
-  "text" : "Happy π Day!",
+  "text" : "Happy \u03C0 Day!",
   "id" : 47348403029557248,
   "created_at" : "Mon Mar 14 17:28:33 +0000 2011",
   "user" : {
@@ -1226,7 +1224,7 @@ Grailbird.data.tweets_2011_03 =
       "indices" : [ 69, 88 ],
       "url" : "http://t.co/caEkNRx",
       "expanded_url" : "http://www.bbc.co.uk/news/world-europe-12669308",
-      "display_url" : "bbc.co.uk/news/world-eur…"
+      "display_url" : "bbc.co.uk/news/world-eur\u2026"
     } ]
   },
   "geo" : {

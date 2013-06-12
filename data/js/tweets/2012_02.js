@@ -9,7 +9,7 @@ Grailbird.data.tweets_2012_02 =
       "indices" : [ 66, 87 ],
       "url" : "https://t.co/PI5aT3aG",
       "expanded_url" : "https://www.eff.org/https-everywhere",
-      "display_url" : "eff.org/https-everywhe…"
+      "display_url" : "eff.org/https-everywhe\u2026"
     } ]
   },
   "geo" : {
@@ -197,7 +197,7 @@ Grailbird.data.tweets_2012_02 =
       "indices" : [ 66, 86 ],
       "url" : "http://t.co/5uNS5Ysl",
       "expanded_url" : "http://www.php.net/manual/en/v8js.examples.php",
-      "display_url" : "php.net/manual/en/v8js…"
+      "display_url" : "php.net/manual/en/v8js\u2026"
     } ]
   },
   "geo" : {
@@ -321,7 +321,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tarek Ziadé",
+      "name" : "Tarek Ziad\u00E9",
       "screen_name" : "tarek_ziade",
       "indices" : [ 3, 15 ],
       "id_str" : "15821652",
@@ -895,7 +895,7 @@ Grailbird.data.tweets_2012_02 =
       "indices" : [ 119, 139 ],
       "url" : "http://t.co/KCJIneM5",
       "expanded_url" : "http://itunes.apple.com/us/app/educreations-interactive-whiteboard/id478617061?mt=8",
-      "display_url" : "itunes.apple.com/us/app/educrea…"
+      "display_url" : "itunes.apple.com/us/app/educrea\u2026"
     } ]
   },
   "geo" : {
@@ -1280,7 +1280,7 @@ Grailbird.data.tweets_2012_02 =
   "geo" : {
   },
   "id_str" : "166274109297278976",
-  "text" : "I just helped #savethebugle. But seriously, what the hell is a '£'?? I only understand $'s and ¢'s. I'm American. cc/ @TheBuglePodcast",
+  "text" : "I just helped #savethebugle. But seriously, what the hell is a '\u00A3'?? I only understand $'s and \u00A2's. I'm American. cc/ @TheBuglePodcast",
   "id" : 166274109297278976,
   "created_at" : "Sun Feb 05 21:36:51 +0000 2012",
   "user" : {
@@ -1302,7 +1302,7 @@ Grailbird.data.tweets_2012_02 =
       "indices" : [ 32, 52 ],
       "url" : "http://t.co/9sNTapdz",
       "expanded_url" : "http://www.theatlantic.com/infocus/2012/02/kim-jong-un-looking-at-things/100237/",
-      "display_url" : "theatlantic.com/infocus/2012/0…"
+      "display_url" : "theatlantic.com/infocus/2012/0\u2026"
     } ]
   },
   "geo" : {

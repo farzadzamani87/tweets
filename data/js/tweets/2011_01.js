@@ -665,7 +665,7 @@ Grailbird.data.tweets_2011_01 =
       "indices" : [ 40, 59 ],
       "url" : "http://t.co/gANBdmI",
       "expanded_url" : "http://cdn1.sbnation.com/fan_shot_images/171226/cstcst3644.jpg",
-      "display_url" : "cdn1.sbnation.com/fan_shot_image…"
+      "display_url" : "cdn1.sbnation.com/fan_shot_image\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "24613256454742016",
@@ -704,7 +704,7 @@ Grailbird.data.tweets_2011_01 =
       "indices" : [ 52, 71 ],
       "url" : "http://t.co/A9GDt34",
       "expanded_url" : "http://seattle.sbnation.com/seattle-seahawks/2011/1/9/1925874/marshawn-lynch-seahawks-nfl-playoffs-earthquake",
-      "display_url" : "seattle.sbnation.com/seattle-seahaw…"
+      "display_url" : "seattle.sbnation.com/seattle-seahaw\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "24613256454742016",

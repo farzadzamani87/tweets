@@ -82,7 +82,7 @@ Grailbird.data.tweets_2012_12 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -149,7 +149,7 @@ Grailbird.data.tweets_2012_12 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -290,7 +290,7 @@ Grailbird.data.tweets_2012_12 =
       "indices" : [ 52, 72 ],
       "url" : "http://t.co/sLcVG5v7",
       "expanded_url" : "http://app.strava.com/activities/34630409?ref=1MT1yaWRlX3NoYXJlOzI9dHdpdHRlcjs0PTE5Mzk4Nw%253D%253D",
-      "display_url" : "app.strava.com/activities/346…"
+      "display_url" : "app.strava.com/activities/346\u2026"
     } ]
   },
   "geo" : {
@@ -309,7 +309,7 @@ Grailbird.data.tweets_2012_12 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -362,7 +362,7 @@ Grailbird.data.tweets_2012_12 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -530,7 +530,7 @@ Grailbird.data.tweets_2012_12 =
       "indices" : [ 99, 119 ],
       "url" : "http://t.co/d0J0P94J",
       "expanded_url" : "http://www.chrisstreeter.com/archive/2012/12/extended-family-photos.html",
-      "display_url" : "chrisstreeter.com/archive/2012/1…"
+      "display_url" : "chrisstreeter.com/archive/2012/1\u2026"
     } ]
   },
   "geo" : {
@@ -558,7 +558,7 @@ Grailbird.data.tweets_2012_12 =
       "indices" : [ 54, 74 ],
       "url" : "http://t.co/2DCB5xoO",
       "expanded_url" : "http://www.chrisstreeter.com/archive/2012/12/hong-kong.html",
-      "display_url" : "chrisstreeter.com/archive/2012/1…"
+      "display_url" : "chrisstreeter.com/archive/2012/1\u2026"
     } ]
   },
   "geo" : {
@@ -649,7 +649,7 @@ Grailbird.data.tweets_2012_12 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Pippin Lee",
-      "screen_name" : "PippinLee",
+      "screen_name" : "pippinlee",
       "indices" : [ 0, 10 ],
       "id_str" : "18591169",
       "id" : 18591169
@@ -667,7 +667,7 @@ Grailbird.data.tweets_2012_12 =
   "id" : 283042266489176064,
   "in_reply_to_status_id" : 283039817787387907,
   "created_at" : "Mon Dec 24 02:51:49 +0000 2012",
-  "in_reply_to_screen_name" : "PippinLee",
+  "in_reply_to_screen_name" : "pippinlee",
   "in_reply_to_user_id_str" : "18591169",
   "user" : {
     "name" : "Chris Streeter",
@@ -688,7 +688,7 @@ Grailbird.data.tweets_2012_12 =
       "indices" : [ 21, 41 ],
       "url" : "http://t.co/XEHnvvVa",
       "expanded_url" : "http://www.chrisstreeter.com/archive/2012/12/looking-back-on-2012.html",
-      "display_url" : "chrisstreeter.com/archive/2012/1…"
+      "display_url" : "chrisstreeter.com/archive/2012/1\u2026"
     } ]
   },
   "geo" : {
@@ -707,7 +707,7 @@ Grailbird.data.tweets_2012_12 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -741,7 +741,7 @@ Grailbird.data.tweets_2012_12 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Pippin Lee",
-      "screen_name" : "PippinLee",
+      "screen_name" : "pippinlee",
       "indices" : [ 0, 10 ],
       "id_str" : "18591169",
       "id" : 18591169
@@ -759,7 +759,7 @@ Grailbird.data.tweets_2012_12 =
   "id" : 282871455694348289,
   "in_reply_to_status_id" : 282743769458159616,
   "created_at" : "Sun Dec 23 15:33:05 +0000 2012",
-  "in_reply_to_screen_name" : "PippinLee",
+  "in_reply_to_screen_name" : "pippinlee",
   "in_reply_to_user_id_str" : "18591169",
   "user" : {
     "name" : "Chris Streeter",
@@ -771,7 +771,7 @@ Grailbird.data.tweets_2012_12 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -810,7 +810,7 @@ Grailbird.data.tweets_2012_12 =
       "indices" : [ 74, 94 ],
       "url" : "http://t.co/vOKVp22c",
       "expanded_url" : "http://www.chrisstreeter.com/2012-in-retrospect.html",
-      "display_url" : "chrisstreeter.com/2012-in-retros…"
+      "display_url" : "chrisstreeter.com/2012-in-retros\u2026"
     } ]
   },
   "geo" : {
@@ -829,7 +829,7 @@ Grailbird.data.tweets_2012_12 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1533,7 +1533,7 @@ Grailbird.data.tweets_2012_12 =
       "id" : 638323
     } ],
     "media" : [ {
-      "expanded_url" : "http://twitter.com/chrisstreeter/status/281554574974803968/photo/1",
+      "expanded_url" : "http://twitter.com/kneath/status/281551960631545856/photo/1",
       "indices" : [ 102, 122 ],
       "url" : "http://t.co/0Lo0pSVb",
       "media_url" : "http://pbs.twimg.com/media/A-hGBDeCEAA_IB-.jpg",
@@ -2299,7 +2299,7 @@ Grailbird.data.tweets_2012_12 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2329,7 +2329,7 @@ Grailbird.data.tweets_2012_12 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2448,7 +2448,7 @@ Grailbird.data.tweets_2012_12 =
       "indices" : [ 77, 97 ],
       "url" : "http://t.co/udYZf8KF",
       "expanded_url" : "http://blogs.kqed.org/mindshift/2012/12/smartboard-make-way-for-educreations/",
-      "display_url" : "blogs.kqed.org/mindshift/2012…"
+      "display_url" : "blogs.kqed.org/mindshift/2012\u2026"
     } ]
   },
   "geo" : {
@@ -2471,7 +2471,7 @@ Grailbird.data.tweets_2012_12 =
         "indices" : [ 58, 78 ],
         "url" : "http://t.co/udYZf8KF",
         "expanded_url" : "http://blogs.kqed.org/mindshift/2012/12/smartboard-make-way-for-educreations/",
-        "display_url" : "blogs.kqed.org/mindshift/2012…"
+        "display_url" : "blogs.kqed.org/mindshift/2012\u2026"
       } ]
     },
     "geo" : {
@@ -2638,7 +2638,7 @@ Grailbird.data.tweets_2012_12 =
       "indices" : [ 46, 67 ],
       "url" : "https://t.co/sRrw22tc",
       "expanded_url" : "https://s3.amazonaws.com/uploads.hipchat.com/16612/159237/rsdkzic1qy1tv3b/qr-logo.png",
-      "display_url" : "s3.amazonaws.com/uploads.hipcha…"
+      "display_url" : "s3.amazonaws.com/uploads.hipcha\u2026"
     } ]
   },
   "geo" : {
@@ -2684,7 +2684,7 @@ Grailbird.data.tweets_2012_12 =
       "indices" : [ 104, 124 ],
       "url" : "http://t.co/soX8Espj",
       "expanded_url" : "http://blogs.kqed.org/mindshift/2012/12/smartboard-make-way-for-educreations/",
-      "display_url" : "blogs.kqed.org/mindshift/2012…"
+      "display_url" : "blogs.kqed.org/mindshift/2012\u2026"
     } ]
   },
   "geo" : {
@@ -2713,7 +2713,7 @@ Grailbird.data.tweets_2012_12 =
         "indices" : [ 88, 108 ],
         "url" : "http://t.co/soX8Espj",
         "expanded_url" : "http://blogs.kqed.org/mindshift/2012/12/smartboard-make-way-for-educreations/",
-        "display_url" : "blogs.kqed.org/mindshift/2012…"
+        "display_url" : "blogs.kqed.org/mindshift/2012\u2026"
       } ]
     },
     "geo" : {
@@ -2727,7 +2727,7 @@ Grailbird.data.tweets_2012_12 =
       "screen_name" : "jcarlpayne",
       "protected" : false,
       "id_str" : "28433635",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2891088316/5bb9d255cbccfedbaf1c4c4e136831e8_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3481941045/1b929cf63a032f57be5c30dbc179c3a9_normal.jpeg",
       "id" : 28433635,
       "verified" : false
     }
@@ -2808,7 +2808,7 @@ Grailbird.data.tweets_2012_12 =
   },
   "id_str" : "278697599345782785",
   "in_reply_to_user_id" : 14087951,
-  "text" : "@ericflo I’d love to know myself. I had to pull together pieces from other people.",
+  "text" : "@ericflo I\u2019d love to know myself. I had to pull together pieces from other people.",
   "id" : 278697599345782785,
   "in_reply_to_status_id" : 278684815769874432,
   "created_at" : "Wed Dec 12 03:07:40 +0000 2012",
@@ -2951,7 +2951,7 @@ Grailbird.data.tweets_2012_12 =
       "indices" : [ 60, 80 ],
       "url" : "http://t.co/stqk1kYz",
       "expanded_url" : "http://chrome.blogspot.com/2012/12/chromebooks-for-classrooms-99-for.html",
-      "display_url" : "chrome.blogspot.com/2012/12/chrome…"
+      "display_url" : "chrome.blogspot.com/2012/12/chrome\u2026"
     } ]
   },
   "geo" : {
@@ -2988,7 +2988,7 @@ Grailbird.data.tweets_2012_12 =
   },
   "id_str" : "277941987154468864",
   "in_reply_to_user_id" : 14061890,
-  "text" : "@thegad much appreciated Andrew! Of course, if you happen to be looking, we’re interested in chatting ;)",
+  "text" : "@thegad much appreciated Andrew! Of course, if you happen to be looking, we\u2019re interested in chatting ;)",
   "id" : 277941987154468864,
   "in_reply_to_status_id" : 277940892122374144,
   "created_at" : "Mon Dec 10 01:05:08 +0000 2012",
@@ -3053,7 +3053,7 @@ Grailbird.data.tweets_2012_12 =
       "indices" : [ 31, 51 ],
       "url" : "http://t.co/mvixxxDm",
       "expanded_url" : "http://arstechnica.com/information-technology/2012/11/how-team-obamas-tech-efficiency-left-romney-it-in-dust/",
-      "display_url" : "arstechnica.com/information-te…"
+      "display_url" : "arstechnica.com/information-te\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "277912947223826432",
@@ -3077,7 +3077,7 @@ Grailbird.data.tweets_2012_12 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3107,7 +3107,7 @@ Grailbird.data.tweets_2012_12 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3229,7 +3229,7 @@ Grailbird.data.tweets_2012_12 =
   },
   "id_str" : "276793612690411521",
   "in_reply_to_user_id" : 21851200,
-  "text" : "@kalengallagher notice there is no mention of assists in there. Why? cause Kobe doesn’t know what they are.",
+  "text" : "@kalengallagher notice there is no mention of assists in there. Why? cause Kobe doesn\u2019t know what they are.",
   "id" : 276793612690411521,
   "created_at" : "Thu Dec 06 21:01:54 +0000 2012",
   "in_reply_to_screen_name" : "kalengallagher",
@@ -3290,7 +3290,7 @@ Grailbird.data.tweets_2012_12 =
       "screen_name" : "MindShiftKQED",
       "protected" : false,
       "id_str" : "179248364",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1384795677/mindshift-logo-200x200_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3705746353/36837966aae0d38b1c291e67df7b6400_normal.png",
       "id" : 179248364,
       "verified" : false
     }
@@ -3354,7 +3354,7 @@ Grailbird.data.tweets_2012_12 =
   },
   "id_str" : "276596372831080448",
   "in_reply_to_user_id" : 10200322,
-  "text" : "@amdavidson Because it’s @Yahoo? I was trying to join an email group, and eventually gave up after I couldn’t get around the error.",
+  "text" : "@amdavidson Because it\u2019s @Yahoo? I was trying to join an email group, and eventually gave up after I couldn\u2019t get around the error.",
   "id" : 276596372831080448,
   "in_reply_to_status_id" : 276565113488691200,
   "created_at" : "Thu Dec 06 07:58:08 +0000 2012",
@@ -3416,7 +3416,7 @@ Grailbird.data.tweets_2012_12 =
   "geo" : {
   },
   "id_str" : "276557809548673024",
-  "text" : "Oh @Yahoo, this probably isn’t an error message that is very helpful for most people. http://t.co/tGnTi6RI",
+  "text" : "Oh @Yahoo, this probably isn\u2019t an error message that is very helpful for most people. http://t.co/tGnTi6RI",
   "id" : 276557809548673024,
   "created_at" : "Thu Dec 06 05:24:55 +0000 2012",
   "user" : {
@@ -3522,7 +3522,7 @@ Grailbird.data.tweets_2012_12 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3626,7 +3626,7 @@ Grailbird.data.tweets_2012_12 =
   "geo" : {
   },
   "id_str" : "276389631073861632",
-  "text" : "I’m tired of rain in Tahoe. This is snow season! http://t.co/8MMRzWtr",
+  "text" : "I\u2019m tired of rain in Tahoe. This is snow season! http://t.co/8MMRzWtr",
   "id" : 276389631073861632,
   "created_at" : "Wed Dec 05 18:16:38 +0000 2012",
   "user" : {
@@ -3658,7 +3658,7 @@ Grailbird.data.tweets_2012_12 =
   "geo" : {
   },
   "id_str" : "276350191152529408",
-  "text" : "Bet it’s the one near LAX RT @Bourdain: Looking forward to that In 'n' Out Burger near the airport.  \n#firstthingsfirst",
+  "text" : "Bet it\u2019s the one near LAX RT @Bourdain: Looking forward to that In 'n' Out Burger near the airport.  \n#firstthingsfirst",
   "id" : 276350191152529408,
   "created_at" : "Wed Dec 05 15:39:54 +0000 2012",
   "user" : {
@@ -3717,7 +3717,7 @@ Grailbird.data.tweets_2012_12 =
       "indices" : [ 22, 42 ],
       "url" : "http://t.co/WCd9Ewd1",
       "expanded_url" : "http://chrisstreeter.com/archive/2012/12/refreshed-design.html",
-      "display_url" : "chrisstreeter.com/archive/2012/1…"
+      "display_url" : "chrisstreeter.com/archive/2012/1\u2026"
     } ]
   },
   "geo" : {
@@ -3736,7 +3736,7 @@ Grailbird.data.tweets_2012_12 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],

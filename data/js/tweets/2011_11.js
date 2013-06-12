@@ -68,8 +68,8 @@ Grailbird.data.tweets_2011_11 =
       "name" : "Blake Griffin",
       "screen_name" : "blakegriffin",
       "indices" : [ 3, 16 ],
-      "id_str" : "34430522",
-      "id" : 34430522
+      "id_str" : "1197738637",
+      "id" : 1197738637
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -95,7 +95,7 @@ Grailbird.data.tweets_2011_11 =
     "created_at" : "Sat Nov 26 14:26:49 +0000 2011",
     "user" : {
       "name" : "Blake Griffin",
-      "screen_name" : "blakegriffin",
+      "screen_name" : "blakegriffin32",
       "protected" : false,
       "id_str" : "34430522",
       "profile_image_url_https" : "https://si0.twimg.com/profile_images/2405274313/blakegriffin_normal.jpg",
@@ -130,7 +130,7 @@ Grailbird.data.tweets_2011_11 =
       "indices" : [ 30, 50 ],
       "url" : "http://t.co/H4H4DgmO",
       "expanded_url" : "http://highscalability.com/blog/2011/11/25/stuff-the-internet-says-on-scalability-for-november-25-2011.html",
-      "display_url" : "highscalability.com/blog/2011/11/2…"
+      "display_url" : "highscalability.com/blog/2011/11/2\u2026"
     } ]
   },
   "geo" : {
@@ -217,7 +217,7 @@ Grailbird.data.tweets_2011_11 =
       "indices" : [ 52, 72 ],
       "url" : "http://t.co/qbKY7p3h",
       "expanded_url" : "http://www.guardian.co.uk/news/datablog/interactive/2011/nov/22/us-road-accident-casualties",
-      "display_url" : "guardian.co.uk/news/datablog/…"
+      "display_url" : "guardian.co.uk/news/datablog/\u2026"
     } ]
   },
   "geo" : {
@@ -422,7 +422,7 @@ Grailbird.data.tweets_2011_11 =
       "indices" : [ 119, 139 ],
       "url" : "http://t.co/KtWpmTXY",
       "expanded_url" : "http://www.forbes.com/sites/stevedenning/2011/11/17/the-lost-interview-steve-jobs-tells-us-what-really-matters/",
-      "display_url" : "forbes.com/sites/steveden…"
+      "display_url" : "forbes.com/sites/steveden\u2026"
     } ]
   },
   "geo" : {
@@ -439,7 +439,7 @@ Grailbird.data.tweets_2011_11 =
         "indices" : [ 103, 123 ],
         "url" : "http://t.co/KtWpmTXY",
         "expanded_url" : "http://www.forbes.com/sites/stevedenning/2011/11/17/the-lost-interview-steve-jobs-tells-us-what-really-matters/",
-        "display_url" : "forbes.com/sites/steveden…"
+        "display_url" : "forbes.com/sites/steveden\u2026"
       } ]
     },
     "geo" : {
@@ -453,7 +453,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "deaneckles",
       "protected" : false,
       "id_str" : "759249",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/591211346/DSC_1452_-_Version_2_normal.jpg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3724595323/0368609575fbee252712c8c28a0fa14c_normal.jpeg",
       "id" : 759249,
       "verified" : false
     }
@@ -750,7 +750,7 @@ Grailbird.data.tweets_2011_11 =
       "indices" : [ 41, 61 ],
       "url" : "http://t.co/IcaxXBpP",
       "expanded_url" : "http://benparr.com/2011/11/yelp-invokes-rick-perry-nice-one-yelp/",
-      "display_url" : "benparr.com/2011/11/yelp-i…"
+      "display_url" : "benparr.com/2011/11/yelp-i\u2026"
     } ]
   },
   "geo" : {
@@ -965,7 +965,7 @@ Grailbird.data.tweets_2011_11 =
       "indices" : [ 75, 95 ],
       "url" : "http://t.co/bMslWaRn",
       "expanded_url" : "http://www.youtube.com/watch?v=_YQpbzQ6gzs",
-      "display_url" : "youtube.com/watch?v=_YQpbz…"
+      "display_url" : "youtube.com/watch?v=_YQpbz\u2026"
     } ]
   },
   "geo" : {
@@ -1149,7 +1149,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "TheOnion",
       "protected" : false,
       "id_str" : "14075928",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1683182196/onion_logo_03_L_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3654358881/476bd54bd9c2bc0f9a38b4e097ce6af5_normal.jpeg",
       "id" : 14075928,
       "verified" : true
     }
@@ -1181,13 +1181,13 @@ Grailbird.data.tweets_2011_11 =
       "indices" : [ 100, 120 ],
       "url" : "http://t.co/JlvZ0Rsj",
       "expanded_url" : "http://techcrunch.com/2011/11/02/social-game-developer-rockyou-succumbs-to-layoffs-to-achieve-profitability/",
-      "display_url" : "techcrunch.com/2011/11/02/soc…"
+      "display_url" : "techcrunch.com/2011/11/02/soc\u2026"
     } ]
   },
   "geo" : {
   },
   "id_str" : "131866415467737088",
-  "text" : "Wow, another round of layoffs only 13 months later… Fall at @RockYouInc is not a happy place to be: http://t.co/JlvZ0Rsj",
+  "text" : "Wow, another round of layoffs only 13 months later\u2026 Fall at @RockYouInc is not a happy place to be: http://t.co/JlvZ0Rsj",
   "id" : 131866415467737088,
   "created_at" : "Wed Nov 02 22:52:58 +0000 2011",
   "user" : {
@@ -1244,7 +1244,7 @@ Grailbird.data.tweets_2011_11 =
       "indices" : [ 88, 108 ],
       "url" : "http://t.co/TQaCJGyk",
       "expanded_url" : "http://www.npr.org/blogs/thesalt/2011/10/26/141732915/customer-outrage-forces-necco-to-put-artificial-ingredients-back-into-wafers",
-      "display_url" : "npr.org/blogs/thesalt/…"
+      "display_url" : "npr.org/blogs/thesalt/\u2026"
     } ]
   },
   "geo" : {

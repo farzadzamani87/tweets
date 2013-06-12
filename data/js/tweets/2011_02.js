@@ -88,7 +88,7 @@ Grailbird.data.tweets_2011_02 =
       "indices" : [ 57, 76 ],
       "url" : "http://t.co/HnRuko7",
       "expanded_url" : "http://www.hulu.com/watch/219097/the-colbert-report-corporate-hacker-tries-to-take-down-wikileaks",
-      "display_url" : "hulu.com/watch/219097/t…"
+      "display_url" : "hulu.com/watch/219097/t\u2026"
     } ]
   },
   "geo" : {
@@ -450,7 +450,7 @@ Grailbird.data.tweets_2011_02 =
       "indices" : [ 44, 63 ],
       "url" : "http://t.co/jNMZhxB",
       "expanded_url" : "http://currentconfig.com/2005/02/22/essential-life-lesson-1-over-is-right-under-is-wrong/",
-      "display_url" : "currentconfig.com/2005/02/22/ess…"
+      "display_url" : "currentconfig.com/2005/02/22/ess\u2026"
     } ]
   },
   "geo" : {
@@ -673,7 +673,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "CalAthletics",
       "protected" : false,
       "id_str" : "50545304",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2649276558/05a5ab18e2f3d0e4253b1dab46d9f718_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3504122733/b0adf62878fe465a7047377c5ca7b320_normal.jpeg",
       "id" : 50545304,
       "verified" : true
     }
@@ -726,7 +726,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "deaneckles",
       "protected" : false,
       "id_str" : "759249",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/591211346/DSC_1452_-_Version_2_normal.jpg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3724595323/0368609575fbee252712c8c28a0fa14c_normal.jpeg",
       "id" : 759249,
       "verified" : false
     }
@@ -779,7 +779,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "deaneckles",
       "protected" : false,
       "id_str" : "759249",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/591211346/DSC_1452_-_Version_2_normal.jpg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3724595323/0368609575fbee252712c8c28a0fa14c_normal.jpeg",
       "id" : 759249,
       "verified" : false
     }
@@ -843,7 +843,7 @@ Grailbird.data.tweets_2011_02 =
       "indices" : [ 90, 109 ],
       "url" : "http://t.co/kST6AEs",
       "expanded_url" : "http://lifehacker.com/5748939/readyforzero-is-a-simple-webapp-thatll-help-get-you-out-of-debt",
-      "display_url" : "lifehacker.com/5748939/readyf…"
+      "display_url" : "lifehacker.com/5748939/readyf\u2026"
     } ]
   },
   "geo" : {
@@ -860,7 +860,7 @@ Grailbird.data.tweets_2011_02 =
         "indices" : [ 74, 93 ],
         "url" : "http://t.co/kST6AEs",
         "expanded_url" : "http://lifehacker.com/5748939/readyforzero-is-a-simple-webapp-thatll-help-get-you-out-of-debt",
-        "display_url" : "lifehacker.com/5748939/readyf…"
+        "display_url" : "lifehacker.com/5748939/readyf\u2026"
       } ]
     },
     "geo" : {
@@ -900,7 +900,7 @@ Grailbird.data.tweets_2011_02 =
       "indices" : [ 31, 50 ],
       "url" : "http://t.co/I1bkBSK",
       "expanded_url" : "http://www.youtube.com/watch?v=jQvBrEEYS20",
-      "display_url" : "youtube.com/watch?v=jQvBrE…"
+      "display_url" : "youtube.com/watch?v=jQvBrE\u2026"
     } ]
   },
   "geo" : {

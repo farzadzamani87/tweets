@@ -100,7 +100,7 @@ Grailbird.data.tweets_2012_09 =
   "geo" : {
   },
   "id_str" : "251940415996063744",
-  "text" : "Proof that the new iOS 6 maps are really bad in Canada http://t.co/yYVTEX6d The US isn’t much better",
+  "text" : "Proof that the new iOS 6 maps are really bad in Canada http://t.co/yYVTEX6d The US isn\u2019t much better",
   "id" : 251940415996063744,
   "created_at" : "Sat Sep 29 07:04:10 +0000 2012",
   "user" : {
@@ -165,7 +165,7 @@ Grailbird.data.tweets_2012_09 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -195,7 +195,7 @@ Grailbird.data.tweets_2012_09 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -243,7 +243,7 @@ Grailbird.data.tweets_2012_09 =
   },
   "id_str" : "251820743048970240",
   "in_reply_to_user_id" : 356992178,
-  "text" : "@NutmegEducation Hi, I’m not sure what your site does. Your homepage doesn’t really nail down anything specific.",
+  "text" : "@NutmegEducation Hi, I\u2019m not sure what your site does. Your homepage doesn\u2019t really nail down anything specific.",
   "id" : 251820743048970240,
   "in_reply_to_status_id" : 251779156147331073,
   "created_at" : "Fri Sep 28 23:08:38 +0000 2012",
@@ -277,7 +277,7 @@ Grailbird.data.tweets_2012_09 =
   },
   "id_str" : "251355421414141952",
   "in_reply_to_user_id" : 50478950,
-  "text" : "@kennethreitz that seems like a pretty good idea when you’re shooting Leica :)",
+  "text" : "@kennethreitz that seems like a pretty good idea when you\u2019re shooting Leica :)",
   "id" : 251355421414141952,
   "in_reply_to_status_id" : 251344744309981184,
   "created_at" : "Thu Sep 27 16:19:37 +0000 2012",
@@ -311,7 +311,7 @@ Grailbird.data.tweets_2012_09 =
   },
   "id_str" : "251325746952417281",
   "in_reply_to_user_id" : 50478950,
-  "text" : "@kennethreitz what’re the benefits of the PPA?",
+  "text" : "@kennethreitz what\u2019re the benefits of the PPA?",
   "id" : 251325746952417281,
   "in_reply_to_status_id" : 251211930851745792,
   "created_at" : "Thu Sep 27 14:21:42 +0000 2012",
@@ -351,7 +351,7 @@ Grailbird.data.tweets_2012_09 =
   },
   "id_str" : "251086323136466946",
   "in_reply_to_user_id" : 814274,
-  "text" : "@beornlake @jefflab I knew someone I knew had a parent that worked there. I just couldn’t remember who it was.",
+  "text" : "@beornlake @jefflab I knew someone I knew had a parent that worked there. I just couldn\u2019t remember who it was.",
   "id" : 251086323136466946,
   "in_reply_to_status_id" : 251079393559076865,
   "created_at" : "Wed Sep 26 22:30:19 +0000 2012",
@@ -673,7 +673,7 @@ Grailbird.data.tweets_2012_09 =
   },
   "id_str" : "250441942373122051",
   "in_reply_to_user_id" : 14807047,
-  "text" : "@frewsxcv looks like About.me + Windows 8 + Pinterest + loud music? I’ve gotta imagine that the performance of the site is going to suck",
+  "text" : "@frewsxcv looks like About.me + Windows 8 + Pinterest + loud music? I\u2019ve gotta imagine that the performance of the site is going to suck",
   "id" : 250441942373122051,
   "in_reply_to_status_id" : 250441195690549248,
   "created_at" : "Tue Sep 25 03:49:46 +0000 2012",
@@ -769,7 +769,7 @@ Grailbird.data.tweets_2012_09 =
   },
   "id_str" : "250061467724955648",
   "in_reply_to_user_id" : 820873,
-  "text" : "@chalky You’re on the guest list next time it is used. There is one major disadvantage to the Caja China though, it’s a bitch to clean.",
+  "text" : "@chalky You\u2019re on the guest list next time it is used. There is one major disadvantage to the Caja China though, it\u2019s a bitch to clean.",
   "id" : 250061467724955648,
   "in_reply_to_status_id" : 250046136310702080,
   "created_at" : "Mon Sep 24 02:37:54 +0000 2012",
@@ -803,7 +803,7 @@ Grailbird.data.tweets_2012_09 =
   },
   "id_str" : "249912438722535424",
   "in_reply_to_user_id" : 820873,
-  "text" : "@chalky my buddy has one. I’ve now done 6 pig roasts with it over the years. smallest was 40lb up to a 120lber",
+  "text" : "@chalky my buddy has one. I\u2019ve now done 6 pig roasts with it over the years. smallest was 40lb up to a 120lber",
   "id" : 249912438722535424,
   "in_reply_to_status_id" : 249912202633551872,
   "created_at" : "Sun Sep 23 16:45:43 +0000 2012",
@@ -853,7 +853,7 @@ Grailbird.data.tweets_2012_09 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -898,7 +898,7 @@ Grailbird.data.tweets_2012_09 =
   },
   "id_str" : "249278300214681600",
   "in_reply_to_user_id" : 18576413,
-  "text" : "@heyamylin Congrats on the launch! Hope you’re able to come up for air today :)",
+  "text" : "@heyamylin Congrats on the launch! Hope you\u2019re able to come up for air today :)",
   "id" : 249278300214681600,
   "created_at" : "Fri Sep 21 22:45:52 +0000 2012",
   "in_reply_to_screen_name" : "heyamylin",
@@ -1106,7 +1106,7 @@ Grailbird.data.tweets_2012_09 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1143,13 +1143,13 @@ Grailbird.data.tweets_2012_09 =
       "indices" : [ 112, 132 ],
       "url" : "http://t.co/aghLfm4B",
       "expanded_url" : "http://cl.ly/image/421l3Y0V3b01",
-      "display_url" : "cl.ly/image/421l3Y0V…"
+      "display_url" : "cl.ly/image/421l3Y0V\u2026"
     } ]
   },
   "geo" : {
   },
   "id_str" : "248813384492007425",
-  "text" : "Achievement unlocked. I’m influential about bacon according to Klout. Follow me for all kinds of bacon goodness http://t.co/aghLfm4B",
+  "text" : "Achievement unlocked. I\u2019m influential about bacon according to Klout. Follow me for all kinds of bacon goodness http://t.co/aghLfm4B",
   "id" : 248813384492007425,
   "created_at" : "Thu Sep 20 15:58:28 +0000 2012",
   "user" : {
@@ -1257,7 +1257,7 @@ Grailbird.data.tweets_2012_09 =
         "indices" : [ 113, 133 ],
         "url" : "http://t.co/px7DywTi",
         "expanded_url" : "http://www.redcross.org/support/volunteer",
-        "display_url" : "redcross.org/support/volunt…"
+        "display_url" : "redcross.org/support/volunt\u2026"
       } ]
     },
     "geo" : {
@@ -1271,7 +1271,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "zachbraff",
       "protected" : false,
       "id_str" : "76997832",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3121394138/67685d76432c84d7b82ccf979ae66c81_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3376133649/37b45b0faa23a4cde798521fd069dc1e_normal.jpeg",
       "id" : 76997832,
       "verified" : true
     }
@@ -1416,7 +1416,7 @@ Grailbird.data.tweets_2012_09 =
       "indices" : [ 43, 63 ],
       "url" : "http://t.co/GPqFbMkR",
       "expanded_url" : "http://www.edweek.org/ew/articles/2012/09/17/04incubator_ep.h32.html?cmp=SOC-SHR-TW",
-      "display_url" : "edweek.org/ew/articles/20…"
+      "display_url" : "edweek.org/ew/articles/20\u2026"
     } ]
   },
   "geo" : {
@@ -1647,7 +1647,7 @@ Grailbird.data.tweets_2012_09 =
   },
   "id_str" : "245916877153521665",
   "in_reply_to_user_id" : 75020377,
-  "text" : "@petecurley I’m checking out your presentation on hipchat http://t.co/QB8XG3fm how’d you get the twitter notifications on slide 45?",
+  "text" : "@petecurley I\u2019m checking out your presentation on hipchat http://t.co/QB8XG3fm how\u2019d you get the twitter notifications on slide 45?",
   "id" : 245916877153521665,
   "created_at" : "Wed Sep 12 16:08:47 +0000 2012",
   "in_reply_to_screen_name" : "petecurley",
@@ -1695,7 +1695,7 @@ Grailbird.data.tweets_2012_09 =
       "indices" : [ 68, 88 ],
       "url" : "http://t.co/5Br1RLft",
       "expanded_url" : "http://cl.ly/image/2N0u1c1b262K",
-      "display_url" : "cl.ly/image/2N0u1c1b…"
+      "display_url" : "cl.ly/image/2N0u1c1b\u2026"
     } ]
   },
   "geo" : {
@@ -1723,13 +1723,13 @@ Grailbird.data.tweets_2012_09 =
       "indices" : [ 68, 88 ],
       "url" : "http://t.co/NYYNWclB",
       "expanded_url" : "http://cl.ly/image/462j1T2T2y2N",
-      "display_url" : "cl.ly/image/462j1T2T…"
+      "display_url" : "cl.ly/image/462j1T2T\u2026"
     } ]
   },
   "geo" : {
   },
   "id_str" : "244976953298399232",
-  "text" : "Good thing I didn’t run into the owner of this skin on my run today http://t.co/NYYNWclB",
+  "text" : "Good thing I didn\u2019t run into the owner of this skin on my run today http://t.co/NYYNWclB",
   "id" : 244976953298399232,
   "created_at" : "Mon Sep 10 01:53:51 +0000 2012",
   "user" : {
@@ -1742,7 +1742,7 @@ Grailbird.data.tweets_2012_09 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1800,7 +1800,7 @@ Grailbird.data.tweets_2012_09 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1851,7 +1851,7 @@ Grailbird.data.tweets_2012_09 =
   },
   "id_str" : "244087259522031616",
   "in_reply_to_user_id" : 577359586,
-  "text" : "@MattVelasco0 I didn’t realize you swung both ways. In other news, I’m going to the Giants Dodgers game tonight. Can you saw the same thing?",
+  "text" : "@MattVelasco0 I didn\u2019t realize you swung both ways. In other news, I\u2019m going to the Giants Dodgers game tonight. Can you saw the same thing?",
   "id" : 244087259522031616,
   "in_reply_to_status_id" : 244087061689278464,
   "created_at" : "Fri Sep 07 14:58:32 +0000 2012",
@@ -1885,7 +1885,7 @@ Grailbird.data.tweets_2012_09 =
   },
   "id_str" : "244086863953002496",
   "in_reply_to_user_id" : 577359586,
-  "text" : "@MattVelasco0 I don’t understand how you’re still in Virginia.",
+  "text" : "@MattVelasco0 I don\u2019t understand how you\u2019re still in Virginia.",
   "id" : 244086863953002496,
   "in_reply_to_status_id" : 244086719803166721,
   "created_at" : "Fri Sep 07 14:56:57 +0000 2012",
@@ -1929,7 +1929,7 @@ Grailbird.data.tweets_2012_09 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1974,8 +1974,8 @@ Grailbird.data.tweets_2012_09 =
       "name" : "Watsi",
       "screen_name" : "watsi_org",
       "indices" : [ 123, 133 ],
-      "id_str" : "392560474",
-      "id" : 392560474
+      "id_str" : "1301755610",
+      "id" : 1301755610
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2002,7 +2002,7 @@ Grailbird.data.tweets_2012_09 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Simple",
@@ -2070,7 +2070,7 @@ Grailbird.data.tweets_2012_09 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],

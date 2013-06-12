@@ -194,7 +194,7 @@ Grailbird.data.tweets_2009_01 =
   "geo" : {
   },
   "id_str" : "1144889571",
-  "text" : "Decided to skip the snow today. 33° at Donner Summit and rising with rain in the forcast. I'll try again tomorrow.",
+  "text" : "Decided to skip the snow today. 33\u00B0 at Donner Summit and rising with rain in the forcast. I'll try again tomorrow.",
   "id" : 1144889571,
   "created_at" : "Sat Jan 24 17:13:41 +0000 2009",
   "user" : {

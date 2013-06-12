@@ -199,7 +199,7 @@ Grailbird.data.tweets_2011_10 =
       "indices" : [ 46, 66 ],
       "url" : "http://t.co/X48HGbDY",
       "expanded_url" : "http://blog.readyforzero.com/2011/10/27/readyforzero-product-release/",
-      "display_url" : "blog.readyforzero.com/2011/10/27/rea…"
+      "display_url" : "blog.readyforzero.com/2011/10/27/rea\u2026"
     } ]
   },
   "geo" : {
@@ -233,7 +233,7 @@ Grailbird.data.tweets_2011_10 =
       "indices" : [ 52, 72 ],
       "url" : "http://t.co/svM7IhIZ",
       "expanded_url" : "http://googleblog.blogspot.com/2011/10/more-data-more-transparency-around.html",
-      "display_url" : "googleblog.blogspot.com/2011/10/more-d…"
+      "display_url" : "googleblog.blogspot.com/2011/10/more-d\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "128882147623829506",
@@ -430,7 +430,7 @@ Grailbird.data.tweets_2011_10 =
       "indices" : [ 83, 103 ],
       "url" : "http://t.co/4q3y5Jnj",
       "expanded_url" : "http://www.outsideonline.com/outdoor-adventure/natural-intelligence/You-Need-to-Hear-This.html",
-      "display_url" : "outsideonline.com/outdoor-advent…"
+      "display_url" : "outsideonline.com/outdoor-advent\u2026"
     } ]
   },
   "geo" : {
@@ -638,11 +638,11 @@ Grailbird.data.tweets_2011_10 =
       "id_str" : "15808765",
       "id" : 15808765
     }, {
-      "name" : "Reid Hoffman",
+      "name" : "OLD Reid Hoffman",
       "screen_name" : "quixotic",
       "indices" : [ 102, 111 ],
-      "id_str" : "10078",
-      "id" : 10078
+      "id_str" : "1120330062",
+      "id" : 1120330062
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -727,7 +727,7 @@ Grailbird.data.tweets_2011_10 =
       "screen_name" : "CoryBooker",
       "protected" : false,
       "id_str" : "15808765",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/66982165/Cory_Booker_Twitter_normal.jpg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3782674131/c539d2620120d3c9c49778804b71db85_normal.jpeg",
       "id" : 15808765,
       "verified" : true
     }
@@ -753,11 +753,11 @@ Grailbird.data.tweets_2011_10 =
       "id_str" : "15808765",
       "id" : 15808765
     }, {
-      "name" : "Reid Hoffman",
+      "name" : "OLD Reid Hoffman",
       "screen_name" : "quixotic",
       "indices" : [ 30, 39 ],
-      "id_str" : "10078",
-      "id" : 10078
+      "id_str" : "1120330062",
+      "id" : 1120330062
     }, {
       "name" : "Imagine K12",
       "screen_name" : "imaginek12",
@@ -958,7 +958,7 @@ Grailbird.data.tweets_2011_10 =
       "indices" : [ 120, 140 ],
       "url" : "http://t.co/jdIYg3of",
       "expanded_url" : "http://googlechromereleases.blogspot.com/2011/10/dev-channel-update_18.html",
-      "display_url" : "googlechromereleases.blogspot.com/2011/10/dev-ch…"
+      "display_url" : "googlechromereleases.blogspot.com/2011/10/dev-ch\u2026"
     } ]
   },
   "geo" : {
@@ -992,7 +992,7 @@ Grailbird.data.tweets_2011_10 =
       "indices" : [ 50, 70 ],
       "url" : "http://t.co/EUxcNBLZ",
       "expanded_url" : "http://blogs.ft.com/fttechhub/2011/10/htc-buys-zoodles-for-the-kids/#axzz1b981ulbT",
-      "display_url" : "blogs.ft.com/fttechhub/2011…"
+      "display_url" : "blogs.ft.com/fttechhub/2011\u2026"
     } ]
   },
   "geo" : {
@@ -1009,7 +1009,7 @@ Grailbird.data.tweets_2011_10 =
         "indices" : [ 37, 57 ],
         "url" : "http://t.co/EUxcNBLZ",
         "expanded_url" : "http://blogs.ft.com/fttechhub/2011/10/htc-buys-zoodles-for-the-kids/#axzz1b981ulbT",
-        "display_url" : "blogs.ft.com/fttechhub/2011…"
+        "display_url" : "blogs.ft.com/fttechhub/2011\u2026"
       } ]
     },
     "geo" : {
@@ -1083,7 +1083,7 @@ Grailbird.data.tweets_2011_10 =
       "indices" : [ 51, 71 ],
       "url" : "http://t.co/w24o9HxA",
       "expanded_url" : "http://www.youtube.com/watch?v=up863eQKGUI",
-      "display_url" : "youtube.com/watch?v=up863e…"
+      "display_url" : "youtube.com/watch?v=up863e\u2026"
     } ]
   },
   "geo" : {
@@ -1214,7 +1214,7 @@ Grailbird.data.tweets_2011_10 =
         "indices" : [ 117, 137 ],
         "url" : "http://t.co/0tG3vM06",
         "expanded_url" : "http://www.thenational.ae/news/uae-news/blackberry-cuts-made-roads-safer-police-say",
-        "display_url" : "thenational.ae/news/uae-news/…"
+        "display_url" : "thenational.ae/news/uae-news/\u2026"
       } ]
     },
     "geo" : {
@@ -1639,12 +1639,12 @@ Grailbird.data.tweets_2011_10 =
       "indices" : [ 8, 28 ],
       "url" : "http://t.co/Tn49PRmc",
       "expanded_url" : "https://twitter.com/#!/jsnell/status/121297279675142145",
-      "display_url" : "twitter.com/#!/jsnell/stat…"
+      "display_url" : "twitter.com/#!/jsnell/stat\u2026"
     }, {
       "indices" : [ 33, 53 ],
       "url" : "http://t.co/995V9vEK",
       "expanded_url" : "http://www.macworld.com/article/162869/2011/10/iphone_4s_what_you_need_to_know.html",
-      "display_url" : "macworld.com/article/162869…"
+      "display_url" : "macworld.com/article/162869\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "122447670890610688",

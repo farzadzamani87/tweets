@@ -148,7 +148,7 @@ Grailbird.data.tweets_2012_01 =
       "indices" : [ 27, 47 ],
       "url" : "http://t.co/VuFPi4ZY",
       "expanded_url" : "http://www.youtube.com/watch?v=Z9q8jsVQnNk&feature=youtu.be",
-      "display_url" : "youtube.com/watch?v=Z9q8js…"
+      "display_url" : "youtube.com/watch?v=Z9q8js\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "164213284894031874",
@@ -384,7 +384,7 @@ Grailbird.data.tweets_2012_01 =
       "screen_name" : "ACLU",
       "protected" : false,
       "id_str" : "13393052",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1761782057/profilepic_normal.jpg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3442968578/780c334e7e76453833fc511dd565a64a_normal.jpeg",
       "id" : 13393052,
       "verified" : true
     }
@@ -554,7 +554,7 @@ Grailbird.data.tweets_2012_01 =
       "indices" : [ 106, 126 ],
       "url" : "http://t.co/ascgLF6k",
       "expanded_url" : "http://blogs.scientificamerican.com/psi-vid/2012/01/20/video-making-workshop-101/",
-      "display_url" : "blogs.scientificamerican.com/psi-vid/2012/0…"
+      "display_url" : "blogs.scientificamerican.com/psi-vid/2012/0\u2026"
     } ]
   },
   "geo" : {
@@ -583,7 +583,7 @@ Grailbird.data.tweets_2012_01 =
         "indices" : [ 88, 108 ],
         "url" : "http://t.co/ascgLF6k",
         "expanded_url" : "http://blogs.scientificamerican.com/psi-vid/2012/01/20/video-making-workshop-101/",
-        "display_url" : "blogs.scientificamerican.com/psi-vid/2012/0…"
+        "display_url" : "blogs.scientificamerican.com/psi-vid/2012/0\u2026"
       } ]
     },
     "geo" : {
@@ -640,7 +640,7 @@ Grailbird.data.tweets_2012_01 =
   "geo" : {
   },
   "id_str" : "159710610735644672",
-  "text" : "Photo ████ on Flickr is ████ #SOPABlackout\n#DarkenFlickr http://t.co/UahF7tjp http://t.co/SNzwfAqk",
+  "text" : "Photo \u2588\u2588\u2588\u2588 on Flickr is \u2588\u2588\u2588\u2588 #SOPABlackout\n#DarkenFlickr http://t.co/UahF7tjp http://t.co/SNzwfAqk",
   "id" : 159710610735644672,
   "created_at" : "Wed Jan 18 18:55:51 +0000 2012",
   "user" : {
@@ -1001,7 +1001,7 @@ Grailbird.data.tweets_2012_01 =
       "indices" : [ 73, 93 ],
       "url" : "http://t.co/PeewJQF7",
       "expanded_url" : "http://githire.com/profiles/streeter",
-      "display_url" : "githire.com/profiles/stree…"
+      "display_url" : "githire.com/profiles/stree\u2026"
     } ]
   },
   "geo" : {
@@ -1284,7 +1284,7 @@ Grailbird.data.tweets_2012_01 =
       "screen_name" : "alex_gaynor",
       "protected" : false,
       "id_str" : "14635493",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1794773525/image1328027085_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3363464549/6af933342227b6c6d6cb4fdb6c3d8822_normal.jpeg",
       "id" : 14635493,
       "verified" : false
     }

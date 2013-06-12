@@ -80,7 +80,7 @@ Grailbird.data.tweets_2012_07 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "ClassDojo",
@@ -326,7 +326,7 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 44, 64 ],
       "url" : "http://t.co/TBEGWjc3",
       "expanded_url" : "http://www.fastcoexist.com/1680231/what-will-the-ed-tech-revolution-look-like",
-      "display_url" : "fastcoexist.com/1680231/what-w…"
+      "display_url" : "fastcoexist.com/1680231/what-w\u2026"
     } ]
   },
   "geo" : {
@@ -469,12 +469,12 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 44, 64 ],
       "url" : "http://t.co/4vCP5i1I",
       "expanded_url" : "http://www.amazon.com/gp/history/ref=ya_6",
-      "display_url" : "amazon.com/gp/history/ref…"
+      "display_url" : "amazon.com/gp/history/ref\u2026"
     }, {
       "indices" : [ 93, 114 ],
       "url" : "https://t.co/VRAqwrqS",
       "expanded_url" : "https://www.amazon.com/gp/yourstore/iyr?ie=UTF8&ref_=ya_9",
-      "display_url" : "amazon.com/gp/yourstore/i…"
+      "display_url" : "amazon.com/gp/yourstore/i\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "227496942446469120",
@@ -815,7 +815,7 @@ Grailbird.data.tweets_2012_07 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1031,7 +1031,7 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 94, 114 ],
       "url" : "http://t.co/FdtOi37a",
       "expanded_url" : "http://cl.ly/image/3V3m1s0B3X0V",
-      "display_url" : "cl.ly/image/3V3m1s0B…"
+      "display_url" : "cl.ly/image/3V3m1s0B\u2026"
     } ]
   },
   "geo" : {
@@ -1087,7 +1087,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "KiwiCamo",
+      "name" : "ladykiwixo",
       "screen_name" : "KiwiStreeter",
       "indices" : [ 0, 13 ],
       "id_str" : "55114086",
@@ -1155,7 +1155,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Hannes",
+      "name" : "Hannes Stru\u00DF",
       "screen_name" : "hannesstruss",
       "indices" : [ 0, 13 ],
       "id_str" : "126569565",
@@ -1317,7 +1317,7 @@ Grailbird.data.tweets_2012_07 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1354,7 +1354,7 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 31, 51 ],
       "url" : "http://t.co/mJIwbC8g",
       "expanded_url" : "http://cl.ly/2W3p2L030X2I3L0i2103",
-      "display_url" : "cl.ly/2W3p2L030X2I3L…"
+      "display_url" : "cl.ly/2W3p2L030X2I3L\u2026"
     } ]
   },
   "geo" : {
@@ -1570,7 +1570,7 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 91, 111 ],
       "url" : "http://t.co/crThgHou",
       "expanded_url" : "http://techcrunch.com/2012/07/11/andreessen-learnsprout/",
-      "display_url" : "techcrunch.com/2012/07/11/and…"
+      "display_url" : "techcrunch.com/2012/07/11/and\u2026"
     } ]
   },
   "geo" : {
@@ -1598,7 +1598,7 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 16, 36 ],
       "url" : "http://t.co/rm1MbfuI",
       "expanded_url" : "http://cl.ly/191j1Q2R3G3p150H3e3G",
-      "display_url" : "cl.ly/191j1Q2R3G3p15…"
+      "display_url" : "cl.ly/191j1Q2R3G3p15\u2026"
     } ]
   },
   "geo" : {
@@ -1632,7 +1632,7 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 103, 123 ],
       "url" : "http://t.co/c5vYehl8",
       "expanded_url" : "http://blog.dropbox.com/index.php/new-dropbox-pro-plans/",
-      "display_url" : "blog.dropbox.com/index.php/new-…"
+      "display_url" : "blog.dropbox.com/index.php/new-\u2026"
     } ]
   },
   "geo" : {
@@ -1918,7 +1918,7 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 64, 84 ],
       "url" : "http://t.co/XbSMWIUG",
       "expanded_url" : "http://www.tahoemtnmilers.org/trter/trtindex.html",
-      "display_url" : "tahoemtnmilers.org/trter/trtindex…"
+      "display_url" : "tahoemtnmilers.org/trter/trtindex\u2026"
     } ]
   },
   "geo" : {
@@ -1937,7 +1937,7 @@ Grailbird.data.tweets_2012_07 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2057,7 +2057,7 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 41, 61 ],
       "url" : "http://t.co/F69R9iWI",
       "expanded_url" : "http://sputnikeleven.files.wordpress.com/2012/06/wineselection1.png",
-      "display_url" : "sputnikeleven.files.wordpress.com/2012/06/winese…"
+      "display_url" : "sputnikeleven.files.wordpress.com/2012/06/winese\u2026"
     } ]
   },
   "geo" : {
@@ -2161,7 +2161,7 @@ Grailbird.data.tweets_2012_07 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2379,7 +2379,7 @@ Grailbird.data.tweets_2012_07 =
   },
   "id_str" : "220239726324613120",
   "in_reply_to_user_id" : 16222402,
-  "text" : "@ayiya_hm eres una máquina de correr! cuando es su próximo maratón o el maratón por primera vez??",
+  "text" : "@ayiya_hm eres una m\u00E1quina de correr! cuando es su pr\u00F3ximo marat\u00F3n o el marat\u00F3n por primera vez??",
   "id" : 220239726324613120,
   "in_reply_to_status_id" : 220239168750620673,
   "created_at" : "Tue Jul 03 19:36:57 +0000 2012",
@@ -2425,7 +2425,7 @@ Grailbird.data.tweets_2012_07 =
         "indices" : [ 108, 128 ],
         "url" : "http://t.co/pq9Kp4OG",
         "expanded_url" : "http://daringfireball.net/linked/2012/07/03/microsoft-vf",
-        "display_url" : "daringfireball.net/linked/2012/07…"
+        "display_url" : "daringfireball.net/linked/2012/07\u2026"
       } ]
     },
     "geo" : {
@@ -2526,7 +2526,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "zachbraff",
       "protected" : false,
       "id_str" : "76997832",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3121394138/67685d76432c84d7b82ccf979ae66c81_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3376133649/37b45b0faa23a4cde798521fd069dc1e_normal.jpeg",
       "id" : 76997832,
       "verified" : true
     }
@@ -2591,7 +2591,7 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 114, 134 ],
       "url" : "http://t.co/9DI5CY9M",
       "expanded_url" : "http://itunes.apple.com/us/movie/steve-jobs-the-lost-interview/id536749587",
-      "display_url" : "itunes.apple.com/us/movie/steve…"
+      "display_url" : "itunes.apple.com/us/movie/steve\u2026"
     } ]
   },
   "geo" : {
@@ -2811,7 +2811,7 @@ Grailbird.data.tweets_2012_07 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],

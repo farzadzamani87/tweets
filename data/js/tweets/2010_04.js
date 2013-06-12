@@ -104,7 +104,7 @@ Grailbird.data.tweets_2010_04 =
   "geo" : {
   },
   "id_str" : "12966865352",
-  "text" : "♺ @DevilsCanyon: Which Country Makes The Worlds Worst Beer? : http://is.gd/bKqrh",
+  "text" : "\u267A @DevilsCanyon: Which Country Makes The Worlds Worst Beer? : http://is.gd/bKqrh",
   "id" : 12966865352,
   "created_at" : "Tue Apr 27 21:45:31 +0000 2010",
   "user" : {

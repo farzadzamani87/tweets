@@ -15,7 +15,7 @@ Grailbird.data.tweets_2011_07 =
       "indices" : [ 48, 67 ],
       "url" : "http://t.co/eh6K6Ut",
       "expanded_url" : "http://readthedocs.org/docs/sentry/en/latest/",
-      "display_url" : "readthedocs.org/docs/sentry/en…"
+      "display_url" : "readthedocs.org/docs/sentry/en\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "97146717299941376",
@@ -42,7 +42,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Pete Cashmore",
+      "name" : "Mashable",
       "screen_name" : "mashable",
       "indices" : [ 3, 12 ],
       "id_str" : "972651",
@@ -55,7 +55,7 @@ Grailbird.data.tweets_2011_07 =
   "geo" : {
   },
   "id_str" : "96674546433785856",
-  "text" : "RT @mashable: Arrested Development Movie a Go … Again - http://on.mash.to/oe9u9k",
+  "text" : "RT @mashable: Arrested Development Movie a Go \u2026 Again - http://on.mash.to/oe9u9k",
   "retweeted_status" : {
     "source" : "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
     "entities" : {
@@ -67,15 +67,15 @@ Grailbird.data.tweets_2011_07 =
     "geo" : {
     },
     "id_str" : "96668148857704448",
-    "text" : "Arrested Development Movie a Go … Again - http://on.mash.to/oe9u9k",
+    "text" : "Arrested Development Movie a Go \u2026 Again - http://on.mash.to/oe9u9k",
     "id" : 96668148857704448,
     "created_at" : "Thu Jul 28 19:47:37 +0000 2011",
     "user" : {
-      "name" : "Pete Cashmore",
+      "name" : "Mashable",
       "screen_name" : "mashable",
       "protected" : false,
       "id_str" : "972651",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2015016150/petecashmoreavatar_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3690637553/5c348fee8afbcefa1978004a864a51ce_normal.png",
       "id" : 972651,
       "verified" : true
     }
@@ -158,7 +158,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Old Spice ",
+      "name" : "Old Spice",
       "screen_name" : "OldSpice",
       "indices" : [ 3, 12 ],
       "id_str" : "48797251",
@@ -204,11 +204,11 @@ Grailbird.data.tweets_2011_07 =
     "id" : 95917267639996416,
     "created_at" : "Tue Jul 26 18:03:53 +0000 2011",
     "user" : {
-      "name" : "Old Spice ",
+      "name" : "Old Spice",
       "screen_name" : "OldSpice",
       "protected" : false,
       "id_str" : "48797251",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2681190469/ff08a2ba858131a9c8f7efffe171d5c0_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3493121660/c8fdce62c8eb0705f5cc7b89b9a65277_normal.jpeg",
       "id" : 48797251,
       "verified" : true
     }
@@ -350,7 +350,7 @@ Grailbird.data.tweets_2011_07 =
       "indices" : [ 19, 38 ],
       "url" : "http://t.co/OS26Dkj",
       "expanded_url" : "http://www.iywib.com/birds_with_arms.php",
-      "display_url" : "iywib.com/birds_with_arm…"
+      "display_url" : "iywib.com/birds_with_arm\u2026"
     } ]
   },
   "geo" : {
@@ -381,7 +381,7 @@ Grailbird.data.tweets_2011_07 =
       "indices" : [ 116, 135 ],
       "url" : "http://t.co/hTNiWzz",
       "expanded_url" : "http://www.bbc.co.uk/news/world-europe-14232970",
-      "display_url" : "bbc.co.uk/news/world-eur…"
+      "display_url" : "bbc.co.uk/news/world-eur\u2026"
     } ]
   },
   "geo" : {
@@ -415,7 +415,7 @@ Grailbird.data.tweets_2011_07 =
       "indices" : [ 115, 134 ],
       "url" : "http://t.co/bHJdP95",
       "expanded_url" : "http://flyingmeat.s3.amazonaws.com/misc/tal-patents.mp3",
-      "display_url" : "flyingmeat.s3.amazonaws.com/misc/tal-paten…"
+      "display_url" : "flyingmeat.s3.amazonaws.com/misc/tal-paten\u2026"
     } ]
   },
   "geo" : {
@@ -432,7 +432,7 @@ Grailbird.data.tweets_2011_07 =
         "indices" : [ 104, 123 ],
         "url" : "http://t.co/bHJdP95",
         "expanded_url" : "http://flyingmeat.s3.amazonaws.com/misc/tal-patents.mp3",
-        "display_url" : "flyingmeat.s3.amazonaws.com/misc/tal-paten…"
+        "display_url" : "flyingmeat.s3.amazonaws.com/misc/tal-paten\u2026"
       } ]
     },
     "geo" : {
@@ -561,7 +561,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "alex_gaynor",
       "protected" : false,
       "id_str" : "14635493",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1794773525/image1328027085_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3363464549/6af933342227b6c6d6cb4fdb6c3d8822_normal.jpeg",
       "id" : 14635493,
       "verified" : false
     }
@@ -806,7 +806,7 @@ Grailbird.data.tweets_2011_07 =
       "indices" : [ 91, 110 ],
       "url" : "http://t.co/0AxpxYv",
       "expanded_url" : "https://github.com/django-debug-toolbar/django-debug-toolbar/blob/master/debug_toolbar/panels/cache.py",
-      "display_url" : "github.com/django-debug-t…"
+      "display_url" : "github.com/django-debug-t\u2026"
     } ]
   },
   "geo" : {
@@ -837,7 +837,7 @@ Grailbird.data.tweets_2011_07 =
       "indices" : [ 33, 52 ],
       "url" : "http://t.co/6gslQI5",
       "expanded_url" : "http://www.ednetinsight.com/news-alerts/voice-from-the-field/tech-ideal-vs--the-real-classroom.html",
-      "display_url" : "ednetinsight.com/news-alerts/vo…"
+      "display_url" : "ednetinsight.com/news-alerts/vo\u2026"
     } ]
   },
   "geo" : {
@@ -958,7 +958,7 @@ Grailbird.data.tweets_2011_07 =
       "indices" : [ 59, 78 ],
       "url" : "http://t.co/j7tR5gd",
       "expanded_url" : "http://www.bbc.co.uk/news/world-europe-14135523",
-      "display_url" : "bbc.co.uk/news/world-eur…"
+      "display_url" : "bbc.co.uk/news/world-eur\u2026"
     } ]
   },
   "geo" : {
@@ -1203,7 +1203,7 @@ Grailbird.data.tweets_2011_07 =
   "geo" : {
   },
   "id_str" : "88754183599173632",
-  "text" : "RT @ithayer: Please RT!: I’m nominating ReadyForZero for “The FASTech 50″ list of most innovative companies! http://t.co/iO5EDAr #FASTech50",
+  "text" : "RT @ithayer: Please RT!: I\u2019m nominating ReadyForZero for \u201CThe FASTech 50\u2033 list of most innovative companies! http://t.co/iO5EDAr #FASTech50",
   "retweeted_status" : {
     "source" : "<a href=\"http://twitter.com/tweetbutton\" rel=\"nofollow\">Tweet Button</a>",
     "entities" : {
@@ -1223,7 +1223,7 @@ Grailbird.data.tweets_2011_07 =
     "geo" : {
     },
     "id_str" : "88655047617019904",
-    "text" : "Please RT!: I’m nominating ReadyForZero for “The FASTech 50″ list of most innovative companies! http://t.co/iO5EDAr #FASTech50",
+    "text" : "Please RT!: I\u2019m nominating ReadyForZero for \u201CThe FASTech 50\u2033 list of most innovative companies! http://t.co/iO5EDAr #FASTech50",
     "id" : 88655047617019904,
     "created_at" : "Wed Jul 06 17:06:25 +0000 2011",
     "user" : {
@@ -1273,9 +1273,9 @@ Grailbird.data.tweets_2011_07 =
   "geo" : {
   },
   "id_str" : "88754182332489728",
-  "text" : "RT @ReadyForZero: Please nominate us: I’m nominating @ReadyForZero for “The FASTech 50!\" http://on.wsj.com/lc42MJ #FASTech50",
+  "text" : "RT @ReadyForZero: Please nominate us: I\u2019m nominating @ReadyForZero for \u201CThe FASTech 50!\" http://on.wsj.com/lc42MJ #FASTech50",
   "retweeted_status" : {
-    "source" : "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry®</a>",
+    "source" : "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry\u00AE</a>",
     "entities" : {
       "user_mentions" : [ {
         "name" : "ReadyForZero",
@@ -1294,7 +1294,7 @@ Grailbird.data.tweets_2011_07 =
     "geo" : {
     },
     "id_str" : "88648378140999681",
-    "text" : "Please nominate us: I’m nominating @ReadyForZero for “The FASTech 50!\" http://on.wsj.com/lc42MJ #FASTech50",
+    "text" : "Please nominate us: I\u2019m nominating @ReadyForZero for \u201CThe FASTech 50!\" http://on.wsj.com/lc42MJ #FASTech50",
     "id" : 88648378140999681,
     "created_at" : "Wed Jul 06 16:39:55 +0000 2011",
     "user" : {
@@ -1430,7 +1430,7 @@ Grailbird.data.tweets_2011_07 =
       "indices" : [ 111, 130 ],
       "url" : "http://t.co/0v9qgOV",
       "expanded_url" : "http://www.nba.com/home/playerfile/ray_allen/index.html",
-      "display_url" : "nba.com/home/playerfil…"
+      "display_url" : "nba.com/home/playerfil\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "86834779793801216",
@@ -1508,7 +1508,7 @@ Grailbird.data.tweets_2011_07 =
       "indices" : [ 88, 107 ],
       "url" : "http://t.co/N8BmIjn",
       "expanded_url" : "http://www.petapixel.com/2011/06/29/badly-photoshopped-photo-of-chinese-government-officials-goes-viral/",
-      "display_url" : "petapixel.com/2011/06/29/bad…"
+      "display_url" : "petapixel.com/2011/06/29/bad\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "86683707804618752",

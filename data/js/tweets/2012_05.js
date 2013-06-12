@@ -83,7 +83,7 @@ Grailbird.data.tweets_2012_05 =
       "indices" : [ 29, 49 ],
       "url" : "http://t.co/MVc7P3Fv",
       "expanded_url" : "http://opensignalmaps.com/reports/politics-of-wifi-names.php",
-      "display_url" : "opensignalmaps.com/reports/politi…"
+      "display_url" : "opensignalmaps.com/reports/politi\u2026"
     } ]
   },
   "geo" : {
@@ -172,7 +172,7 @@ Grailbird.data.tweets_2012_05 =
       "screen_name" : "bcuban",
       "protected" : false,
       "id_str" : "14221588",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2194439154/64944_447908398027_503893027_5219968_6665852_n_normal.jpg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3411303129/ef03ccd62bb48facf0897303e727be06_normal.jpeg",
       "id" : 14221588,
       "verified" : true
     }
@@ -198,7 +198,7 @@ Grailbird.data.tweets_2012_05 =
       "indices" : [ 19, 39 ],
       "url" : "http://t.co/YuP6E9EW",
       "expanded_url" : "http://engineering.twitter.com/2012/05/improving-performance-on-twittercom.html",
-      "display_url" : "engineering.twitter.com/2012/05/improv…"
+      "display_url" : "engineering.twitter.com/2012/05/improv\u2026"
     } ]
   },
   "geo" : {
@@ -351,7 +351,7 @@ Grailbird.data.tweets_2012_05 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -515,7 +515,7 @@ Grailbird.data.tweets_2012_05 =
       "indices" : [ 54, 74 ],
       "url" : "http://t.co/diRU1Wza",
       "expanded_url" : "http://news.cnet.com/8301-32973_3-57440513-296/meet-the-tireless-entrepreneur-who-squatted-at-aol/",
-      "display_url" : "news.cnet.com/8301-32973_3-5…"
+      "display_url" : "news.cnet.com/8301-32973_3-5\u2026"
     } ]
   },
   "geo" : {
@@ -705,7 +705,7 @@ Grailbird.data.tweets_2012_05 =
       "screen_name" : "ben_mathes",
       "protected" : false,
       "id_str" : "14207787",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2870676725/9a8070c14aca0e27259be03d25ebe434_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3749142040/2511bac74ca8ac62c70b7e7f3ba45c8b_normal.jpeg",
       "id" : 14207787,
       "verified" : false
     }
@@ -811,7 +811,7 @@ Grailbird.data.tweets_2012_05 =
       "indices" : [ 90, 110 ],
       "url" : "http://t.co/PTX7wTgj",
       "expanded_url" : "http://lifehacker.com/5912152/readyforzero-for-iphone-helps-you-get-control-of-your-debt-from-your-pocket",
-      "display_url" : "lifehacker.com/5912152/readyf…"
+      "display_url" : "lifehacker.com/5912152/readyf\u2026"
     } ]
   },
   "geo" : {
@@ -937,7 +937,7 @@ Grailbird.data.tweets_2012_05 =
       "id_str" : "19017659",
       "profile_image_url_https" : "https://si0.twimg.com/profile_images/1232097271/Work_pic_normal.jpg",
       "id" : 19017659,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 204788038969204736,
@@ -1035,7 +1035,7 @@ Grailbird.data.tweets_2012_05 =
       "indices" : [ 60, 81 ],
       "url" : "https://t.co/37M7mSmq",
       "expanded_url" : "https://en.wikipedia.org/wiki/JPMorgan_Chase_Multibillion-dollar_Trading_Loss_May,_2012",
-      "display_url" : "en.wikipedia.org/wiki/JPMorgan_…"
+      "display_url" : "en.wikipedia.org/wiki/JPMorgan_\u2026"
     } ]
   },
   "geo" : {
@@ -1519,7 +1519,7 @@ Grailbird.data.tweets_2012_05 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1583,7 +1583,7 @@ Grailbird.data.tweets_2012_05 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1762,7 +1762,7 @@ Grailbird.data.tweets_2012_05 =
       "indices" : [ 84, 105 ],
       "url" : "https://t.co/6WvwOO5Y",
       "expanded_url" : "https://github.com/heroku/uri/watchers",
-      "display_url" : "github.com/heroku/uri/wat…"
+      "display_url" : "github.com/heroku/uri/wat\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "200368483291246593",
@@ -1931,7 +1931,7 @@ Grailbird.data.tweets_2012_05 =
       "indices" : [ 99, 119 ],
       "url" : "http://t.co/ujnfRySD",
       "expanded_url" : "http://blogs.kqed.org/checkplease/2012/05/03/back-a-yard-restaurant-info/",
-      "display_url" : "blogs.kqed.org/checkplease/20…"
+      "display_url" : "blogs.kqed.org/checkplease/20\u2026"
     } ]
   },
   "geo" : {

@@ -224,7 +224,7 @@ Grailbird.data.tweets_2011_04 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "T-Mobile USA",
+      "name" : "T-Mobile",
       "screen_name" : "TMobile",
       "indices" : [ 3, 11 ],
       "id_str" : "17338082",
@@ -721,7 +721,7 @@ Grailbird.data.tweets_2011_04 =
       "indices" : [ 73, 92 ],
       "url" : "http://t.co/5OAJSbO",
       "expanded_url" : "http://www.contrast.ie/blog/the-future-of-analytics-products/",
-      "display_url" : "contrast.ie/blog/the-futur…"
+      "display_url" : "contrast.ie/blog/the-futur\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "55664112457363457",
@@ -889,7 +889,7 @@ Grailbird.data.tweets_2011_04 =
   "geo" : {
   },
   "id_str" : "53901428032413696",
-  "text" : "Schrödinger's cat walks into a bar, and it doesn't.",
+  "text" : "Schr\u00F6dinger's cat walks into a bar, and it doesn't.",
   "id" : 53901428032413696,
   "created_at" : "Fri Apr 01 19:27:56 +0000 2011",
   "user" : {

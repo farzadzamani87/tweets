@@ -179,7 +179,7 @@ Grailbird.data.tweets_2012_06 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Pippin Lee",
-      "screen_name" : "PippinLee",
+      "screen_name" : "pippinlee",
       "indices" : [ 0, 10 ],
       "id_str" : "18591169",
       "id" : 18591169
@@ -197,7 +197,7 @@ Grailbird.data.tweets_2012_06 =
   "id" : 218200579170766848,
   "in_reply_to_status_id" : 218191642946043905,
   "created_at" : "Thu Jun 28 04:34:06 +0000 2012",
-  "in_reply_to_screen_name" : "PippinLee",
+  "in_reply_to_screen_name" : "pippinlee",
   "in_reply_to_user_id_str" : "18591169",
   "user" : {
     "name" : "Chris Streeter",
@@ -213,7 +213,7 @@ Grailbird.data.tweets_2012_06 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Pippin Lee",
-      "screen_name" : "PippinLee",
+      "screen_name" : "pippinlee",
       "indices" : [ 0, 10 ],
       "id_str" : "18591169",
       "id" : 18591169
@@ -237,7 +237,7 @@ Grailbird.data.tweets_2012_06 =
   "id" : 218183118715240450,
   "in_reply_to_status_id" : 218159095419637760,
   "created_at" : "Thu Jun 28 03:24:43 +0000 2012",
-  "in_reply_to_screen_name" : "PippinLee",
+  "in_reply_to_screen_name" : "pippinlee",
   "in_reply_to_user_id_str" : "18591169",
   "user" : {
     "name" : "Chris Streeter",
@@ -334,7 +334,7 @@ Grailbird.data.tweets_2012_06 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -470,7 +470,7 @@ Grailbird.data.tweets_2012_06 =
   "geo" : {
   },
   "id_str" : "217266286462382081",
-  "text" : "Happy Birthday and feliz cumpleaños @carlahurtadom!",
+  "text" : "Happy Birthday and feliz cumplea\u00F1os @carlahurtadom!",
   "id" : 217266286462382081,
   "created_at" : "Mon Jun 25 14:41:33 +0000 2012",
   "user" : {
@@ -632,7 +632,7 @@ Grailbird.data.tweets_2012_06 =
   "geo" : {
   },
   "id_str" : "216222015835734017",
-  "text" : "RT @holman: the thing i don’t get about vampires is why they consume blood when burritos exist. c’mon dude, even the undead gotta love b ...",
+  "text" : "RT @holman: the thing i don\u2019t get about vampires is why they consume blood when burritos exist. c\u2019mon dude, even the undead gotta love b ...",
   "retweeted_status" : {
     "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
     "entities" : {
@@ -644,7 +644,7 @@ Grailbird.data.tweets_2012_06 =
     "geo" : {
     },
     "id_str" : "216220719942602753",
-    "text" : "the thing i don’t get about vampires is why they consume blood when burritos exist. c’mon dude, even the undead gotta love burritos.",
+    "text" : "the thing i don\u2019t get about vampires is why they consume blood when burritos exist. c\u2019mon dude, even the undead gotta love burritos.",
     "id" : 216220719942602753,
     "created_at" : "Fri Jun 22 17:26:51 +0000 2012",
     "user" : {
@@ -718,7 +718,7 @@ Grailbird.data.tweets_2012_06 =
       "indices" : [ 31, 51 ],
       "url" : "http://t.co/RFEXANMV",
       "expanded_url" : "http://istestartupparty2012-estw.eventbrite.com",
-      "display_url" : "…estartupparty2012-estw.eventbrite.com"
+      "display_url" : "\u2026estartupparty2012-estw.eventbrite.com"
     } ]
   },
   "geo" : {
@@ -758,7 +758,7 @@ Grailbird.data.tweets_2012_06 =
       "indices" : [ 102, 122 ],
       "url" : "http://t.co/Ggekq4Yr",
       "expanded_url" : "http://blog.firebase.com/post/25613623705/fundraising-post-mortem",
-      "display_url" : "blog.firebase.com/post/256136237…"
+      "display_url" : "blog.firebase.com/post/256136237\u2026"
     } ]
   },
   "geo" : {
@@ -783,8 +783,8 @@ Grailbird.data.tweets_2012_06 =
       "name" : "Watsi",
       "screen_name" : "watsi_org",
       "indices" : [ 0, 10 ],
-      "id_str" : "392560474",
-      "id" : 392560474
+      "id_str" : "1301755610",
+      "id" : 1301755610
     }, {
       "name" : "Chase Adam",
       "screen_name" : "ChaseAdam17",
@@ -858,7 +858,7 @@ Grailbird.data.tweets_2012_06 =
       "indices" : [ 16, 36 ],
       "url" : "http://t.co/mjQarLkx",
       "expanded_url" : "http://cl.ly/1G301Q0g1t3n112o3N1w",
-      "display_url" : "cl.ly/1G301Q0g1t3n11…"
+      "display_url" : "cl.ly/1G301Q0g1t3n11\u2026"
     } ]
   },
   "geo" : {
@@ -1061,7 +1061,7 @@ Grailbird.data.tweets_2012_06 =
       "indices" : [ 76, 96 ],
       "url" : "http://t.co/6lWrr6qI",
       "expanded_url" : "http://bjango.com/articles/designingforretina2/",
-      "display_url" : "bjango.com/articles/desig…"
+      "display_url" : "bjango.com/articles/desig\u2026"
     } ]
   },
   "geo" : {
@@ -1209,7 +1209,7 @@ Grailbird.data.tweets_2012_06 =
       "screen_name" : "ESPNStatsInfo",
       "protected" : false,
       "id_str" : "53120768",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2413425941/3yx5przfhwbp3pu10zpe_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3188908390/17e4accf124403c0b6cb741ebefbdb83_normal.jpeg",
       "id" : 53120768,
       "verified" : true
     }
@@ -1268,7 +1268,7 @@ Grailbird.data.tweets_2012_06 =
       "screen_name" : "csullivan410",
       "protected" : false,
       "id_str" : "114667129",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2913192850/51be7cffc0374567345dbd341c16ab48_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3618227079/6ee849311e768e5c276617925a8a6429_normal.jpeg",
       "id" : 114667129,
       "verified" : false
     }
@@ -1799,7 +1799,7 @@ Grailbird.data.tweets_2012_06 =
       "indices" : [ 24, 45 ],
       "url" : "https://t.co/PzCvM7aQ",
       "expanded_url" : "https://www.youtube.com/watch?v=OFzXaFbxDcM",
-      "display_url" : "youtube.com/watch?v=OFzXaF…"
+      "display_url" : "youtube.com/watch?v=OFzXaF\u2026"
     } ]
   },
   "geo" : {
@@ -1896,7 +1896,7 @@ Grailbird.data.tweets_2012_06 =
       "indices" : [ 65, 85 ],
       "url" : "http://t.co/dHrnsU87",
       "expanded_url" : "http://help.agilebits.com/1Password3/1passwordanywhere.html",
-      "display_url" : "help.agilebits.com/1Password3/1pa…"
+      "display_url" : "help.agilebits.com/1Password3/1pa\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "210490301016584192",
@@ -2003,7 +2003,7 @@ Grailbird.data.tweets_2012_06 =
       "indices" : [ 72, 92 ],
       "url" : "http://t.co/vITh8tUY",
       "expanded_url" : "http://bits.blogs.nytimes.com/2012/06/05/linkedins-leaky-mobile-app-has-access-to-your-meeting-notes/",
-      "display_url" : "bits.blogs.nytimes.com/2012/06/05/lin…"
+      "display_url" : "bits.blogs.nytimes.com/2012/06/05/lin\u2026"
     } ]
   },
   "geo" : {
@@ -2190,7 +2190,7 @@ Grailbird.data.tweets_2012_06 =
       "indices" : [ 98, 118 ],
       "url" : "http://t.co/RGGtHObr",
       "expanded_url" : "http://www.theatlantic.com/international/archive/2012/06/welcome-to-america-please-be-on-time-what-guide-books-tell-foreign-visitors-to-the-us/257993/",
-      "display_url" : "theatlantic.com/international/…"
+      "display_url" : "theatlantic.com/international/\u2026"
     } ]
   },
   "geo" : {
@@ -2224,7 +2224,7 @@ Grailbird.data.tweets_2012_06 =
       "indices" : [ 78, 98 ],
       "url" : "http://t.co/UsCEtxTv",
       "expanded_url" : "http://www.metro.co.uk/weird/900906-edinburgh-marathon-organisers-in-medal-cock-up",
-      "display_url" : "metro.co.uk/weird/900906-e…"
+      "display_url" : "metro.co.uk/weird/900906-e\u2026"
     } ]
   },
   "geo" : {
@@ -2330,13 +2330,13 @@ Grailbird.data.tweets_2012_06 =
       "indices" : [ 79, 99 ],
       "url" : "http://t.co/MliQ2rsU",
       "expanded_url" : "http://www.newschools.org/blog/policy-update-rttt-districts",
-      "display_url" : "newschools.org/blog/policy-up…"
+      "display_url" : "newschools.org/blog/policy-up\u2026"
     } ]
   },
   "geo" : {
   },
   "id_str" : "208571344521146369",
-  "text" : "RT @nsvfSEED: NSVF Policy Update (via educreations): Race to the Top—District: http://t.co/MliQ2rsU",
+  "text" : "RT @nsvfSEED: NSVF Policy Update (via educreations): Race to the Top\u2014District: http://t.co/MliQ2rsU",
   "id" : 208571344521146369,
   "created_at" : "Fri Jun 01 14:50:58 +0000 2012",
   "user" : {

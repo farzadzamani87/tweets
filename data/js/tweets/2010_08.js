@@ -36,7 +36,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "TheOnion",
       "protected" : false,
       "id_str" : "14075928",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1683182196/onion_logo_03_L_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3654358881/476bd54bd9c2bc0f9a38b4e097ce6af5_normal.jpeg",
       "id" : 14075928,
       "verified" : true
     }
@@ -118,8 +118,6 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 37.5383788347, -122.2820913792 ]
   },
   "id_str" : "21709975803",
   "text" : "Felled my first 5.10d at the gym!",

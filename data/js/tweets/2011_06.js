@@ -9,7 +9,7 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 52, 71 ],
       "url" : "http://t.co/yKryw8r",
       "expanded_url" : "http://www.youtube.com/watch?v=HMsdRdgZ16k",
-      "display_url" : "youtube.com/watch?v=HMsdRd…"
+      "display_url" : "youtube.com/watch?v=HMsdRd\u2026"
     } ]
   },
   "geo" : {
@@ -343,7 +343,7 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 50, 69 ],
       "url" : "http://t.co/66SAZqn",
       "expanded_url" : "http://www.crowdrise.com/Khanacademyproject/fundraiser/WIRED",
-      "display_url" : "crowdrise.com/Khanacademypro…"
+      "display_url" : "crowdrise.com/Khanacademypro\u2026"
     } ]
   },
   "geo" : {
@@ -365,7 +365,7 @@ Grailbird.data.tweets_2011_06 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "T-Mobile USA",
+      "name" : "T-Mobile",
       "screen_name" : "TMobile",
       "indices" : [ 0, 8 ],
       "id_str" : "17338082",
@@ -402,7 +402,7 @@ Grailbird.data.tweets_2011_06 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "T-Mobile USA",
+      "name" : "T-Mobile",
       "screen_name" : "TMobile",
       "indices" : [ 0, 8 ],
       "id_str" : "17338082",
@@ -439,7 +439,7 @@ Grailbird.data.tweets_2011_06 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "T-Mobile USA",
+      "name" : "T-Mobile",
       "screen_name" : "TMobile",
       "indices" : [ 0, 8 ],
       "id_str" : "17338082",
@@ -571,7 +571,7 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 45, 64 ],
       "url" : "http://t.co/5hHqD59",
       "expanded_url" : "http://gallery.chrisstreeter.com/california/#5602889164843230114",
-      "display_url" : "gallery.chrisstreeter.com/california/#56…"
+      "display_url" : "gallery.chrisstreeter.com/california/#56\u2026"
     } ]
   },
   "geo" : {
@@ -705,7 +705,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "StephenAtHome",
       "protected" : false,
       "id_str" : "16303106",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/568525297/Picture_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3291883997/fae26d278dac0db23cc44e0465f42c4a_normal.png",
       "id" : 16303106,
       "verified" : true
     }
@@ -731,7 +731,7 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 75, 94 ],
       "url" : "http://t.co/eSj6vk7",
       "expanded_url" : "http://newsfeed.time.com/2011/06/14/oh-snap-in-jab-at-lebron-governor-makes-mavericks-honorary-ohioans/",
-      "display_url" : "newsfeed.time.com/2011/06/14/oh-…"
+      "display_url" : "newsfeed.time.com/2011/06/14/oh-\u2026"
     } ]
   },
   "geo" : {
@@ -799,7 +799,7 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 111, 130 ],
       "url" : "http://t.co/7M9z9zM",
       "expanded_url" : "http://blog.readyforzero.com/2011/06/14/venture-funded/",
-      "display_url" : "blog.readyforzero.com/2011/06/14/ven…"
+      "display_url" : "blog.readyforzero.com/2011/06/14/ven\u2026"
     } ]
   },
   "geo" : {
@@ -962,7 +962,7 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 105, 124 ],
       "url" : "http://t.co/DWwkWhM",
       "expanded_url" : "http://developer.android.com/sdk/android-3.1.html",
-      "display_url" : "developer.android.com/sdk/android-3.…"
+      "display_url" : "developer.android.com/sdk/android-3.\u2026"
     } ]
   },
   "geo" : {
@@ -1008,7 +1008,7 @@ Grailbird.data.tweets_2011_06 =
   "geo" : {
   },
   "id_str" : "78593058660290560",
-  "text" : "Tried out 500px. My first upload: “Resting” by Chris Streeter (@chrisstreeter) http://t.co/wCUYSGp via @500px",
+  "text" : "Tried out 500px. My first upload: \u201CResting\u201D by Chris Streeter (@chrisstreeter) http://t.co/wCUYSGp via @500px",
   "id" : 78593058660290560,
   "created_at" : "Wed Jun 08 22:43:40 +0000 2011",
   "user" : {
@@ -1057,7 +1057,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "fredwilson",
       "protected" : false,
       "id_str" : "1000591",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3002686709/64fafcf4899103d526f932953743bc8a_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3580641456/82c873940343750638b7caa04b4652fe_normal.jpeg",
       "id" : 1000591,
       "verified" : true
     }
@@ -1175,7 +1175,7 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 87, 106 ],
       "url" : "http://t.co/owxiYm3",
       "expanded_url" : "http://livingsocial.com/deals/40861-25-to-spend-on-food-and-drink/social_share?ref=addthis-share5&rui=21335495",
-      "display_url" : "livingsocial.com/deals/40861-25…"
+      "display_url" : "livingsocial.com/deals/40861-25\u2026"
     } ]
   },
   "geo" : {
