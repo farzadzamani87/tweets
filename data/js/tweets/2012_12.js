@@ -2485,7 +2485,7 @@ Grailbird.data.tweets_2012_12 =
       "screen_name" : "Teachbaltshaw",
       "protected" : false,
       "id_str" : "519560171",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2060438613/image_normal.jpg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000069101448/b065ed48b5e322532f9cbcf4d21ab22d_normal.jpeg",
       "id" : 519560171,
       "verified" : false
     }

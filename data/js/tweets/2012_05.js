@@ -705,7 +705,7 @@ Grailbird.data.tweets_2012_05 =
       "screen_name" : "ben_mathes",
       "protected" : false,
       "id_str" : "14207787",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3749142040/2511bac74ca8ac62c70b7e7f3ba45c8b_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000112004479/e4f61f05512a9cf68b1b721de628e2bd_normal.jpeg",
       "id" : 14207787,
       "verified" : false
     }

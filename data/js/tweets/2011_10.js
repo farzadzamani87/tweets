@@ -727,7 +727,7 @@ Grailbird.data.tweets_2011_10 =
       "screen_name" : "CoryBooker",
       "protected" : false,
       "id_str" : "15808765",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3782674131/c539d2620120d3c9c49778804b71db85_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000054714489/1b613bbcf0fb56cca9be197254fe5efb_normal.png",
       "id" : 15808765,
       "verified" : true
     }

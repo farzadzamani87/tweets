@@ -831,7 +831,7 @@ Grailbird.data.tweets_2011_11 =
       "id_str" : "14899012",
       "id" : 14899012
     }, {
-      "name" : "Kirsten Winkler",
+      "name" : "EDUKWEST",
       "screen_name" : "edukwest",
       "indices" : [ 24, 33 ],
       "id_str" : "63241187",
@@ -872,7 +872,7 @@ Grailbird.data.tweets_2011_11 =
     "source" : "web",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Kirsten Winkler",
+        "name" : "EDUKWEST",
         "screen_name" : "edukwest",
         "indices" : [ 4, 13 ],
         "id_str" : "63241187",

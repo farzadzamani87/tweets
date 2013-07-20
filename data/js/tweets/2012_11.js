@@ -1521,7 +1521,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "<a href=\"http://twitter.com/tweetbutton\" rel=\"nofollow\">Tweet Button</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Wired",
+      "name" : "WIRED",
       "screen_name" : "wired",
       "indices" : [ 23, 29 ],
       "id_str" : "1344951",
@@ -2159,7 +2159,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "SFGiants",
       "protected" : false,
       "id_str" : "43024351",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3570779499/88b00b38f6fcaf6cd6bceb1349e9c8a0_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000126294888/25785d97e74d1079c55c420a18261f3e_normal.jpeg",
       "id" : 43024351,
       "verified" : true
     }

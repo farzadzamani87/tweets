@@ -1105,7 +1105,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "nsvfSEED",
       "protected" : false,
       "id_str" : "462336970",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1750716372/SeedFundlogo_twitter__normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000045434933/3e0719923d862d6c39725cc3da31053a_normal.png",
       "id" : 462336970,
       "verified" : false
     }

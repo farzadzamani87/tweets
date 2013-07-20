@@ -845,7 +845,7 @@ Grailbird.data.tweets_2013_01 =
       "screen_name" : "ChaseAdam17",
       "protected" : false,
       "id_str" : "393129393",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3249743986/dbcbb7f8cd4852b3ca6e1e0e211134c5_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000051134426/9a819ee8faf4679a7466b0f658876e11_normal.jpeg",
       "id" : 393129393,
       "verified" : false
     }
@@ -2387,7 +2387,7 @@ Grailbird.data.tweets_2013_01 =
       "screen_name" : "SportsCenter",
       "protected" : false,
       "id_str" : "26257166",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/344513261567190810/397a42648d71e68327b9179258ec2d90_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000056243605/397a42648d71e68327b9179258ec2d90_normal.png",
       "id" : 26257166,
       "verified" : true
     }

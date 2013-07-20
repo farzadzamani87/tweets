@@ -1868,7 +1868,7 @@ Grailbird.data.tweets_2013_02 =
       "screen_name" : "EATBLACKMOMBA6",
       "protected" : false,
       "id_str" : "230240193",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3741775474/739d1436794d8c83188c5e1a9a382281_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000102495121/1fb36a3b03de3fbe906576dd7f64f859_normal.jpeg",
       "id" : 230240193,
       "verified" : false
     }
@@ -1915,7 +1915,7 @@ Grailbird.data.tweets_2013_02 =
       "screen_name" : "EATBLACKMOMBA6",
       "protected" : false,
       "id_str" : "230240193",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3741775474/739d1436794d8c83188c5e1a9a382281_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000102495121/1fb36a3b03de3fbe906576dd7f64f859_normal.jpeg",
       "id" : 230240193,
       "verified" : false
     }

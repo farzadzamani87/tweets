@@ -116,7 +116,7 @@ Grailbird.data.tweets_2012_01 =
       "screen_name" : "professorpost",
       "protected" : false,
       "id_str" : "14818177",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2652352999/2110a62b3880009c3cfcd5a632ee0c90_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000003386143/1a6a4a03c96042c37a545803e6373e1c_normal.jpeg",
       "id" : 14818177,
       "verified" : false
     }
@@ -384,7 +384,7 @@ Grailbird.data.tweets_2012_01 =
       "screen_name" : "ACLU",
       "protected" : false,
       "id_str" : "13393052",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3442968578/780c334e7e76453833fc511dd565a64a_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000082667914/51f2fca505e545c5273bcfc21a50ab29_normal.jpeg",
       "id" : 13393052,
       "verified" : true
     }

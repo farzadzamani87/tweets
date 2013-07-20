@@ -623,11 +623,11 @@ Grailbird.data.tweets_2012_09 =
       "id_str" : "315617667",
       "id" : 315617667
     }, {
-      "name" : "NoRedInk",
+      "name" : "New Home= @noredink",
       "screen_name" : "no_red_ink",
       "indices" : [ 29, 40 ],
-      "id_str" : "325658649",
-      "id" : 325658649
+      "id_str" : "1566776514",
+      "id" : 1566776514
     }, {
       "name" : "Imagine K12",
       "screen_name" : "imaginek12",

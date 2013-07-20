@@ -780,7 +780,7 @@ Grailbird.data.tweets_2011_12 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kirsten Winkler",
+      "name" : "EDUKWEST",
       "screen_name" : "edukwest",
       "indices" : [ 3, 12 ],
       "id_str" : "63241187",
@@ -829,11 +829,11 @@ Grailbird.data.tweets_2011_12 =
     "in_reply_to_screen_name" : "educreations",
     "in_reply_to_user_id_str" : "223638132",
     "user" : {
-      "name" : "Kirsten Winkler",
+      "name" : "EDUKWEST",
       "screen_name" : "edukwest",
       "protected" : false,
       "id_str" : "63241187",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/641728628/twitterpic_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000017364513/69f9aa83bdf0139d377474b34dee6672_normal.jpeg",
       "id" : 63241187,
       "verified" : false
     }

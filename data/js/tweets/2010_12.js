@@ -722,7 +722,7 @@ Grailbird.data.tweets_2010_12 =
       "id_str" : "16589206",
       "profile_image_url_https" : "https://si0.twimg.com/profile_images/2984541673/42d1082e2fde2226eb4b1a1cba801d15_normal.png",
       "id" : 16589206,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 11692280104624128,
