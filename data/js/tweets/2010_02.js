@@ -7,12 +7,11 @@ Grailbird.data.tweets_2010_02 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "9797793247",
   "text" : "Edgewood to Skyline: http://short.to/194m1",
   "id" : 9797793247,
-  "created_at" : "Sun Feb 28 23:24:46 +0000 2010",
+  "created_at" : "2010-02-28 00:00:00 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -30,46 +29,11 @@ Grailbird.data.tweets_2010_02 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "9749340298",
   "text" : "GO BEARS! PAC 10 CHAMPS!!",
   "id" : 9749340298,
-  "created_at" : "Sat Feb 27 22:53:37 +0000 2010",
-  "user" : {
-    "name" : "Chris Streeter",
-    "screen_name" : "chrisstreeter",
-    "protected" : false,
-    "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
-    "id" : 15344895,
-    "verified" : false
-  }
-}, {
-  "source" : "web",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Yule Schmidt",
-      "screen_name" : "schyule",
-      "indices" : [ 0, 8 ],
-      "id_str" : "43171338",
-      "id" : 43171338
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "9702051440",
-  "geo" : {
-  },
-  "id_str" : "9702136740",
-  "in_reply_to_user_id" : 43171338,
-  "text" : "@schyule I'm trying to hold out til a more appropriate dinner time. I'm thinking that a stop by Whole Foods for dinner is in the cards :)",
-  "id" : 9702136740,
-  "in_reply_to_status_id" : 9702051440,
-  "created_at" : "Fri Feb 26 23:30:04 +0000 2010",
-  "in_reply_to_screen_name" : "schyule",
-  "in_reply_to_user_id_str" : "43171338",
+  "created_at" : "2010-02-27 00:00:00 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -100,14 +64,46 @@ Grailbird.data.tweets_2010_02 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "9700697245",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "9700880235",
   "in_reply_to_user_id" : 43171338,
   "text" : "@schyule @blannamae Despite having lunch already, now I'm hungry again...",
   "id" : 9700880235,
   "in_reply_to_status_id" : 9700697245,
-  "created_at" : "Fri Feb 26 22:58:14 +0000 2010",
+  "created_at" : "2010-02-26 00:00:00 +0000",
+  "in_reply_to_screen_name" : "schyule",
+  "in_reply_to_user_id_str" : "43171338",
+  "user" : {
+    "name" : "Chris Streeter",
+    "screen_name" : "chrisstreeter",
+    "protected" : false,
+    "id_str" : "15344895",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "id" : 15344895,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Yule Schmidt",
+      "screen_name" : "schyule",
+      "indices" : [ 0, 8 ],
+      "id_str" : "43171338",
+      "id" : 43171338
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "9702051440",
+  "geo" : { },
+  "id_str" : "9702136740",
+  "in_reply_to_user_id" : 43171338,
+  "text" : "@schyule I'm trying to hold out til a more appropriate dinner time. I'm thinking that a stop by Whole Foods for dinner is in the cards :)",
+  "id" : 9702136740,
+  "in_reply_to_status_id" : 9702051440,
+  "created_at" : "2010-02-26 00:00:00 +0000",
   "in_reply_to_screen_name" : "schyule",
   "in_reply_to_user_id_str" : "43171338",
   "user" : {
@@ -127,12 +123,11 @@ Grailbird.data.tweets_2010_02 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "9634560406",
   "text" : "Biked to work today. 10 miles down, 10 more to get home.",
   "id" : 9634560406,
-  "created_at" : "Thu Feb 25 17:15:45 +0000 2010",
+  "created_at" : "2010-02-25 00:00:00 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -150,12 +145,11 @@ Grailbird.data.tweets_2010_02 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "9371266901",
   "text" : "Tahoe for the weekend. Homewood and Alpine here I come!",
   "id" : 9371266901,
-  "created_at" : "Sat Feb 20 05:24:42 +0000 2010",
+  "created_at" : "2010-02-20 00:00:00 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -173,12 +167,11 @@ Grailbird.data.tweets_2010_02 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "9212916866",
   "text" : "Dropbox is awesomely magic.",
   "id" : 9212916866,
-  "created_at" : "Wed Feb 17 01:47:49 +0000 2010",
+  "created_at" : "2010-02-17 00:00:00 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -196,12 +189,33 @@ Grailbird.data.tweets_2010_02 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "9045605936",
   "text" : "Night skiing at Boreal and now a weekend in Truckee.",
   "id" : 9045605936,
-  "created_at" : "Sat Feb 13 06:17:27 +0000 2010",
+  "created_at" : "2010-02-13 00:00:00 +0000",
+  "user" : {
+    "name" : "Chris Streeter",
+    "screen_name" : "chrisstreeter",
+    "protected" : false,
+    "id_str" : "15344895",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "id" : 15344895,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://flickr.com/services/twitter/\" rel=\"nofollow\">Flickr</a>",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "8945026468",
+  "text" : "Russian River Sampler http://flic.kr/p/7C9KBg",
+  "id" : 8945026468,
+  "created_at" : "2010-02-12 00:00:00 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -226,39 +240,15 @@ Grailbird.data.tweets_2010_02 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "8947899170",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "8969211840",
   "in_reply_to_user_id" : 814274,
   "text" : "@beornlake Let me know what you find out. I'm interested in the same thing...",
   "id" : 8969211840,
   "in_reply_to_status_id" : 8947899170,
-  "created_at" : "Thu Feb 11 17:13:10 +0000 2010",
+  "created_at" : "2010-02-12 00:00:00 +0000",
   "in_reply_to_screen_name" : "beornlake",
   "in_reply_to_user_id_str" : "814274",
-  "user" : {
-    "name" : "Chris Streeter",
-    "screen_name" : "chrisstreeter",
-    "protected" : false,
-    "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
-    "id" : 15344895,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://flickr.com/services/twitter/\" rel=\"nofollow\">Flickr</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "8945026468",
-  "text" : "Russian River Sampler http://flic.kr/p/7C9KBg",
-  "id" : 8945026468,
-  "created_at" : "Thu Feb 11 03:48:45 +0000 2010",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -276,12 +266,33 @@ Grailbird.data.tweets_2010_02 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "8862306759",
   "text" : "Aperture 3 released! Now I need a computer capable of running it.",
   "id" : 8862306759,
-  "created_at" : "Tue Feb 09 17:05:52 +0000 2010",
+  "created_at" : "2010-02-09 00:00:00 +0000",
+  "user" : {
+    "name" : "Chris Streeter",
+    "screen_name" : "chrisstreeter",
+    "protected" : false,
+    "id_str" : "15344895",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "id" : 15344895,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://twidroid.com\" rel=\"nofollow\">twidroid</a>",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "8772993793",
+  "text" : "Beerunch bound on this beautiful sunny winter day.",
+  "id" : 8772993793,
+  "created_at" : "2010-02-07 00:00:00 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -305,8 +316,7 @@ Grailbird.data.tweets_2010_02 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "8773093017",
   "text" : "RT @amdavidson: Best Use of Mac Genie Effect. EVER. http://post.ly/McjC",
   "retweeted_status" : {
@@ -317,12 +327,11 @@ Grailbird.data.tweets_2010_02 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "8763766989",
     "text" : "Best Use of Mac Genie Effect. EVER. http://post.ly/McjC",
     "id" : 8763766989,
-    "created_at" : "Sun Feb 07 13:13:12 +0000 2010",
+    "created_at" : "2010-02-07 13:13:12 +0000",
     "user" : {
       "name" : "Andrew Davidson",
       "screen_name" : "amdavidson",
@@ -334,7 +343,7 @@ Grailbird.data.tweets_2010_02 =
     }
   },
   "id" : 8773093017,
-  "created_at" : "Sun Feb 07 18:14:41 +0000 2010",
+  "created_at" : "2010-02-07 00:00:00 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -352,58 +361,11 @@ Grailbird.data.tweets_2010_02 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "8772993793",
-  "text" : "Beerunch bound on this beautiful sunny winter day.",
-  "id" : 8772993793,
-  "created_at" : "Sun Feb 07 18:11:36 +0000 2010",
-  "user" : {
-    "name" : "Chris Streeter",
-    "screen_name" : "chrisstreeter",
-    "protected" : false,
-    "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
-    "id" : 15344895,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twidroid.com\" rel=\"nofollow\">twidroid</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "8731697620",
   "text" : "Running in the rain in not as fun with a stomach ache.",
   "id" : 8731697620,
-  "created_at" : "Sat Feb 06 18:37:11 +0000 2010",
-  "user" : {
-    "name" : "Chris Streeter",
-    "screen_name" : "chrisstreeter",
-    "protected" : false,
-    "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
-    "id" : 15344895,
-    "verified" : false
-  }
-}, {
-  "source" : "web",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "8687271080",
-  "text" : "Carne Asada in the slow cooker, it's whats for dinner.",
-  "id" : 8687271080,
-  "created_at" : "Fri Feb 05 18:06:55 +0000 2010",
+  "created_at" : "2010-02-06 00:00:00 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -428,16 +390,37 @@ Grailbird.data.tweets_2010_02 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "8685727570",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "8687215328",
   "in_reply_to_user_id" : 10200322,
   "text" : "@amdavidson Especially for depositing checks!",
   "id" : 8687215328,
   "in_reply_to_status_id" : 8685727570,
-  "created_at" : "Fri Feb 05 18:05:21 +0000 2010",
+  "created_at" : "2010-02-05 00:00:00 +0000",
   "in_reply_to_screen_name" : "amdavidson",
   "in_reply_to_user_id_str" : "10200322",
+  "user" : {
+    "name" : "Chris Streeter",
+    "screen_name" : "chrisstreeter",
+    "protected" : false,
+    "id_str" : "15344895",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "id" : 15344895,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "8687271080",
+  "text" : "Carne Asada in the slow cooker, it's whats for dinner.",
+  "id" : 8687271080,
+  "created_at" : "2010-02-05 00:00:00 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -464,8 +447,7 @@ Grailbird.data.tweets_2010_02 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "8572444399",
   "text" : "RT @officeformac: Subscribe to Office for Mac how-to podcasts in iTunes: http://tinyurl.com/yjrvm7m #officeformac",
   "retweeted_status" : {
@@ -479,12 +461,11 @@ Grailbird.data.tweets_2010_02 =
       } ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "8546500308",
     "text" : "Subscribe to Office for Mac how-to podcasts in iTunes: http://tinyurl.com/yjrvm7m #officeformac",
     "id" : 8546500308,
-    "created_at" : "Tue Feb 02 15:34:08 +0000 2010",
+    "created_at" : "2010-02-02 15:34:08 +0000",
     "user" : {
       "name" : "Office for Mac",
       "screen_name" : "officeformac",
@@ -496,7 +477,7 @@ Grailbird.data.tweets_2010_02 =
     }
   },
   "id" : 8572444399,
-  "created_at" : "Wed Feb 03 03:33:43 +0000 2010",
+  "created_at" : "2010-02-03 00:00:00 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",

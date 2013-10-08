@@ -19,14 +19,13 @@ Grailbird.data.tweets_2011_07 =
     } ]
   },
   "in_reply_to_status_id_str" : "97146717299941376",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "97147023672881153",
   "in_reply_to_user_id" : 15161274,
   "text" : "@brettkopf We use a django app that is similar: http://t.co/eh6K6Ut and it is free too",
   "id" : 97147023672881153,
   "in_reply_to_status_id" : 97146717299941376,
-  "created_at" : "Sat Jul 30 03:30:30 +0000 2011",
+  "created_at" : "2011-07-30 03:30:30 +0000",
   "in_reply_to_screen_name" : "brettkopf",
   "in_reply_to_user_id_str" : "15161274",
   "user" : {
@@ -52,8 +51,7 @@ Grailbird.data.tweets_2011_07 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "96674546433785856",
   "text" : "RT @mashable: Arrested Development Movie a Go \u2026 Again - http://on.mash.to/oe9u9k",
   "retweeted_status" : {
@@ -64,12 +62,11 @@ Grailbird.data.tweets_2011_07 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "96668148857704448",
     "text" : "Arrested Development Movie a Go \u2026 Again - http://on.mash.to/oe9u9k",
     "id" : 96668148857704448,
-    "created_at" : "Thu Jul 28 19:47:37 +0000 2011",
+    "created_at" : "2011-07-28 19:47:37 +0000",
     "user" : {
       "name" : "Mashable",
       "screen_name" : "mashable",
@@ -81,7 +78,7 @@ Grailbird.data.tweets_2011_07 =
     }
   },
   "id" : 96674546433785856,
-  "created_at" : "Thu Jul 28 20:13:02 +0000 2011",
+  "created_at" : "2011-07-28 20:13:02 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -110,8 +107,7 @@ Grailbird.data.tweets_2011_07 =
       "display_url" : "twitpic.com/5wntuh"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "96265692785029120",
   "text" : "RT @OctoberJones: I'm on the train. This safety poster worries me http://t.co/4nnH8uK",
   "retweeted_status" : {
@@ -127,12 +123,11 @@ Grailbird.data.tweets_2011_07 =
         "display_url" : "twitpic.com/5wntuh"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "96217685666439168",
     "text" : "I'm on the train. This safety poster worries me http://t.co/4nnH8uK",
     "id" : 96217685666439168,
-    "created_at" : "Wed Jul 27 13:57:38 +0000 2011",
+    "created_at" : "2011-07-27 13:57:38 +0000",
     "user" : {
       "name" : "October Jones",
       "screen_name" : "OctoberJones",
@@ -144,7 +139,7 @@ Grailbird.data.tweets_2011_07 =
     }
   },
   "id" : 96265692785029120,
-  "created_at" : "Wed Jul 27 17:08:24 +0000 2011",
+  "created_at" : "2011-07-27 17:08:24 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -174,8 +169,7 @@ Grailbird.data.tweets_2011_07 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "95965274804719616",
   "text" : "RT @OldSpice: .@Aykis16 wrote: \"If Old Spice Guy ended the NFL lockout, can New Old Spice Guy Fabio please end the NBA lockout?\" http:// ...",
   "retweeted_status" : {
@@ -197,24 +191,23 @@ Grailbird.data.tweets_2011_07 =
         "display_url" : "youtu.be/C07hQisoFSg"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "95917267639996416",
     "text" : ".@Aykis16 wrote: \"If Old Spice Guy ended the NFL lockout, can New Old Spice Guy Fabio please end the NBA lockout?\" http://t.co/7ZIJ3Nz",
     "id" : 95917267639996416,
-    "created_at" : "Tue Jul 26 18:03:53 +0000 2011",
+    "created_at" : "2011-07-26 18:03:53 +0000",
     "user" : {
       "name" : "Old Spice",
       "screen_name" : "OldSpice",
       "protected" : false,
       "id_str" : "48797251",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3493121660/c8fdce62c8eb0705f5cc7b89b9a65277_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000411090913/d6fe12160b2da70465c39fc7ff434094_normal.jpeg",
       "id" : 48797251,
       "verified" : true
     }
   },
   "id" : 95965274804719616,
-  "created_at" : "Tue Jul 26 21:14:39 +0000 2011",
+  "created_at" : "2011-07-26 21:14:39 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -241,8 +234,7 @@ Grailbird.data.tweets_2011_07 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "95739934572412928",
   "text" : "RT @educreations: Just two more days until we launch our closed beta! Be sure to sign up for a spot in the beta - educreations.com #edtech",
   "retweeted_status" : {
@@ -256,12 +248,11 @@ Grailbird.data.tweets_2011_07 =
       } ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "95739891245252608",
     "text" : "Just two more days until we launch our closed beta! Be sure to sign up for a spot in the beta - educreations.com #edtech",
     "id" : 95739891245252608,
-    "created_at" : "Tue Jul 26 06:19:03 +0000 2011",
+    "created_at" : "2011-07-26 06:19:03 +0000",
     "user" : {
       "name" : "educreations",
       "screen_name" : "educreations",
@@ -273,7 +264,7 @@ Grailbird.data.tweets_2011_07 =
     }
   },
   "id" : 95739934572412928,
-  "created_at" : "Tue Jul 26 06:19:13 +0000 2011",
+  "created_at" : "2011-07-26 06:19:13 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -296,12 +287,11 @@ Grailbird.data.tweets_2011_07 =
       "display_url" : "educreations.com"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "95732830792974336",
   "text" : "Just two more days til we launch our closed beta! Be sure to sign up for a spot in the beta - http://t.co/tWk75mp",
   "id" : 95732830792974336,
-  "created_at" : "Tue Jul 26 05:51:00 +0000 2011",
+  "created_at" : "2011-07-26 05:51:00 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -319,12 +309,11 @@ Grailbird.data.tweets_2011_07 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "94875119058563072",
   "text" : "Pictures from Oakland Docks last weekend http://flic.kr/s/aHsjvo2fna",
   "id" : 94875119058563072,
-  "created_at" : "Sat Jul 23 21:02:45 +0000 2011",
+  "created_at" : "2011-07-23 21:02:45 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -353,13 +342,12 @@ Grailbird.data.tweets_2011_07 =
       "display_url" : "iywib.com/birds_with_arm\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "94203741208723456",
   "in_reply_to_user_id" : 19261045,
   "text" : "@ConDri enjoy this http://t.co/OS26Dkj",
   "id" : 94203741208723456,
-  "created_at" : "Fri Jul 22 00:34:56 +0000 2011",
+  "created_at" : "2011-07-22 00:34:56 +0000",
   "in_reply_to_screen_name" : "ConDri",
   "in_reply_to_user_id_str" : "19261045",
   "user" : {
@@ -384,12 +372,11 @@ Grailbird.data.tweets_2011_07 =
       "display_url" : "bbc.co.uk/news/world-eur\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "94138990915108864",
   "text" : "Russia classifies beer as alcoholic. Until now anything with less than 10% abv in Russia was considered a foodstuff http://t.co/hTNiWzz",
   "id" : 94138990915108864,
-  "created_at" : "Thu Jul 21 20:17:39 +0000 2011",
+  "created_at" : "2011-07-21 20:17:39 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -418,8 +405,7 @@ Grailbird.data.tweets_2011_07 =
       "display_url" : "flyingmeat.s3.amazonaws.com/misc/tal-paten\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "94138202524364800",
   "text" : "RT @ccgus: I have a feeling the next This American Life is going to be very very popular among iOS/Mac indie devs: http://t.co/bHJdP95 ( ...",
   "retweeted_status" : {
@@ -435,12 +421,11 @@ Grailbird.data.tweets_2011_07 =
         "display_url" : "flyingmeat.s3.amazonaws.com/misc/tal-paten\u2026"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "94112979221626883",
     "text" : "I have a feeling the next This American Life is going to be very very popular among iOS/Mac indie devs: http://t.co/bHJdP95 ( Patents! )",
     "id" : 94112979221626883,
-    "created_at" : "Thu Jul 21 18:34:17 +0000 2011",
+    "created_at" : "2011-07-21 18:34:17 +0000",
     "user" : {
       "name" : "Gus Mueller",
       "screen_name" : "ccgus",
@@ -452,7 +437,7 @@ Grailbird.data.tweets_2011_07 =
     }
   },
   "id" : 94138202524364800,
-  "created_at" : "Thu Jul 21 20:14:31 +0000 2011",
+  "created_at" : "2011-07-21 20:14:31 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -477,14 +462,13 @@ Grailbird.data.tweets_2011_07 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "93429084574588929",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "93431056610508800",
   "in_reply_to_user_id" : 14473864,
   "text" : "@alexras hahaha. good work.",
   "id" : 93431056610508800,
   "in_reply_to_status_id" : 93429084574588929,
-  "created_at" : "Tue Jul 19 21:24:34 +0000 2011",
+  "created_at" : "2011-07-19 21:24:34 +0000",
   "in_reply_to_screen_name" : "alexras",
   "in_reply_to_user_id_str" : "14473864",
   "user" : {
@@ -509,12 +493,11 @@ Grailbird.data.tweets_2011_07 =
       "display_url" : "redmine.ruby-lang.org/issues/5054"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "93412721860689921",
   "text" : "I can't even believe this is being discussed...\n\nhttp://t.co/pBsoZ73\n\nJust use Python.",
   "id" : 93412721860689921,
-  "created_at" : "Tue Jul 19 20:11:43 +0000 2011",
+  "created_at" : "2011-07-19 20:11:43 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -538,8 +521,7 @@ Grailbird.data.tweets_2011_07 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "93410856745975809",
   "text" : "RT @alex_gaynor: The language you choose effects not only the code you write, but who writes your code.  Try not to forget that.",
   "retweeted_status" : {
@@ -550,12 +532,11 @@ Grailbird.data.tweets_2011_07 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "93345755439448064",
     "text" : "The language you choose effects not only the code you write, but who writes your code.  Try not to forget that.",
     "id" : 93345755439448064,
-    "created_at" : "Tue Jul 19 15:45:37 +0000 2011",
+    "created_at" : "2011-07-19 15:45:37 +0000",
     "user" : {
       "name" : "Alex Gaynor",
       "screen_name" : "alex_gaynor",
@@ -567,7 +548,7 @@ Grailbird.data.tweets_2011_07 =
     }
   },
   "id" : 93410856745975809,
-  "created_at" : "Tue Jul 19 20:04:18 +0000 2011",
+  "created_at" : "2011-07-19 20:04:18 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -592,14 +573,13 @@ Grailbird.data.tweets_2011_07 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "93186022313177089",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "93189113804623872",
   "in_reply_to_user_id" : 318864915,
   "text" : "@thescottage yeah, but how many filesorts is that query going to produce?",
   "id" : 93189113804623872,
   "in_reply_to_status_id" : 93186022313177089,
-  "created_at" : "Tue Jul 19 05:23:10 +0000 2011",
+  "created_at" : "2011-07-19 05:23:10 +0000",
   "in_reply_to_screen_name" : "thescottage",
   "in_reply_to_user_id_str" : "318864915",
   "user" : {
@@ -626,14 +606,13 @@ Grailbird.data.tweets_2011_07 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "93119553034395651",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "93134512975921153",
   "in_reply_to_user_id" : 28425440,
   "text" : "@Crohnology gluten based foods so far for me.",
   "id" : 93134512975921153,
   "in_reply_to_status_id" : 93119553034395651,
-  "created_at" : "Tue Jul 19 01:46:12 +0000 2011",
+  "created_at" : "2011-07-19 01:46:12 +0000",
   "in_reply_to_screen_name" : "Crohnology",
   "in_reply_to_user_id_str" : "28425440",
   "user" : {
@@ -660,14 +639,13 @@ Grailbird.data.tweets_2011_07 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "93052287253086208",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "93068580106682368",
   "in_reply_to_user_id" : 10200322,
   "text" : "@amdavidson the kindle is awesome. really well designed for one purpose - reading",
   "id" : 93068580106682368,
   "in_reply_to_status_id" : 93052287253086208,
-  "created_at" : "Mon Jul 18 21:24:13 +0000 2011",
+  "created_at" : "2011-07-18 21:24:13 +0000",
   "in_reply_to_screen_name" : "amdavidson",
   "in_reply_to_user_id_str" : "10200322",
   "user" : {
@@ -699,8 +677,7 @@ Grailbird.data.tweets_2011_07 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "93068323457204226",
   "text" : "RT @SF_Giants: #YouKnowYoureADodgerFanWhen your rivals are on Showtime and your team is on TMZ. #SFGiants",
   "retweeted_status" : {
@@ -717,12 +694,11 @@ Grailbird.data.tweets_2011_07 =
       } ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "93039849820524544",
     "text" : "#YouKnowYoureADodgerFanWhen your rivals are on Showtime and your team is on TMZ. #SFGiants",
     "id" : 93039849820524544,
-    "created_at" : "Mon Jul 18 19:30:03 +0000 2011",
+    "created_at" : "2011-07-18 19:30:03 +0000",
     "user" : {
       "name" : "San Francisco Giants",
       "screen_name" : "SFGiantsFans",
@@ -734,7 +710,7 @@ Grailbird.data.tweets_2011_07 =
     }
   },
   "id" : 93068323457204226,
-  "created_at" : "Mon Jul 18 21:23:12 +0000 2011",
+  "created_at" : "2011-07-18 21:23:12 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -765,14 +741,13 @@ Grailbird.data.tweets_2011_07 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "92682730852200448",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "92682979930935296",
   "in_reply_to_user_id" : 49887122,
   "text" : ". @kazuomatsu Thats because @alexmorgan13 is a Cal bear. Go Cal! go USA!",
   "id" : 92682979930935296,
   "in_reply_to_status_id" : 92682730852200448,
-  "created_at" : "Sun Jul 17 19:51:59 +0000 2011",
+  "created_at" : "2011-07-17 19:51:59 +0000",
   "in_reply_to_screen_name" : "kazuomatsu",
   "in_reply_to_user_id_str" : "49887122",
   "user" : {
@@ -809,13 +784,12 @@ Grailbird.data.tweets_2011_07 =
       "display_url" : "github.com/django-debug-t\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "92456575616303104",
   "in_reply_to_user_id" : 16098253,
   "text" : "@finder83 @jmoiron is there any way to get the DjDT cache panel working with johnny-cache? http://t.co/0AxpxYv",
   "id" : 92456575616303104,
-  "created_at" : "Sun Jul 17 04:52:20 +0000 2011",
+  "created_at" : "2011-07-17 04:52:20 +0000",
   "in_reply_to_screen_name" : "finder83",
   "in_reply_to_user_id_str" : "16098253",
   "user" : {
@@ -840,12 +814,11 @@ Grailbird.data.tweets_2011_07 =
       "display_url" : "ednetinsight.com/news-alerts/vo\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "92416280765808640",
   "text" : "Tech Ideal vs the Real Classroom http://t.co/6gslQI5 - some takeaways: school bandwidth is the elephant in the room & content will be free",
   "id" : 92416280765808640,
-  "created_at" : "Sun Jul 17 02:12:13 +0000 2011",
+  "created_at" : "2011-07-17 02:12:13 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -872,8 +845,7 @@ Grailbird.data.tweets_2011_07 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "92284341920600065",
   "text" : "RT @tomvanderbilt: With Carmageddon itself proving a letdown, real story has become #flightvsbike  http://lat.ms/r4jIkV",
   "retweeted_status" : {
@@ -887,12 +859,11 @@ Grailbird.data.tweets_2011_07 =
       } ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "92279744820805632",
     "text" : "With Carmageddon itself proving a letdown, real story has become #flightvsbike  http://lat.ms/r4jIkV",
     "id" : 92279744820805632,
-    "created_at" : "Sat Jul 16 17:09:40 +0000 2011",
+    "created_at" : "2011-07-16 17:09:40 +0000",
     "user" : {
       "name" : "Tom Vanderbilt",
       "screen_name" : "tomvanderbilt",
@@ -904,7 +875,7 @@ Grailbird.data.tweets_2011_07 =
     }
   },
   "id" : 92284341920600065,
-  "created_at" : "Sat Jul 16 17:27:56 +0000 2011",
+  "created_at" : "2011-07-16 17:27:56 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -929,14 +900,13 @@ Grailbird.data.tweets_2011_07 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "91364427584114688",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "91364541702750208",
   "in_reply_to_user_id" : 210605959,
   "text" : "@startupandrew I have. 140 characters is not enough.",
   "id" : 91364541702750208,
   "in_reply_to_status_id" : 91364427584114688,
-  "created_at" : "Thu Jul 14 04:32:58 +0000 2011",
+  "created_at" : "2011-07-14 04:32:58 +0000",
   "in_reply_to_screen_name" : "startupandrew",
   "in_reply_to_user_id_str" : "210605959",
   "user" : {
@@ -961,12 +931,11 @@ Grailbird.data.tweets_2011_07 =
       "display_url" : "bbc.co.uk/news/world-eur\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "91268360179957760",
   "text" : "The expression on the face of this Pastafarian is awesome: http://t.co/j7tR5gd And yes, I just learned about Pastafarianism.",
   "id" : 91268360179957760,
-  "created_at" : "Wed Jul 13 22:10:47 +0000 2011",
+  "created_at" : "2011-07-13 22:10:47 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -984,12 +953,11 @@ Grailbird.data.tweets_2011_07 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "91206137801740288",
   "text" : "Awesome goal by CAL BEAR Alex Morgan! Go Bears!",
   "id" : 91206137801740288,
-  "created_at" : "Wed Jul 13 18:03:32 +0000 2011",
+  "created_at" : "2011-07-13 18:03:32 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -1014,14 +982,13 @@ Grailbird.data.tweets_2011_07 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "90954829756760066",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "90967829683240960",
   "in_reply_to_user_id" : 49887122,
   "text" : "@kazuomatsu agreed. been using it all my projects for months.",
   "id" : 90967829683240960,
   "in_reply_to_status_id" : 90954829756760066,
-  "created_at" : "Wed Jul 13 02:16:35 +0000 2011",
+  "created_at" : "2011-07-13 02:16:35 +0000",
   "in_reply_to_screen_name" : "kazuomatsu",
   "in_reply_to_user_id_str" : "49887122",
   "user" : {
@@ -1048,14 +1015,13 @@ Grailbird.data.tweets_2011_07 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "90491139886551043",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "90493828234092544",
   "in_reply_to_user_id" : 14109167,
   "text" : "@flowingdata My pre-ordered copy of Visualize This just shipped from Amazon! Can't wait to get it!",
   "id" : 90493828234092544,
   "in_reply_to_status_id" : 90491139886551043,
-  "created_at" : "Mon Jul 11 18:53:04 +0000 2011",
+  "created_at" : "2011-07-11 18:53:04 +0000",
   "in_reply_to_screen_name" : "flowingdata",
   "in_reply_to_user_id_str" : "14109167",
   "user" : {
@@ -1082,14 +1048,13 @@ Grailbird.data.tweets_2011_07 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "89776749117833216",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "89843472969891840",
   "in_reply_to_user_id" : 15161274,
   "text" : "@brettkopf that definitely should be the future.",
   "id" : 89843472969891840,
   "in_reply_to_status_id" : 89776749117833216,
-  "created_at" : "Sat Jul 09 23:48:47 +0000 2011",
+  "created_at" : "2011-07-09 23:48:47 +0000",
   "in_reply_to_screen_name" : "brettkopf",
   "in_reply_to_user_id_str" : "15161274",
   "user" : {
@@ -1109,12 +1074,11 @@ Grailbird.data.tweets_2011_07 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "89395192561541120",
   "text" : "Prediction: despite Yao retiring today, he will still be voted onto the Western Conference All-Star team next season.",
   "id" : 89395192561541120,
-  "created_at" : "Fri Jul 08 18:07:29 +0000 2011",
+  "created_at" : "2011-07-08 18:07:29 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -1138,12 +1102,11 @@ Grailbird.data.tweets_2011_07 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "89207910755860480",
   "text" : "Awesome, inspiring and insightful talk by @paulg tonight. Great to finally hear him in person.",
   "id" : 89207910755860480,
-  "created_at" : "Fri Jul 08 05:43:17 +0000 2011",
+  "created_at" : "2011-07-08 05:43:17 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -1168,7 +1131,7 @@ Grailbird.data.tweets_2011_07 =
   "id_str" : "88852185831583744",
   "text" : "Milky Way Above Trinity Lake http://flic.kr/p/a1khQB",
   "id" : 88852185831583744,
-  "created_at" : "Thu Jul 07 06:09:46 +0000 2011",
+  "created_at" : "2011-07-07 06:09:46 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -1200,8 +1163,7 @@ Grailbird.data.tweets_2011_07 =
       "display_url" : "on.wsj.com/lc42MJ"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "88754183599173632",
   "text" : "RT @ithayer: Please RT!: I\u2019m nominating ReadyForZero for \u201CThe FASTech 50\u2033 list of most innovative companies! http://t.co/iO5EDAr #FASTech50",
   "retweeted_status" : {
@@ -1220,12 +1182,11 @@ Grailbird.data.tweets_2011_07 =
         "display_url" : "on.wsj.com/lc42MJ"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "88655047617019904",
     "text" : "Please RT!: I\u2019m nominating ReadyForZero for \u201CThe FASTech 50\u2033 list of most innovative companies! http://t.co/iO5EDAr #FASTech50",
     "id" : 88655047617019904,
-    "created_at" : "Wed Jul 06 17:06:25 +0000 2011",
+    "created_at" : "2011-07-06 17:06:25 +0000",
     "user" : {
       "name" : "Ignacio Thayer",
       "screen_name" : "ithayer",
@@ -1237,7 +1198,7 @@ Grailbird.data.tweets_2011_07 =
     }
   },
   "id" : 88754183599173632,
-  "created_at" : "Wed Jul 06 23:40:21 +0000 2011",
+  "created_at" : "2011-07-06 23:40:21 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -1270,8 +1231,7 @@ Grailbird.data.tweets_2011_07 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "88754182332489728",
   "text" : "RT @ReadyForZero: Please nominate us: I\u2019m nominating @ReadyForZero for \u201CThe FASTech 50!\" http://on.wsj.com/lc42MJ #FASTech50",
   "retweeted_status" : {
@@ -1291,12 +1251,11 @@ Grailbird.data.tweets_2011_07 =
       } ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "88648378140999681",
     "text" : "Please nominate us: I\u2019m nominating @ReadyForZero for \u201CThe FASTech 50!\" http://on.wsj.com/lc42MJ #FASTech50",
     "id" : 88648378140999681,
-    "created_at" : "Wed Jul 06 16:39:55 +0000 2011",
+    "created_at" : "2011-07-06 16:39:55 +0000",
     "user" : {
       "name" : "ReadyForZero",
       "screen_name" : "ReadyForZero",
@@ -1308,7 +1267,7 @@ Grailbird.data.tweets_2011_07 =
     }
   },
   "id" : 88754182332489728,
-  "created_at" : "Wed Jul 06 23:40:20 +0000 2011",
+  "created_at" : "2011-07-06 23:40:20 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -1333,7 +1292,7 @@ Grailbird.data.tweets_2011_07 =
   "id_str" : "88464505692106752",
   "text" : "Northern California Stars http://flic.kr/p/a13TDL",
   "id" : 88464505692106752,
-  "created_at" : "Wed Jul 06 04:29:16 +0000 2011",
+  "created_at" : "2011-07-06 04:29:16 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -1358,14 +1317,13 @@ Grailbird.data.tweets_2011_07 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "86852974806175744",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "86853210354094081",
   "in_reply_to_user_id" : 14635493,
   "text" : "@alex_gaynor nice. i'll be following you on github then.",
   "id" : 86853210354094081,
   "in_reply_to_status_id" : 86852974806175744,
-  "created_at" : "Fri Jul 01 17:46:33 +0000 2011",
+  "created_at" : "2011-07-01 17:46:33 +0000",
   "in_reply_to_screen_name" : "alex_gaynor",
   "in_reply_to_user_id_str" : "14635493",
   "user" : {
@@ -1391,13 +1349,12 @@ Grailbird.data.tweets_2011_07 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "86844802703949825",
   "in_reply_to_user_id" : 14635493,
   "text" : "@alex_gaynor where can I follow along or get info on your MySQLdb for pypy progress?",
   "id" : 86844802703949825,
-  "created_at" : "Fri Jul 01 17:13:09 +0000 2011",
+  "created_at" : "2011-07-01 17:13:09 +0000",
   "in_reply_to_screen_name" : "alex_gaynor",
   "in_reply_to_user_id_str" : "14635493",
   "user" : {
@@ -1434,14 +1391,13 @@ Grailbird.data.tweets_2011_07 =
     } ]
   },
   "in_reply_to_status_id_str" : "86834779793801216",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "86837907108794368",
   "in_reply_to_user_id" : 19261045,
   "text" : "@ConDri Not completely accurate. you can still get to roster on team pages: http://t.co/vYI1xXL and to players http://t.co/0v9qgOV",
   "id" : 86837907108794368,
   "in_reply_to_status_id" : 86834779793801216,
-  "created_at" : "Fri Jul 01 16:45:45 +0000 2011",
+  "created_at" : "2011-07-01 16:45:45 +0000",
   "in_reply_to_screen_name" : "ConDri",
   "in_reply_to_user_id_str" : "19261045",
   "user" : {
@@ -1473,14 +1429,13 @@ Grailbird.data.tweets_2011_07 =
     } ]
   },
   "in_reply_to_status_id_str" : "86707025328877568",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "86776385296805888",
   "in_reply_to_user_id" : 14062093,
   "text" : "@liamdon you guys should sign up for pivotal tracker: http://t.co/mG47gGV",
   "id" : 86776385296805888,
   "in_reply_to_status_id" : 86707025328877568,
-  "created_at" : "Fri Jul 01 12:41:17 +0000 2011",
+  "created_at" : "2011-07-01 12:41:17 +0000",
   "in_reply_to_screen_name" : "liamdon",
   "in_reply_to_user_id_str" : "14062093",
   "user" : {
@@ -1512,14 +1467,13 @@ Grailbird.data.tweets_2011_07 =
     } ]
   },
   "in_reply_to_status_id_str" : "86683707804618752",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "86776056425619456",
   "in_reply_to_user_id" : 759249,
   "text" : "@deaneckles Oh, there are much better places those dudes have been than just that road: http://t.co/N8BmIjn",
   "id" : 86776056425619456,
   "in_reply_to_status_id" : 86683707804618752,
-  "created_at" : "Fri Jul 01 12:39:58 +0000 2011",
+  "created_at" : "2011-07-01 12:39:58 +0000",
   "in_reply_to_screen_name" : "deaneckles",
   "in_reply_to_user_id_str" : "759249",
   "user" : {

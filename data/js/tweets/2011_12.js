@@ -24,12 +24,11 @@ Grailbird.data.tweets_2011_12 =
       "display_url" : "bit.ly/tPqwiA"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "152995976330756097",
   "text" : "RT @audreywatters: .@MindShiftKQED 's list of the best new and updated edu apps for the month of December http://t.co/6wDs1mcV",
   "id" : 152995976330756097,
-  "created_at" : "Sat Dec 31 06:14:17 +0000 2011",
+  "created_at" : "2011-12-31 06:14:17 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -58,8 +57,7 @@ Grailbird.data.tweets_2011_12 =
       "display_url" : "bit.ly/tjAqk8"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "152467271388893186",
   "text" : "RT @organizedbinder: Check out the #1 education app for the iPad! Simple and effective and it is FREE!: http://t.co/aFC65aZ0 @educreatio ...",
   "retweeted_status" : {
@@ -87,12 +85,11 @@ Grailbird.data.tweets_2011_12 =
         "display_url" : "bit.ly/tjAqk8"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "152424040622080002",
     "text" : "Check out the #1 education app for the iPad! Simple and effective and it is FREE!: http://t.co/aFC65aZ0 @educreations #edtech #k12",
     "id" : 152424040622080002,
-    "created_at" : "Thu Dec 29 16:21:37 +0000 2011",
+    "created_at" : "2011-12-29 16:21:37 +0000",
     "user" : {
       "name" : "Mitch Weathers",
       "screen_name" : "organizedbinder",
@@ -104,7 +101,7 @@ Grailbird.data.tweets_2011_12 =
     }
   },
   "id" : 152467271388893186,
-  "created_at" : "Thu Dec 29 19:13:24 +0000 2011",
+  "created_at" : "2011-12-29 19:13:24 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -128,12 +125,11 @@ Grailbird.data.tweets_2011_12 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "152275519625371649",
   "text" : "RT @SnowlessInTahoe: Tahoe 2011: BYOS",
   "id" : 152275519625371649,
-  "created_at" : "Thu Dec 29 06:31:27 +0000 2011",
+  "created_at" : "2011-12-29 06:31:27 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -158,14 +154,13 @@ Grailbird.data.tweets_2011_12 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "151520373979090944",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "151521147647832065",
   "in_reply_to_user_id" : 19318229,
   "text" : "@MrRiordan damn. good seats",
   "id" : 151521147647832065,
   "in_reply_to_status_id" : 151520373979090944,
-  "created_at" : "Tue Dec 27 04:33:51 +0000 2011",
+  "created_at" : "2011-12-27 04:33:51 +0000",
   "in_reply_to_screen_name" : "MrRiordan",
   "in_reply_to_user_id_str" : "19318229",
   "user" : {
@@ -197,7 +192,7 @@ Grailbird.data.tweets_2011_12 =
   "id_str" : "151055524912312320",
   "text" : "Darkhorse Sunset http://t.co/vzkBdZNy",
   "id" : 151055524912312320,
-  "created_at" : "Sun Dec 25 21:43:38 +0000 2011",
+  "created_at" : "2011-12-25 21:43:38 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -221,8 +216,7 @@ Grailbird.data.tweets_2011_12 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "150455735896129537",
   "text" : "RT @NotBillWalton: With Tim Tebow playing Saturday, a birthday on Sunday, and Jimmer Fredette's NBA debut on Monday, Jesus Christ has a  ...",
   "retweeted_status" : {
@@ -233,12 +227,11 @@ Grailbird.data.tweets_2011_12 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "150438826542759936",
     "text" : "With Tim Tebow playing Saturday, a birthday on Sunday, and Jimmer Fredette's NBA debut on Monday, Jesus Christ has a busy holiday weekend!",
     "id" : 150438826542759936,
-    "created_at" : "Sat Dec 24 04:53:05 +0000 2011",
+    "created_at" : "2011-12-24 04:53:05 +0000",
     "user" : {
       "name" : "Not Bill Walton",
       "screen_name" : "NotBillWalton",
@@ -250,7 +243,7 @@ Grailbird.data.tweets_2011_12 =
     }
   },
   "id" : 150455735896129537,
-  "created_at" : "Sat Dec 24 06:00:17 +0000 2011",
+  "created_at" : "2011-12-24 06:00:17 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -275,14 +268,13 @@ Grailbird.data.tweets_2011_12 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "150283065615327232",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "150292269277249536",
   "in_reply_to_user_id" : 17831644,
   "text" : "@danieljyoo the catch was actually delayed because the fishermen were on strike demanding higher prices. Hence no Dungeness on Thanksgiving",
   "id" : 150292269277249536,
   "in_reply_to_status_id" : 150283065615327232,
-  "created_at" : "Fri Dec 23 19:10:43 +0000 2011",
+  "created_at" : "2011-12-23 19:10:43 +0000",
   "in_reply_to_screen_name" : "danieljyoo",
   "in_reply_to_user_id_str" : "17831644",
   "user" : {
@@ -311,12 +303,11 @@ Grailbird.data.tweets_2011_12 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "150027756841873408",
   "text" : "And @educreations is back to being the #1 education #ipad app.",
   "id" : 150027756841873408,
-  "created_at" : "Fri Dec 23 01:39:39 +0000 2011",
+  "created_at" : "2011-12-23 01:39:39 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -347,14 +338,13 @@ Grailbird.data.tweets_2011_12 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "149983680172007427",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "150026977447919618",
   "in_reply_to_user_id" : 19261045,
   "text" : "@ConDri ask @joedrisc about my history...",
   "id" : 150026977447919618,
   "in_reply_to_status_id" : 149983680172007427,
-  "created_at" : "Fri Dec 23 01:36:33 +0000 2011",
+  "created_at" : "2011-12-23 01:36:33 +0000",
   "in_reply_to_screen_name" : "ConDri",
   "in_reply_to_user_id_str" : "19261045",
   "user" : {
@@ -387,14 +377,13 @@ Grailbird.data.tweets_2011_12 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "149197283584507904",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "149198303119155200",
   "in_reply_to_user_id" : 15161274,
   "text" : "I'll be back to reclaim the @imaginek12 mayorship @brettkopf! I'll be back with a vengeance!",
   "id" : 149198303119155200,
   "in_reply_to_status_id" : 149197283584507904,
-  "created_at" : "Tue Dec 20 18:43:42 +0000 2011",
+  "created_at" : "2011-12-20 18:43:42 +0000",
   "in_reply_to_screen_name" : "brettkopf",
   "in_reply_to_user_id_str" : "15161274",
   "user" : {
@@ -421,14 +410,13 @@ Grailbird.data.tweets_2011_12 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "148907504468889600",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "148919061898727425",
   "in_reply_to_user_id" : 19261045,
   "text" : "@ConDri yes it does.",
   "id" : 148919061898727425,
   "in_reply_to_status_id" : 148907504468889600,
-  "created_at" : "Tue Dec 20 00:14:05 +0000 2011",
+  "created_at" : "2011-12-20 00:14:05 +0000",
   "in_reply_to_screen_name" : "ConDri",
   "in_reply_to_user_id_str" : "19261045",
   "user" : {
@@ -466,8 +454,7 @@ Grailbird.data.tweets_2011_12 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "148799670922117121",
   "text" : "RT @rohitnafday: RT @xc: RT @workforfood: \u2611 Kim Jong Il\n\u2611 Khaddafi\n\u2611 Osama Bin Laden\n\u2611 Saddam Hussein\n\u2610 Internet Explorer",
   "retweeted_status" : {
@@ -490,12 +477,11 @@ Grailbird.data.tweets_2011_12 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "148761816992972802",
     "text" : "RT @xc: RT @workforfood: \u2611 Kim Jong Il\n\u2611 Khaddafi\n\u2611 Osama Bin Laden\n\u2611 Saddam Hussein\n\u2610 Internet Explorer",
     "id" : 148761816992972802,
-    "created_at" : "Mon Dec 19 13:49:15 +0000 2011",
+    "created_at" : "2011-12-19 13:49:15 +0000",
     "user" : {
       "name" : "Rohit Nafday",
       "screen_name" : "rohitnafday",
@@ -507,7 +493,7 @@ Grailbird.data.tweets_2011_12 =
     }
   },
   "id" : 148799670922117121,
-  "created_at" : "Mon Dec 19 16:19:40 +0000 2011",
+  "created_at" : "2011-12-19 16:19:40 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -548,12 +534,11 @@ Grailbird.data.tweets_2011_12 =
       "display_url" : "dlvr.it/1150CF"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "148513525554364416",
   "text" : "Congrats @danieljyoo and @goalbookapp! RT @hackeducation: Top 10 Ed-Tech Startups of 2011 http://t.co/exN7PjNZ",
   "id" : 148513525554364416,
-  "created_at" : "Sun Dec 18 21:22:38 +0000 2011",
+  "created_at" : "2011-12-18 21:22:38 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -576,12 +561,11 @@ Grailbird.data.tweets_2011_12 =
       "display_url" : "twitter.com/search/raping%\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "148426837968691200",
   "text" : "There are way to many people \"raping presents\" for my liking: https://t.co/MmWtyfcL",
   "id" : 148426837968691200,
-  "created_at" : "Sun Dec 18 15:38:10 +0000 2011",
+  "created_at" : "2011-12-18 15:38:10 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -616,12 +600,11 @@ Grailbird.data.tweets_2011_12 =
       "display_url" : "edcr8.co/educreations"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "147797552518021120",
   "text" : "Nice lesson @ConDri RT @educreations: Our new homepage is live! http://t.co/A4vojtPJ Check out the great lessons people have created already",
   "id" : 147797552518021120,
-  "created_at" : "Fri Dec 16 21:57:37 +0000 2011",
+  "created_at" : "2011-12-16 21:57:37 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -635,7 +618,7 @@ Grailbird.data.tweets_2011_12 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Nom Nom Paleo",
+      "name" : "Michelle Tam",
       "screen_name" : "nomnompaleo",
       "indices" : [ 68, 80 ],
       "id_str" : "235295054",
@@ -659,12 +642,11 @@ Grailbird.data.tweets_2011_12 =
       "display_url" : "70sbig.spreadshirt.com/occupy-a-squat\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "147494371598680064",
   "text" : "Great Christmas gift - http://t.co/VxALyU2p #OccupyTheSquatRack /cc @nomnompaleo @maddawgfitness",
   "id" : 147494371598680064,
-  "created_at" : "Fri Dec 16 01:52:53 +0000 2011",
+  "created_at" : "2011-12-16 01:52:53 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -705,12 +687,11 @@ Grailbird.data.tweets_2011_12 =
       "display_url" : "edcr8.co/rQ9lJu"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "147024324233150464",
   "text" : "RT @ConDri: FOLLOWERS: You need to check-out the @educreations free #iPad app! http://t.co/yA96Xrlx It's #6 on the Top 10 List!!! #edtech",
   "id" : 147024324233150464,
-  "created_at" : "Wed Dec 14 18:45:05 +0000 2011",
+  "created_at" : "2011-12-14 18:45:05 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -733,12 +714,11 @@ Grailbird.data.tweets_2011_12 =
       "display_url" : "tinyurl.com/csd9why"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "147002734497890304",
   "text" : "Educreations - Use Your iPad as a Whiteboard and Record a Lesson via Free Technology for Teachers - ... http://t.co/wzeUA0bh",
   "id" : 147002734497890304,
-  "created_at" : "Wed Dec 14 17:19:17 +0000 2011",
+  "created_at" : "2011-12-14 17:19:17 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -761,12 +741,11 @@ Grailbird.data.tweets_2011_12 =
       "display_url" : "flic.kr/p/aVmP68"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "146979534938443776",
   "text" : "Educreations on the iPad in the Top 10! http://t.co/CVGqF9Eg",
   "id" : 146979534938443776,
-  "created_at" : "Wed Dec 14 15:47:06 +0000 2011",
+  "created_at" : "2011-12-14 15:47:06 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -796,8 +775,7 @@ Grailbird.data.tweets_2011_12 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "146648434328346624",
   "text" : "RT @edukwest: @educreations now available in the app store. create your lessons using their whiteboard recording app for iPad! http://t. ...",
   "retweeted_status" : {
@@ -819,13 +797,12 @@ Grailbird.data.tweets_2011_12 =
         "display_url" : "fb.me/S2ZG201e"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "146647641357422592",
     "in_reply_to_user_id" : 223638132,
     "text" : "@educreations now available in the app store. create your lessons using their whiteboard recording app for iPad! http://t.co/An90h7A6",
     "id" : 146647641357422592,
-    "created_at" : "Tue Dec 13 17:48:16 +0000 2011",
+    "created_at" : "2011-12-13 17:48:16 +0000",
     "in_reply_to_screen_name" : "educreations",
     "in_reply_to_user_id_str" : "223638132",
     "user" : {
@@ -839,7 +816,7 @@ Grailbird.data.tweets_2011_12 =
     }
   },
   "id" : 146648434328346624,
-  "created_at" : "Tue Dec 13 17:51:25 +0000 2011",
+  "created_at" : "2011-12-13 17:51:25 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -863,12 +840,11 @@ Grailbird.data.tweets_2011_12 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "146618262648659970",
   "text" : "Bwahhhahahaha RT @SpearsNBAYahoo: Warriors to sign C Kwame Brown to 1-year, $7 million deal, source tells Y! Sports.",
   "id" : 146618262648659970,
-  "created_at" : "Tue Dec 13 15:51:32 +0000 2011",
+  "created_at" : "2011-12-13 15:51:32 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -897,12 +873,11 @@ Grailbird.data.tweets_2011_12 =
       "display_url" : "techcrunch.com/2011/12/12/wel\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "146461805110231040",
   "text" : "Congrats on the funding @melcher ! http://t.co/NpNADqv7",
   "id" : 146461805110231040,
-  "created_at" : "Tue Dec 13 05:29:50 +0000 2011",
+  "created_at" : "2011-12-13 05:29:50 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -932,8 +907,7 @@ Grailbird.data.tweets_2011_12 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "146314183670116352",
   "text" : "RT @KirstenWinkler: Really impressed by this app: @Educreations \u2013 the latest (and best) iPad Whiteboard Recording App for iPad http://t. ...",
   "retweeted_status" : {
@@ -961,12 +935,11 @@ Grailbird.data.tweets_2011_12 =
         "display_url" : "su.pr/1WFpCD"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "146310960938876929",
     "text" : "Really impressed by this app: @Educreations \u2013 the latest (and best) iPad Whiteboard Recording App for iPad http://t.co/5XW0bvOu @imagineK12",
     "id" : 146310960938876929,
-    "created_at" : "Mon Dec 12 19:30:26 +0000 2011",
+    "created_at" : "2011-12-12 19:30:26 +0000",
     "user" : {
       "name" : "Kirsten Winkler",
       "screen_name" : "KirstenWinkler",
@@ -978,7 +951,7 @@ Grailbird.data.tweets_2011_12 =
     }
   },
   "id" : 146314183670116352,
-  "created_at" : "Mon Dec 12 19:43:14 +0000 2011",
+  "created_at" : "2011-12-12 19:43:14 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -1003,14 +976,13 @@ Grailbird.data.tweets_2011_12 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "146306215864045569",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "146306435934982144",
   "in_reply_to_user_id" : 18002445,
   "text" : "@bmbaisch Thanks!",
   "id" : 146306435934982144,
   "in_reply_to_status_id" : 146306215864045569,
-  "created_at" : "Mon Dec 12 19:12:27 +0000 2011",
+  "created_at" : "2011-12-12 19:12:27 +0000",
   "in_reply_to_screen_name" : "bmbaisch",
   "in_reply_to_user_id_str" : "18002445",
   "user" : {
@@ -1036,13 +1008,12 @@ Grailbird.data.tweets_2011_12 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "146281886971473920",
   "in_reply_to_user_id" : 19318229,
   "text" : "@MrRiordan you've got mail! check your inbox john",
   "id" : 146281886971473920,
-  "created_at" : "Mon Dec 12 17:34:54 +0000 2011",
+  "created_at" : "2011-12-12 17:34:54 +0000",
   "in_reply_to_screen_name" : "MrRiordan",
   "in_reply_to_user_id_str" : "19318229",
   "user" : {
@@ -1082,12 +1053,11 @@ Grailbird.data.tweets_2011_12 =
       "display_url" : "edcr8.co/rQ9lJu"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "146275830782377984",
   "text" : "And we're live! @educreations launched our free #iPad app today! http://t.co/yA96Xrlx Download and rate today! #edtech #edchat",
   "id" : 146275830782377984,
-  "created_at" : "Mon Dec 12 17:10:50 +0000 2011",
+  "created_at" : "2011-12-12 17:10:50 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -1114,8 +1084,7 @@ Grailbird.data.tweets_2011_12 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "146274557874016256",
   "text" : "RT @educreations: Woohoo! We launched our iPad app today! Record video lessons on your #iPad. Free download. Don't forget to rate it! ht ...",
   "retweeted_status" : {
@@ -1134,12 +1103,11 @@ Grailbird.data.tweets_2011_12 =
         "display_url" : "bit.ly/utdO56"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "146209418722295808",
     "text" : "Woohoo! We launched our iPad app today! Record video lessons on your #iPad. Free download. Don't forget to rate it! http://t.co/bBnwUw9t",
     "id" : 146209418722295808,
-    "created_at" : "Mon Dec 12 12:46:56 +0000 2011",
+    "created_at" : "2011-12-12 12:46:56 +0000",
     "user" : {
       "name" : "educreations",
       "screen_name" : "educreations",
@@ -1151,7 +1119,7 @@ Grailbird.data.tweets_2011_12 =
     }
   },
   "id" : 146274557874016256,
-  "created_at" : "Mon Dec 12 17:05:46 +0000 2011",
+  "created_at" : "2011-12-12 17:05:46 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -1186,8 +1154,7 @@ Grailbird.data.tweets_2011_12 =
       "display_url" : "bit.ly/utdO56"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "146274507601092608",
   "text" : "RT @StuartFrye: congrats to @educreations for launching their iPad app today. Check out out http://t.co/fMoOuHF7 and record video lesson ...",
   "retweeted_status" : {
@@ -1209,12 +1176,11 @@ Grailbird.data.tweets_2011_12 =
         "display_url" : "bit.ly/utdO56"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "146259013275881474",
     "text" : "congrats to @educreations for launching their iPad app today. Check out out http://t.co/fMoOuHF7 and record video lessons on your iPad!",
     "id" : 146259013275881474,
-    "created_at" : "Mon Dec 12 16:04:00 +0000 2011",
+    "created_at" : "2011-12-12 16:04:00 +0000",
     "user" : {
       "name" : "Stuart Frye",
       "screen_name" : "StuartFrye",
@@ -1226,7 +1192,7 @@ Grailbird.data.tweets_2011_12 =
     }
   },
   "id" : 146274507601092608,
-  "created_at" : "Mon Dec 12 17:05:34 +0000 2011",
+  "created_at" : "2011-12-12 17:05:34 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -1257,14 +1223,13 @@ Grailbird.data.tweets_2011_12 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "145980856085905408",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "146010264809115648",
   "in_reply_to_user_id" : 29906920,
   "text" : "@AJamyjones @ConDri hahahaha",
   "id" : 146010264809115648,
   "in_reply_to_status_id" : 145980856085905408,
-  "created_at" : "Sun Dec 11 23:35:34 +0000 2011",
+  "created_at" : "2011-12-11 23:35:34 +0000",
   "in_reply_to_screen_name" : "AJamyjones",
   "in_reply_to_user_id_str" : "29906920",
   "user" : {
@@ -1296,14 +1261,13 @@ Grailbird.data.tweets_2011_12 =
     } ]
   },
   "in_reply_to_status_id_str" : "145139316354588672",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "145143840389595136",
   "in_reply_to_user_id" : 10200322,
   "text" : "@amdavidson Its like a hash table: false positives are possible, but false negatives are not - http://t.co/h5J2eJSz",
   "id" : 145143840389595136,
   "in_reply_to_status_id" : 145139316354588672,
-  "created_at" : "Fri Dec 09 14:12:42 +0000 2011",
+  "created_at" : "2011-12-09 14:12:42 +0000",
   "in_reply_to_screen_name" : "amdavidson",
   "in_reply_to_user_id_str" : "10200322",
   "user" : {
@@ -1325,7 +1289,7 @@ Grailbird.data.tweets_2011_12 =
       "id_str" : "19017659",
       "id" : 19017659
     }, {
-      "name" : "Yahoo! Sports NBA",
+      "name" : "Yahoo Sports NBA",
       "screen_name" : "YahooSportsNBA",
       "indices" : [ 28, 43 ],
       "id_str" : "358416432",
@@ -1335,15 +1299,14 @@ Grailbird.data.tweets_2011_12 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "145016353441595392",
   "text" : "RT @sam_amick: Must-read RT @YahooSportsNBA: Cavs owner Dan Gilbert called Lakers' trade a \"travesty\" in email to Stern.  http://t.co/OK ...",
   "retweeted_status" : {
     "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Yahoo! Sports NBA",
+        "name" : "Yahoo Sports NBA",
         "screen_name" : "YahooSportsNBA",
         "indices" : [ 13, 28 ],
         "id_str" : "358416432",
@@ -1358,12 +1321,11 @@ Grailbird.data.tweets_2011_12 =
         "display_url" : "yhoo.it/s1du3z"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "145015462290399233",
     "text" : "Must-read RT @YahooSportsNBA: Cavs owner Dan Gilbert called Lakers' trade a \"travesty\" in email to Stern.  http://t.co/OKS395xJ",
     "id" : 145015462290399233,
-    "created_at" : "Fri Dec 09 05:42:35 +0000 2011",
+    "created_at" : "2011-12-09 05:42:35 +0000",
     "user" : {
       "name" : "Sam Amick",
       "screen_name" : "sam_amick",
@@ -1375,7 +1337,7 @@ Grailbird.data.tweets_2011_12 =
     }
   },
   "id" : 145016353441595392,
-  "created_at" : "Fri Dec 09 05:46:07 +0000 2011",
+  "created_at" : "2011-12-09 05:46:07 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -1393,12 +1355,11 @@ Grailbird.data.tweets_2011_12 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "144926638918991872",
   "text" : "I need a Bloom filter to test if a person would be a bad roommate.",
   "id" : 144926638918991872,
-  "created_at" : "Thu Dec 08 23:49:37 +0000 2011",
+  "created_at" : "2011-12-08 23:49:37 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -1427,8 +1388,7 @@ Grailbird.data.tweets_2011_12 =
       "display_url" : "osnews.com/story/25406/Wh\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "144840592143302658",
   "text" : "RT @romainguy: Ah, \"journalism\" http://t.co/ePYucFj0",
   "retweeted_status" : {
@@ -1444,12 +1404,11 @@ Grailbird.data.tweets_2011_12 =
         "display_url" : "osnews.com/story/25406/Wh\u2026"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "144839165492727811",
     "text" : "Ah, \"journalism\" http://t.co/ePYucFj0",
     "id" : 144839165492727811,
-    "created_at" : "Thu Dec 08 18:02:02 +0000 2011",
+    "created_at" : "2011-12-08 18:02:02 +0000",
     "user" : {
       "name" : "Romain Guy",
       "screen_name" : "romainguy",
@@ -1461,7 +1420,7 @@ Grailbird.data.tweets_2011_12 =
     }
   },
   "id" : 144840592143302658,
-  "created_at" : "Thu Dec 08 18:07:42 +0000 2011",
+  "created_at" : "2011-12-08 18:07:42 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -1485,12 +1444,11 @@ Grailbird.data.tweets_2011_12 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "144816750335246336",
   "text" : "Back on a bacon kick. @ConDri, you know what I'm talking about",
   "id" : 144816750335246336,
-  "created_at" : "Thu Dec 08 16:32:58 +0000 2011",
+  "created_at" : "2011-12-08 16:32:58 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -1513,12 +1471,11 @@ Grailbird.data.tweets_2011_12 =
       "display_url" : "cfnews13.com/article/sports\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "144153027211829250",
   "text" : "Orlando Magic CEO confirms he drunk-dialed Dwight Howard, says \"maybe I should have waited until the morning.\" http://t.co/e34gRUSd",
   "id" : 144153027211829250,
-  "created_at" : "Tue Dec 06 20:35:34 +0000 2011",
+  "created_at" : "2011-12-06 20:35:34 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -1543,14 +1500,13 @@ Grailbird.data.tweets_2011_12 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "143925303381733376",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "143926218599825408",
   "in_reply_to_user_id" : 14473864,
   "text" : "@alexras Takes me back to good old Soda inst thin clients...",
   "id" : 143926218599825408,
   "in_reply_to_status_id" : 143925303381733376,
-  "created_at" : "Tue Dec 06 05:34:19 +0000 2011",
+  "created_at" : "2011-12-06 05:34:19 +0000",
   "in_reply_to_screen_name" : "alexras",
   "in_reply_to_user_id_str" : "14473864",
   "user" : {
@@ -1577,14 +1533,13 @@ Grailbird.data.tweets_2011_12 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "143923971337891840",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "143924973092876288",
   "in_reply_to_user_id" : 14473864,
   "text" : "@alexras 2.4? ouch.",
   "id" : 143924973092876288,
   "in_reply_to_status_id" : 143923971337891840,
-  "created_at" : "Tue Dec 06 05:29:22 +0000 2011",
+  "created_at" : "2011-12-06 05:29:22 +0000",
   "in_reply_to_screen_name" : "alexras",
   "in_reply_to_user_id_str" : "14473864",
   "user" : {
@@ -1616,14 +1571,13 @@ Grailbird.data.tweets_2011_12 =
     } ]
   },
   "in_reply_to_status_id_str" : "140266214881640450",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "143880263657717761",
   "in_reply_to_user_id" : 818340,
   "text" : "@marshallk Facebook runs tens of thousands of experiments every day on UI, algs and product: http://t.co/XMRVrGxL",
   "id" : 143880263657717761,
   "in_reply_to_status_id" : 140266214881640450,
-  "created_at" : "Tue Dec 06 02:31:42 +0000 2011",
+  "created_at" : "2011-12-06 02:31:42 +0000",
   "in_reply_to_screen_name" : "marshallk",
   "in_reply_to_user_id_str" : "818340",
   "user" : {
@@ -1648,12 +1602,11 @@ Grailbird.data.tweets_2011_12 =
       "display_url" : "flic.kr/s/aHsjxas8yz"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "143580542221303808",
   "text" : "Pictures from yesterday's Northface Challenge 50k http://t.co/mIpfQHvk",
   "id" : 143580542221303808,
-  "created_at" : "Mon Dec 05 06:40:43 +0000 2011",
+  "created_at" : "2011-12-05 06:40:43 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -1677,8 +1630,7 @@ Grailbird.data.tweets_2011_12 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "143553759933505537",
   "text" : "RT @sschillace: Under SOPA, you could get 5 years for uploading a Michael Jackson song, one year more than the doctor who killed him.",
   "retweeted_status" : {
@@ -1689,12 +1641,11 @@ Grailbird.data.tweets_2011_12 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "143071667734847488",
     "text" : "Under SOPA, you could get 5 years for uploading a Michael Jackson song, one year more than the doctor who killed him.",
     "id" : 143071667734847488,
-    "created_at" : "Sat Dec 03 20:58:38 +0000 2011",
+    "created_at" : "2011-12-03 20:58:38 +0000",
     "user" : {
       "name" : "Sam Schillace",
       "screen_name" : "sschillace",
@@ -1706,7 +1657,7 @@ Grailbird.data.tweets_2011_12 =
     }
   },
   "id" : 143553759933505537,
-  "created_at" : "Mon Dec 05 04:54:18 +0000 2011",
+  "created_at" : "2011-12-05 04:54:18 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -1731,14 +1682,13 @@ Grailbird.data.tweets_2011_12 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "143494650018267136",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "143513001151037440",
   "in_reply_to_user_id" : 15668311,
   "text" : "@mattbornski congrats dude! wait til tomorrow... thats when the pain really starts :)",
   "id" : 143513001151037440,
   "in_reply_to_status_id" : 143494650018267136,
-  "created_at" : "Mon Dec 05 02:12:20 +0000 2011",
+  "created_at" : "2011-12-05 02:12:20 +0000",
   "in_reply_to_screen_name" : "mattbornski",
   "in_reply_to_user_id_str" : "15668311",
   "user" : {
@@ -1788,7 +1738,7 @@ Grailbird.data.tweets_2011_12 =
   "id_str" : "143446918385766401",
   "text" : "NC State vs. Stanfurd with @brettkopf, @ericsimons40 and @Davidkopf http://t.co/YpCsTYik",
   "id" : 143446918385766401,
-  "created_at" : "Sun Dec 04 21:49:45 +0000 2011",
+  "created_at" : "2011-12-04 21:49:45 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -1806,12 +1756,11 @@ Grailbird.data.tweets_2011_12 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "143112444015939584",
   "text" : "50k in 6 hours 45 minutes. I killed it if I do say so myself.",
   "id" : 143112444015939584,
-  "created_at" : "Sat Dec 03 23:40:40 +0000 2011",
+  "created_at" : "2011-12-03 23:40:40 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -1834,12 +1783,11 @@ Grailbird.data.tweets_2011_12 =
       "display_url" : "flic.kr/p/aNWzbT"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "142364327314341888",
   "text" : "Palo Alto Leaf Roadblock http://t.co/l0arCP5f",
   "id" : 142364327314341888,
-  "created_at" : "Thu Dec 01 22:07:55 +0000 2011",
+  "created_at" : "2011-12-01 22:07:55 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -1864,14 +1812,13 @@ Grailbird.data.tweets_2011_12 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "142327496367538176",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "142328535271481345",
   "in_reply_to_user_id" : 49887122,
   "text" : "@kazuomatsu ry into sf?",
   "id" : 142328535271481345,
   "in_reply_to_status_id" : 142327496367538176,
-  "created_at" : "Thu Dec 01 19:45:41 +0000 2011",
+  "created_at" : "2011-12-01 19:45:41 +0000",
   "in_reply_to_screen_name" : "kazuomatsu",
   "in_reply_to_user_id_str" : "49887122",
   "user" : {
@@ -1896,12 +1843,11 @@ Grailbird.data.tweets_2011_12 =
       "display_url" : "hackeducation.com/2011/12/01/top\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "142288287346860034",
   "text" : "RT hackeducation: Top Ed-Tech Trends of 2011: The iPad http://t.co/Y9AqhH3p",
   "id" : 142288287346860034,
-  "created_at" : "Thu Dec 01 17:05:45 +0000 2011",
+  "created_at" : "2011-12-01 17:05:45 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",

@@ -12,12 +12,11 @@ Grailbird.data.tweets_2011_11 =
       "display_url" : "flic.kr/p/aN5EHD"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "141719082528546816",
   "text" : "The ball is in your court now Apple http://t.co/arV86l9R",
   "id" : 141719082528546816,
-  "created_at" : "Wed Nov 30 03:23:56 +0000 2011",
+  "created_at" : "2011-11-30 03:23:56 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -46,12 +45,11 @@ Grailbird.data.tweets_2011_11 =
       "display_url" : "qr.ae/7af2V"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "141562147380539392",
   "text" : "My answer on @Quora to: What's the one thing you've done that you'd bet has been done by no other Quora member? http://t.co/KtiQUnjy",
   "id" : 141562147380539392,
-  "created_at" : "Tue Nov 29 17:00:20 +0000 2011",
+  "created_at" : "2011-11-29 17:00:20 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -75,8 +73,7 @@ Grailbird.data.tweets_2011_11 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "140472578832736257",
   "text" : "RT @blakegriffin: This must be how the guys in Space Jam felt when MJ gave them their powers back through that old basketball.",
   "retweeted_status" : {
@@ -87,24 +84,23 @@ Grailbird.data.tweets_2011_11 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "140436347189080064",
     "text" : "This must be how the guys in Space Jam felt when MJ gave them their powers back through that old basketball.",
     "id" : 140436347189080064,
-    "created_at" : "Sat Nov 26 14:26:49 +0000 2011",
+    "created_at" : "2011-11-26 14:26:49 +0000",
     "user" : {
       "name" : "Blake Griffin",
       "screen_name" : "blakegriffin32",
       "protected" : false,
       "id_str" : "34430522",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2405274313/blakegriffin_normal.jpg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000526399250/0024cc115a4b1175b50adacbb0b6d035_normal.jpeg",
       "id" : 34430522,
       "verified" : true
     }
   },
   "id" : 140472578832736257,
-  "created_at" : "Sat Nov 26 16:50:47 +0000 2011",
+  "created_at" : "2011-11-26 16:50:47 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -133,12 +129,11 @@ Grailbird.data.tweets_2011_11 =
       "display_url" : "highscalability.com/blog/2011/11/2\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "140355931325218816",
   "text" : "Nice mention @startupandrew ! http://t.co/H4H4DgmO",
   "id" : 140355931325218816,
-  "created_at" : "Sat Nov 26 09:07:16 +0000 2011",
+  "created_at" : "2011-11-26 09:07:16 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -162,8 +157,7 @@ Grailbird.data.tweets_2011_11 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "140354012666015744",
   "text" : "RT @WojYahooNBA: The NBA and players have reached an agreement on a deal, source says. The season will start on Dec. 25.",
   "retweeted_status" : {
@@ -174,12 +168,11 @@ Grailbird.data.tweets_2011_11 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "140343624683618304",
     "text" : "The NBA and players have reached an agreement on a deal, source says. The season will start on Dec. 25.",
     "id" : 140343624683618304,
-    "created_at" : "Sat Nov 26 08:18:22 +0000 2011",
+    "created_at" : "2011-11-26 08:18:22 +0000",
     "user" : {
       "name" : "Adrian Wojnarowski",
       "screen_name" : "WojYahooNBA",
@@ -191,7 +184,7 @@ Grailbird.data.tweets_2011_11 =
     }
   },
   "id" : 140354012666015744,
-  "created_at" : "Sat Nov 26 08:59:38 +0000 2011",
+  "created_at" : "2011-11-26 08:59:38 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -220,12 +213,11 @@ Grailbird.data.tweets_2011_11 =
       "display_url" : "guardian.co.uk/news/datablog/\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "139378674133778432",
   "text" : "Every road casualty across America (01-09) mapped - http://t.co/qbKY7p3h /cc @tomvanderbilt",
   "id" : 139378674133778432,
-  "created_at" : "Wed Nov 23 16:24:00 +0000 2011",
+  "created_at" : "2011-11-23 16:24:00 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -260,8 +252,7 @@ Grailbird.data.tweets_2011_11 =
       "display_url" : "classdojo.com/jobs"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "139078638665613312",
   "text" : "RT @ClassDojo: .@ClassDojo is hiring! Come be #1 or #2 in a small co with big ambitions - come change the world: http://t.co/0zgIMq3P",
   "retweeted_status" : {
@@ -283,12 +274,11 @@ Grailbird.data.tweets_2011_11 =
         "display_url" : "classdojo.com/jobs"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "139072079784984576",
     "text" : ".@ClassDojo is hiring! Come be #1 or #2 in a small co with big ambitions - come change the world: http://t.co/0zgIMq3P",
     "id" : 139072079784984576,
-    "created_at" : "Tue Nov 22 20:05:42 +0000 2011",
+    "created_at" : "2011-11-22 20:05:42 +0000",
     "user" : {
       "name" : "ClassDojo",
       "screen_name" : "ClassDojo",
@@ -300,7 +290,7 @@ Grailbird.data.tweets_2011_11 =
     }
   },
   "id" : 139078638665613312,
-  "created_at" : "Tue Nov 22 20:31:46 +0000 2011",
+  "created_at" : "2011-11-22 20:31:46 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -323,12 +313,11 @@ Grailbird.data.tweets_2011_11 =
       "display_url" : "git.io/p35kMw"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "139028360687915009",
   "text" : "I've contributed to the Celery distributed task queue! http://t.co/oy7wFGHT",
   "id" : 139028360687915009,
-  "created_at" : "Tue Nov 22 17:11:58 +0000 2011",
+  "created_at" : "2011-11-22 17:11:58 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -357,12 +346,11 @@ Grailbird.data.tweets_2011_11 =
       "display_url" : "bit.ly/twQLKP"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "138718835967660033",
   "text" : "RT @Dropbox: A guide on how to get more free space with Dropbox! http://t.co/BZgiNfkC Retweet for a chance to get +100GB!",
   "id" : 138718835967660033,
-  "created_at" : "Mon Nov 21 20:42:02 +0000 2011",
+  "created_at" : "2011-11-21 20:42:02 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -387,14 +375,13 @@ Grailbird.data.tweets_2011_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "137705033419603968",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "137705520172777472",
   "in_reply_to_user_id" : 10200322,
   "text" : "@amdavidson ha, it was a text to someone else that i'd accidentally sent to my twitter contact, which tweeted. Took a bit to realize it...",
   "id" : 137705520172777472,
   "in_reply_to_status_id" : 137705033419603968,
-  "created_at" : "Sat Nov 19 01:35:29 +0000 2011",
+  "created_at" : "2011-11-19 01:35:29 +0000",
   "in_reply_to_screen_name" : "amdavidson",
   "in_reply_to_user_id_str" : "10200322",
   "user" : {
@@ -425,8 +412,7 @@ Grailbird.data.tweets_2011_11 =
       "display_url" : "forbes.com/sites/steveden\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "137405077420912642",
   "text" : "RT @deaneckles: \"Steve Jobs: The Lost Interview\": I found it a fascinating view into his thinking on design, business. http://t.co/KtWpmTXY",
   "retweeted_status" : {
@@ -442,12 +428,11 @@ Grailbird.data.tweets_2011_11 =
         "display_url" : "forbes.com/sites/steveden\u2026"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "137404090606034944",
     "text" : "\"Steve Jobs: The Lost Interview\": I found it a fascinating view into his thinking on design, business. http://t.co/KtWpmTXY",
     "id" : 137404090606034944,
-    "created_at" : "Fri Nov 18 05:37:42 +0000 2011",
+    "created_at" : "2011-11-18 05:37:42 +0000",
     "user" : {
       "name" : "Dean Eckles",
       "screen_name" : "deaneckles",
@@ -459,7 +444,7 @@ Grailbird.data.tweets_2011_11 =
     }
   },
   "id" : 137405077420912642,
-  "created_at" : "Fri Nov 18 05:41:37 +0000 2011",
+  "created_at" : "2011-11-18 05:41:37 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -483,12 +468,11 @@ Grailbird.data.tweets_2011_11 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "137335324979380227",
   "text" : "RT @MagicJohnson: I wish the players would have accepted that deal.",
   "id" : 137335324979380227,
-  "created_at" : "Fri Nov 18 01:04:27 +0000 2011",
+  "created_at" : "2011-11-18 01:04:27 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -518,7 +502,7 @@ Grailbird.data.tweets_2011_11 =
   "id_str" : "136804684869541889",
   "text" : "Glowing Tree in Palo Alto http://t.co/9xBhyego",
   "id" : 136804684869541889,
-  "created_at" : "Wed Nov 16 13:55:53 +0000 2011",
+  "created_at" : "2011-11-16 13:55:53 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -536,12 +520,11 @@ Grailbird.data.tweets_2011_11 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "136589169492377602",
   "text" : "Congratulations to the 2011-12 NBA Champions... the Dallas Mavericks!",
   "id" : 136589169492377602,
-  "created_at" : "Tue Nov 15 23:39:30 +0000 2011",
+  "created_at" : "2011-11-15 23:39:30 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -564,12 +547,11 @@ Grailbird.data.tweets_2011_11 =
       "display_url" : "qr.ae/7WySZ"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "136453903347761152",
   "text" : "My answer to What is the best practice for maintaining a large Aperture Library with a smaller hard drive? - http://t.co/3cbL0M83",
   "id" : 136453903347761152,
-  "created_at" : "Tue Nov 15 14:42:00 +0000 2011",
+  "created_at" : "2011-11-15 14:42:00 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -594,14 +576,13 @@ Grailbird.data.tweets_2011_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "136158582168240128",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "136159569398333440",
   "in_reply_to_user_id" : 167086378,
   "text" : "@travlake the players apparently are thinking the antitrust treble damages will make up for it.",
   "id" : 136159569398333440,
   "in_reply_to_status_id" : 136158582168240128,
-  "created_at" : "Mon Nov 14 19:12:25 +0000 2011",
+  "created_at" : "2011-11-14 19:12:25 +0000",
   "in_reply_to_screen_name" : "travlake",
   "in_reply_to_user_id_str" : "167086378",
   "user" : {
@@ -633,8 +614,7 @@ Grailbird.data.tweets_2011_11 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "136158838360510466",
   "text" : "RT @sportsguy33: Savvy move... if it was July. RT @ESPNSteinLine: Stunning. NBPA rejects NBA's last offer, files to dissolve and take NB ...",
   "retweeted_status" : {
@@ -651,12 +631,11 @@ Grailbird.data.tweets_2011_11 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "136157453011263488",
     "text" : "Savvy move... if it was July. RT @ESPNSteinLine: Stunning. NBPA rejects NBA's last offer, files to dissolve and take NBA to court.",
     "id" : 136157453011263488,
-    "created_at" : "Mon Nov 14 19:04:01 +0000 2011",
+    "created_at" : "2011-11-14 19:04:01 +0000",
     "user" : {
       "name" : "Bill Simmons",
       "screen_name" : "BillSimmons",
@@ -668,7 +647,7 @@ Grailbird.data.tweets_2011_11 =
     }
   },
   "id" : 136158838360510466,
-  "created_at" : "Mon Nov 14 19:09:31 +0000 2011",
+  "created_at" : "2011-11-14 19:09:31 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -693,14 +672,13 @@ Grailbird.data.tweets_2011_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "136111435410448384",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "136158140843560960",
   "in_reply_to_user_id" : 15793108,
   "text" : "@rohitnafday is this the end of the crackberry?",
   "id" : 136158140843560960,
   "in_reply_to_status_id" : 136111435410448384,
-  "created_at" : "Mon Nov 14 19:06:45 +0000 2011",
+  "created_at" : "2011-11-14 19:06:45 +0000",
   "in_reply_to_screen_name" : "rohitnafday",
   "in_reply_to_user_id_str" : "15793108",
   "user" : {
@@ -725,12 +703,11 @@ Grailbird.data.tweets_2011_11 =
       "display_url" : "flic.kr/p/aEaBb1"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "135528257922666497",
   "text" : "Cal vs. OSU http://t.co/0JmQUIle",
   "id" : 135528257922666497,
-  "created_at" : "Sun Nov 13 01:23:49 +0000 2011",
+  "created_at" : "2011-11-13 01:23:49 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -753,12 +730,11 @@ Grailbird.data.tweets_2011_11 =
       "display_url" : "benparr.com/2011/11/yelp-i\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "135039039442132994",
   "text" : "Yelp Invokes Rick Perry. Nice One, Yelp. http://t.co/IcaxXBpP",
   "id" : 135039039442132994,
-  "created_at" : "Fri Nov 11 16:59:50 +0000 2011",
+  "created_at" : "2011-11-11 16:59:50 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -782,8 +758,7 @@ Grailbird.data.tweets_2011_11 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "135014331002781697",
   "text" : "RT @sesamestreet: Today is definitely brought to you by the number 11.",
   "retweeted_status" : {
@@ -794,12 +769,11 @@ Grailbird.data.tweets_2011_11 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "135013768190115841",
     "text" : "Today is definitely brought to you by the number 11.",
     "id" : 135013768190115841,
-    "created_at" : "Fri Nov 11 15:19:25 +0000 2011",
+    "created_at" : "2011-11-11 15:19:25 +0000",
     "user" : {
       "name" : "Sesame Street",
       "screen_name" : "sesamestreet",
@@ -811,7 +785,7 @@ Grailbird.data.tweets_2011_11 =
     }
   },
   "id" : 135014331002781697,
-  "created_at" : "Fri Nov 11 15:21:39 +0000 2011",
+  "created_at" : "2011-11-11 15:21:39 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -843,7 +817,7 @@ Grailbird.data.tweets_2011_11 =
       "id_str" : "15161274",
       "id" : 15161274
     }, {
-      "name" : "remind101",
+      "name" : "Remind101",
       "screen_name" : "remind101",
       "indices" : [ 68, 78 ],
       "id_str" : "80880113",
@@ -864,8 +838,7 @@ Grailbird.data.tweets_2011_11 =
       "display_url" : "su.pr/1PXk9Y"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "134373457273176064",
   "text" : "RT @KirstenWinkler: New @edukwest Interview: #80 with @BrettKopf of @remind101 http://t.co/YWhyPpqt #edchat #k12",
   "retweeted_status" : {
@@ -884,7 +857,7 @@ Grailbird.data.tweets_2011_11 =
         "id_str" : "15161274",
         "id" : 15161274
       }, {
-        "name" : "remind101",
+        "name" : "Remind101",
         "screen_name" : "remind101",
         "indices" : [ 48, 58 ],
         "id_str" : "80880113",
@@ -905,12 +878,11 @@ Grailbird.data.tweets_2011_11 =
         "display_url" : "su.pr/1PXk9Y"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "134366303602487299",
     "text" : "New @edukwest Interview: #80 with @BrettKopf of @remind101 http://t.co/YWhyPpqt #edchat #k12",
     "id" : 134366303602487299,
-    "created_at" : "Wed Nov 09 20:26:37 +0000 2011",
+    "created_at" : "2011-11-09 20:26:37 +0000",
     "user" : {
       "name" : "Kirsten Winkler",
       "screen_name" : "KirstenWinkler",
@@ -922,7 +894,7 @@ Grailbird.data.tweets_2011_11 =
     }
   },
   "id" : 134373457273176064,
-  "created_at" : "Wed Nov 09 20:55:03 +0000 2011",
+  "created_at" : "2011-11-09 20:55:03 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -940,12 +912,11 @@ Grailbird.data.tweets_2011_11 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "133337801948282880",
   "text" : "\"There are only two hard things in Computer Science: cache invalidation and naming things\" - Phil Karlton",
   "id" : 133337801948282880,
-  "created_at" : "Mon Nov 07 00:19:43 +0000 2011",
+  "created_at" : "2011-11-07 00:19:43 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -968,12 +939,11 @@ Grailbird.data.tweets_2011_11 =
       "display_url" : "youtube.com/watch?v=_YQpbz\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "133322862021967873",
   "text" : "What happens when parents (say they) eat all their kids' Halloween candy - http://t.co/bMslWaRn",
   "id" : 133322862021967873,
-  "created_at" : "Sun Nov 06 23:20:21 +0000 2011",
+  "created_at" : "2011-11-06 23:20:21 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -991,12 +961,11 @@ Grailbird.data.tweets_2011_11 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "133058131440832514",
   "text" : "What is this? A center for ants?!  It has to be at least three times this size!",
   "id" : 133058131440832514,
-  "created_at" : "Sun Nov 06 05:48:25 +0000 2011",
+  "created_at" : "2011-11-06 05:48:25 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -1019,12 +988,11 @@ Grailbird.data.tweets_2011_11 =
       "display_url" : "flic.kr/p/aCbX4h"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "132971349709824000",
   "text" : "Cal vs. WSU http://t.co/6y05k8cg",
   "id" : 132971349709824000,
-  "created_at" : "Sun Nov 06 00:03:34 +0000 2011",
+  "created_at" : "2011-11-06 00:03:34 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -1049,14 +1017,13 @@ Grailbird.data.tweets_2011_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "132625065031376896",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "132661666306457601",
   "in_reply_to_user_id" : 759249,
   "text" : "@deaneckles unless they went to stanford. there all grades are just inflated to be B's and A's.",
   "id" : 132661666306457601,
   "in_reply_to_status_id" : 132625065031376896,
-  "created_at" : "Sat Nov 05 03:33:00 +0000 2011",
+  "created_at" : "2011-11-05 03:33:00 +0000",
   "in_reply_to_screen_name" : "deaneckles",
   "in_reply_to_user_id_str" : "759249",
   "user" : {
@@ -1083,14 +1050,13 @@ Grailbird.data.tweets_2011_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "132559620559474688",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "132660885805215744",
   "in_reply_to_user_id" : 15732699,
   "text" : "@zeeg look for about $1200ish for a truckee ski lease (mid/late Dec to May)",
   "id" : 132660885805215744,
   "in_reply_to_status_id" : 132559620559474688,
-  "created_at" : "Sat Nov 05 03:29:54 +0000 2011",
+  "created_at" : "2011-11-05 03:29:54 +0000",
   "in_reply_to_screen_name" : "zeeg",
   "in_reply_to_user_id_str" : "15732699",
   "user" : {
@@ -1121,8 +1087,7 @@ Grailbird.data.tweets_2011_11 =
       "display_url" : "onion.com/rWHSuV"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "131926590933311488",
   "text" : "RT @TheOnion: Bill Simmons Somehow Still Writing About 2010 NBA Season http://t.co/s6j8gO4R",
   "retweeted_status" : {
@@ -1138,12 +1103,11 @@ Grailbird.data.tweets_2011_11 =
         "display_url" : "onion.com/rWHSuV"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "131883308597522433",
     "text" : "Bill Simmons Somehow Still Writing About 2010 NBA Season http://t.co/s6j8gO4R",
     "id" : 131883308597522433,
-    "created_at" : "Thu Nov 03 00:00:05 +0000 2011",
+    "created_at" : "2011-11-03 00:00:05 +0000",
     "user" : {
       "name" : "The Onion",
       "screen_name" : "TheOnion",
@@ -1155,7 +1119,7 @@ Grailbird.data.tweets_2011_11 =
     }
   },
   "id" : 131926590933311488,
-  "created_at" : "Thu Nov 03 02:52:05 +0000 2011",
+  "created_at" : "2011-11-03 02:52:05 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -1184,12 +1148,11 @@ Grailbird.data.tweets_2011_11 =
       "display_url" : "techcrunch.com/2011/11/02/soc\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "131866415467737088",
   "text" : "Wow, another round of layoffs only 13 months later\u2026 Fall at @RockYouInc is not a happy place to be: http://t.co/JlvZ0Rsj",
   "id" : 131866415467737088,
-  "created_at" : "Wed Nov 02 22:52:58 +0000 2011",
+  "created_at" : "2011-11-02 22:52:58 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -1219,12 +1182,11 @@ Grailbird.data.tweets_2011_11 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "131586132772274177",
   "text" : "RT @IamaGM: So the NBA started a verified twitter account to clear up any misinformation they see on here - @NBA_Labor",
   "id" : 131586132772274177,
-  "created_at" : "Wed Nov 02 04:19:13 +0000 2011",
+  "created_at" : "2011-11-02 04:19:13 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -1247,12 +1209,11 @@ Grailbird.data.tweets_2011_11 =
       "display_url" : "npr.org/blogs/thesalt/\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "131533554113970177",
   "text" : "Necco puts artificial flavors back into their candy. They'll finally taste good again - http://t.co/TQaCJGyk",
   "id" : 131533554113970177,
-  "created_at" : "Wed Nov 02 00:50:17 +0000 2011",
+  "created_at" : "2011-11-02 00:50:17 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -1276,8 +1237,7 @@ Grailbird.data.tweets_2011_11 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "131441512671223808",
   "text" : "RT @audreywatters: I see that to take on Facebook with \"social,\" Google is trying the old \"freak the hell out of users by UI changes\" ta ...",
   "retweeted_status" : {
@@ -1288,12 +1248,11 @@ Grailbird.data.tweets_2011_11 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "131423350294712320",
     "text" : "I see that to take on Facebook with \"social,\" Google is trying the old \"freak the hell out of users by UI changes\" tactic.  Brilliant",
     "id" : 131423350294712320,
-    "created_at" : "Tue Nov 01 17:32:23 +0000 2011",
+    "created_at" : "2011-11-01 17:32:23 +0000",
     "user" : {
       "name" : "Audrey Watters",
       "screen_name" : "audreywatters",
@@ -1305,7 +1264,7 @@ Grailbird.data.tweets_2011_11 =
     }
   },
   "id" : 131441512671223808,
-  "created_at" : "Tue Nov 01 18:44:33 +0000 2011",
+  "created_at" : "2011-11-01 18:44:33 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",

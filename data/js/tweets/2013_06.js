@@ -14,14 +14,13 @@ Grailbird.data.tweets_2013_06 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "351518949176909824",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "351519296779845634",
   "in_reply_to_user_id" : 50478950,
   "text" : "@kennethreitz Ok, so is iPhoto just managing other files on disk then?",
   "id" : 351519296779845634,
   "in_reply_to_status_id" : 351518949176909824,
-  "created_at" : "Mon Jul 01 01:55:05 +0000 2013",
+  "created_at" : "2013-07-01 01:55:05 +0000",
   "in_reply_to_screen_name" : "kennethreitz",
   "in_reply_to_user_id_str" : "50478950",
   "user" : {
@@ -48,14 +47,13 @@ Grailbird.data.tweets_2013_06 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "351458478369406976",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "351516173394903040",
   "in_reply_to_user_id" : 50478950,
   "text" : "@kennethreitz Why iPhoto and not Aperture or Lightroom?",
   "id" : 351516173394903040,
   "in_reply_to_status_id" : 351458478369406976,
-  "created_at" : "Mon Jul 01 01:42:41 +0000 2013",
+  "created_at" : "2013-07-01 01:42:41 +0000",
   "in_reply_to_screen_name" : "kennethreitz",
   "in_reply_to_user_id_str" : "50478950",
   "user" : {
@@ -93,14 +91,13 @@ Grailbird.data.tweets_2013_06 =
     } ]
   },
   "in_reply_to_status_id_str" : "351357192491896832",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "351419786019868673",
   "in_reply_to_user_id" : 1275351,
   "text" : "@PascalVanHecke @deaneckles A good resource for doing a comprehensive export: http://t.co/P658gvhcjD",
   "id" : 351419786019868673,
   "in_reply_to_status_id" : 351357192491896832,
-  "created_at" : "Sun Jun 30 19:19:40 +0000 2013",
+  "created_at" : "2013-06-30 19:19:40 +0000",
   "in_reply_to_screen_name" : "PascalVanHecke",
   "in_reply_to_user_id_str" : "1275351",
   "user" : {
@@ -132,7 +129,7 @@ Grailbird.data.tweets_2013_06 =
   "id_str" : "351369441726054400",
   "text" : "The Danube at Night http://t.co/5zJR5ATgEI",
   "id" : 351369441726054400,
-  "created_at" : "Sun Jun 30 15:59:37 +0000 2013",
+  "created_at" : "2013-06-30 15:59:37 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -162,7 +159,7 @@ Grailbird.data.tweets_2013_06 =
   "id_str" : "351369404254126083",
   "text" : "Passing Storm Clouds http://t.co/X9H6RfxELp",
   "id" : 351369404254126083,
-  "created_at" : "Sun Jun 30 15:59:28 +0000 2013",
+  "created_at" : "2013-06-30 15:59:28 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -192,7 +189,7 @@ Grailbird.data.tweets_2013_06 =
   "id_str" : "351158424211423234",
   "text" : "Always a good decision. @ Taqueria Cancun http://t.co/FgWrIVeeFg",
   "id" : 351158424211423234,
-  "created_at" : "Sun Jun 30 02:01:07 +0000 2013",
+  "created_at" : "2013-06-30 02:01:07 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -222,7 +219,7 @@ Grailbird.data.tweets_2013_06 =
   "id_str" : "351145416139616258",
   "text" : "Hello Dolores. Hello crowds. @ Mission Dolores Park http://t.co/xhaDutcSFk",
   "id" : 351145416139616258,
-  "created_at" : "Sun Jun 30 01:09:25 +0000 2013",
+  "created_at" : "2013-06-30 01:09:25 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -240,12 +237,11 @@ Grailbird.data.tweets_2013_06 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "351055408930111492",
   "text" : "If you live to be one hundred, you've got it made. Very few people die past that age.",
   "id" : 351055408930111492,
-  "created_at" : "Sat Jun 29 19:11:46 +0000 2013",
+  "created_at" : "2013-06-29 19:11:46 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -263,12 +259,11 @@ Grailbird.data.tweets_2013_06 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "350644519940788226",
   "text" : "Happy \u03C4 day! Make sure to eat twice the pie you normally would.",
   "id" : 350644519940788226,
-  "created_at" : "Fri Jun 28 15:59:02 +0000 2013",
+  "created_at" : "2013-06-28 15:59:02 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -293,14 +288,13 @@ Grailbird.data.tweets_2013_06 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "350460008590344193",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "350467972709625856",
   "in_reply_to_user_id" : 393129393,
   "text" : "@ChaseAdam17 is this a religious conference? Didn\u2019t realize you prayed that way. Also, we should catch up sometime.",
   "id" : 350467972709625856,
   "in_reply_to_status_id" : 350460008590344193,
-  "created_at" : "Fri Jun 28 04:17:30 +0000 2013",
+  "created_at" : "2013-06-28 04:17:30 +0000",
   "in_reply_to_screen_name" : "ChaseAdam17",
   "in_reply_to_user_id_str" : "393129393",
   "user" : {
@@ -333,14 +327,13 @@ Grailbird.data.tweets_2013_06 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "350242481377517569",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "350257761801613313",
   "in_reply_to_user_id" : 90667437,
   "text" : "@adepue @zeeg I\u2019d actually love to get a copy. I found the auth a pain in the ass to configure with Chef. The Jenkins encryption blows..",
   "id" : 350257761801613313,
   "in_reply_to_status_id" : 350242481377517569,
-  "created_at" : "Thu Jun 27 14:22:12 +0000 2013",
+  "created_at" : "2013-06-27 14:22:12 +0000",
   "in_reply_to_screen_name" : "adepue",
   "in_reply_to_user_id_str" : "90667437",
   "user" : {
@@ -367,14 +360,13 @@ Grailbird.data.tweets_2013_06 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "350085350577815553",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "350086421773680640",
   "in_reply_to_user_id" : 18576413,
   "text" : "@heyamylin I guess I need to go back to Texas to Lockhart!",
   "id" : 350086421773680640,
   "in_reply_to_status_id" : 350085350577815553,
-  "created_at" : "Thu Jun 27 03:01:21 +0000 2013",
+  "created_at" : "2013-06-27 03:01:21 +0000",
   "in_reply_to_screen_name" : "heyamylin",
   "in_reply_to_user_id_str" : "18576413",
   "user" : {
@@ -401,14 +393,13 @@ Grailbird.data.tweets_2013_06 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "350082862797697024",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "350083144742998017",
   "in_reply_to_user_id" : 18576413,
   "text" : "@heyamylin I considered it, but didn't think you had room in your car? And the voucher was for $600...",
   "id" : 350083144742998017,
   "in_reply_to_status_id" : 350082862797697024,
-  "created_at" : "Thu Jun 27 02:48:20 +0000 2013",
+  "created_at" : "2013-06-27 02:48:20 +0000",
   "in_reply_to_screen_name" : "heyamylin",
   "in_reply_to_user_id_str" : "18576413",
   "user" : {
@@ -435,14 +426,13 @@ Grailbird.data.tweets_2013_06 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "350081846421360640",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "350082184276754432",
   "in_reply_to_user_id" : 18576413,
   "text" : "@heyamylin not sure, but southwest flies to Mexico and Puerto Rico :-)",
   "id" : 350082184276754432,
   "in_reply_to_status_id" : 350081846421360640,
-  "created_at" : "Thu Jun 27 02:44:31 +0000 2013",
+  "created_at" : "2013-06-27 02:44:31 +0000",
   "in_reply_to_screen_name" : "heyamylin",
   "in_reply_to_user_id_str" : "18576413",
   "user" : {
@@ -469,14 +459,13 @@ Grailbird.data.tweets_2013_06 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "350080419296849921",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "350081015710093314",
   "in_reply_to_user_id" : 18576413,
   "text" : "@heyamylin I volunteered to be bumped on my first flight for a fat voucher. Then had to go through El Paso and finally Phoenix. Worth it :-)",
   "id" : 350081015710093314,
   "in_reply_to_status_id" : 350080419296849921,
-  "created_at" : "Thu Jun 27 02:39:53 +0000 2013",
+  "created_at" : "2013-06-27 02:39:53 +0000",
   "in_reply_to_screen_name" : "heyamylin",
   "in_reply_to_user_id_str" : "18576413",
   "user" : {
@@ -503,14 +492,13 @@ Grailbird.data.tweets_2013_06 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "350078503619788800",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "350079404669534208",
   "in_reply_to_user_id" : 18576413,
   "text" : "@heyamylin ha. You beat me back. I'm just leaving SFO now.",
   "id" : 350079404669534208,
   "in_reply_to_status_id" : 350078503619788800,
-  "created_at" : "Thu Jun 27 02:33:29 +0000 2013",
+  "created_at" : "2013-06-27 02:33:29 +0000",
   "in_reply_to_screen_name" : "heyamylin",
   "in_reply_to_user_id_str" : "18576413",
   "user" : {
@@ -549,14 +537,13 @@ Grailbird.data.tweets_2013_06 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "350024491457449984",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "350025078488043520",
   "in_reply_to_user_id" : 18615528,
   "text" : "@flourishingkids @kalengallagher you too Joan! Hope to see you around @imaginek12 soon!",
   "id" : 350025078488043520,
   "in_reply_to_status_id" : 350024491457449984,
-  "created_at" : "Wed Jun 26 22:57:36 +0000 2013",
+  "created_at" : "2013-06-26 22:57:36 +0000",
   "in_reply_to_screen_name" : "flourishingkids",
   "in_reply_to_user_id_str" : "18615528",
   "user" : {
@@ -583,14 +570,13 @@ Grailbird.data.tweets_2013_06 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "350023512112644096",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "350023675124252672",
   "in_reply_to_user_id" : 21851200,
   "text" : "@kalengallagher In other words, SF &amp; PA &gt; SJ ;)",
   "id" : 350023675124252672,
   "in_reply_to_status_id" : 350023512112644096,
-  "created_at" : "Wed Jun 26 22:52:01 +0000 2013",
+  "created_at" : "2013-06-26 22:52:01 +0000",
   "in_reply_to_screen_name" : "kalengallagher",
   "in_reply_to_user_id_str" : "21851200",
   "user" : {
@@ -616,13 +602,12 @@ Grailbird.data.tweets_2013_06 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "350023144498659328",
   "in_reply_to_user_id" : 21851200,
   "text" : "@kalengallagher SF has had them for a long time. Palo Alto even has them already.",
   "id" : 350023144498659328,
-  "created_at" : "Wed Jun 26 22:49:55 +0000 2013",
+  "created_at" : "2013-06-26 22:49:55 +0000",
   "in_reply_to_screen_name" : "kalengallagher",
   "in_reply_to_user_id_str" : "21851200",
   "user" : {
@@ -649,7 +634,7 @@ Grailbird.data.tweets_2013_06 =
   "id_str" : "349987195244920832",
   "text" : "Thinking of making a quick tourist trip to see Ciudad Juarez. I'm sure it's safe.",
   "id" : 349987195244920832,
-  "created_at" : "Wed Jun 26 20:27:04 +0000 2013",
+  "created_at" : "2013-06-26 20:27:04 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -674,14 +659,13 @@ Grailbird.data.tweets_2013_06 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "349942687841001472",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "349947706950684676",
   "in_reply_to_user_id" : 35426494,
   "text" : "@gabceb lemme know if you come across any good recs. So far the best thing I\u2019ve seen is to create lots of UIView subclasses that do setup",
   "id" : 349947706950684676,
   "in_reply_to_status_id" : 349942687841001472,
-  "created_at" : "Wed Jun 26 17:50:09 +0000 2013",
+  "created_at" : "2013-06-26 17:50:09 +0000",
   "in_reply_to_screen_name" : "gabceb",
   "in_reply_to_user_id_str" : "35426494",
   "user" : {
@@ -701,12 +685,11 @@ Grailbird.data.tweets_2013_06 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "349893080180207618",
   "text" : "Welp, looks like I\u2019m in San Antonio a bit longer. Voluntarily bumped from my flight for a fat voucher. Free wifi for the win!",
   "id" : 349893080180207618,
-  "created_at" : "Wed Jun 26 14:13:05 +0000 2013",
+  "created_at" : "2013-06-26 14:13:05 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -729,12 +712,11 @@ Grailbird.data.tweets_2013_06 =
       "display_url" : "chrisstreeter.com/archive/2013/0\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "349880671491207168",
   "text" : "Some thoughts on Budapest http://t.co/Z5onRxi8AM",
   "id" : 349880671491207168,
-  "created_at" : "Wed Jun 26 13:23:47 +0000 2013",
+  "created_at" : "2013-06-26 13:23:47 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -755,12 +737,11 @@ Grailbird.data.tweets_2013_06 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "349862501674008577",
   "text" : "Another great time this year at #iste13! Though once again, I need a sleep refill.",
   "id" : 349862501674008577,
-  "created_at" : "Wed Jun 26 12:11:35 +0000 2013",
+  "created_at" : "2013-06-26 12:11:35 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -794,7 +775,7 @@ Grailbird.data.tweets_2013_06 =
   "text" : "@mattMur will do. The spot we went to was the only one open at 930 we could tell",
   "id" : 349524158763384833,
   "in_reply_to_status_id" : 349397568452689921,
-  "created_at" : "Tue Jun 25 13:47:07 +0000 2013",
+  "created_at" : "2013-06-25 13:47:07 +0000",
   "in_reply_to_screen_name" : "mattMur",
   "in_reply_to_user_id_str" : "20724260",
   "user" : {
@@ -826,7 +807,7 @@ Grailbird.data.tweets_2013_06 =
   "id_str" : "349371003954147332",
   "text" : "Officially in San Antonio. I've had BBQ. @ County Line Smokehouse &amp; Grill http://t.co/oqXnUXagY2",
   "id" : 349371003954147332,
-  "created_at" : "Tue Jun 25 03:38:33 +0000 2013",
+  "created_at" : "2013-06-25 03:38:33 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -860,7 +841,7 @@ Grailbird.data.tweets_2013_06 =
   "text" : "@Teachbaltshaw nothing yet. Though I haven't heard anything as I've just landed.",
   "id" : 349327772805640192,
   "in_reply_to_status_id" : 349262203662241793,
-  "created_at" : "Tue Jun 25 00:46:45 +0000 2013",
+  "created_at" : "2013-06-25 00:46:45 +0000",
   "in_reply_to_screen_name" : "Teachbaltshaw",
   "in_reply_to_user_id_str" : "519560171",
   "user" : {
@@ -887,14 +868,13 @@ Grailbird.data.tweets_2013_06 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "349172103028817921",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "349244022872739840",
   "in_reply_to_user_id" : 18824526,
   "text" : "@jacobian I\u2019m curious, what\u2019s the load effect on the DB with lots of these types of queries? I usually try to avoid temp tables.",
   "id" : 349244022872739840,
   "in_reply_to_status_id" : 349172103028817921,
-  "created_at" : "Mon Jun 24 19:13:58 +0000 2013",
+  "created_at" : "2013-06-24 19:13:58 +0000",
   "in_reply_to_screen_name" : "jacobian",
   "in_reply_to_user_id_str" : "18824526",
   "user" : {
@@ -931,8 +911,7 @@ Grailbird.data.tweets_2013_06 =
       "display_url" : "i.imgur.com/ZCqCoVn.png"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "349241496110768128",
   "text" : "RT @joestump: Clearly placing so many bets on JavaScript was a fantastic idea: http://t.co/TL5EMXXGtS /via @justinabrahms",
   "retweeted_status" : {
@@ -954,12 +933,11 @@ Grailbird.data.tweets_2013_06 =
         "display_url" : "i.imgur.com/ZCqCoVn.png"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "349232890040680448",
     "text" : "Clearly placing so many bets on JavaScript was a fantastic idea: http://t.co/TL5EMXXGtS /via @justinabrahms",
     "id" : 349232890040680448,
-    "created_at" : "Mon Jun 24 18:29:44 +0000 2013",
+    "created_at" : "2013-06-24 18:29:44 +0000",
     "user" : {
       "name" : "Joe Stump",
       "screen_name" : "joestump",
@@ -971,7 +949,7 @@ Grailbird.data.tweets_2013_06 =
     }
   },
   "id" : 349241496110768128,
-  "created_at" : "Mon Jun 24 19:03:55 +0000 2013",
+  "created_at" : "2013-06-24 19:03:55 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -989,12 +967,11 @@ Grailbird.data.tweets_2013_06 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "349235805690146816",
   "text" : "Google Now is proving to be more useful than TripIt. Maybe TripIt gets better if you pay for it?",
   "id" : 349235805690146816,
-  "created_at" : "Mon Jun 24 18:41:19 +0000 2013",
+  "created_at" : "2013-06-24 18:41:19 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -1019,14 +996,13 @@ Grailbird.data.tweets_2013_06 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "349187653108895745",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "349226466120183808",
   "in_reply_to_user_id" : 245491293,
   "text" : "@gracegarey I\u2019m assuming the pun was intentional.",
   "id" : 349226466120183808,
   "in_reply_to_status_id" : 349187653108895745,
-  "created_at" : "Mon Jun 24 18:04:12 +0000 2013",
+  "created_at" : "2013-06-24 18:04:12 +0000",
   "in_reply_to_screen_name" : "gracegarey",
   "in_reply_to_user_id_str" : "245491293",
   "user" : {
@@ -1058,7 +1034,7 @@ Grailbird.data.tweets_2013_06 =
   "id_str" : "349069493579956224",
   "text" : "Passing Storm Clouds in Budapest http://t.co/X9H6RfxELp",
   "id" : 349069493579956224,
-  "created_at" : "Mon Jun 24 07:40:27 +0000 2013",
+  "created_at" : "2013-06-24 07:40:27 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -1079,12 +1055,11 @@ Grailbird.data.tweets_2013_06 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "349049291710541825",
   "text" : "What\u2019s going on at #iste13 Monday night?",
   "id" : 349049291710541825,
-  "created_at" : "Mon Jun 24 06:20:10 +0000 2013",
+  "created_at" : "2013-06-24 06:20:10 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -1115,14 +1090,13 @@ Grailbird.data.tweets_2013_06 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "348987211913519104",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "348992828178833409",
   "in_reply_to_user_id" : 50478950,
   "text" : "@kennethreitz @ericflo saffron is basically pollen. So it\u2019s super hard to get a lot of it.",
   "id" : 348992828178833409,
   "in_reply_to_status_id" : 348987211913519104,
-  "created_at" : "Mon Jun 24 02:35:48 +0000 2013",
+  "created_at" : "2013-06-24 02:35:48 +0000",
   "in_reply_to_screen_name" : "kennethreitz",
   "in_reply_to_user_id_str" : "50478950",
   "user" : {
@@ -1150,12 +1124,11 @@ Grailbird.data.tweets_2013_06 =
       "display_url" : "flic.kr/s/aHsjGjuifY"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "348982539379150848",
   "text" : "Protests in Taksim and Gezi Park #direngeziparki http://t.co/vuU1NJhS3v",
   "id" : 348982539379150848,
-  "created_at" : "Mon Jun 24 01:54:55 +0000 2013",
+  "created_at" : "2013-06-24 01:54:55 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -1180,14 +1153,13 @@ Grailbird.data.tweets_2013_06 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "348936467487277057",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "348938277115539457",
   "in_reply_to_user_id" : 15793108,
   "text" : "@rohitnafday maybe it was the freak thunder / hail storm that just passed? Also, waiting for my flight at O\u2019Hare, terminal 3...",
   "id" : 348938277115539457,
   "in_reply_to_status_id" : 348936467487277057,
-  "created_at" : "Sun Jun 23 22:59:02 +0000 2013",
+  "created_at" : "2013-06-23 22:59:02 +0000",
   "in_reply_to_screen_name" : "rohitnafday",
   "in_reply_to_user_id_str" : "15793108",
   "user" : {
@@ -1213,13 +1185,12 @@ Grailbird.data.tweets_2013_06 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "348934781746163713",
   "in_reply_to_user_id" : 50478950,
   "text" : "@kennethreitz what\u2019s your site built with? Flask? Is it static?",
   "id" : 348934781746163713,
-  "created_at" : "Sun Jun 23 22:45:09 +0000 2013",
+  "created_at" : "2013-06-23 22:45:09 +0000",
   "in_reply_to_screen_name" : "kennethreitz",
   "in_reply_to_user_id_str" : "50478950",
   "user" : {
@@ -1246,14 +1217,13 @@ Grailbird.data.tweets_2013_06 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "348884373908639744",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "348934210658119680",
   "in_reply_to_user_id" : 25388528,
   "text" : "@audreywatters also, just want to say how awesome the weekly updates are. Thanks again for keeping them up!",
   "id" : 348934210658119680,
   "in_reply_to_status_id" : 348884373908639744,
-  "created_at" : "Sun Jun 23 22:42:53 +0000 2013",
+  "created_at" : "2013-06-23 22:42:53 +0000",
   "in_reply_to_screen_name" : "audreywatters",
   "in_reply_to_user_id_str" : "25388528",
   "user" : {
@@ -1280,14 +1250,13 @@ Grailbird.data.tweets_2013_06 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "348884373908639744",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "348933946991591424",
   "in_reply_to_user_id" : 25388528,
   "text" : "@audreywatters noticed a small typo in the first paragraph \u201CThis is phrase 1 of a $500 million\u201D &lt;- \u201Cphase 1\u201D?",
   "id" : 348933946991591424,
   "in_reply_to_status_id" : 348884373908639744,
-  "created_at" : "Sun Jun 23 22:41:50 +0000 2013",
+  "created_at" : "2013-06-23 22:41:50 +0000",
   "in_reply_to_screen_name" : "audreywatters",
   "in_reply_to_user_id_str" : "25388528",
   "user" : {
@@ -1319,7 +1288,7 @@ Grailbird.data.tweets_2013_06 =
   "id_str" : "348604182963556352",
   "text" : "Chi-town @ Millennium Park http://t.co/1eBNqsElOx",
   "id" : 348604182963556352,
-  "created_at" : "Sun Jun 23 00:51:28 +0000 2013",
+  "created_at" : "2013-06-23 00:51:28 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -1349,7 +1318,7 @@ Grailbird.data.tweets_2013_06 =
   "id_str" : "348556497493569537",
   "text" : "Trump Tower @ Michigan Avenue Bridge http://t.co/C418u45xpt",
   "id" : 348556497493569537,
-  "created_at" : "Sat Jun 22 21:41:59 +0000 2013",
+  "created_at" : "2013-06-22 21:41:59 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -1374,14 +1343,13 @@ Grailbird.data.tweets_2013_06 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "348543637979799553",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "348544061398978561",
   "in_reply_to_user_id" : 28433635,
   "text" : "@jcarlpayne yep. This tour is unreal. Loving it.",
   "id" : 348544061398978561,
   "in_reply_to_status_id" : 348543637979799553,
-  "created_at" : "Sat Jun 22 20:52:34 +0000 2013",
+  "created_at" : "2013-06-22 20:52:34 +0000",
   "in_reply_to_screen_name" : "jcarlpayne",
   "in_reply_to_user_id_str" : "28433635",
   "user" : {
@@ -1413,7 +1381,7 @@ Grailbird.data.tweets_2013_06 =
   "id_str" : "348538623777452034",
   "text" : "Chicago Architecture @ Chicago River http://t.co/Ac4G4q5Lg9",
   "id" : 348538623777452034,
-  "created_at" : "Sat Jun 22 20:30:58 +0000 2013",
+  "created_at" : "2013-06-22 20:30:58 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -1438,14 +1406,13 @@ Grailbird.data.tweets_2013_06 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "348492278920273920",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "348515478467125248",
   "in_reply_to_user_id" : 25778041,
   "text" : "@CarebearSF at least it wasn't a 12 pack of Lime-a-rita.",
   "id" : 348515478467125248,
   "in_reply_to_status_id" : 348492278920273920,
-  "created_at" : "Sat Jun 22 18:58:59 +0000 2013",
+  "created_at" : "2013-06-22 18:58:59 +0000",
   "in_reply_to_screen_name" : "CarebearSF",
   "in_reply_to_user_id_str" : "25778041",
   "user" : {
@@ -1477,7 +1444,7 @@ Grailbird.data.tweets_2013_06 =
   "id_str" : "348510883997171712",
   "text" : "Distortion @ Millennium Park http://t.co/n3LXmmss0V",
   "id" : 348510883997171712,
-  "created_at" : "Sat Jun 22 18:40:44 +0000 2013",
+  "created_at" : "2013-06-22 18:40:44 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -1502,7 +1469,7 @@ Grailbird.data.tweets_2013_06 =
   "id_str" : "348490991415726081",
   "text" : "OH: Hey, Tyreke, you ain't the leak, you're the roof!",
   "id" : 348490991415726081,
-  "created_at" : "Sat Jun 22 17:21:41 +0000 2013",
+  "created_at" : "2013-06-22 17:21:41 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -1520,12 +1487,11 @@ Grailbird.data.tweets_2013_06 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "348248780933566464",
   "text" : "Business school graduation advice: create value with collabratories.",
   "id" : 348248780933566464,
-  "created_at" : "Sat Jun 22 01:19:14 +0000 2013",
+  "created_at" : "2013-06-22 01:19:14 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -1550,14 +1516,13 @@ Grailbird.data.tweets_2013_06 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "348223139848798210",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "348226122305126400",
   "in_reply_to_user_id" : 35426494,
   "text" : "@gabceb they probably hit the instagram api",
   "id" : 348226122305126400,
   "in_reply_to_status_id" : 348223139848798210,
-  "created_at" : "Fri Jun 21 23:49:11 +0000 2013",
+  "created_at" : "2013-06-21 23:49:11 +0000",
   "in_reply_to_screen_name" : "gabceb",
   "in_reply_to_user_id_str" : "35426494",
   "user" : {
@@ -1589,7 +1554,7 @@ Grailbird.data.tweets_2013_06 =
   "id_str" : "348184003544752129",
   "text" : "Making decisions at Kellogg @ Kellogg School of Management http://t.co/FpROH2x4RH",
   "id" : 348184003544752129,
-  "created_at" : "Fri Jun 21 21:01:50 +0000 2013",
+  "created_at" : "2013-06-21 21:01:50 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -1612,12 +1577,11 @@ Grailbird.data.tweets_2013_06 =
       "display_url" : "assets.sbnation.com/assets/2817739\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "348157278018478080",
   "text" : "Warriors representing at last night\u2019s finals game http://t.co/ZokczOdbRb",
   "id" : 348157278018478080,
-  "created_at" : "Fri Jun 21 19:15:38 +0000 2013",
+  "created_at" : "2013-06-21 19:15:38 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -1647,7 +1611,7 @@ Grailbird.data.tweets_2013_06 =
   "id_str" : "348136518679928835",
   "text" : "Lake Michigan @ Greenwood Street Beach http://t.co/VxQGw91l4t",
   "id" : 348136518679928835,
-  "created_at" : "Fri Jun 21 17:53:08 +0000 2013",
+  "created_at" : "2013-06-21 17:53:08 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -1671,12 +1635,11 @@ Grailbird.data.tweets_2013_06 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "348114164725723136",
   "text" : "Me after every trip RT @gracegarey: My suitcase appears to have thrown up in my room.",
   "id" : 348114164725723136,
-  "created_at" : "Fri Jun 21 16:24:19 +0000 2013",
+  "created_at" : "2013-06-21 16:24:19 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -1701,14 +1664,13 @@ Grailbird.data.tweets_2013_06 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "347977089510670336",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "348090227778260992",
   "in_reply_to_user_id" : 14087951,
   "text" : "@ericflo not true with iPads. Just for phones.",
   "id" : 348090227778260992,
   "in_reply_to_status_id" : 347977089510670336,
-  "created_at" : "Fri Jun 21 14:49:12 +0000 2013",
+  "created_at" : "2013-06-21 14:49:12 +0000",
   "in_reply_to_screen_name" : "ericflo",
   "in_reply_to_user_id_str" : "14087951",
   "user" : {
@@ -1734,8 +1696,7 @@ Grailbird.data.tweets_2013_06 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "348088919134437376",
   "text" : "RT @ConanOBrien: The CEO of Men\u2019s Warehouse was fired. He\u2019s filing a suit, an inexpensive, not very stylish suit.",
   "retweeted_status" : {
@@ -1746,12 +1707,11 @@ Grailbird.data.tweets_2013_06 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "347906239591755776",
     "text" : "The CEO of Men\u2019s Warehouse was fired. He\u2019s filing a suit, an inexpensive, not very stylish suit.",
     "id" : 347906239591755776,
-    "created_at" : "Fri Jun 21 02:38:05 +0000 2013",
+    "created_at" : "2013-06-21 02:38:05 +0000",
     "user" : {
       "name" : "Conan O'Brien",
       "screen_name" : "ConanOBrien",
@@ -1763,7 +1723,7 @@ Grailbird.data.tweets_2013_06 =
     }
   },
   "id" : 348088919134437376,
-  "created_at" : "Fri Jun 21 14:44:00 +0000 2013",
+  "created_at" : "2013-06-21 14:44:00 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -1788,14 +1748,13 @@ Grailbird.data.tweets_2013_06 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "347925707441184772",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "347926338784612353",
   "in_reply_to_user_id" : 14635493,
   "text" : "@alex_gaynor that or the HTC One. Check out The Wirecutter for reviews and explanations",
   "id" : 347926338784612353,
   "in_reply_to_status_id" : 347925707441184772,
-  "created_at" : "Fri Jun 21 03:57:57 +0000 2013",
+  "created_at" : "2013-06-21 03:57:57 +0000",
   "in_reply_to_screen_name" : "alex_gaynor",
   "in_reply_to_user_id_str" : "14635493",
   "user" : {
@@ -1822,14 +1781,13 @@ Grailbird.data.tweets_2013_06 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "347845525170712576",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "347861989487431680",
   "in_reply_to_user_id" : 12101862,
   "text" : "@VirginAmerica the flight would be so much better if I could watch the NBA finals game on ABC. ESPN isn\u2019t airing it :(",
   "id" : 347861989487431680,
   "in_reply_to_status_id" : 347845525170712576,
-  "created_at" : "Thu Jun 20 23:42:15 +0000 2013",
+  "created_at" : "2013-06-20 23:42:15 +0000",
   "in_reply_to_screen_name" : "VirginAmerica",
   "in_reply_to_user_id_str" : "12101862",
   "user" : {
@@ -1856,14 +1814,13 @@ Grailbird.data.tweets_2013_06 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "347851313784164352",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "347855962704605184",
   "in_reply_to_user_id" : 12497,
   "text" : "@simonw I\u2019ve seen this with other apps. It\u2019s definitely an Apple bug. They\u2019ve even installed a previous version before.",
   "id" : 347855962704605184,
   "in_reply_to_status_id" : 347851313784164352,
-  "created_at" : "Thu Jun 20 23:18:19 +0000 2013",
+  "created_at" : "2013-06-20 23:18:19 +0000",
   "in_reply_to_screen_name" : "simonw",
   "in_reply_to_user_id_str" : "12497",
   "user" : {
@@ -1895,8 +1852,7 @@ Grailbird.data.tweets_2013_06 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "347847745161265153",
   "text" : "RT @VirginAmerica: @chrisstreeter Glad you're impressed. Enjoy your trip. Can't wait to hear you think.",
   "retweeted_status" : {
@@ -1914,14 +1870,13 @@ Grailbird.data.tweets_2013_06 =
       "urls" : [ ]
     },
     "in_reply_to_status_id_str" : "347841305986097152",
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "347845525170712576",
     "in_reply_to_user_id" : 15344895,
     "text" : "@chrisstreeter Glad you're impressed. Enjoy your trip. Can't wait to hear you think.",
     "id" : 347845525170712576,
     "in_reply_to_status_id" : 347841305986097152,
-    "created_at" : "Thu Jun 20 22:36:50 +0000 2013",
+    "created_at" : "2013-06-20 22:36:50 +0000",
     "in_reply_to_screen_name" : "chrisstreeter",
     "in_reply_to_user_id_str" : "15344895",
     "user" : {
@@ -1935,7 +1890,7 @@ Grailbird.data.tweets_2013_06 =
     }
   },
   "id" : 347847745161265153,
-  "created_at" : "Thu Jun 20 22:45:39 +0000 2013",
+  "created_at" : "2013-06-20 22:45:39 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -1960,7 +1915,7 @@ Grailbird.data.tweets_2013_06 =
   "id_str" : "347847492630609921",
   "text" : "The guy next to me on my flight is Googling about \"vertigo\". Should I be worried?",
   "id" : 347847492630609921,
-  "created_at" : "Thu Jun 20 22:44:39 +0000 2013",
+  "created_at" : "2013-06-20 22:44:39 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -1984,12 +1939,11 @@ Grailbird.data.tweets_2013_06 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "347841305986097152",
   "text" : "My first trip on @VirginAmerica, and already I\u2019m impressed by their check in and boarding area. Now really looking forward to the flight.",
   "id" : 347841305986097152,
-  "created_at" : "Thu Jun 20 22:20:04 +0000 2013",
+  "created_at" : "2013-06-20 22:20:04 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -2014,14 +1968,13 @@ Grailbird.data.tweets_2013_06 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "347836797688111104",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "347838642804379648",
   "in_reply_to_user_id" : 15668311,
   "text" : "@mattbornski I think I\u2019m missing the internet of things on their site... but that\u2019s awesome. Glad you got a new gig and are enjoying it!",
   "id" : 347838642804379648,
   "in_reply_to_status_id" : 347836797688111104,
-  "created_at" : "Thu Jun 20 22:09:29 +0000 2013",
+  "created_at" : "2013-06-20 22:09:29 +0000",
   "in_reply_to_screen_name" : "mattbornski",
   "in_reply_to_user_id_str" : "15668311",
   "user" : {
@@ -2048,14 +2001,13 @@ Grailbird.data.tweets_2013_06 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "347783512281202688",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "347835695676669953",
   "in_reply_to_user_id" : 15668311,
   "text" : "@mattbornski congrats dude! what team?",
   "id" : 347835695676669953,
   "in_reply_to_status_id" : 347783512281202688,
-  "created_at" : "Thu Jun 20 21:57:46 +0000 2013",
+  "created_at" : "2013-06-20 21:57:46 +0000",
   "in_reply_to_screen_name" : "mattbornski",
   "in_reply_to_user_id_str" : "15668311",
   "user" : {
@@ -2087,14 +2039,13 @@ Grailbird.data.tweets_2013_06 =
     } ]
   },
   "in_reply_to_status_id_str" : "347776840007553024",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "347835635924602881",
   "in_reply_to_user_id" : 6324102,
   "text" : "@jonrohan yeah, though a lot of the frontends are nowhere near as nice looking as yours. Graphiti might be decent https://t.co/t1Jb74G29G",
   "id" : 347835635924602881,
   "in_reply_to_status_id" : 347776840007553024,
-  "created_at" : "Thu Jun 20 21:57:32 +0000 2013",
+  "created_at" : "2013-06-20 21:57:32 +0000",
   "in_reply_to_screen_name" : "jonrohan",
   "in_reply_to_user_id_str" : "6324102",
   "user" : {
@@ -2119,12 +2070,11 @@ Grailbird.data.tweets_2013_06 =
       "display_url" : "thetileapp.com"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "347747094431424512",
   "text" : "The Tile revolution has begun! Be a part of it by becoming a backer at http://t.co/6ERz4FB4PD",
   "id" : 347747094431424512,
-  "created_at" : "Thu Jun 20 16:05:42 +0000 2013",
+  "created_at" : "2013-06-20 16:05:42 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -2153,13 +2103,12 @@ Grailbird.data.tweets_2013_06 =
       "display_url" : "speakerdeck.com/jonrohan/githu\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "347743970778042368",
   "in_reply_to_user_id" : 6324102,
   "text" : "@jonrohan do you guys have any plans to release The Graph Store at GitHub as open source at some point? https://t.co/CEYCKRjwOJ",
   "id" : 347743970778042368,
-  "created_at" : "Thu Jun 20 15:53:18 +0000 2013",
+  "created_at" : "2013-06-20 15:53:18 +0000",
   "in_reply_to_screen_name" : "jonrohan",
   "in_reply_to_user_id_str" : "6324102",
   "user" : {
@@ -2186,14 +2135,13 @@ Grailbird.data.tweets_2013_06 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "347691583673610241",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "347719710118404096",
   "in_reply_to_user_id" : 74972610,
   "text" : "@JamesTamplin all-nighter, or up early?",
   "id" : 347719710118404096,
   "in_reply_to_status_id" : 347691583673610241,
-  "created_at" : "Thu Jun 20 14:16:53 +0000 2013",
+  "created_at" : "2013-06-20 14:16:53 +0000",
   "in_reply_to_screen_name" : "JamesTamplin",
   "in_reply_to_user_id_str" : "74972610",
   "user" : {
@@ -2222,8 +2170,7 @@ Grailbird.data.tweets_2013_06 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "347719123188449280",
   "text" : "RT @dowjones_yeliz: #Turkish lira hits one and half year low against the dollar at TRY1.92",
   "retweeted_status" : {
@@ -2237,12 +2184,11 @@ Grailbird.data.tweets_2013_06 =
       } ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "347639264948932609",
     "text" : "#Turkish lira hits one and half year low against the dollar at TRY1.92",
     "id" : 347639264948932609,
-    "created_at" : "Thu Jun 20 08:57:14 +0000 2013",
+    "created_at" : "2013-06-20 08:57:14 +0000",
     "user" : {
       "name" : "Yeliz Candemir Kazan",
       "screen_name" : "dowjones_yeliz",
@@ -2254,7 +2200,7 @@ Grailbird.data.tweets_2013_06 =
     }
   },
   "id" : 347719123188449280,
-  "created_at" : "Thu Jun 20 14:14:33 +0000 2013",
+  "created_at" : "2013-06-20 14:14:33 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -2277,12 +2223,11 @@ Grailbird.data.tweets_2013_06 =
       "display_url" : "youtube.com/watch?v=_h1bt3\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "347562583663980544",
   "text" : "Heat fans, worst fans in the NBA http://t.co/JAIWON6kj2",
   "id" : 347562583663980544,
-  "created_at" : "Thu Jun 20 03:52:32 +0000 2013",
+  "created_at" : "2013-06-20 03:52:32 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -2305,12 +2250,11 @@ Grailbird.data.tweets_2013_06 =
       "display_url" : "brownpapertickets.com/event/400408"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "347551638673833984",
   "text" : "Bacon and ham tasting? Of course I'm in. http://t.co/yLsKx7Iz7c",
   "id" : 347551638673833984,
-  "created_at" : "Thu Jun 20 03:09:02 +0000 2013",
+  "created_at" : "2013-06-20 03:09:02 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -2328,12 +2272,11 @@ Grailbird.data.tweets_2013_06 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "347495831563284480",
   "text" : "The best part about having a phone again is entering all my passwords to all my different accounts.",
   "id" : 347495831563284480,
-  "created_at" : "Wed Jun 19 23:27:17 +0000 2013",
+  "created_at" : "2013-06-19 23:27:17 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -2364,14 +2307,13 @@ Grailbird.data.tweets_2013_06 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "347358827240370176",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "347363460532813824",
   "in_reply_to_user_id" : 61116517,
   "text" : "@theeugenelee I figured that dick was @MattVelasco0 Still could be I suppose.",
   "id" : 347363460532813824,
   "in_reply_to_status_id" : 347358827240370176,
-  "created_at" : "Wed Jun 19 14:41:17 +0000 2013",
+  "created_at" : "2013-06-19 14:41:17 +0000",
   "in_reply_to_screen_name" : "theeugenelee",
   "in_reply_to_user_id_str" : "61116517",
   "user" : {
@@ -2415,8 +2357,7 @@ Grailbird.data.tweets_2013_06 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "347058887893061633",
   "text" : "RT @zeynep: No, not Dan Brown! RT @zeynep_erdim: People are standing still and reading. #duranadam #standingman #taksim #istanbul http://t.\u2026",
   "retweeted_status" : {
@@ -2475,12 +2416,11 @@ Grailbird.data.tweets_2013_06 =
       } ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "347039012671848448",
     "text" : "No, not Dan Brown! RT @zeynep_erdim: People are standing still and reading. #duranadam #standingman #taksim #istanbul http://t.co/IA8FvfqHNg",
     "id" : 347039012671848448,
-    "created_at" : "Tue Jun 18 17:12:02 +0000 2013",
+    "created_at" : "2013-06-18 17:12:02 +0000",
     "user" : {
       "name" : "Zeynep Tufekci",
       "screen_name" : "zeynep",
@@ -2492,7 +2432,7 @@ Grailbird.data.tweets_2013_06 =
     }
   },
   "id" : 347058887893061633,
-  "created_at" : "Tue Jun 18 18:31:01 +0000 2013",
+  "created_at" : "2013-06-18 18:31:01 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -2517,14 +2457,13 @@ Grailbird.data.tweets_2013_06 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "346794571465883648",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "346794875401928704",
   "in_reply_to_user_id" : 636923,
   "text" : "@siracusa open lots of tabs in Chrome.",
   "id" : 346794875401928704,
   "in_reply_to_status_id" : 346794571465883648,
-  "created_at" : "Tue Jun 18 01:01:56 +0000 2013",
+  "created_at" : "2013-06-18 01:01:56 +0000",
   "in_reply_to_screen_name" : "siracusa",
   "in_reply_to_user_id_str" : "636923",
   "user" : {
@@ -2549,12 +2488,11 @@ Grailbird.data.tweets_2013_06 =
       "display_url" : "sfist.com/2013/06/17/eve\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "346767385933529088",
   "text" : "Mayor Lee Unveils New Fleet Of Hybrid Muni Buses That Immediately Break Down http://t.co/YAjba1qzM5",
   "id" : 346767385933529088,
-  "created_at" : "Mon Jun 17 23:12:42 +0000 2013",
+  "created_at" : "2013-06-17 23:12:42 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -2590,14 +2528,13 @@ Grailbird.data.tweets_2013_06 =
     } ]
   },
   "in_reply_to_status_id_str" : "346753001521836032",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "346758950693265408",
   "in_reply_to_user_id" : 6154602,
   "text" : "@soffes http://t.co/Npcn9meCf6 was started by a buddy of mine /cc @inbredrevenge",
   "id" : 346758950693265408,
   "in_reply_to_status_id" : 346753001521836032,
-  "created_at" : "Mon Jun 17 22:39:10 +0000 2013",
+  "created_at" : "2013-06-17 22:39:10 +0000",
   "in_reply_to_screen_name" : "soffes",
   "in_reply_to_user_id_str" : "6154602",
   "user" : {
@@ -2624,14 +2561,13 @@ Grailbird.data.tweets_2013_06 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "346676345985699840",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "346676598143057920",
   "in_reply_to_user_id" : 15755127,
   "text" : "@andrewbender I thought it was just my sister\u2019s 14 student major. Instead it was all of UC Davis\u2019 agricultural college. :(",
   "id" : 346676598143057920,
   "in_reply_to_status_id" : 346676345985699840,
-  "created_at" : "Mon Jun 17 17:11:56 +0000 2013",
+  "created_at" : "2013-06-17 17:11:56 +0000",
   "in_reply_to_screen_name" : "andrewbender",
   "in_reply_to_user_id_str" : "15755127",
   "user" : {
@@ -2651,12 +2587,11 @@ Grailbird.data.tweets_2013_06 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "346675615186944000",
   "text" : "Day 6 without a phone. Hardest part has been sitting through 2 hours of graduation speeches and having to actually listen to the speeches.",
   "id" : 346675615186944000,
-  "created_at" : "Mon Jun 17 17:08:02 +0000 2013",
+  "created_at" : "2013-06-17 17:08:02 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -2685,12 +2620,11 @@ Grailbird.data.tweets_2013_06 =
       "display_url" : "theatlantic.com/infocus/2013/0\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "346117634292580353",
   "text" : "The Ends of the Road http://t.co/Lb0UiyGC5K via @in_focus",
   "id" : 346117634292580353,
-  "created_at" : "Sun Jun 16 04:10:49 +0000 2013",
+  "created_at" : "2013-06-16 04:10:49 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -2713,12 +2647,11 @@ Grailbird.data.tweets_2013_06 =
       "display_url" : "flowingdata.com/2013/06/13/sni\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "346107284109266945",
   "text" : "It's just metadata. What can you do with that? Sniff out Paul Revere with basic social network analysis is what http://t.co/KTzD2BzlEi",
   "id" : 346107284109266945,
-  "created_at" : "Sun Jun 16 03:29:41 +0000 2013",
+  "created_at" : "2013-06-16 03:29:41 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -2748,7 +2681,7 @@ Grailbird.data.tweets_2013_06 =
   "id_str" : "346090955109179393",
   "text" : "Grady the Fearsome @ Lake Combie http://t.co/WbIVHvofIK",
   "id" : 346090955109179393,
-  "created_at" : "Sun Jun 16 02:24:48 +0000 2013",
+  "created_at" : "2013-06-16 02:24:48 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -2778,14 +2711,13 @@ Grailbird.data.tweets_2013_06 =
     } ]
   },
   "in_reply_to_status_id_str" : "346034487936823296",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "346088489969930240",
   "in_reply_to_user_id" : 50478950,
   "text" : "@kennethreitz what\u2019s it built with? Hosted with this method? https://t.co/6D4n57KGyK",
   "id" : 346088489969930240,
   "in_reply_to_status_id" : 346034487936823296,
-  "created_at" : "Sun Jun 16 02:15:00 +0000 2013",
+  "created_at" : "2013-06-16 02:15:00 +0000",
   "in_reply_to_screen_name" : "kennethreitz",
   "in_reply_to_user_id_str" : "50478950",
   "user" : {
@@ -2811,12 +2743,11 @@ Grailbird.data.tweets_2013_06 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "346029222902521856",
   "text" : "Wow, really worried about Istanbulies right now. Can\u2019t believe just days ago I was there and the city was peaceful #occupygezi #direngezi",
   "id" : 346029222902521856,
-  "created_at" : "Sat Jun 15 22:19:30 +0000 2013",
+  "created_at" : "2013-06-15 22:19:30 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -2840,8 +2771,7 @@ Grailbird.data.tweets_2013_06 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "345978693660835840",
   "text" : "RT @JoeWSJ: Big gas attacks down Cumhuriyet and on the narrow sidestreets. People running into doorways, looking for shelter.",
   "retweeted_status" : {
@@ -2852,12 +2782,11 @@ Grailbird.data.tweets_2013_06 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "345978292081414144",
     "text" : "Big gas attacks down Cumhuriyet and on the narrow sidestreets. People running into doorways, looking for shelter.",
     "id" : 345978292081414144,
-    "created_at" : "Sat Jun 15 18:57:07 +0000 2013",
+    "created_at" : "2013-06-15 18:57:07 +0000",
     "user" : {
       "name" : "Joe Parkinson",
       "screen_name" : "JoeWSJ",
@@ -2869,7 +2798,7 @@ Grailbird.data.tweets_2013_06 =
     }
   },
   "id" : 345978693660835840,
-  "created_at" : "Sat Jun 15 18:58:43 +0000 2013",
+  "created_at" : "2013-06-15 18:58:43 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -2904,13 +2833,12 @@ Grailbird.data.tweets_2013_06 =
       "display_url" : "bit.ly/ZSrcBD"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "345953075145613314",
   "in_reply_to_user_id" : 759249,
   "text" : "@deaneckles RT @hayeswire: A Play-By-Play of Last Night's Protest http://t.co/b2PGxHnMqj",
   "id" : 345953075145613314,
-  "created_at" : "Sat Jun 15 17:16:55 +0000 2013",
+  "created_at" : "2013-06-15 17:16:55 +0000",
   "in_reply_to_screen_name" : "deaneckles",
   "in_reply_to_user_id_str" : "759249",
   "user" : {
@@ -2936,12 +2864,11 @@ Grailbird.data.tweets_2013_06 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "345943958440001536",
   "text" : "RT @JoeWSJ: Huge crowd for Erdogan rally. Big show of strength. TV networks have helicopters for this one so we can see the scale.",
   "id" : 345943958440001536,
-  "created_at" : "Sat Jun 15 16:40:41 +0000 2013",
+  "created_at" : "2013-06-15 16:40:41 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -2960,53 +2887,21 @@ Grailbird.data.tweets_2013_06 =
       "indices" : [ 7, 14 ],
       "id_str" : "65375759",
       "id" : 65375759
-    }, {
-      "name" : "kemal \u00F6zt\u00FCrk",
-      "screen_name" : "kemalozturk2020",
-      "indices" : [ 37, 53 ],
-      "id_str" : "526782531",
-      "id" : 526782531
     } ],
-    "media" : [ {
-      "expanded_url" : "http://twitter.com/kemalozturk2020/status/345923589704392706/photo/1",
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
       "indices" : [ 105, 127 ],
       "url" : "http://t.co/LLg9yiJQ5E",
-      "media_url" : "http://pbs.twimg.com/media/BMz3rAxCIAALvAj.jpg",
-      "id_str" : "345923589712781312",
-      "id" : 345923589712781312,
-      "media_url_https" : "https://pbs.twimg.com/media/BMz3rAxCIAALvAj.jpg",
-      "sizes" : [ {
-        "h" : 338,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 191,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 576,
-        "resize" : "fit",
-        "w" : 1024
-      }, {
-        "h" : 576,
-        "resize" : "fit",
-        "w" : 1024
-      } ],
+      "expanded_url" : "http://twitter.com/kemalozturk2020/status/345923589704392706/photo/1",
       "display_url" : "pic.twitter.com/LLg9yiJQ5E"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ ]
+    } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "345943809391226881",
   "text" : "Wow RT @zeynep: AKP rally aerial. RT @kemalozturk2020: Milli \u0130radeye saygi mitinginin havadan gorunusu   http://t.co/LLg9yiJQ5E",
   "id" : 345943809391226881,
-  "created_at" : "Sat Jun 15 16:40:06 +0000 2013",
+  "created_at" : "2013-06-15 16:40:06 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -3036,12 +2931,11 @@ Grailbird.data.tweets_2013_06 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "345943450396545024",
   "text" : "Because Tim Cook built that feature. RT @SenJohnMcCain: Thanks to Tim Cook for the automatic iphone app updates! #apple #wwdc",
   "id" : 345943450396545024,
-  "created_at" : "Sat Jun 15 16:38:40 +0000 2013",
+  "created_at" : "2013-06-15 16:38:40 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -3066,14 +2960,13 @@ Grailbird.data.tweets_2013_06 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "345740796340875265",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "345741875451412482",
   "in_reply_to_user_id" : 759249,
   "text" : "@deaneckles more tree houses though",
   "id" : 345741875451412482,
   "in_reply_to_status_id" : 345740796340875265,
-  "created_at" : "Sat Jun 15 03:17:41 +0000 2013",
+  "created_at" : "2013-06-15 03:17:41 +0000",
   "in_reply_to_screen_name" : "deaneckles",
   "in_reply_to_user_id_str" : "759249",
   "user" : {
@@ -3100,14 +2993,13 @@ Grailbird.data.tweets_2013_06 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "345739618769068032",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "345740112837095425",
   "in_reply_to_user_id" : 759249,
   "text" : "@deaneckles yeah, realized it after your next tweets. So deleted mine.",
   "id" : 345740112837095425,
   "in_reply_to_status_id" : 345739618769068032,
-  "created_at" : "Sat Jun 15 03:10:41 +0000 2013",
+  "created_at" : "2013-06-15 03:10:41 +0000",
   "in_reply_to_screen_name" : "deaneckles",
   "in_reply_to_user_id_str" : "759249",
   "user" : {
@@ -3141,7 +3033,7 @@ Grailbird.data.tweets_2013_06 =
       "id_str" : "315617667",
       "id" : 315617667
     }, {
-      "name" : "remind101",
+      "name" : "Remind101",
       "screen_name" : "remind101",
       "indices" : [ 84, 94 ],
       "id_str" : "80880113",
@@ -3157,8 +3049,7 @@ Grailbird.data.tweets_2013_06 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "345559264867270657",
   "text" : "RT @educreations: Tickets are going quick! Come meet the @educreations, @ClassDojo, @remind101 &amp; @Desmos teams over drinks! http://t.co/HHd\u2026",
   "retweeted_status" : {
@@ -3177,7 +3068,7 @@ Grailbird.data.tweets_2013_06 =
         "id_str" : "315617667",
         "id" : 315617667
       }, {
-        "name" : "remind101",
+        "name" : "Remind101",
         "screen_name" : "remind101",
         "indices" : [ 66, 76 ],
         "id_str" : "80880113",
@@ -3201,12 +3092,11 @@ Grailbird.data.tweets_2013_06 =
         "display_url" : "edtechparty2013.eventbrite.com"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "345559216632766465",
     "text" : "Tickets are going quick! Come meet the @educreations, @ClassDojo, @remind101 &amp; @Desmos teams over drinks! http://t.co/HHdvSvFSO8 #iste13",
     "id" : 345559216632766465,
-    "created_at" : "Fri Jun 14 15:11:52 +0000 2013",
+    "created_at" : "2013-06-14 15:11:52 +0000",
     "user" : {
       "name" : "educreations",
       "screen_name" : "educreations",
@@ -3218,7 +3108,7 @@ Grailbird.data.tweets_2013_06 =
     }
   },
   "id" : 345559264867270657,
-  "created_at" : "Fri Jun 14 15:12:03 +0000 2013",
+  "created_at" : "2013-06-14 15:12:03 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -3243,14 +3133,13 @@ Grailbird.data.tweets_2013_06 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "345555811751321600",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "345557447265624064",
   "in_reply_to_user_id" : 65375759,
   "text" : "@zeynep sad you\u2019re leaving. Have really appreciated your on-the-ground English reporting! Stay safe Istanbul and Turkey!",
   "id" : 345557447265624064,
   "in_reply_to_status_id" : 345555811751321600,
-  "created_at" : "Fri Jun 14 15:04:50 +0000 2013",
+  "created_at" : "2013-06-14 15:04:50 +0000",
   "in_reply_to_screen_name" : "zeynep",
   "in_reply_to_user_id_str" : "65375759",
   "user" : {
@@ -3283,14 +3172,13 @@ Grailbird.data.tweets_2013_06 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "345059618004811776",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "345113334535839744",
   "in_reply_to_user_id" : 65375759,
   "text" : ".@zeynep @Bill_Gross I was just in Istanbul (staying near Galata end of Istiklal) and felt absolutely safe the entire time.",
   "id" : 345113334535839744,
   "in_reply_to_status_id" : 345059618004811776,
-  "created_at" : "Thu Jun 13 09:40:05 +0000 2013",
+  "created_at" : "2013-06-13 09:40:05 +0000",
   "in_reply_to_screen_name" : "zeynep",
   "in_reply_to_user_id_str" : "65375759",
   "user" : {
@@ -3321,12 +3209,11 @@ Grailbird.data.tweets_2013_06 =
       "display_url" : "imaginek12.com"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "344932369674928128",
   "text" : "Do it! MT @imaginek12: Edtech startups, apply for IK12's next cohort + $100k funding at http://t.co/9OPHPtbskb",
   "id" : 344932369674928128,
-  "created_at" : "Wed Jun 12 21:41:00 +0000 2013",
+  "created_at" : "2013-06-12 21:41:00 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -3358,8 +3245,7 @@ Grailbird.data.tweets_2013_06 =
       "display_url" : "vine.co/v/blirIed3hIq"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "344929204447617027",
   "text" : "RT @SportsCenter: #StephCenter Halftime Recap: LeBron James 4 Pts. My daughter Riley 2 Pts. https://t.co/niFUBebKAQ",
   "retweeted_status" : {
@@ -3378,12 +3264,11 @@ Grailbird.data.tweets_2013_06 =
         "display_url" : "vine.co/v/blirIed3hIq"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "344641509469077504",
     "text" : "#StephCenter Halftime Recap: LeBron James 4 Pts. My daughter Riley 2 Pts. https://t.co/niFUBebKAQ",
     "id" : 344641509469077504,
-    "created_at" : "Wed Jun 12 02:25:13 +0000 2013",
+    "created_at" : "2013-06-12 02:25:13 +0000",
     "user" : {
       "name" : "SportsCenter",
       "screen_name" : "SportsCenter",
@@ -3395,7 +3280,7 @@ Grailbird.data.tweets_2013_06 =
     }
   },
   "id" : 344929204447617027,
-  "created_at" : "Wed Jun 12 21:28:25 +0000 2013",
+  "created_at" : "2013-06-12 21:28:25 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -3426,14 +3311,13 @@ Grailbird.data.tweets_2013_06 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "344885654859161601",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "344888504758710272",
   "in_reply_to_user_id" : 79861330,
   "text" : "@bzotto @evernote congrats! Big accomplishment!",
   "id" : 344888504758710272,
   "in_reply_to_status_id" : 344885654859161601,
-  "created_at" : "Wed Jun 12 18:46:41 +0000 2013",
+  "created_at" : "2013-06-12 18:46:41 +0000",
   "in_reply_to_screen_name" : "bzotto",
   "in_reply_to_user_id_str" : "79861330",
   "user" : {
@@ -3463,12 +3347,11 @@ Grailbird.data.tweets_2013_06 =
       "display_url" : "instagram.com/p/aLIxLlI-fv/"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "344874451780902912",
   "text" : "Flooding in Hungary after we left: http://t.co/nqAZW9pdfn For reference, here\u2019s what it looked like for me: http://t.co/vTSicHaPf7",
   "id" : 344874451780902912,
-  "created_at" : "Wed Jun 12 17:50:51 +0000 2013",
+  "created_at" : "2013-06-12 17:50:51 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -3495,8 +3378,7 @@ Grailbird.data.tweets_2013_06 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "344834441232912384",
   "text" : "RT @zeynep: Who says #occupygezi\u00A0 is bad for tourism? Seeing tourists touring the area. Here's hoping no tear gas souvenir. :-) http://t.co\u2026",
   "retweeted_status" : {
@@ -3540,12 +3422,11 @@ Grailbird.data.tweets_2013_06 =
       } ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "344830993263374336",
     "text" : "Who says #occupygezi\u00A0 is bad for tourism? Seeing tourists touring the area. Here's hoping no tear gas souvenir. :-) http://t.co/wFdHgnIt0Y",
     "id" : 344830993263374336,
-    "created_at" : "Wed Jun 12 14:58:10 +0000 2013",
+    "created_at" : "2013-06-12 14:58:10 +0000",
     "user" : {
       "name" : "Zeynep Tufekci",
       "screen_name" : "zeynep",
@@ -3557,7 +3438,7 @@ Grailbird.data.tweets_2013_06 =
     }
   },
   "id" : 344834441232912384,
-  "created_at" : "Wed Jun 12 15:11:52 +0000 2013",
+  "created_at" : "2013-06-12 15:11:52 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -3589,12 +3470,11 @@ Grailbird.data.tweets_2013_06 =
       "display_url" : "p.ost.im/p/dbYNVT"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "344796170385764352",
   "text" : "What do #occupygezi Protesters Want? My Observations from Gezi Park http://t.co/4PYjF4B51q via @zeynep",
   "id" : 344796170385764352,
-  "created_at" : "Wed Jun 12 12:39:47 +0000 2013",
+  "created_at" : "2013-06-12 12:39:47 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -3619,14 +3499,13 @@ Grailbird.data.tweets_2013_06 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "344702907591032832",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "344789170520199168",
   "in_reply_to_user_id" : 19261045,
   "text" : "@ConDri cool, i\u2019ll chat you up today to work out logistics for tomorrow",
   "id" : 344789170520199168,
   "in_reply_to_status_id" : 344702907591032832,
-  "created_at" : "Wed Jun 12 12:11:58 +0000 2013",
+  "created_at" : "2013-06-12 12:11:58 +0000",
   "in_reply_to_screen_name" : "ConDri",
   "in_reply_to_user_id_str" : "19261045",
   "user" : {
@@ -3663,12 +3542,11 @@ Grailbird.data.tweets_2013_06 =
       "display_url" : "theatlantic.com/infocus/2013/0\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "344682330608267264",
   "text" : "Riot police retake Istanbul\u2019s Taksim Square http://t.co/BNAGHQMlA6 /cc @deaneckles @ben_mathes",
   "id" : 344682330608267264,
-  "created_at" : "Wed Jun 12 05:07:26 +0000 2013",
+  "created_at" : "2013-06-12 05:07:26 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -3697,12 +3575,11 @@ Grailbird.data.tweets_2013_06 =
       "display_url" : "theatln.tc/11dnSys"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "344672880216391680",
   "text" : "RT @in_focus: Riot Police Retake Istanbul's Taksim Square - 40 images from this morning's action in Istanbul - http://t.co/ikAlvUIZlz",
   "id" : 344672880216391680,
-  "created_at" : "Wed Jun 12 04:29:53 +0000 2013",
+  "created_at" : "2013-06-12 04:29:53 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -3727,14 +3604,13 @@ Grailbird.data.tweets_2013_06 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "344496957001183232",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "344670280490311680",
   "in_reply_to_user_id" : 19261045,
   "text" : "@ConDri just got back. awesome trip. may try to catch a ride to san mateo thus morning to get my car. you driving down there?",
   "id" : 344670280490311680,
   "in_reply_to_status_id" : 344496957001183232,
-  "created_at" : "Wed Jun 12 04:19:33 +0000 2013",
+  "created_at" : "2013-06-12 04:19:33 +0000",
   "in_reply_to_screen_name" : "ConDri",
   "in_reply_to_user_id_str" : "19261045",
   "user" : {
@@ -3761,14 +3637,13 @@ Grailbird.data.tweets_2013_06 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "344228761304174592",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "344273261087043584",
   "in_reply_to_user_id" : 19261045,
   "text" : "@ConDri careful with SF landlords\u2026 they\u2019re super aggressive about no Airbnb stays.",
   "id" : 344273261087043584,
   "in_reply_to_status_id" : 344228761304174592,
-  "created_at" : "Tue Jun 11 02:01:56 +0000 2013",
+  "created_at" : "2013-06-11 02:01:56 +0000",
   "in_reply_to_screen_name" : "ConDri",
   "in_reply_to_user_id_str" : "19261045",
   "user" : {
@@ -3830,8 +3705,7 @@ Grailbird.data.tweets_2013_06 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "344272569471479808",
   "text" : "RT @radleybalko: It's different when our guy does it. http://t.co/JSqkgai3XH via @GarrettQuinn",
   "retweeted_status" : {
@@ -3878,12 +3752,11 @@ Grailbird.data.tweets_2013_06 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "344197109236506624",
     "text" : "It's different when our guy does it. http://t.co/JSqkgai3XH via @GarrettQuinn",
     "id" : 344197109236506624,
-    "created_at" : "Mon Jun 10 20:59:20 +0000 2013",
+    "created_at" : "2013-06-10 20:59:20 +0000",
     "user" : {
       "name" : "Radley Balko",
       "screen_name" : "radleybalko",
@@ -3895,7 +3768,7 @@ Grailbird.data.tweets_2013_06 =
     }
   },
   "id" : 344272569471479808,
-  "created_at" : "Tue Jun 11 01:59:11 +0000 2013",
+  "created_at" : "2013-06-11 01:59:11 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -3913,12 +3786,11 @@ Grailbird.data.tweets_2013_06 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "344206413679185920",
   "text" : "So Apple and Google are friends again, right? They\u2019re sharing design teams.",
   "id" : 344206413679185920,
-  "created_at" : "Mon Jun 10 21:36:18 +0000 2013",
+  "created_at" : "2013-06-10 21:36:18 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -3938,7 +3810,7 @@ Grailbird.data.tweets_2013_06 =
       "id_str" : "315617667",
       "id" : 315617667
     }, {
-      "name" : "remind101",
+      "name" : "Remind101",
       "screen_name" : "remind101",
       "indices" : [ 80, 90 ],
       "id_str" : "80880113",
@@ -3963,15 +3835,14 @@ Grailbird.data.tweets_2013_06 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "344117646532419585",
   "text" : "RT @ClassDojo: Heading to #ISTE13? Join us at the 2013 StartUp Party along with @remind101, @educreations, and @Desmos! RSVP here: http://t\u2026",
   "retweeted_status" : {
     "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "remind101",
+        "name" : "Remind101",
         "screen_name" : "remind101",
         "indices" : [ 65, 75 ],
         "id_str" : "80880113",
@@ -4001,12 +3872,11 @@ Grailbird.data.tweets_2013_06 =
         "display_url" : "goo.gl/AqaLu"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "344111127472525312",
     "text" : "Heading to #ISTE13? Join us at the 2013 StartUp Party along with @remind101, @educreations, and @Desmos! RSVP here: http://t.co/LECy61q8Xj",
     "id" : 344111127472525312,
-    "created_at" : "Mon Jun 10 15:17:40 +0000 2013",
+    "created_at" : "2013-06-10 15:17:40 +0000",
     "user" : {
       "name" : "ClassDojo",
       "screen_name" : "ClassDojo",
@@ -4018,7 +3888,7 @@ Grailbird.data.tweets_2013_06 =
     }
   },
   "id" : 344117646532419585,
-  "created_at" : "Mon Jun 10 15:43:34 +0000 2013",
+  "created_at" : "2013-06-10 15:43:34 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -4041,12 +3911,11 @@ Grailbird.data.tweets_2013_06 =
       "display_url" : "obamaischeckingyouremail.tumblr.com"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "343972019412557824",
   "text" : "Tumblr of the day http://t.co/Y67ft5ceZ3",
   "id" : 343972019412557824,
-  "created_at" : "Mon Jun 10 06:04:54 +0000 2013",
+  "created_at" : "2013-06-10 06:04:54 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -4076,7 +3945,7 @@ Grailbird.data.tweets_2013_06 =
   "id_str" : "343747126708273152",
   "text" : "D\u00F6ner meat anything, please @ Mavi B\u00FCfe http://t.co/e55FyF1zN2",
   "id" : 343747126708273152,
-  "created_at" : "Sun Jun 09 15:11:16 +0000 2013",
+  "created_at" : "2013-06-09 15:11:16 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -4099,12 +3968,11 @@ Grailbird.data.tweets_2013_06 =
       "display_url" : "arstechnica.com/security/2013/\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "343642682104627201",
   "text" : "After burglaries, mystery car unlocking device has police stumped\nhttp://t.co/f0AR7Y8RNL",
   "id" : 343642682104627201,
-  "created_at" : "Sun Jun 09 08:16:14 +0000 2013",
+  "created_at" : "2013-06-09 08:16:14 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -4118,7 +3986,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Natalie Streeter",
+      "name" : "natalie streeter",
       "screen_name" : "phatnatlegit",
       "indices" : [ 0, 13 ],
       "id_str" : "588605425",
@@ -4129,14 +3997,13 @@ Grailbird.data.tweets_2013_06 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "342926946176483328",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "343036540827623424",
   "in_reply_to_user_id" : 588605425,
   "text" : "@phatnatlegit toss some Nutella on that shit",
   "id" : 343036540827623424,
   "in_reply_to_status_id" : 342926946176483328,
-  "created_at" : "Fri Jun 07 16:07:39 +0000 2013",
+  "created_at" : "2013-06-07 16:07:39 +0000",
   "in_reply_to_screen_name" : "phatnatlegit",
   "in_reply_to_user_id_str" : "588605425",
   "user" : {
@@ -4170,8 +4037,7 @@ Grailbird.data.tweets_2013_06 =
       "display_url" : "theatln.tc/11uXyD1"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "342765720448401408",
   "text" : "RT @in_focus: [Photos] A Week of Furious Protest in Turkey - 42 images from the Turkish streets- http://t.co/0EHXPa6058 #occupygezi",
   "retweeted_status" : {
@@ -4190,12 +4056,11 @@ Grailbird.data.tweets_2013_06 =
         "display_url" : "theatln.tc/11uXyD1"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "342685217598865410",
     "text" : "[Photos] A Week of Furious Protest in Turkey - 42 images from the Turkish streets- http://t.co/0EHXPa6058 #occupygezi",
     "id" : 342685217598865410,
-    "created_at" : "Thu Jun 06 16:51:37 +0000 2013",
+    "created_at" : "2013-06-06 16:51:37 +0000",
     "user" : {
       "name" : "In Focus",
       "screen_name" : "in_focus",
@@ -4207,7 +4072,7 @@ Grailbird.data.tweets_2013_06 =
     }
   },
   "id" : 342765720448401408,
-  "created_at" : "Thu Jun 06 22:11:30 +0000 2013",
+  "created_at" : "2013-06-06 22:11:30 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -4237,7 +4102,7 @@ Grailbird.data.tweets_2013_06 =
   "id_str" : "342627247775182848",
   "text" : "The penthouse upgrade in Istanbul @ Galata http://t.co/KMn7A0IRsA",
   "id" : 342627247775182848,
-  "created_at" : "Thu Jun 06 13:01:16 +0000 2013",
+  "created_at" : "2013-06-06 13:01:16 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -4261,12 +4126,11 @@ Grailbird.data.tweets_2013_06 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "342513474972291072",
   "text" : "RT @MattVelasco0: Trail mix with no M&amp;Ms is insulting",
   "id" : 342513474972291072,
-  "created_at" : "Thu Jun 06 05:29:10 +0000 2013",
+  "created_at" : "2013-06-06 05:29:10 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -4280,7 +4144,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Natalie Streeter",
+      "name" : "natalie streeter",
       "screen_name" : "phatnatlegit",
       "indices" : [ 0, 13 ],
       "id_str" : "588605425",
@@ -4291,14 +4155,13 @@ Grailbird.data.tweets_2013_06 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "342390630082813952",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "342408547226771456",
   "in_reply_to_user_id" : 588605425,
   "text" : "@phatnatlegit cooler than a polar bear\u2019s toe nails.",
   "id" : 342408547226771456,
   "in_reply_to_status_id" : 342390630082813952,
-  "created_at" : "Wed Jun 05 22:32:13 +0000 2013",
+  "created_at" : "2013-06-05 22:32:13 +0000",
   "in_reply_to_screen_name" : "phatnatlegit",
   "in_reply_to_user_id_str" : "588605425",
   "user" : {
@@ -4335,12 +4198,11 @@ Grailbird.data.tweets_2013_06 =
       "display_url" : "boston.com/bigpicture/201\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "342406577065689090",
   "text" : "Devastating flooding in Europe http://t.co/cvZGIp0xOm /cc @deaneckles @ben_mathes",
   "id" : 342406577065689090,
-  "created_at" : "Wed Jun 05 22:24:24 +0000 2013",
+  "created_at" : "2013-06-05 22:24:24 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -4363,12 +4225,11 @@ Grailbird.data.tweets_2013_06 =
       "display_url" : "medium.com/what-i-learned\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "342246214147919873",
   "text" : "Say no to most things: Features. People. Partnerships. \u201CCoffees.\u201D Projects. Only a few of them really matter. https://t.co/6QhUTLnzgI",
   "id" : 342246214147919873,
-  "created_at" : "Wed Jun 05 11:47:10 +0000 2013",
+  "created_at" : "2013-06-05 11:47:10 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -4392,12 +4253,11 @@ Grailbird.data.tweets_2013_06 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "342237797744267264",
   "text" : "RT @ben_mathes: Trip to Istanbul: protests. Trip to Budapest: flooding. Anyone have a city they don't like I should visit?",
   "id" : 342237797744267264,
-  "created_at" : "Wed Jun 05 11:13:44 +0000 2013",
+  "created_at" : "2013-06-05 11:13:44 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -4427,7 +4287,7 @@ Grailbird.data.tweets_2013_06 =
   "id_str" : "342227611050708997",
   "text" : "Flooding in Budapest @ Sofitel Budapest Chain Bridge http://t.co/vTSicHaPf7",
   "id" : 342227611050708997,
-  "created_at" : "Wed Jun 05 10:33:15 +0000 2013",
+  "created_at" : "2013-06-05 10:33:15 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -4452,14 +4312,13 @@ Grailbird.data.tweets_2013_06 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "342039862133784576",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "342043785330565120",
   "in_reply_to_user_id" : 25401953,
   "text" : "@steipete yeah, I feel like there might be other reasons I used the OS version, but they aren\u2019t coming to me right now\u2026",
   "id" : 342043785330565120,
   "in_reply_to_status_id" : 342039862133784576,
-  "created_at" : "Tue Jun 04 22:22:47 +0000 2013",
+  "created_at" : "2013-06-04 22:22:47 +0000",
   "in_reply_to_screen_name" : "steipete",
   "in_reply_to_user_id_str" : "25401953",
   "user" : {
@@ -4491,14 +4350,13 @@ Grailbird.data.tweets_2013_06 =
     } ]
   },
   "in_reply_to_status_id_str" : "341960931191955456",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "342038079462322177",
   "in_reply_to_user_id" : 25401953,
   "text" : "@steipete yep, though I\u2019m using GCUndoManager, a drop in replacement to be able to peek into the stack. https://t.co/zOaHKDvN0u",
   "id" : 342038079462322177,
   "in_reply_to_status_id" : 341960931191955456,
-  "created_at" : "Tue Jun 04 22:00:07 +0000 2013",
+  "created_at" : "2013-06-04 22:00:07 +0000",
   "in_reply_to_screen_name" : "steipete",
   "in_reply_to_user_id_str" : "25401953",
   "user" : {
@@ -4536,14 +4394,13 @@ Grailbird.data.tweets_2013_06 =
     } ]
   },
   "in_reply_to_status_id_str" : "341513226405683200",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "341515680711057408",
   "in_reply_to_user_id" : 14353392,
   "text" : "@Bourdain I\u2019ve been getting great information from @techsoc. This article was great http://t.co/D81aaSombb",
   "id" : 341515680711057408,
   "in_reply_to_status_id" : 341513226405683200,
-  "created_at" : "Mon Jun 03 11:24:17 +0000 2013",
+  "created_at" : "2013-06-03 11:24:17 +0000",
   "in_reply_to_screen_name" : "Bourdain",
   "in_reply_to_user_id_str" : "14353392",
   "user" : {
@@ -4574,8 +4431,7 @@ Grailbird.data.tweets_2013_06 =
       "display_url" : "theatln.tc/11kpfOF"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "341251497520148481",
   "text" : "RT @in_focus: In Turkey: Days of Anti-Government Protests - 36 photos of the recent unrest and harsh crackdowns - http://t.co/s2LyJLwkcD  #\u2026",
   "retweeted_status" : {
@@ -4594,12 +4450,11 @@ Grailbird.data.tweets_2013_06 =
         "display_url" : "theatln.tc/11kpfOF"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "341236447434653696",
     "text" : "In Turkey: Days of Anti-Government Protests - 36 photos of the recent unrest and harsh crackdowns - http://t.co/s2LyJLwkcD  #occupygezi",
     "id" : 341236447434653696,
-    "created_at" : "Sun Jun 02 16:54:43 +0000 2013",
+    "created_at" : "2013-06-02 16:54:43 +0000",
     "user" : {
       "name" : "In Focus",
       "screen_name" : "in_focus",
@@ -4611,7 +4466,7 @@ Grailbird.data.tweets_2013_06 =
     }
   },
   "id" : 341251497520148481,
-  "created_at" : "Sun Jun 02 17:54:31 +0000 2013",
+  "created_at" : "2013-06-02 17:54:31 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -4671,12 +4526,11 @@ Grailbird.data.tweets_2013_06 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "341251370696990721",
   "text" : ".@watsi? RT @paulg: The growth graph of (AFAIK) the fastest growing co of those we've funded: http://t.co/cWWZIgvFsa",
   "id" : 341251370696990721,
-  "created_at" : "Sun Jun 02 17:54:01 +0000 2013",
+  "created_at" : "2013-06-02 17:54:01 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -4701,14 +4555,13 @@ Grailbird.data.tweets_2013_06 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "341228196383059968",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "341250992005849088",
   "in_reply_to_user_id" : 14807047,
   "text" : "@frewsxcv yep. Actually am going to a wedding there. So hopefully the areas I want to visit are ok. Though Taksim sq. was on my list.",
   "id" : 341250992005849088,
   "in_reply_to_status_id" : 341228196383059968,
-  "created_at" : "Sun Jun 02 17:52:31 +0000 2013",
+  "created_at" : "2013-06-02 17:52:31 +0000",
   "in_reply_to_screen_name" : "frewsxcv",
   "in_reply_to_user_id_str" : "14807047",
   "user" : {
@@ -4734,8 +4587,7 @@ Grailbird.data.tweets_2013_06 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "341249275705044992",
   "text" : "RT @techsoc: Turkish PM Erdo\u011Fan: \"There is this curse called Twitter.  It's all lies ... That thing called social media is the curse of soc\u2026",
   "retweeted_status" : {
@@ -4746,12 +4598,11 @@ Grailbird.data.tweets_2013_06 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "341197863042289664",
     "text" : "Turkish PM Erdo\u011Fan: \"There is this curse called Twitter.  It's all lies ... That thing called social media is the curse of society today.\"",
     "id" : 341197863042289664,
-    "created_at" : "Sun Jun 02 14:21:24 +0000 2013",
+    "created_at" : "2013-06-02 14:21:24 +0000",
     "user" : {
       "name" : "Zeynep Tufekci",
       "screen_name" : "zeynep",
@@ -4763,7 +4614,7 @@ Grailbird.data.tweets_2013_06 =
     }
   },
   "id" : 341249275705044992,
-  "created_at" : "Sun Jun 02 17:45:42 +0000 2013",
+  "created_at" : "2013-06-02 17:45:42 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -4793,7 +4644,7 @@ Grailbird.data.tweets_2013_06 =
   "id_str" : "341160364525887490",
   "text" : "Budapest @ Szent Istv\u00E1n Bazilika http://t.co/6Q48nMdBQP",
   "id" : 341160364525887490,
-  "created_at" : "Sun Jun 02 11:52:24 +0000 2013",
+  "created_at" : "2013-06-02 11:52:24 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -4818,14 +4669,13 @@ Grailbird.data.tweets_2013_06 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "341098316601368576",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "341098797516087296",
   "in_reply_to_user_id" : 14087951,
   "text" : "@ericflo in SD they have Car2Go which is a tech solution to people not owning cars. But you have drive it yourself.",
   "id" : 341098797516087296,
   "in_reply_to_status_id" : 341098316601368576,
-  "created_at" : "Sun Jun 02 07:47:45 +0000 2013",
+  "created_at" : "2013-06-02 07:47:45 +0000",
   "in_reply_to_screen_name" : "ericflo",
   "in_reply_to_user_id_str" : "14087951",
   "user" : {
@@ -4852,14 +4702,13 @@ Grailbird.data.tweets_2013_06 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "341040138056523776",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "341042435469750272",
   "in_reply_to_user_id" : 15732699,
   "text" : "@zeeg gotcha. Was wondering which laptop would drive the dual displays.",
   "id" : 341042435469750272,
   "in_reply_to_status_id" : 341040138056523776,
-  "created_at" : "Sun Jun 02 04:03:47 +0000 2013",
+  "created_at" : "2013-06-02 04:03:47 +0000",
   "in_reply_to_screen_name" : "zeeg",
   "in_reply_to_user_id_str" : "15732699",
   "user" : {
@@ -4886,14 +4735,13 @@ Grailbird.data.tweets_2013_06 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "340994001492639744",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "341039423862996992",
   "in_reply_to_user_id" : 15732699,
   "text" : "@zeeg curious what your computer setup is. Mac laptop? Apple cinema displays?",
   "id" : 341039423862996992,
   "in_reply_to_status_id" : 340994001492639744,
-  "created_at" : "Sun Jun 02 03:51:49 +0000 2013",
+  "created_at" : "2013-06-02 03:51:49 +0000",
   "in_reply_to_screen_name" : "zeeg",
   "in_reply_to_user_id_str" : "15732699",
   "user" : {
@@ -4920,14 +4768,13 @@ Grailbird.data.tweets_2013_06 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "340560847086702592",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "341029755023413248",
   "in_reply_to_user_id" : 13334762,
   "text" : "@github there needs to be Python in that list.",
   "id" : 341029755023413248,
   "in_reply_to_status_id" : 340560847086702592,
-  "created_at" : "Sun Jun 02 03:13:24 +0000 2013",
+  "created_at" : "2013-06-02 03:13:24 +0000",
   "in_reply_to_screen_name" : "github",
   "in_reply_to_user_id_str" : "13334762",
   "user" : {
@@ -4959,7 +4806,7 @@ Grailbird.data.tweets_2013_06 =
   "id_str" : "340759121882132482",
   "text" : "Frankfurt, your airport is too big @ Frankfurt International Airport (FRA) http://t.co/iwBrZt39T8",
   "id" : 340759121882132482,
-  "created_at" : "Sat Jun 01 09:18:00 +0000 2013",
+  "created_at" : "2013-06-01 09:18:00 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",

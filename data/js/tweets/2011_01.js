@@ -13,8 +13,7 @@ Grailbird.data.tweets_2011_01 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "32166614497492992",
   "text" : "RT @bigdata: Turnitin, content verification & plagiarism detection, now has a service aimed at College Admissions http://goo.gl/UbB4m",
   "retweeted_status" : {
@@ -25,12 +24,11 @@ Grailbird.data.tweets_2011_01 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "32156117081522177",
     "text" : "Turnitin, content verification & plagiarism detection, now has a service aimed at College Admissions http://goo.gl/UbB4m",
     "id" : 32156117081522177,
-    "created_at" : "Mon Jan 31 19:19:50 +0000 2011",
+    "created_at" : "2011-01-31 19:19:50 +0000",
     "user" : {
       "name" : "Ben Lorica",
       "screen_name" : "bigdata",
@@ -42,7 +40,7 @@ Grailbird.data.tweets_2011_01 =
     }
   },
   "id" : 32166614497492992,
-  "created_at" : "Mon Jan 31 20:01:33 +0000 2011",
+  "created_at" : "2011-01-31 20:01:33 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -67,7 +65,7 @@ Grailbird.data.tweets_2011_01 =
   "id_str" : "31939803691884544",
   "text" : "Better Seats http://flic.kr/p/9esxwc",
   "id" : 31939803691884544,
-  "created_at" : "Mon Jan 31 05:00:17 +0000 2011",
+  "created_at" : "2011-01-31 05:00:17 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -92,7 +90,7 @@ Grailbird.data.tweets_2011_01 =
   "id_str" : "31919786690613248",
   "text" : "Warriors vs. Jazz http://flic.kr/p/9euAwQ",
   "id" : 31919786690613248,
-  "created_at" : "Mon Jan 31 03:40:44 +0000 2011",
+  "created_at" : "2011-01-31 03:40:44 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -110,12 +108,11 @@ Grailbird.data.tweets_2011_01 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "30778023875715073",
   "text" : "Impulse bought 8GB of RAM for my MBP. Not only is that much RAM cheap, I also think that was a good impulse buy.",
   "id" : 30778023875715073,
-  "created_at" : "Fri Jan 28 00:03:47 +0000 2011",
+  "created_at" : "2011-01-28 00:03:47 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -139,8 +136,7 @@ Grailbird.data.tweets_2011_01 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "30768251583602690",
   "text" : "RT @falguni: Twitter= I need to pee. Facebook= I peed! Foursquare= I'm peeing here. Quora= Why am I peeing? Youtube= Watch this pee! Lin ...",
   "retweeted_status" : {
@@ -151,12 +147,11 @@ Grailbird.data.tweets_2011_01 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "30734785529774081",
     "text" : "Twitter= I need to pee. Facebook= I peed! Foursquare= I'm peeing here. Quora= Why am I peeing? Youtube= Watch this pee! LinkedIn= I pee well",
     "id" : 30734785529774081,
-    "created_at" : "Thu Jan 27 21:11:58 +0000 2011",
+    "created_at" : "2011-01-27 21:11:58 +0000",
     "user" : {
       "name" : "Falguni Bhuta",
       "screen_name" : "falguni",
@@ -168,7 +163,7 @@ Grailbird.data.tweets_2011_01 =
     }
   },
   "id" : 30768251583602690,
-  "created_at" : "Thu Jan 27 23:24:57 +0000 2011",
+  "created_at" : "2011-01-27 23:24:57 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -196,14 +191,13 @@ Grailbird.data.tweets_2011_01 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "29977483231105025",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "30029463068614656",
   "in_reply_to_user_id" : 759249,
   "text" : "@deaneckles yeah, i heard about this at the last #quantifiedself meetup. pretty interesting.",
   "id" : 30029463068614656,
   "in_reply_to_status_id" : 29977483231105025,
-  "created_at" : "Tue Jan 25 22:29:16 +0000 2011",
+  "created_at" : "2011-01-25 22:29:16 +0000",
   "in_reply_to_screen_name" : "deaneckles",
   "in_reply_to_user_id_str" : "759249",
   "user" : {
@@ -230,14 +224,13 @@ Grailbird.data.tweets_2011_01 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "29933219663052801",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "30028729526784000",
   "in_reply_to_user_id" : 14124477,
   "text" : "@jefflab interested to hear the results of that survey",
   "id" : 30028729526784000,
   "in_reply_to_status_id" : 29933219663052801,
-  "created_at" : "Tue Jan 25 22:26:21 +0000 2011",
+  "created_at" : "2011-01-25 22:26:21 +0000",
   "in_reply_to_screen_name" : "jefflab",
   "in_reply_to_user_id_str" : "14124477",
   "user" : {
@@ -257,12 +250,11 @@ Grailbird.data.tweets_2011_01 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "29229548260294656",
   "text" : "New blog post: MacPort Package Update Notifications via Growl http://bit.ly/gjs1lA",
   "id" : 29229548260294656,
-  "created_at" : "Sun Jan 23 17:30:42 +0000 2011",
+  "created_at" : "2011-01-23 17:30:42 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -280,12 +272,11 @@ Grailbird.data.tweets_2011_01 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "28298508209491968",
   "text" : "New blog post: Python virtualenvwrapper and Logging http://bit.ly/gEEN17",
   "id" : 28298508209491968,
-  "created_at" : "Fri Jan 21 03:51:04 +0000 2011",
+  "created_at" : "2011-01-21 03:51:04 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -309,12 +300,11 @@ Grailbird.data.tweets_2011_01 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "28226087796342784",
   "text" : "After @ericschmidt's note, interesting to read that b4 Google's IPO, SB, LP & him agreed to work together for 20yrs: http://bit.ly/eifN20",
   "id" : 28226087796342784,
-  "created_at" : "Thu Jan 20 23:03:18 +0000 2011",
+  "created_at" : "2011-01-20 23:03:18 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -339,14 +329,13 @@ Grailbird.data.tweets_2011_01 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "27856800262918144",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "28223644782043136",
   "in_reply_to_user_id" : 28638191,
   "text" : "RT @Sn00ki OMG I'm a New York Times Best Selling Author!!!",
   "id" : 28223644782043136,
   "in_reply_to_status_id" : 27856800262918144,
-  "created_at" : "Thu Jan 20 22:53:35 +0000 2011",
+  "created_at" : "2011-01-20 22:53:35 +0000",
   "in_reply_to_screen_name" : "snooki",
   "in_reply_to_user_id_str" : "28638191",
   "user" : {
@@ -372,8 +361,7 @@ Grailbird.data.tweets_2011_01 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "28144923802869760",
   "text" : "RT @tomvanderbilt: '...in Libya the cigarette's a unit of time. How far's the village? 3 cigarettes.  How long will you be? 1 cigarette. ...",
   "retweeted_status" : {
@@ -384,12 +372,11 @@ Grailbird.data.tweets_2011_01 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "28108587796533248",
     "text" : "'...in Libya the cigarette's a unit of time. How far's the village? 3 cigarettes.  How long will you be? 1 cigarette.' Amis, Pregnant Widow",
     "id" : 28108587796533248,
-    "created_at" : "Thu Jan 20 15:16:24 +0000 2011",
+    "created_at" : "2011-01-20 15:16:24 +0000",
     "user" : {
       "name" : "Tom Vanderbilt",
       "screen_name" : "tomvanderbilt",
@@ -401,7 +388,7 @@ Grailbird.data.tweets_2011_01 =
     }
   },
   "id" : 28144923802869760,
-  "created_at" : "Thu Jan 20 17:40:47 +0000 2011",
+  "created_at" : "2011-01-20 17:40:47 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -426,14 +413,13 @@ Grailbird.data.tweets_2011_01 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "27543002461241344",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "27583316374855682",
   "in_reply_to_user_id" : 133563390,
   "text" : "@SDCAKMenig Well, what language? PHP, Python or Ruby? Almost everything I do is in an interpreted language.",
   "id" : 27583316374855682,
   "in_reply_to_status_id" : 27543002461241344,
-  "created_at" : "Wed Jan 19 04:29:09 +0000 2011",
+  "created_at" : "2011-01-19 04:29:09 +0000",
   "in_reply_to_screen_name" : "SDCAKMenig",
   "in_reply_to_user_id_str" : "133563390",
   "user" : {
@@ -458,12 +444,11 @@ Grailbird.data.tweets_2011_01 =
       "display_url" : "dhtml5.com"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "27527109857509377",
   "text" : "DHTML5, like whoa!!!! http://t.co/B8nASLh",
   "id" : 27527109857509377,
-  "created_at" : "Wed Jan 19 00:45:49 +0000 2011",
+  "created_at" : "2011-01-19 00:45:49 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -477,7 +462,7 @@ Grailbird.data.tweets_2011_01 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ian Eslick ",
+      "name" : "Ian Eslick",
       "screen_name" : "ieslick",
       "indices" : [ 0, 8 ],
       "id_str" : "20867594",
@@ -488,14 +473,13 @@ Grailbird.data.tweets_2011_01 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "27254108419264512",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "27258172590792704",
   "in_reply_to_user_id" : 20867594,
   "text" : "@ieslick awesome! much thanks.",
   "id" : 27258172590792704,
   "in_reply_to_status_id" : 27254108419264512,
-  "created_at" : "Tue Jan 18 06:57:09 +0000 2011",
+  "created_at" : "2011-01-18 06:57:09 +0000",
   "in_reply_to_screen_name" : "ieslick",
   "in_reply_to_user_id_str" : "20867594",
   "user" : {
@@ -515,12 +499,11 @@ Grailbird.data.tweets_2011_01 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "27186566908616706",
   "text" : "Call for suggestions on analyzing all Craigslist data: http://bit.ly/ic9cMk  Look at types of items posted vs economic factors?",
   "id" : 27186566908616706,
-  "created_at" : "Tue Jan 18 02:12:37 +0000 2011",
+  "created_at" : "2011-01-18 02:12:37 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -534,7 +517,7 @@ Grailbird.data.tweets_2011_01 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ian Eslick ",
+      "name" : "Ian Eslick",
       "screen_name" : "ieslick",
       "indices" : [ 0, 8 ],
       "id_str" : "20867594",
@@ -544,13 +527,12 @@ Grailbird.data.tweets_2011_01 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "27178605977018368",
   "in_reply_to_user_id" : 20867594,
   "text" : "@ieslick thanks for the QS talk last week! have you posted your slides from the talk yet?",
   "id" : 27178605977018368,
-  "created_at" : "Tue Jan 18 01:40:59 +0000 2011",
+  "created_at" : "2011-01-18 01:40:59 +0000",
   "in_reply_to_screen_name" : "ieslick",
   "in_reply_to_user_id_str" : "20867594",
   "user" : {
@@ -577,14 +559,13 @@ Grailbird.data.tweets_2011_01 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "26018725475917825",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "26038342667730944",
   "in_reply_to_user_id" : 19261045,
   "text" : "@ConDri why stop at just The Seed (2.0)? go the whole Phrenology album...",
   "id" : 26038342667730944,
   "in_reply_to_status_id" : 26018725475917825,
-  "created_at" : "Fri Jan 14 22:09:59 +0000 2011",
+  "created_at" : "2011-01-14 22:09:59 +0000",
   "in_reply_to_screen_name" : "ConDri",
   "in_reply_to_user_id_str" : "19261045",
   "user" : {
@@ -610,8 +591,7 @@ Grailbird.data.tweets_2011_01 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "24860245704572928",
   "text" : "RT @siracusa: Verizon CEO: \"Fuck everything, we're doing 6G!\" (http://onion.com/dUxP8b)",
   "retweeted_status" : {
@@ -622,12 +602,11 @@ Grailbird.data.tweets_2011_01 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "24859487311503360",
     "text" : "Verizon CEO: \"Fuck everything, we're doing 6G!\" (http://onion.com/dUxP8b)",
     "id" : 24859487311503360,
-    "created_at" : "Tue Jan 11 16:05:38 +0000 2011",
+    "created_at" : "2011-01-11 16:05:38 +0000",
     "user" : {
       "name" : "John Siracusa",
       "screen_name" : "siracusa",
@@ -639,7 +618,7 @@ Grailbird.data.tweets_2011_01 =
     }
   },
   "id" : 24860245704572928,
-  "created_at" : "Tue Jan 11 16:08:39 +0000 2011",
+  "created_at" : "2011-01-11 16:08:39 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -669,14 +648,13 @@ Grailbird.data.tweets_2011_01 =
     } ]
   },
   "in_reply_to_status_id_str" : "24613256454742016",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "24705257888026624",
   "in_reply_to_user_id" : 19261045,
   "text" : "@ConDri marshawn showing who's the man: http://t.co/gANBdmI",
   "id" : 24705257888026624,
   "in_reply_to_status_id" : 24613256454742016,
-  "created_at" : "Tue Jan 11 05:52:47 +0000 2011",
+  "created_at" : "2011-01-11 05:52:47 +0000",
   "in_reply_to_screen_name" : "ConDri",
   "in_reply_to_user_id_str" : "19261045",
   "user" : {
@@ -708,14 +686,13 @@ Grailbird.data.tweets_2011_01 =
     } ]
   },
   "in_reply_to_status_id_str" : "24613256454742016",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "24705026899320832",
   "in_reply_to_user_id" : 19261045,
   "text" : "@ConDri he's such a beast, he caused an earthquake: http://t.co/A9GDt34",
   "id" : 24705026899320832,
   "in_reply_to_status_id" : 24613256454742016,
-  "created_at" : "Tue Jan 11 05:51:52 +0000 2011",
+  "created_at" : "2011-01-11 05:51:52 +0000",
   "in_reply_to_screen_name" : "ConDri",
   "in_reply_to_user_id_str" : "19261045",
   "user" : {
@@ -735,12 +712,11 @@ Grailbird.data.tweets_2011_01 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "21818707034505216",
   "text" : "New blog post: Blackout Days http://bit.ly/hiBofY",
   "id" : 21818707034505216,
-  "created_at" : "Mon Jan 03 06:42:39 +0000 2011",
+  "created_at" : "2011-01-03 06:42:39 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",

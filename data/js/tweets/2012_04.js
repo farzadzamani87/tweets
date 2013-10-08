@@ -14,14 +14,13 @@ Grailbird.data.tweets_2012_04 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "196368485687902209",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "196441549847007234",
   "in_reply_to_user_id" : 8286,
   "text" : "@DevP it was a long time coming...",
   "id" : 196441549847007234,
   "in_reply_to_status_id" : 196368485687902209,
-  "created_at" : "Sun Apr 29 03:31:29 +0000 2012",
+  "created_at" : "2012-04-29 03:31:29 +0000",
   "in_reply_to_screen_name" : "DevP",
   "in_reply_to_user_id_str" : "8286",
   "user" : {
@@ -59,12 +58,11 @@ Grailbird.data.tweets_2012_04 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "196327022996365312",
   "text" : "I just removed @TechCrunch @VentureBeat @RWW and more tech blogs from Google Reader. I feel... clean.",
   "id" : 196327022996365312,
-  "created_at" : "Sat Apr 28 19:56:24 +0000 2012",
+  "created_at" : "2012-04-28 19:56:24 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -89,14 +87,13 @@ Grailbird.data.tweets_2012_04 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "196288087180058624",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "196315515441000449",
   "in_reply_to_user_id" : 393129393,
   "text" : "@ChaseAdam17 gotta be from salar de uyuni in Bolivia.",
   "id" : 196315515441000449,
   "in_reply_to_status_id" : 196288087180058624,
-  "created_at" : "Sat Apr 28 19:10:40 +0000 2012",
+  "created_at" : "2012-04-28 19:10:40 +0000",
   "in_reply_to_screen_name" : "ChaseAdam17",
   "in_reply_to_user_id_str" : "393129393",
   "user" : {
@@ -123,14 +120,13 @@ Grailbird.data.tweets_2012_04 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "195616607643500545",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "195620485214633984",
   "in_reply_to_user_id" : 393129393,
   "text" : "@ChaseAdam17 next weekend is the relay... might be able to head up to the city next week sometime.",
   "id" : 195620485214633984,
   "in_reply_to_status_id" : 195616607643500545,
-  "created_at" : "Thu Apr 26 21:08:52 +0000 2012",
+  "created_at" : "2012-04-26 21:08:52 +0000",
   "in_reply_to_screen_name" : "ChaseAdam17",
   "in_reply_to_user_id_str" : "393129393",
   "user" : {
@@ -157,14 +153,13 @@ Grailbird.data.tweets_2012_04 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "195526858132037634",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "195541622333784066",
   "in_reply_to_user_id" : 393129393,
   "text" : "@ChaseAdam17 dude, want to do a run in the headlands this weekend with my buddy Wenzhe and I?",
   "id" : 195541622333784066,
   "in_reply_to_status_id" : 195526858132037634,
-  "created_at" : "Thu Apr 26 15:55:30 +0000 2012",
+  "created_at" : "2012-04-26 15:55:30 +0000",
   "in_reply_to_screen_name" : "ChaseAdam17",
   "in_reply_to_user_id_str" : "393129393",
   "user" : {
@@ -189,12 +184,11 @@ Grailbird.data.tweets_2012_04 =
       "display_url" : "blog.arongriffis.com/post/dynamic-v\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "194985666420027392",
   "text" : "Load virtualenvwrapper on demand to speed up your shell: http://t.co/GdLj0cul This is crazy awesome!",
   "id" : 194985666420027392,
-  "created_at" : "Wed Apr 25 03:06:20 +0000 2012",
+  "created_at" : "2012-04-25 03:06:20 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -229,8 +223,7 @@ Grailbird.data.tweets_2012_04 =
       "display_url" : "firebase.com/what-people-ar\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "194984575146000388",
   "text" : "RT @Firebase: What people are saying about @Firebase http://t.co/jKq15R6R",
   "retweeted_status" : {
@@ -252,12 +245,11 @@ Grailbird.data.tweets_2012_04 =
         "display_url" : "firebase.com/what-people-ar\u2026"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "194964986433503232",
     "text" : "What people are saying about @Firebase http://t.co/jKq15R6R",
     "id" : 194964986433503232,
-    "created_at" : "Wed Apr 25 01:44:09 +0000 2012",
+    "created_at" : "2012-04-25 01:44:09 +0000",
     "user" : {
       "name" : "Firebase",
       "screen_name" : "Firebase",
@@ -269,7 +261,7 @@ Grailbird.data.tweets_2012_04 =
     }
   },
   "id" : 194984575146000388,
-  "created_at" : "Wed Apr 25 03:02:00 +0000 2012",
+  "created_at" : "2012-04-25 03:02:00 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -299,12 +291,11 @@ Grailbird.data.tweets_2012_04 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "194983871060774913",
   "text" : "Suck it @Lakers hope you lose in rnd 1 RT @sam_amick: NBA just released it: World Peace out seven games for his elbow on OKC's James Harden.",
   "id" : 194983871060774913,
-  "created_at" : "Wed Apr 25 02:59:12 +0000 2012",
+  "created_at" : "2012-04-25 02:59:12 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -328,8 +319,7 @@ Grailbird.data.tweets_2012_04 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "194471690103816193",
   "text" : "RT @sportsguy33: Just saw GSW inadvertently won today. Classic. The Warriors can't even tank without screwing it up. We need an Occupy G ...",
   "retweeted_status" : {
@@ -340,12 +330,11 @@ Grailbird.data.tweets_2012_04 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "194243419621691395",
     "text" : "Just saw GSW inadvertently won today. Classic. The Warriors can't even tank without screwing it up. We need an Occupy Golden State rally.",
     "id" : 194243419621691395,
-    "created_at" : "Mon Apr 23 01:56:54 +0000 2012",
+    "created_at" : "2012-04-23 01:56:54 +0000",
     "user" : {
       "name" : "Bill Simmons",
       "screen_name" : "BillSimmons",
@@ -357,7 +346,7 @@ Grailbird.data.tweets_2012_04 =
     }
   },
   "id" : 194471690103816193,
-  "created_at" : "Mon Apr 23 17:03:58 +0000 2012",
+  "created_at" : "2012-04-23 17:03:58 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -382,14 +371,13 @@ Grailbird.data.tweets_2012_04 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "194212969297625089",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "194471362922950656",
   "in_reply_to_user_id" : 820873,
   "text" : "@chalky not to be confused with being in a posse, which is all the time.",
   "id" : 194471362922950656,
   "in_reply_to_status_id" : 194212969297625089,
-  "created_at" : "Mon Apr 23 17:02:40 +0000 2012",
+  "created_at" : "2012-04-23 17:02:40 +0000",
   "in_reply_to_screen_name" : "chalky",
   "in_reply_to_user_id_str" : "820873",
   "user" : {
@@ -416,14 +404,13 @@ Grailbird.data.tweets_2012_04 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "194212969297625089",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "194471226691952640",
   "in_reply_to_user_id" : 820873,
   "text" : "@chalky will do. Though it might be a while before I do anything long enough requiring a crew :)",
   "id" : 194471226691952640,
   "in_reply_to_status_id" : 194212969297625089,
-  "created_at" : "Mon Apr 23 17:02:08 +0000 2012",
+  "created_at" : "2012-04-23 17:02:08 +0000",
   "in_reply_to_screen_name" : "chalky",
   "in_reply_to_user_id_str" : "820873",
   "user" : {
@@ -450,14 +437,13 @@ Grailbird.data.tweets_2012_04 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "193526086540337153",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "193550423557283840",
   "in_reply_to_user_id" : 15668311,
   "text" : "@mattbornski If I wasn't in Auburn this weekend, I would.",
   "id" : 193550423557283840,
   "in_reply_to_status_id" : 193526086540337153,
-  "created_at" : "Sat Apr 21 04:03:11 +0000 2012",
+  "created_at" : "2012-04-21 04:03:11 +0000",
   "in_reply_to_screen_name" : "mattbornski",
   "in_reply_to_user_id_str" : "15668311",
   "user" : {
@@ -484,14 +470,13 @@ Grailbird.data.tweets_2012_04 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "193516227862335490",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "193550119176638464",
   "in_reply_to_user_id" : 820873,
   "text" : "@chalky I can't that weekend, but I'd be interested in a future crewing event.",
   "id" : 193550119176638464,
   "in_reply_to_status_id" : 193516227862335490,
-  "created_at" : "Sat Apr 21 04:01:59 +0000 2012",
+  "created_at" : "2012-04-21 04:01:59 +0000",
   "in_reply_to_screen_name" : "chalky",
   "in_reply_to_user_id_str" : "820873",
   "user" : {
@@ -524,14 +509,13 @@ Grailbird.data.tweets_2012_04 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "192285293330698240",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "192737405755850752",
   "in_reply_to_user_id" : 16333991,
   "text" : "@drjwmarquis great article! I wanted to point you to @educreations. We make an app for the iPad and the web, and both are free!",
   "id" : 192737405755850752,
   "in_reply_to_status_id" : 192285293330698240,
-  "created_at" : "Wed Apr 18 22:12:33 +0000 2012",
+  "created_at" : "2012-04-18 22:12:33 +0000",
   "in_reply_to_screen_name" : "drjwmarquis",
   "in_reply_to_user_id_str" : "16333991",
   "user" : {
@@ -558,14 +542,13 @@ Grailbird.data.tweets_2012_04 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "192021482971463681",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "192074739399921664",
   "in_reply_to_user_id" : 129078113,
   "text" : "@gtumuluri thanks for the feedback. We do not plan on keeping a closed app. The reasons so far have been technical!",
   "id" : 192074739399921664,
   "in_reply_to_status_id" : 192021482971463681,
-  "created_at" : "Tue Apr 17 02:19:21 +0000 2012",
+  "created_at" : "2012-04-17 02:19:21 +0000",
   "in_reply_to_screen_name" : "gtumuluri",
   "in_reply_to_user_id_str" : "129078113",
   "user" : {
@@ -627,8 +610,7 @@ Grailbird.data.tweets_2012_04 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "191988957649707008",
   "text" : "RT @producerchris: This is @hellobuglers midway through a pun run. The smile tells you all you need to know http://t.co/LOG5SaSd",
   "retweeted_status" : {
@@ -675,12 +657,11 @@ Grailbird.data.tweets_2012_04 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "190887749694402560",
     "text" : "This is @hellobuglers midway through a pun run. The smile tells you all you need to know http://t.co/LOG5SaSd",
     "id" : 190887749694402560,
-    "created_at" : "Fri Apr 13 19:42:41 +0000 2012",
+    "created_at" : "2012-04-13 19:42:41 +0000",
     "user" : {
       "name" : "Chris Skinner",
       "screen_name" : "producerchris",
@@ -692,7 +673,7 @@ Grailbird.data.tweets_2012_04 =
     }
   },
   "id" : 191988957649707008,
-  "created_at" : "Mon Apr 16 20:38:29 +0000 2012",
+  "created_at" : "2012-04-16 20:38:29 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -717,14 +698,13 @@ Grailbird.data.tweets_2012_04 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "189978447525838848",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "190064735570501633",
   "in_reply_to_user_id" : 12497,
   "text" : "@simonw thats what I thought. I'm already using the built-in stuff, just wondered if I should look at how another app is doing it too.",
   "id" : 190064735570501633,
   "in_reply_to_status_id" : 189978447525838848,
-  "created_at" : "Wed Apr 11 13:12:18 +0000 2012",
+  "created_at" : "2012-04-11 13:12:18 +0000",
   "in_reply_to_screen_name" : "simonw",
   "in_reply_to_user_id_str" : "12497",
   "user" : {
@@ -751,14 +731,13 @@ Grailbird.data.tweets_2012_04 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "189978337983213568",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "190064529844088833",
   "in_reply_to_user_id" : 12497,
   "text" : "@simonw great, looking forward to it.",
   "id" : 190064529844088833,
   "in_reply_to_status_id" : 189978337983213568,
-  "created_at" : "Wed Apr 11 13:11:29 +0000 2012",
+  "created_at" : "2012-04-11 13:11:29 +0000",
   "in_reply_to_screen_name" : "simonw",
   "in_reply_to_user_id_str" : "12497",
   "user" : {
@@ -784,13 +763,12 @@ Grailbird.data.tweets_2012_04 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "189934641195651072",
   "in_reply_to_user_id" : 12497,
   "text" : "@simonw Also, did you write the push_static management command, or did it come from some reusable app?",
   "id" : 189934641195651072,
-  "created_at" : "Wed Apr 11 04:35:21 +0000 2012",
+  "created_at" : "2012-04-11 04:35:21 +0000",
   "in_reply_to_screen_name" : "simonw",
   "in_reply_to_user_id_str" : "12497",
   "user" : {
@@ -816,13 +794,12 @@ Grailbird.data.tweets_2012_04 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "189934496869646336",
   "in_reply_to_user_id" : 12497,
   "text" : "@simonw Just finished your Building Lanyrd slides. Really great stuff. Have you released django_instrumented anywhere?",
   "id" : 189934496869646336,
-  "created_at" : "Wed Apr 11 04:34:47 +0000 2012",
+  "created_at" : "2012-04-11 04:34:47 +0000",
   "in_reply_to_screen_name" : "simonw",
   "in_reply_to_user_id_str" : "12497",
   "user" : {
@@ -842,12 +819,11 @@ Grailbird.data.tweets_2012_04 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "189848730567065601",
   "text" : "Today is a good day.",
   "id" : 189848730567065601,
-  "created_at" : "Tue Apr 10 22:53:59 +0000 2012",
+  "created_at" : "2012-04-10 22:53:59 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -884,14 +860,13 @@ Grailbird.data.tweets_2012_04 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "189462075968462848",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "189463148993056768",
   "in_reply_to_user_id" : 16859522,
   "text" : "@jacobburch @pydanny @jacobian profiles, data denormalization and celery task scheduling seem like obvious things for signals to me",
   "id" : 189463148993056768,
   "in_reply_to_status_id" : 189462075968462848,
-  "created_at" : "Mon Apr 09 21:21:49 +0000 2012",
+  "created_at" : "2012-04-09 21:21:49 +0000",
   "in_reply_to_screen_name" : "jacobburch",
   "in_reply_to_user_id_str" : "16859522",
   "user" : {
@@ -924,14 +899,13 @@ Grailbird.data.tweets_2012_04 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "189460433021833216",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "189461831671226368",
   "in_reply_to_user_id" : 14835908,
   "text" : "@pydanny @jacobian assuming you know that signals aren't async, are there other gotchas you guys were thinking of?",
   "id" : 189461831671226368,
   "in_reply_to_status_id" : 189460433021833216,
-  "created_at" : "Mon Apr 09 21:16:35 +0000 2012",
+  "created_at" : "2012-04-09 21:16:35 +0000",
   "in_reply_to_screen_name" : "pydanny",
   "in_reply_to_user_id_str" : "14835908",
   "user" : {
@@ -958,14 +932,13 @@ Grailbird.data.tweets_2012_04 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "189365126208557056",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "189406093192069122",
   "in_reply_to_user_id" : 4767131,
   "text" : "@RWong BYOD is a big movement in education these days too.",
   "id" : 189406093192069122,
   "in_reply_to_status_id" : 189365126208557056,
-  "created_at" : "Mon Apr 09 17:35:06 +0000 2012",
+  "created_at" : "2012-04-09 17:35:06 +0000",
   "in_reply_to_screen_name" : "RWong",
   "in_reply_to_user_id_str" : "4767131",
   "user" : {
@@ -991,12 +964,11 @@ Grailbird.data.tweets_2012_04 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "189405251235872768",
   "text" : "RT @CSNBaggs: It's up to Barry Zito to prevent the Giants from their first 0-4 start since 1950. Seriously.",
   "id" : 189405251235872768,
-  "created_at" : "Mon Apr 09 17:31:45 +0000 2012",
+  "created_at" : "2012-04-09 17:31:45 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -1021,14 +993,13 @@ Grailbird.data.tweets_2012_04 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "189096017424154625",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "189098116719456258",
   "in_reply_to_user_id" : 759249,
   "text" : "@deaneckles Could be men of certain religions who thnk women shouldnt have any reponsblty. (incl. medical) & report self as treatment recvr",
   "id" : 189098116719456258,
   "in_reply_to_status_id" : 189096017424154625,
-  "created_at" : "Sun Apr 08 21:11:18 +0000 2012",
+  "created_at" : "2012-04-08 21:11:18 +0000",
   "in_reply_to_screen_name" : "deaneckles",
   "in_reply_to_user_id_str" : "759249",
   "user" : {
@@ -1055,14 +1026,13 @@ Grailbird.data.tweets_2012_04 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "189096017424154625",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "189097659548700674",
   "in_reply_to_user_id" : 759249,
   "text" : "@deaneckles I wonder about the statistical significance of those numbers. Also, I can do that with my stomach",
   "id" : 189097659548700674,
   "in_reply_to_status_id" : 189096017424154625,
-  "created_at" : "Sun Apr 08 21:09:29 +0000 2012",
+  "created_at" : "2012-04-08 21:09:29 +0000",
   "in_reply_to_screen_name" : "deaneckles",
   "in_reply_to_user_id_str" : "759249",
   "user" : {
@@ -1089,14 +1059,13 @@ Grailbird.data.tweets_2012_04 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "189094718859255808",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "189095281688715264",
   "in_reply_to_user_id" : 759249,
   "text" : "@deaneckles didn't realize you were considering it or even capable of getting pregnant. I learn something new every day!",
   "id" : 189095281688715264,
   "in_reply_to_status_id" : 189094718859255808,
-  "created_at" : "Sun Apr 08 21:00:03 +0000 2012",
+  "created_at" : "2012-04-08 21:00:03 +0000",
   "in_reply_to_screen_name" : "deaneckles",
   "in_reply_to_user_id_str" : "759249",
   "user" : {
@@ -1121,12 +1090,11 @@ Grailbird.data.tweets_2012_04 =
       "display_url" : "washingtonpost.com/national/healt\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "189084873137467393",
   "text" : "Eat seafood? This infographic has a great comparison of Omega-3 to mercury levels for seafood: http://t.co/apZi0Tv0 Eat more fish!",
   "id" : 189084873137467393,
-  "created_at" : "Sun Apr 08 20:18:41 +0000 2012",
+  "created_at" : "2012-04-08 20:18:41 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -1151,14 +1119,13 @@ Grailbird.data.tweets_2012_04 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "188719708667785216",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "188737780707368964",
   "in_reply_to_user_id" : 820873,
   "text" : "@chalky does it also make me a geek because I know what the AR50 even is?",
   "id" : 188737780707368964,
   "in_reply_to_status_id" : 188719708667785216,
-  "created_at" : "Sat Apr 07 21:19:28 +0000 2012",
+  "created_at" : "2012-04-07 21:19:28 +0000",
   "in_reply_to_screen_name" : "chalky",
   "in_reply_to_user_id_str" : "820873",
   "user" : {
@@ -1190,7 +1157,7 @@ Grailbird.data.tweets_2012_04 =
   "id_str" : "188464537052262400",
   "text" : "OB bonfire   @ Ocean Beach http://t.co/PpKkXMbH",
   "id" : 188464537052262400,
-  "created_at" : "Sat Apr 07 03:13:41 +0000 2012",
+  "created_at" : "2012-04-07 03:13:41 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -1214,13 +1181,12 @@ Grailbird.data.tweets_2012_04 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "188355550654902272",
   "in_reply_to_user_id" : 33719904,
   "text" : "@blannamae er, that might need to be 'Edemame are'",
   "id" : 188355550654902272,
-  "created_at" : "Fri Apr 06 20:00:37 +0000 2012",
+  "created_at" : "2012-04-06 20:00:37 +0000",
   "in_reply_to_screen_name" : "blannamae",
   "in_reply_to_user_id_str" : "33719904",
   "user" : {
@@ -1252,14 +1218,13 @@ Grailbird.data.tweets_2012_04 =
     } ]
   },
   "in_reply_to_status_id_str" : "188354467844997120",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "188355362066407425",
   "in_reply_to_user_id" : 33719904,
   "text" : "@blannamae Edamame is immature soybeans in a pod and soybeans are a legume: https://t.co/CMVwUKpX",
   "id" : 188355362066407425,
   "in_reply_to_status_id" : 188354467844997120,
-  "created_at" : "Fri Apr 06 19:59:52 +0000 2012",
+  "created_at" : "2012-04-06 19:59:52 +0000",
   "in_reply_to_screen_name" : "blannamae",
   "in_reply_to_user_id_str" : "33719904",
   "user" : {
@@ -1297,7 +1262,7 @@ Grailbird.data.tweets_2012_04 =
   "id_str" : "187350710189424640",
   "text" : "First instagram @imaginek12  @ Imaginek12 http://t.co/c7NB01rx",
   "id" : 187350710189424640,
-  "created_at" : "Wed Apr 04 01:27:44 +0000 2012",
+  "created_at" : "2012-04-04 01:27:44 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -1315,12 +1280,11 @@ Grailbird.data.tweets_2012_04 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "186992467281838080",
   "text" : "Come on Kansas!",
   "id" : 186992467281838080,
-  "created_at" : "Tue Apr 03 01:44:13 +0000 2012",
+  "created_at" : "2012-04-03 01:44:13 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -1345,14 +1309,13 @@ Grailbird.data.tweets_2012_04 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "186976642843938816",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "186978045201104896",
   "in_reply_to_user_id" : 18824526,
   "text" : "@jacobian what markdown reader/editor are you using?",
   "id" : 186978045201104896,
   "in_reply_to_status_id" : 186976642843938816,
-  "created_at" : "Tue Apr 03 00:46:54 +0000 2012",
+  "created_at" : "2012-04-03 00:46:54 +0000",
   "in_reply_to_screen_name" : "jacobian",
   "in_reply_to_user_id_str" : "18824526",
   "user" : {
@@ -1379,14 +1342,13 @@ Grailbird.data.tweets_2012_04 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "186937031291699200",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "186958463547621376",
   "in_reply_to_user_id" : 393129393,
   "text" : "@ChaseAdam17 my favorite is the rice krispies box.",
   "id" : 186958463547621376,
   "in_reply_to_status_id" : 186937031291699200,
-  "created_at" : "Mon Apr 02 23:29:05 +0000 2012",
+  "created_at" : "2012-04-02 23:29:05 +0000",
   "in_reply_to_screen_name" : "ChaseAdam17",
   "in_reply_to_user_id_str" : "393129393",
   "user" : {
@@ -1411,12 +1373,11 @@ Grailbird.data.tweets_2012_04 =
       "display_url" : "42floors.com/blog/posts/be-\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "186915333389549569",
   "text" : "Be yourself. Abnormal people produce abnormal returns. http://t.co/iH0J262C",
   "id" : 186915333389549569,
-  "created_at" : "Mon Apr 02 20:37:42 +0000 2012",
+  "created_at" : "2012-04-02 20:37:42 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -1439,12 +1400,11 @@ Grailbird.data.tweets_2012_04 =
       "display_url" : "chrisstreeter.com/archive/2012/0\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "186660825262592000",
   "text" : "Checking for Python Package Updates at PyPI http://t.co/qqWhNAcE",
   "id" : 186660825262592000,
-  "created_at" : "Mon Apr 02 03:46:23 +0000 2012",
+  "created_at" : "2012-04-02 03:46:23 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",

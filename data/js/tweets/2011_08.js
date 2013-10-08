@@ -13,12 +13,11 @@ Grailbird.data.tweets_2011_08 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "109069684715954179",
   "text" : "A bit of @RJD2 to code to...",
   "id" : 109069684715954179,
-  "created_at" : "Thu Sep 01 01:06:53 +0000 2011",
+  "created_at" : "2011-09-01 01:06:53 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -43,14 +42,13 @@ Grailbird.data.tweets_2011_08 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "109003824236204032",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "109010312925151232",
   "in_reply_to_user_id" : 167086378,
   "text" : "@travlake news to me",
   "id" : 109010312925151232,
   "in_reply_to_status_id" : 109003824236204032,
-  "created_at" : "Wed Aug 31 21:10:58 +0000 2011",
+  "created_at" : "2011-08-31 21:10:58 +0000",
   "in_reply_to_screen_name" : "travlake",
   "in_reply_to_user_id_str" : "167086378",
   "user" : {
@@ -75,12 +73,11 @@ Grailbird.data.tweets_2011_08 =
       "display_url" : "blendmylearning.com/2011/08/31/the\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "108907149744283648",
   "text" : "Flipping the classroom has promise! http://t.co/Yuw9W0I",
   "id" : 108907149744283648,
-  "created_at" : "Wed Aug 31 14:21:02 +0000 2011",
+  "created_at" : "2011-08-31 14:21:02 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -104,12 +101,11 @@ Grailbird.data.tweets_2011_08 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "108906496280100864",
   "text" : "Always excited to wake up to a new @EdSurge newsletter in my inbox. A great way to start the day!",
   "id" : 108906496280100864,
-  "created_at" : "Wed Aug 31 14:18:26 +0000 2011",
+  "created_at" : "2011-08-31 14:18:26 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -140,14 +136,13 @@ Grailbird.data.tweets_2011_08 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "108716094331695105",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "108726156928368640",
   "in_reply_to_user_id" : 10200322,
   "text" : "@amdavidson definitely. @curryupnow is delicious",
   "id" : 108726156928368640,
   "in_reply_to_status_id" : 108716094331695105,
-  "created_at" : "Wed Aug 31 02:21:50 +0000 2011",
+  "created_at" : "2011-08-31 02:21:50 +0000",
   "in_reply_to_screen_name" : "amdavidson",
   "in_reply_to_user_id_str" : "10200322",
   "user" : {
@@ -173,8 +168,7 @@ Grailbird.data.tweets_2011_08 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "108604437941075968",
   "text" : "RT @Flickr: Introducing geofences! Set the areas you want to keep your location info private and we take care of the rest. http://t.co/o ...",
   "retweeted_status" : {
@@ -190,12 +184,11 @@ Grailbird.data.tweets_2011_08 =
         "display_url" : "bit.ly/o8VGPq"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "108598410482958336",
     "text" : "Introducing geofences! Set the areas you want to keep your location info private and we take care of the rest. http://t.co/opVXUSG",
     "id" : 108598410482958336,
-    "created_at" : "Tue Aug 30 17:54:13 +0000 2011",
+    "created_at" : "2011-08-30 17:54:13 +0000",
     "user" : {
       "name" : "Flickr",
       "screen_name" : "Flickr",
@@ -207,7 +200,7 @@ Grailbird.data.tweets_2011_08 =
     }
   },
   "id" : 108604437941075968,
-  "created_at" : "Tue Aug 30 18:18:10 +0000 2011",
+  "created_at" : "2011-08-30 18:18:10 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -232,7 +225,7 @@ Grailbird.data.tweets_2011_08 =
   "id_str" : "107837302511910912",
   "text" : "Nothing like a nice 20km run in the woods to start the day.",
   "id" : 107837302511910912,
-  "created_at" : "Sun Aug 28 15:29:51 +0000 2011",
+  "created_at" : "2011-08-28 15:29:51 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -252,7 +245,7 @@ Grailbird.data.tweets_2011_08 =
       "id_str" : "149029700",
       "id" : 149029700
     }, {
-      "name" : "remind101",
+      "name" : "Remind101",
       "screen_name" : "remind101",
       "indices" : [ 130, 140 ],
       "id_str" : "80880113",
@@ -267,12 +260,11 @@ Grailbird.data.tweets_2011_08 =
       "display_url" : "hackeducation.com/2011/08/26/can\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "107168999980277761",
   "text" : "Can Text-Messaging Improve Communication Between the School and the Home? | Hack Education http://t.co/XXahL4W via @hackeducation @remind101",
   "id" : 107168999980277761,
-  "created_at" : "Fri Aug 26 19:14:15 +0000 2011",
+  "created_at" : "2011-08-26 19:14:15 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -295,12 +287,11 @@ Grailbird.data.tweets_2011_08 =
       "display_url" : "nytimes.com/interactive/20\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "106755139888623617",
   "text" : "Job's hand touched everything in Apple, as evidenced by the patents with his name on them: http://t.co/g0dh2vC",
   "id" : 106755139888623617,
-  "created_at" : "Thu Aug 25 15:49:43 +0000 2011",
+  "created_at" : "2011-08-25 15:49:43 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -348,14 +339,13 @@ Grailbird.data.tweets_2011_08 =
     } ]
   },
   "in_reply_to_status_id_str" : "105837256803221504",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "105839306190503936",
   "in_reply_to_user_id" : 10200322,
   "text" : "@amdavidson @jefflab I actually thought @arstechnica had a great writeup http://t.co/v3CMNvR and it came before @gruber 's.",
   "id" : 105839306190503936,
   "in_reply_to_status_id" : 105837256803221504,
-  "created_at" : "Tue Aug 23 03:10:31 +0000 2011",
+  "created_at" : "2011-08-23 03:10:31 +0000",
   "in_reply_to_screen_name" : "amdavidson",
   "in_reply_to_user_id_str" : "10200322",
   "user" : {
@@ -382,14 +372,13 @@ Grailbird.data.tweets_2011_08 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "105747907164110848",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "105748240779063296",
   "in_reply_to_user_id" : 14124477,
   "text" : "@jefflab Hardware isn't as big of margins as software/service. Look at the acquisition of Autonomy as an example.",
   "id" : 105748240779063296,
   "in_reply_to_status_id" : 105747907164110848,
-  "created_at" : "Mon Aug 22 21:08:39 +0000 2011",
+  "created_at" : "2011-08-22 21:08:39 +0000",
   "in_reply_to_screen_name" : "jefflab",
   "in_reply_to_user_id_str" : "14124477",
   "user" : {
@@ -416,14 +405,13 @@ Grailbird.data.tweets_2011_08 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "105747907164110848",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "105748158130294784",
   "in_reply_to_user_id" : 14124477,
   "text" : "@jefflab I don't think they're going in the hardware direction at all (besides high margin servers and printers).",
   "id" : 105748158130294784,
   "in_reply_to_status_id" : 105747907164110848,
-  "created_at" : "Mon Aug 22 21:08:20 +0000 2011",
+  "created_at" : "2011-08-22 21:08:20 +0000",
   "in_reply_to_screen_name" : "jefflab",
   "in_reply_to_user_id_str" : "14124477",
   "user" : {
@@ -450,14 +438,13 @@ Grailbird.data.tweets_2011_08 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "105169710211006465",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "105176165739802625",
   "in_reply_to_user_id" : 233505637,
   "text" : "@usamahc of course dude!",
   "id" : 105176165739802625,
   "in_reply_to_status_id" : 105169710211006465,
-  "created_at" : "Sun Aug 21 07:15:26 +0000 2011",
+  "created_at" : "2011-08-21 07:15:26 +0000",
   "in_reply_to_screen_name" : "usamahc",
   "in_reply_to_user_id_str" : "233505637",
   "user" : {
@@ -483,8 +470,7 @@ Grailbird.data.tweets_2011_08 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "105029044181020672",
   "text" : "RT @flowingdata: In-n-out is better than Five Guys. No contest.",
   "retweeted_status" : {
@@ -495,12 +481,11 @@ Grailbird.data.tweets_2011_08 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "105023548367716352",
     "text" : "In-n-out is better than Five Guys. No contest.",
     "id" : 105023548367716352,
-    "created_at" : "Sat Aug 20 21:08:59 +0000 2011",
+    "created_at" : "2011-08-20 21:08:59 +0000",
     "user" : {
       "name" : "Nathan Yau",
       "screen_name" : "flowingdata",
@@ -512,7 +497,7 @@ Grailbird.data.tweets_2011_08 =
     }
   },
   "id" : 105029044181020672,
-  "created_at" : "Sat Aug 20 21:30:50 +0000 2011",
+  "created_at" : "2011-08-20 21:30:50 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -537,14 +522,13 @@ Grailbird.data.tweets_2011_08 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "104902805562728449",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "104922140389806080",
   "in_reply_to_user_id" : 233505637,
   "text" : "@usamahc what time do you want to go? and do you want a ride back?",
   "id" : 104922140389806080,
   "in_reply_to_status_id" : 104902805562728449,
-  "created_at" : "Sat Aug 20 14:26:02 +0000 2011",
+  "created_at" : "2011-08-20 14:26:02 +0000",
   "in_reply_to_screen_name" : "usamahc",
   "in_reply_to_user_id_str" : "233505637",
   "user" : {
@@ -571,14 +555,13 @@ Grailbird.data.tweets_2011_08 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "102121630989430787",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "102127976681979904",
   "in_reply_to_user_id" : 14635493,
   "text" : "@alex_gaynor Have you run MySQL-ctypes (or know anyone who has) on Mac OS X?",
   "id" : 102127976681979904,
   "in_reply_to_status_id" : 102121630989430787,
-  "created_at" : "Fri Aug 12 21:23:01 +0000 2011",
+  "created_at" : "2011-08-12 21:23:01 +0000",
   "in_reply_to_screen_name" : "alex_gaynor",
   "in_reply_to_user_id_str" : "14635493",
   "user" : {
@@ -609,12 +592,11 @@ Grailbird.data.tweets_2011_08 =
       "display_url" : "ow.ly/60V7y"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "101714066745196545",
   "text" : "RT @MindShiftKQED: Move over Sal Khan: sixth-graders are creating their own math videos for each other!\nhttp://t.co/SgxeMHt",
   "id" : 101714066745196545,
-  "created_at" : "Thu Aug 11 17:58:17 +0000 2011",
+  "created_at" : "2011-08-11 17:58:17 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -638,13 +620,12 @@ Grailbird.data.tweets_2011_08 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "101707609538707457",
   "in_reply_to_user_id" : 80883711,
   "text" : "@andrewteacher I've created a great web tool for recording videos and would love you to beta test it. Ping me if you are interested!",
   "id" : 101707609538707457,
-  "created_at" : "Thu Aug 11 17:32:38 +0000 2011",
+  "created_at" : "2011-08-11 17:32:38 +0000",
   "in_reply_to_screen_name" : "andrewteacher",
   "in_reply_to_user_id_str" : "80883711",
   "user" : {
@@ -664,13 +645,12 @@ Grailbird.data.tweets_2011_08 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "101705836954517505",
   "in_reply_to_user_id" : 222404720,
   "text" : "@Northstar15Math I've created a great web tool for recording videos and would love you to beta test it. Ping me if you are interested!",
   "id" : 101705836954517505,
-  "created_at" : "Thu Aug 11 17:25:35 +0000 2011",
+  "created_at" : "2011-08-11 17:25:35 +0000",
   "in_reply_to_screen_name" : "Northstar15Edu",
   "in_reply_to_user_id_str" : "222404720",
   "user" : {
@@ -697,14 +677,13 @@ Grailbird.data.tweets_2011_08 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "100790828095647744",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "100828613603106816",
   "in_reply_to_user_id" : 37973069,
   "text" : "@organizedbinder Thanks! Glad you enjoyed it. We sure did!",
   "id" : 100828613603106816,
   "in_reply_to_status_id" : 100790828095647744,
-  "created_at" : "Tue Aug 09 07:19:49 +0000 2011",
+  "created_at" : "2011-08-09 07:19:49 +0000",
   "in_reply_to_screen_name" : "organizedbinder",
   "in_reply_to_user_id_str" : "37973069",
   "user" : {
@@ -732,7 +711,7 @@ Grailbird.data.tweets_2011_08 =
       "id_str" : "339851720",
       "id" : 339851720
     }, {
-      "name" : "remind101",
+      "name" : "Remind101",
       "screen_name" : "remind101",
       "indices" : [ 63, 73 ],
       "id_str" : "80880113",
@@ -754,12 +733,11 @@ Grailbird.data.tweets_2011_08 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "100697827595915266",
   "text" : "Teacher Demo Day for @educreations. Good skill to @goalbookapp @remind101 @ClassConnectInc and @ClassDojo!",
   "id" : 100697827595915266,
-  "created_at" : "Mon Aug 08 22:40:07 +0000 2011",
+  "created_at" : "2011-08-08 22:40:07 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -784,14 +762,13 @@ Grailbird.data.tweets_2011_08 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "100423476644548608",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "100447379962085376",
   "in_reply_to_user_id" : 114667129,
   "text" : "@csullivan410 well done. first year at the moon?",
   "id" : 100447379962085376,
   "in_reply_to_status_id" : 100423476644548608,
-  "created_at" : "Mon Aug 08 06:04:56 +0000 2011",
+  "created_at" : "2011-08-08 06:04:56 +0000",
   "in_reply_to_screen_name" : "csullivan410",
   "in_reply_to_user_id_str" : "114667129",
   "user" : {
@@ -816,12 +793,11 @@ Grailbird.data.tweets_2011_08 =
       "display_url" : "eatdifferent.com"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "100071035382153216",
   "text" : "Soda is a giant can of sugar. Drink water instead. - http://t.co/mbYGzXX",
   "id" : 100071035382153216,
-  "created_at" : "Sun Aug 07 05:09:28 +0000 2011",
+  "created_at" : "2011-08-07 05:09:28 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -846,14 +822,13 @@ Grailbird.data.tweets_2011_08 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "100030482011533313",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "100060239268814849",
   "in_reply_to_user_id" : 19261045,
   "text" : "@ConDri Of course. I'll be hitting the links and kickin' it dirty bird style this time next year.",
   "id" : 100060239268814849,
   "in_reply_to_status_id" : 100030482011533313,
-  "created_at" : "Sun Aug 07 04:26:34 +0000 2011",
+  "created_at" : "2011-08-07 04:26:34 +0000",
   "in_reply_to_screen_name" : "ConDri",
   "in_reply_to_user_id_str" : "19261045",
   "user" : {
@@ -880,14 +855,13 @@ Grailbird.data.tweets_2011_08 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "99872483569704960",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "99955621314568192",
   "in_reply_to_user_id" : 19261045,
   "text" : "@ConDri looking good dude!",
   "id" : 99955621314568192,
   "in_reply_to_status_id" : 99872483569704960,
-  "created_at" : "Sat Aug 06 21:30:51 +0000 2011",
+  "created_at" : "2011-08-06 21:30:51 +0000",
   "in_reply_to_screen_name" : "ConDri",
   "in_reply_to_user_id_str" : "19261045",
   "user" : {
@@ -926,14 +900,13 @@ Grailbird.data.tweets_2011_08 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "99699682879602688",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "99718082196553728",
   "in_reply_to_user_id" : 15161274,
   "text" : "@brettkopf @usamahc @liamdon Damn. I knew i should have gone to the AOL building tonight.",
   "id" : 99718082196553728,
   "in_reply_to_status_id" : 99699682879602688,
-  "created_at" : "Sat Aug 06 05:46:58 +0000 2011",
+  "created_at" : "2011-08-06 05:46:58 +0000",
   "in_reply_to_screen_name" : "brettkopf",
   "in_reply_to_user_id_str" : "15161274",
   "user" : {
@@ -970,12 +943,11 @@ Grailbird.data.tweets_2011_08 =
       "display_url" : "stackoverflow.com/q/6963857/3579\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "99689727447412736",
   "text" : "Looking for an answer to a question about #cocoa CGLayers and Anti-aliased CGPaths on #ios (#iphone and #ipad) devices http://t.co/4r6esp9",
   "id" : 99689727447412736,
-  "created_at" : "Sat Aug 06 03:54:17 +0000 2011",
+  "created_at" : "2011-08-06 03:54:17 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -1004,12 +976,11 @@ Grailbird.data.tweets_2011_08 =
       "display_url" : "bit.ly/oth5B0"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "99633131883216896",
   "text" : "\"We prepare you to do something\" RT @maddawgfitness: New post: The Question http://t.co/XvoJZVW",
   "id" : 99633131883216896,
-  "created_at" : "Sat Aug 06 00:09:24 +0000 2011",
+  "created_at" : "2011-08-06 00:09:24 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -1034,14 +1005,13 @@ Grailbird.data.tweets_2011_08 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "99149355084300288",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "99166872204869633",
   "in_reply_to_user_id" : 14635493,
   "text" : "@alex_gaynor I couldn't make it to the sf django meetup last night cause of work. did you do slides for your talk and put them anywhere?",
   "id" : 99166872204869633,
   "in_reply_to_status_id" : 99149355084300288,
-  "created_at" : "Thu Aug 04 17:16:39 +0000 2011",
+  "created_at" : "2011-08-04 17:16:39 +0000",
   "in_reply_to_screen_name" : "alex_gaynor",
   "in_reply_to_user_id_str" : "14635493",
   "user" : {
@@ -1068,14 +1038,13 @@ Grailbird.data.tweets_2011_08 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "99018532863492097",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "99125452882444288",
   "in_reply_to_user_id" : 17831644,
   "text" : "@danieljyoo Ha. A little unplanned downtime?",
   "id" : 99125452882444288,
   "in_reply_to_status_id" : 99018532863492097,
-  "created_at" : "Thu Aug 04 14:32:04 +0000 2011",
+  "created_at" : "2011-08-04 14:32:04 +0000",
   "in_reply_to_screen_name" : "danieljyoo",
   "in_reply_to_user_id_str" : "17831644",
   "user" : {
@@ -1112,8 +1081,7 @@ Grailbird.data.tweets_2011_08 =
       "display_url" : "i.imgur.com/8zrSR.jpg"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "99125292932673536",
   "text" : "RT @Percival: I support this http://t.co/zn5d4VA /via @yosefsolomon",
   "retweeted_status" : {
@@ -1135,24 +1103,23 @@ Grailbird.data.tweets_2011_08 =
         "display_url" : "i.imgur.com/8zrSR.jpg"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "99015558007234560",
     "text" : "I support this http://t.co/zn5d4VA /via @yosefsolomon",
     "id" : 99015558007234560,
-    "created_at" : "Thu Aug 04 07:15:23 +0000 2011",
+    "created_at" : "2011-08-04 07:15:23 +0000",
     "user" : {
       "name" : "Sean Percival",
       "screen_name" : "Percival",
       "protected" : false,
       "id_str" : "2156951",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3263542418/d766bda68b96e884a65a7cf7448306d3_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000464888568/5b19a984e62b72e1ae6644629e1b6ce7_normal.jpeg",
       "id" : 2156951,
       "verified" : false
     }
   },
   "id" : 99125292932673536,
-  "created_at" : "Thu Aug 04 14:31:26 +0000 2011",
+  "created_at" : "2011-08-04 14:31:26 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -1176,8 +1143,7 @@ Grailbird.data.tweets_2011_08 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "98281310996545536",
   "text" : "RT @BuglesAmerican: You're welcome world! We raised the debt ceiling & saved you all from annihilation once again. Don't bother sending  ...",
   "retweeted_status" : {
@@ -1191,12 +1157,11 @@ Grailbird.data.tweets_2011_08 =
       } ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "98172066708209664",
     "text" : "You're welcome world! We raised the debt ceiling & saved you all from annihilation once again. Don't bother sending a thank you note. #USA",
     "id" : 98172066708209664,
-    "created_at" : "Mon Aug 01 23:23:39 +0000 2011",
+    "created_at" : "2011-08-01 23:23:39 +0000",
     "user" : {
       "name" : "TheAmerican",
       "screen_name" : "BuglesAmerican",
@@ -1208,7 +1173,7 @@ Grailbird.data.tweets_2011_08 =
     }
   },
   "id" : 98281310996545536,
-  "created_at" : "Tue Aug 02 06:37:45 +0000 2011",
+  "created_at" : "2011-08-02 06:37:45 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",

@@ -13,8 +13,7 @@ Grailbird.data.tweets_2010_08 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "22622955065",
   "text" : "RT @TheOnion: New WNBA Promotion Lets First 100 Fans Leave Early http://onion.com/dbVsWj",
   "retweeted_status" : {
@@ -25,12 +24,11 @@ Grailbird.data.tweets_2010_08 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "22620857556",
     "text" : "New WNBA Promotion Lets First 100 Fans Leave Early http://onion.com/dbVsWj",
     "id" : 22620857556,
-    "created_at" : "Tue Aug 31 14:30:02 +0000 2010",
+    "created_at" : "2010-08-31 14:30:02 +0000",
     "user" : {
       "name" : "The Onion",
       "screen_name" : "TheOnion",
@@ -42,7 +40,7 @@ Grailbird.data.tweets_2010_08 =
     }
   },
   "id" : 22622955065,
-  "created_at" : "Tue Aug 31 14:54:41 +0000 2010",
+  "created_at" : "2010-08-31 00:00:00 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -67,14 +65,13 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "22198513293",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "22276730109",
   "in_reply_to_user_id" : 10200322,
   "text" : "@amdavidson thanks! It was more an experiment to get an app on appengine quickly. It then pulls photos from picasa albums. Totally free!",
   "id" : 22276730109,
   "in_reply_to_status_id" : 22198513293,
-  "created_at" : "Fri Aug 27 15:36:33 +0000 2010",
+  "created_at" : "2010-08-27 00:00:00 +0000",
   "in_reply_to_screen_name" : "amdavidson",
   "in_reply_to_user_id_str" : "10200322",
   "user" : {
@@ -94,12 +91,11 @@ Grailbird.data.tweets_2010_08 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "21988685363",
   "text" : "My gallery is open for business: http://gallery.chrisstreeter.com/",
   "id" : 21988685363,
-  "created_at" : "Tue Aug 24 10:00:09 +0000 2010",
+  "created_at" : "2010-08-24 00:00:00 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -117,12 +113,11 @@ Grailbird.data.tweets_2010_08 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "21709975803",
   "text" : "Felled my first 5.10d at the gym!",
   "id" : 21709975803,
-  "created_at" : "Sat Aug 21 01:19:41 +0000 2010",
+  "created_at" : "2010-08-21 00:00:00 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -149,13 +144,12 @@ Grailbird.data.tweets_2010_08 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "21676412368",
   "in_reply_to_user_id" : 19261045,
   "text" : "@condri how much does it cost? #android has that all built in to it's OS, and it's free.",
   "id" : 21676412368,
-  "created_at" : "Fri Aug 20 16:14:39 +0000 2010",
+  "created_at" : "2010-08-20 00:00:00 +0000",
   "in_reply_to_screen_name" : "ConDri",
   "in_reply_to_user_id_str" : "19261045",
   "user" : {
@@ -181,13 +175,12 @@ Grailbird.data.tweets_2010_08 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "21594557718",
   "in_reply_to_user_id" : 19261045,
   "text" : "@condri I've gotten on the wrong train and paid too much...",
   "id" : 21594557718,
-  "created_at" : "Thu Aug 19 17:25:23 +0000 2010",
+  "created_at" : "2010-08-19 00:00:00 +0000",
   "in_reply_to_screen_name" : "ConDri",
   "in_reply_to_user_id_str" : "19261045",
   "user" : {
@@ -207,12 +200,11 @@ Grailbird.data.tweets_2010_08 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "20418949936",
   "text" : "Sierra Roadtrip photos: http://bit.ly/9GXQ3t",
   "id" : 20418949936,
-  "created_at" : "Thu Aug 05 23:06:15 +0000 2010",
+  "created_at" : "2010-08-05 00:00:00 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -230,12 +222,11 @@ Grailbird.data.tweets_2010_08 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "20279890035",
   "text" : "Photos from Boliva posted: http://www.flickr.com/photos/chrisstreeter/sets/72157624606274888/",
   "id" : 20279890035,
-  "created_at" : "Wed Aug 04 04:55:25 +0000 2010",
+  "created_at" : "2010-08-04 00:00:00 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",

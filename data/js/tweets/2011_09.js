@@ -13,12 +13,11 @@ Grailbird.data.tweets_2011_09 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "119159932120604672",
   "text" : "RT @flickr: We've also released our first official Android app with browsing, camera filters and sharing to Facebook and Twitter!...",
   "id" : 119159932120604672,
-  "created_at" : "Wed Sep 28 21:21:56 +0000 2011",
+  "created_at" : "2011-09-28 21:21:56 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -48,12 +47,11 @@ Grailbird.data.tweets_2011_09 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "119092463968337920",
   "text" : "Why did @google remove the @googlereader tab from the gmail toolbar! That was my most used toolbar link! Now I'm constantly looking for it",
   "id" : 119092463968337920,
-  "created_at" : "Wed Sep 28 16:53:50 +0000 2011",
+  "created_at" : "2011-09-28 16:53:50 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -86,8 +84,7 @@ Grailbird.data.tweets_2011_09 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "118769668126277632",
   "text" : "RT @Eduvant: Congrats to @ClassDojo for winning the Innovation Challenge at #EducationNation!",
   "retweeted_status" : {
@@ -107,12 +104,11 @@ Grailbird.data.tweets_2011_09 =
       } ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "118758888261685248",
     "text" : "Congrats to @ClassDojo for winning the Innovation Challenge at #EducationNation!",
     "id" : 118758888261685248,
-    "created_at" : "Tue Sep 27 18:48:20 +0000 2011",
+    "created_at" : "2011-09-27 18:48:20 +0000",
     "user" : {
       "name" : "Eduvant, Inc.",
       "screen_name" : "Eduvant",
@@ -124,7 +120,7 @@ Grailbird.data.tweets_2011_09 =
     }
   },
   "id" : 118769668126277632,
-  "created_at" : "Tue Sep 27 19:31:10 +0000 2011",
+  "created_at" : "2011-09-27 19:31:10 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -172,8 +168,7 @@ Grailbird.data.tweets_2011_09 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "118769653332975617",
   "text" : "RT @brettkopf: So excited for @usamahc & @liamdon from @classdojo won the Innovation Challenge at #EducationNation! #proudofyou!",
   "retweeted_status" : {
@@ -208,12 +203,11 @@ Grailbird.data.tweets_2011_09 =
       } ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "118762486131462144",
     "text" : "So excited for @usamahc & @liamdon from @classdojo won the Innovation Challenge at #EducationNation! #proudofyou!",
     "id" : 118762486131462144,
-    "created_at" : "Tue Sep 27 19:02:37 +0000 2011",
+    "created_at" : "2011-09-27 19:02:37 +0000",
     "user" : {
       "name" : "Brett Kopf",
       "screen_name" : "brettkopf",
@@ -225,7 +219,7 @@ Grailbird.data.tweets_2011_09 =
     }
   },
   "id" : 118769653332975617,
-  "created_at" : "Tue Sep 27 19:31:06 +0000 2011",
+  "created_at" : "2011-09-27 19:31:06 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -255,8 +249,7 @@ Grailbird.data.tweets_2011_09 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "118331276913680384",
   "text" : "RT @ClassDojo: Morning all! Please vote @ClassDojo up in the NBC Innovation Challenge - hit the 'like' button, takes 1 sec! http://t.co/ ...",
   "retweeted_status" : {
@@ -278,12 +271,11 @@ Grailbird.data.tweets_2011_09 =
         "display_url" : "bit.ly/pKPz7U"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "118292383426285569",
     "text" : "Morning all! Please vote @ClassDojo up in the NBC Innovation Challenge - hit the 'like' button, takes 1 sec! http://t.co/TXMMthLH",
     "id" : 118292383426285569,
-    "created_at" : "Mon Sep 26 11:54:36 +0000 2011",
+    "created_at" : "2011-09-26 11:54:36 +0000",
     "user" : {
       "name" : "ClassDojo",
       "screen_name" : "ClassDojo",
@@ -295,7 +287,7 @@ Grailbird.data.tweets_2011_09 =
     }
   },
   "id" : 118331276913680384,
-  "created_at" : "Mon Sep 26 14:29:09 +0000 2011",
+  "created_at" : "2011-09-26 14:29:09 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -319,8 +311,7 @@ Grailbird.data.tweets_2011_09 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "117260166453399552",
   "text" : "RT @sam_amick: The NBA has indefinitely postponed training camp and canceled preseason games from Oct. 9 to Oct. 15.",
   "retweeted_status" : {
@@ -331,12 +322,11 @@ Grailbird.data.tweets_2011_09 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "117255368152846336",
     "text" : "The NBA has indefinitely postponed training camp and canceled preseason games from Oct. 9 to Oct. 15.",
     "id" : 117255368152846336,
-    "created_at" : "Fri Sep 23 15:13:52 +0000 2011",
+    "created_at" : "2011-09-23 15:13:52 +0000",
     "user" : {
       "name" : "Sam Amick",
       "screen_name" : "sam_amick",
@@ -348,7 +338,7 @@ Grailbird.data.tweets_2011_09 =
     }
   },
   "id" : 117260166453399552,
-  "created_at" : "Fri Sep 23 15:32:56 +0000 2011",
+  "created_at" : "2011-09-23 15:32:56 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -384,12 +374,11 @@ Grailbird.data.tweets_2011_09 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "116960561861890048",
   "text" : "RT @minutephysics: @khanacademy brought education to the masses, @educreations lets the masses create their own khanacademy educreations.com",
   "id" : 116960561861890048,
-  "created_at" : "Thu Sep 22 19:42:25 +0000 2011",
+  "created_at" : "2011-09-22 19:42:25 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -425,8 +414,7 @@ Grailbird.data.tweets_2011_09 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "116960427895832578",
   "text" : "RT @minutephysics: @khanacademy brought education to the masses, @educreations lets the masses create their own khanacademy http://t.co/ ...",
   "retweeted_status" : {
@@ -454,13 +442,12 @@ Grailbird.data.tweets_2011_09 =
         "display_url" : "educreations.com"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "116938320205971457",
     "in_reply_to_user_id" : 16689804,
     "text" : "@khanacademy brought education to the masses, @educreations lets the masses create their own khanacademy http://t.co/mAuNKsTN",
     "id" : 116938320205971457,
-    "created_at" : "Thu Sep 22 18:14:02 +0000 2011",
+    "created_at" : "2011-09-22 18:14:02 +0000",
     "in_reply_to_screen_name" : "khanacademy",
     "in_reply_to_user_id_str" : "16689804",
     "user" : {
@@ -474,7 +461,7 @@ Grailbird.data.tweets_2011_09 =
     }
   },
   "id" : 116960427895832578,
-  "created_at" : "Thu Sep 22 19:41:53 +0000 2011",
+  "created_at" : "2011-09-22 19:41:53 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -503,12 +490,11 @@ Grailbird.data.tweets_2011_09 =
       "display_url" : "bit.ly/mQ2o8c"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "116605248130396161",
   "text" : "RT @educreations: ImagineK12 hatches its first class of education tech startups | VentureBeat: http://t.co/eeTuRUJu",
   "id" : 116605248130396161,
-  "created_at" : "Wed Sep 21 20:10:32 +0000 2011",
+  "created_at" : "2011-09-21 20:10:32 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -538,12 +524,11 @@ Grailbird.data.tweets_2011_09 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "116337657780506624",
   "text" : "RT @christine: RT @webtonull: A DBA walks into a NOSQL bar, but turns and leaves because he couldn't find a table",
   "id" : 116337657780506624,
-  "created_at" : "Wed Sep 21 02:27:13 +0000 2011",
+  "created_at" : "2011-09-21 02:27:13 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -566,12 +551,11 @@ Grailbird.data.tweets_2011_09 =
       "display_url" : "chrisstreeter.com/archive/2011/0\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "116178218070982656",
   "text" : "Homebrew Package Update Notifications via Growl http://t.co/xXnI1cdF",
   "id" : 116178218070982656,
-  "created_at" : "Tue Sep 20 15:53:40 +0000 2011",
+  "created_at" : "2011-09-20 15:53:40 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -596,14 +580,13 @@ Grailbird.data.tweets_2011_09 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "116011297874771968",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "116026182293663744",
   "in_reply_to_user_id" : 15668311,
   "text" : "@mattbornski i've got a membership there too. we should climb sometime.",
   "id" : 116026182293663744,
   "in_reply_to_status_id" : 116011297874771968,
-  "created_at" : "Tue Sep 20 05:49:32 +0000 2011",
+  "created_at" : "2011-09-20 05:49:32 +0000",
   "in_reply_to_screen_name" : "mattbornski",
   "in_reply_to_user_id_str" : "15668311",
   "user" : {
@@ -628,12 +611,11 @@ Grailbird.data.tweets_2011_09 =
       "display_url" : "blog.jarredsumner.com/2011/09/18/sel\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "115822614374662144",
   "text" : "Sell to Teachers by making something they want: http://t.co/VXMOcInJ",
   "id" : 115822614374662144,
-  "created_at" : "Mon Sep 19 16:20:37 +0000 2011",
+  "created_at" : "2011-09-19 16:20:37 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -662,8 +644,7 @@ Grailbird.data.tweets_2011_09 =
       "display_url" : "dlvr.it/lxqtB"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "115419898624229376",
   "text" : "RT @hackeducation: ClassConnect: Rethinking the LMS http://t.co/T22QFlCq",
   "retweeted_status" : {
@@ -679,12 +660,11 @@ Grailbird.data.tweets_2011_09 =
         "display_url" : "dlvr.it/lxqtB"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "115251666386817024",
     "text" : "ClassConnect: Rethinking the LMS http://t.co/T22QFlCq",
     "id" : 115251666386817024,
-    "created_at" : "Sun Sep 18 02:31:53 +0000 2011",
+    "created_at" : "2011-09-18 02:31:53 +0000",
     "user" : {
       "name" : "Hack Education",
       "screen_name" : "hackeducation",
@@ -696,7 +676,7 @@ Grailbird.data.tweets_2011_09 =
     }
   },
   "id" : 115419898624229376,
-  "created_at" : "Sun Sep 18 13:40:22 +0000 2011",
+  "created_at" : "2011-09-18 13:40:22 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -745,8 +725,7 @@ Grailbird.data.tweets_2011_09 =
       "display_url" : "ustre.am/Cnla"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "114766058270892032",
   "text" : "RT @usamahc: RT @devp: RT @EdSurge: Teachers need this kind of help: http://t.co/9gbHv2v0 ( #tcdisrupt live at http://t.co/tnsaAsGp)",
   "retweeted_status" : {
@@ -782,12 +761,11 @@ Grailbird.data.tweets_2011_09 =
         "display_url" : "ustre.am/Cnla"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "114748462637133825",
     "text" : "RT @devp: RT @EdSurge: Teachers need this kind of help: http://t.co/9gbHv2v0 ( #tcdisrupt live at http://t.co/tnsaAsGp)",
     "id" : 114748462637133825,
-    "created_at" : "Fri Sep 16 17:12:20 +0000 2011",
+    "created_at" : "2011-09-16 17:12:20 +0000",
     "user" : {
       "name" : "Usamah Chaudhary",
       "screen_name" : "usamahc",
@@ -799,7 +777,7 @@ Grailbird.data.tweets_2011_09 =
     }
   },
   "id" : 114766058270892032,
-  "created_at" : "Fri Sep 16 18:22:15 +0000 2011",
+  "created_at" : "2011-09-16 18:22:15 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -823,8 +801,7 @@ Grailbird.data.tweets_2011_09 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "114422272986578944",
   "text" : "RT @lorenbaxter: And the winner of TechCrunch disrupt is: A social video game!\n\nAll they're disrupting is the concept of \"companies that ...",
   "retweeted_status" : {
@@ -835,12 +812,11 @@ Grailbird.data.tweets_2011_09 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "114393503269797888",
     "text" : "And the winner of TechCrunch disrupt is: A social video game!\n\nAll they're disrupting is the concept of \"companies that matter\".",
     "id" : 114393503269797888,
-    "created_at" : "Thu Sep 15 17:41:51 +0000 2011",
+    "created_at" : "2011-09-15 17:41:51 +0000",
     "user" : {
       "name" : "Loren Baxter",
       "screen_name" : "lorenbaxter",
@@ -852,7 +828,7 @@ Grailbird.data.tweets_2011_09 =
     }
   },
   "id" : 114422272986578944,
-  "created_at" : "Thu Sep 15 19:36:10 +0000 2011",
+  "created_at" : "2011-09-15 19:36:10 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -881,12 +857,11 @@ Grailbird.data.tweets_2011_09 =
       "display_url" : "techcrunch.tv/show/disrupt/0\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "114364736820355073",
   "text" : "RT @imaginek12: Imagine K12 at TechCrunch Disrupt: http://t.co/Oergw7tc",
   "id" : 114364736820355073,
-  "created_at" : "Thu Sep 15 15:47:32 +0000 2011",
+  "created_at" : "2011-09-15 15:47:32 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -918,12 +893,11 @@ Grailbird.data.tweets_2011_09 =
       "display_url" : "flickr.com/photos/disrupt\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "114075828387721216",
   "text" : "Educreations on stage at #TCDisrupt http://t.co/RtO05tmB /cc @educreations",
   "id" : 114075828387721216,
-  "created_at" : "Wed Sep 14 20:39:31 +0000 2011",
+  "created_at" : "2011-09-14 20:39:31 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -952,12 +926,11 @@ Grailbird.data.tweets_2011_09 =
       "display_url" : "imaginek12.com/cohort1.html"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "114060374197796864",
   "text" : "And the @imaginek12 cohort is live! http://t.co/bA2b6Koj",
   "id" : 114060374197796864,
-  "created_at" : "Wed Sep 14 19:38:07 +0000 2011",
+  "created_at" : "2011-09-14 19:38:07 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -981,8 +954,7 @@ Grailbird.data.tweets_2011_09 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "114031736115052544",
   "text" : "RT @jefflab: Congratulations to the ImagineK12 people who presented at TC disrupt.  I'm excited to see so many people working on importa ...",
   "retweeted_status" : {
@@ -993,12 +965,11 @@ Grailbird.data.tweets_2011_09 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "114029262050312192",
     "text" : "Congratulations to the ImagineK12 people who presented at TC disrupt.  I'm excited to see so many people working on important problems",
     "id" : 114029262050312192,
-    "created_at" : "Wed Sep 14 17:34:29 +0000 2011",
+    "created_at" : "2011-09-14 17:34:29 +0000",
     "user" : {
       "name" : "jefflab",
       "screen_name" : "jefflab",
@@ -1010,7 +981,7 @@ Grailbird.data.tweets_2011_09 =
     }
   },
   "id" : 114031736115052544,
-  "created_at" : "Wed Sep 14 17:44:19 +0000 2011",
+  "created_at" : "2011-09-14 17:44:19 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -1055,8 +1026,7 @@ Grailbird.data.tweets_2011_09 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "114025617653104640",
   "text" : "RT @danieljyoo: @drh192 @goalbookapp #TCDisrupt Thanks so much for the compliment!  I am excited about all the @imaginek12 companies.  E ...",
   "retweeted_status" : {
@@ -1089,14 +1059,13 @@ Grailbird.data.tweets_2011_09 =
       "urls" : [ ]
     },
     "in_reply_to_status_id_str" : "114016977659506688",
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "114021725976535040",
     "in_reply_to_user_id" : 288432431,
     "text" : "@drh192 @goalbookapp #TCDisrupt Thanks so much for the compliment!  I am excited about all the @imaginek12 companies.  Edu will be change :)",
     "id" : 114021725976535040,
     "in_reply_to_status_id" : 114016977659506688,
-    "created_at" : "Wed Sep 14 17:04:32 +0000 2011",
+    "created_at" : "2011-09-14 17:04:32 +0000",
     "in_reply_to_screen_name" : "drh192",
     "in_reply_to_user_id_str" : "288432431",
     "user" : {
@@ -1110,7 +1079,7 @@ Grailbird.data.tweets_2011_09 =
     }
   },
   "id" : 114025617653104640,
-  "created_at" : "Wed Sep 14 17:20:00 +0000 2011",
+  "created_at" : "2011-09-14 17:20:00 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -1142,8 +1111,7 @@ Grailbird.data.tweets_2011_09 =
       "display_url" : "ustre.am/Cnla"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "114025542709284864",
   "text" : "RT @EdSurge: Sweet job, Imagineers! You all nailed it.  ( #tcdisrupt live at http://t.co/heMFHHo)",
   "retweeted_status" : {
@@ -1162,12 +1130,11 @@ Grailbird.data.tweets_2011_09 =
         "display_url" : "ustre.am/Cnla"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "114020863988334592",
     "text" : "Sweet job, Imagineers! You all nailed it.  ( #tcdisrupt live at http://t.co/heMFHHo)",
     "id" : 114020863988334592,
-    "created_at" : "Wed Sep 14 17:01:07 +0000 2011",
+    "created_at" : "2011-09-14 17:01:07 +0000",
     "user" : {
       "name" : "EdSurge",
       "screen_name" : "EdSurge",
@@ -1179,7 +1146,7 @@ Grailbird.data.tweets_2011_09 =
     }
   },
   "id" : 114025542709284864,
-  "created_at" : "Wed Sep 14 17:19:42 +0000 2011",
+  "created_at" : "2011-09-14 17:19:42 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -1206,8 +1173,7 @@ Grailbird.data.tweets_2011_09 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "114025127674527744",
   "text" : "RT @evowo: educreations creating a 5 min lesson should take 5 min - make it simple to teach on any place and device #TCDisrupt",
   "retweeted_status" : {
@@ -1221,12 +1187,11 @@ Grailbird.data.tweets_2011_09 =
       } ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "114019306135760896",
     "text" : "educreations creating a 5 min lesson should take 5 min - make it simple to teach on any place and device #TCDisrupt",
     "id" : 114019306135760896,
-    "created_at" : "Wed Sep 14 16:54:55 +0000 2011",
+    "created_at" : "2011-09-14 16:54:55 +0000",
     "user" : {
       "name" : "volker wohlfarth",
       "screen_name" : "evowo",
@@ -1238,7 +1203,7 @@ Grailbird.data.tweets_2011_09 =
     }
   },
   "id" : 114025127674527744,
-  "created_at" : "Wed Sep 14 17:18:03 +0000 2011",
+  "created_at" : "2011-09-14 17:18:03 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -1265,8 +1230,7 @@ Grailbird.data.tweets_2011_09 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "114025070179000321",
   "text" : "RT @pemullen: So refreshing to see education-focused startups pitching at #TCDisrupt. We have enough photo, social, check-in, daily deal ...",
   "retweeted_status" : {
@@ -1280,12 +1244,11 @@ Grailbird.data.tweets_2011_09 =
       } ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "114018861321424898",
     "text" : "So refreshing to see education-focused startups pitching at #TCDisrupt. We have enough photo, social, check-in, daily deal, etc sites",
     "id" : 114018861321424898,
-    "created_at" : "Wed Sep 14 16:53:09 +0000 2011",
+    "created_at" : "2011-09-14 16:53:09 +0000",
     "user" : {
       "name" : "Peter Mullen",
       "screen_name" : "pemullen",
@@ -1297,7 +1260,7 @@ Grailbird.data.tweets_2011_09 =
     }
   },
   "id" : 114025070179000321,
-  "created_at" : "Wed Sep 14 17:17:49 +0000 2011",
+  "created_at" : "2011-09-14 17:17:49 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -1329,8 +1292,7 @@ Grailbird.data.tweets_2011_09 =
       "display_url" : "ustre.am/Cnla"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "114024973466730497",
   "text" : "RT @EdSurge: You rock, most excellent edsurgents!  ( #tcdisrupt live at http://t.co/heMFHHo)",
   "retweeted_status" : {
@@ -1349,12 +1311,11 @@ Grailbird.data.tweets_2011_09 =
         "display_url" : "ustre.am/Cnla"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "114018451043004416",
     "text" : "You rock, most excellent edsurgents!  ( #tcdisrupt live at http://t.co/heMFHHo)",
     "id" : 114018451043004416,
-    "created_at" : "Wed Sep 14 16:51:31 +0000 2011",
+    "created_at" : "2011-09-14 16:51:31 +0000",
     "user" : {
       "name" : "EdSurge",
       "screen_name" : "EdSurge",
@@ -1366,7 +1327,7 @@ Grailbird.data.tweets_2011_09 =
     }
   },
   "id" : 114024973466730497,
-  "created_at" : "Wed Sep 14 17:17:26 +0000 2011",
+  "created_at" : "2011-09-14 17:17:26 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -1393,12 +1354,11 @@ Grailbird.data.tweets_2011_09 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "114018662301700096",
   "text" : "Educreations is on stage at #tcdisrupt ! /cc @educreations",
   "id" : 114018662301700096,
-  "created_at" : "Wed Sep 14 16:52:22 +0000 2011",
+  "created_at" : "2011-09-14 16:52:22 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -1425,12 +1385,11 @@ Grailbird.data.tweets_2011_09 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "114017406967484416",
   "text" : "Educreations is going to be on stage in just a few minutes! /cc @educreations #tcdisrupt",
   "id" : 114017406967484416,
-  "created_at" : "Wed Sep 14 16:47:22 +0000 2011",
+  "created_at" : "2011-09-14 16:47:22 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -1457,12 +1416,11 @@ Grailbird.data.tweets_2011_09 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "114017193724874752",
   "text" : "On stage at #tcdisrupt right now: @Eduvant will fundamentally change how administrators will look at data.",
   "id" : 114017193724874752,
-  "created_at" : "Wed Sep 14 16:46:31 +0000 2011",
+  "created_at" : "2011-09-14 16:46:31 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -1495,8 +1453,7 @@ Grailbird.data.tweets_2011_09 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "114016657298554880",
   "text" : "RT @thedelk: @imaginek12 Well done! Pitches are on par w/ or above what we've seen all week at #TCDisrupt. Love that the innovations sol ...",
   "retweeted_status" : {
@@ -1516,13 +1473,12 @@ Grailbird.data.tweets_2011_09 =
       } ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "114016370290724865",
     "in_reply_to_user_id" : 267753999,
     "text" : "@imaginek12 Well done! Pitches are on par w/ or above what we've seen all week at #TCDisrupt. Love that the innovations solve real problems!",
     "id" : 114016370290724865,
-    "created_at" : "Wed Sep 14 16:43:15 +0000 2011",
+    "created_at" : "2011-09-14 16:43:15 +0000",
     "in_reply_to_screen_name" : "imaginek12",
     "in_reply_to_user_id_str" : "267753999",
     "user" : {
@@ -1536,7 +1492,7 @@ Grailbird.data.tweets_2011_09 =
     }
   },
   "id" : 114016657298554880,
-  "created_at" : "Wed Sep 14 16:44:24 +0000 2011",
+  "created_at" : "2011-09-14 16:44:24 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -1565,12 +1521,11 @@ Grailbird.data.tweets_2011_09 =
       "display_url" : "edcr8.co/oCRnyC"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "113956825891737600",
   "text" : "RT @educreations: We're live! Sign up and start teaching and sharing today at http://t.co/s6M40DW",
   "id" : 113956825891737600,
-  "created_at" : "Wed Sep 14 12:46:39 +0000 2011",
+  "created_at" : "2011-09-14 12:46:39 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -1590,7 +1545,7 @@ Grailbird.data.tweets_2011_09 =
       "id_str" : "274793711",
       "id" : 274793711
     }, {
-      "name" : "remind101",
+      "name" : "Remind101",
       "screen_name" : "remind101",
       "indices" : [ 57, 67 ],
       "id_str" : "80880113",
@@ -1630,12 +1585,11 @@ Grailbird.data.tweets_2011_09 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "113954210642542592",
   "text" : "Great batch of companies mentioned in today's @EdSurge : @remind101 @ClassConnectInc @ClassDojo @Eduvant @educreations @goalbookapp",
   "id" : 113954210642542592,
-  "created_at" : "Wed Sep 14 12:36:15 +0000 2011",
+  "created_at" : "2011-09-14 12:36:15 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -1664,12 +1618,11 @@ Grailbird.data.tweets_2011_09 =
       "display_url" : "educreations.com"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "113820270300631040",
   "text" : "And @educreations is live! http://t.co/PfAI3WN",
   "id" : 113820270300631040,
-  "created_at" : "Wed Sep 14 03:44:01 +0000 2011",
+  "created_at" : "2011-09-14 03:44:01 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -1687,12 +1640,11 @@ Grailbird.data.tweets_2011_09 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "113448343950204929",
   "text" : "You can't build a reputation on what you are going to do. - Henry Ford",
   "id" : 113448343950204929,
-  "created_at" : "Tue Sep 13 03:06:07 +0000 2011",
+  "created_at" : "2011-09-13 03:06:07 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -1716,8 +1668,7 @@ Grailbird.data.tweets_2011_09 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "112137488683909121",
   "text" : "RT @danieljyoo: Friday is a very big day",
   "retweeted_status" : {
@@ -1728,12 +1679,11 @@ Grailbird.data.tweets_2011_09 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "112079978438463488",
     "text" : "Friday is a very big day",
     "id" : 112079978438463488,
-    "created_at" : "Fri Sep 09 08:28:43 +0000 2011",
+    "created_at" : "2011-09-09 08:28:43 +0000",
     "user" : {
       "name" : "Daniel Jhin Yoo",
       "screen_name" : "danieljyoo",
@@ -1745,7 +1695,7 @@ Grailbird.data.tweets_2011_09 =
     }
   },
   "id" : 112137488683909121,
-  "created_at" : "Fri Sep 09 12:17:15 +0000 2011",
+  "created_at" : "2011-09-09 12:17:15 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -1763,12 +1713,11 @@ Grailbird.data.tweets_2011_09 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "111946768811425792",
   "text" : "Pushed an updated design and polished the iPad app. Continuing to prep for tomorrow.",
   "id" : 111946768811425792,
-  "created_at" : "Thu Sep 08 23:39:24 +0000 2011",
+  "created_at" : "2011-09-08 23:39:24 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -1791,12 +1740,11 @@ Grailbird.data.tweets_2011_09 =
       "display_url" : "techcrunch.com/2011/09/07/dis\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "111612781085728768",
   "text" : "Check out the Wednesday schedule: http://t.co/ObAOngx",
   "id" : 111612781085728768,
-  "created_at" : "Thu Sep 08 01:32:15 +0000 2011",
+  "created_at" : "2011-09-08 01:32:15 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -1827,14 +1775,13 @@ Grailbird.data.tweets_2011_09 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "111591757090799617",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "111592219466670080",
   "in_reply_to_user_id" : 19261045,
   "text" : ".@ConDri thanks dude. You gotta start following @educreations now.",
   "id" : 111592219466670080,
   "in_reply_to_status_id" : 111591757090799617,
-  "created_at" : "Thu Sep 08 00:10:33 +0000 2011",
+  "created_at" : "2011-09-08 00:10:33 +0000",
   "in_reply_to_screen_name" : "ConDri",
   "in_reply_to_user_id_str" : "19261045",
   "user" : {
@@ -1865,12 +1812,11 @@ Grailbird.data.tweets_2011_09 =
       "display_url" : "mindshift.kqed.org/2011/09/can-mo\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "111560209213816833",
   "text" : "Via @MindShiftKQED: Can Mobile Phones Help Teachers Manage Classroom Behavior? | http://t.co/JWB2V9g",
   "id" : 111560209213816833,
-  "created_at" : "Wed Sep 07 22:03:21 +0000 2011",
+  "created_at" : "2011-09-07 22:03:21 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -1900,8 +1846,7 @@ Grailbird.data.tweets_2011_09 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "111471656416976896",
   "text" : "RT @jezdez: Let's try again, django_compressor 1.0.1 is out with a bugfix of the staticfiles compatibility module. Thx, @chrisstreeter!  ...",
   "retweeted_status" : {
@@ -1921,12 +1866,11 @@ Grailbird.data.tweets_2011_09 =
       } ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "111453985717755904",
     "text" : "Let's try again, django_compressor 1.0.1 is out with a bugfix of the staticfiles compatibility module. Thx, @chrisstreeter! #django",
     "id" : 111453985717755904,
-    "created_at" : "Wed Sep 07 15:01:15 +0000 2011",
+    "created_at" : "2011-09-07 15:01:15 +0000",
     "user" : {
       "name" : "Jannis Leidel",
       "screen_name" : "jezdez",
@@ -1938,7 +1882,7 @@ Grailbird.data.tweets_2011_09 =
     }
   },
   "id" : 111471656416976896,
-  "created_at" : "Wed Sep 07 16:11:28 +0000 2011",
+  "created_at" : "2011-09-07 16:11:28 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -1963,14 +1907,13 @@ Grailbird.data.tweets_2011_09 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "111410670393765890",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "111430596638683136",
   "in_reply_to_user_id" : 641003,
   "text" : "@jezdez Congrats on the 1.0 release! Glad my small patches were able to help. Looking forward to more contributions and releases.",
   "id" : 111430596638683136,
   "in_reply_to_status_id" : 111410670393765890,
-  "created_at" : "Wed Sep 07 13:28:19 +0000 2011",
+  "created_at" : "2011-09-07 13:28:19 +0000",
   "in_reply_to_screen_name" : "jezdez",
   "in_reply_to_user_id_str" : "641003",
   "user" : {
@@ -2001,12 +1944,11 @@ Grailbird.data.tweets_2011_09 =
       "display_url" : "bit.ly/qD0jsJ"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "110828275923820545",
   "text" : "The more edtech startup events the better! RT @EdSurge: why seattle needs a startupweekend. http://t.co/ZBizyJR",
   "id" : 110828275923820545,
-  "created_at" : "Mon Sep 05 21:34:54 +0000 2011",
+  "created_at" : "2011-09-05 21:34:54 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -2024,12 +1966,11 @@ Grailbird.data.tweets_2011_09 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "110177521412214784",
   "text" : "GO BEARS! Great start to a great season!",
   "id" : 110177521412214784,
-  "created_at" : "Sun Sep 04 02:29:02 +0000 2011",
+  "created_at" : "2011-09-04 02:29:02 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
