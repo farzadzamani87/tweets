@@ -1,6 +1,6 @@
 Grailbird.data.tweets_2010_04 = 
  [ {
-  "source" : "<a href=\"http://twitter.com/devices\" rel=\"nofollow\">txt</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -17,12 +17,12 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"https://launchpad.net/gwibber/\" rel=\"nofollow\">Gwibber</a>",
+  "source" : "\u003Ca href=\"https:\/\/launchpad.net\/gwibber\/\" rel=\"nofollow\"\u003EGwibber\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "ESPN",
@@ -37,7 +37,7 @@ Grailbird.data.tweets_2010_04 =
   },
   "geo" : { },
   "id_str" : "13086387564",
-  "text" : "RT @espn: Sacramento Kings point guard Tyreke Evans wins NBA Rookie of Year award - http://tinyurl.com/23mxgg5",
+  "text" : "RT @espn: Sacramento Kings point guard Tyreke Evans wins NBA Rookie of Year award - http:\/\/tinyurl.com\/23mxgg5",
   "id" : 13086387564,
   "created_at" : "2010-04-29 00:00:00 +0000",
   "user" : {
@@ -45,7 +45,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
@@ -70,7 +70,7 @@ Grailbird.data.tweets_2010_04 =
   "id_str" : "13010242214",
   "text" : "RT @hardwear: This week is your FINAL chance to enter our backpack giveaway. Post a tweet with #mhwpacks by Fri 10 am PST! Five winners  ...",
   "retweeted_status" : {
-    "source" : "<a href=\"http://www.tweetdeck.com/\" rel=\"nofollow\">TweetDeck</a>",
+    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\/\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -90,7 +90,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "hardwear",
       "protected" : false,
       "id_str" : "9409552",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1996332186/TwitCuben_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1996332186\/TwitCuben_normal.png",
       "id" : 9409552,
       "verified" : true
     }
@@ -102,12 +102,12 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"https://launchpad.net/gwibber/\" rel=\"nofollow\">Gwibber</a>",
+  "source" : "\u003Ca href=\"https:\/\/launchpad.net\/gwibber\/\" rel=\"nofollow\"\u003EGwibber\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "DevilsCanyon Brewery",
@@ -122,7 +122,7 @@ Grailbird.data.tweets_2010_04 =
   },
   "geo" : { },
   "id_str" : "12966865352",
-  "text" : "\u267A @DevilsCanyon: Which Country Makes The Worlds Worst Beer? : http://is.gd/bKqrh",
+  "text" : "\u267A @DevilsCanyon: Which Country Makes The Worlds Worst Beer? : http:\/\/is.gd\/bKqrh",
   "id" : 12966865352,
   "created_at" : "2010-04-27 00:00:00 +0000",
   "user" : {
@@ -130,12 +130,12 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twidroid.com\" rel=\"nofollow\">twidroid</a>",
+  "source" : "\u003Ca href=\"http:\/\/twidroid.com\" rel=\"nofollow\"\u003Etwidroid\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -155,12 +155,12 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twidroid.com\" rel=\"nofollow\">twidroid</a>",
+  "source" : "\u003Ca href=\"http:\/\/twidroid.com\" rel=\"nofollow\"\u003Etwidroid\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Conan O'Brien",
@@ -194,7 +194,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "ConanOBrien",
       "protected" : false,
       "id_str" : "115485051",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/728337241/conan_4cred_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/728337241\/conan_4cred_normal.jpg",
       "id" : 115485051,
       "verified" : true
     }
@@ -206,12 +206,12 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twidroid.com\" rel=\"nofollow\">twidroid</a>",
+  "source" : "\u003Ca href=\"http:\/\/twidroid.com\" rel=\"nofollow\"\u003Etwidroid\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Dean Eckles",
@@ -239,12 +239,12 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.tweetdeck.com/\" rel=\"nofollow\">TweetDeck</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\/\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -261,7 +261,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
@@ -276,7 +276,7 @@ Grailbird.data.tweets_2010_04 =
   "geo" : { },
   "id_str" : "12468339067",
   "in_reply_to_user_id" : 15635960,
-  "text" : "@AlisonatVark Great battery advice for new Macbook Pro owners! http://vark.com/t/467083",
+  "text" : "@AlisonatVark Great battery advice for new Macbook Pro owners! http:\/\/vark.com\/t\/467083",
   "id" : 12468339067,
   "created_at" : "2010-04-19 00:00:00 +0000",
   "in_reply_to_screen_name" : "ajalison",
@@ -286,12 +286,12 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twidroid.com\" rel=\"nofollow\">twidroid</a>",
+  "source" : "\u003Ca href=\"http:\/\/twidroid.com\" rel=\"nofollow\"\u003Etwidroid\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -308,12 +308,12 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"https://launchpad.net/gwibber/\" rel=\"nofollow\">Gwibber</a>",
+  "source" : "\u003Ca href=\"https:\/\/launchpad.net\/gwibber\/\" rel=\"nofollow\"\u003EGwibber\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Andrew Davidson",
@@ -341,12 +341,12 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"https://launchpad.net/gwibber/\" rel=\"nofollow\">Gwibber</a>",
+  "source" : "\u003Ca href=\"https:\/\/launchpad.net\/gwibber\/\" rel=\"nofollow\"\u003EGwibber\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Andrew Davidson",
@@ -374,12 +374,12 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"https://launchpad.net/gwibber/\" rel=\"nofollow\">Gwibber</a>",
+  "source" : "\u003Ca href=\"https:\/\/launchpad.net\/gwibber\/\" rel=\"nofollow\"\u003EGwibber\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Andrew Davidson",
@@ -407,12 +407,12 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"https://launchpad.net/gwibber/\" rel=\"nofollow\">Gwibber</a>",
+  "source" : "\u003Ca href=\"https:\/\/launchpad.net\/gwibber\/\" rel=\"nofollow\"\u003EGwibber\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Andrew Davidson",
@@ -440,12 +440,12 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://flickr.com/services/twitter/\" rel=\"nofollow\">Flickr</a>",
+  "source" : "\u003Ca href=\"http:\/\/flickr.com\/services\/twitter\/\" rel=\"nofollow\"\u003EFlickr\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -454,7 +454,7 @@ Grailbird.data.tweets_2010_04 =
   },
   "geo" : { },
   "id_str" : "11907536222",
-  "text" : "Handstand at Machu Picchu http://flic.kr/p/7SeJG7",
+  "text" : "Handstand at Machu Picchu http:\/\/flic.kr\/p\/7SeJG7",
   "id" : 11907536222,
   "created_at" : "2010-04-09 00:00:00 +0000",
   "user" : {
@@ -462,7 +462,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }

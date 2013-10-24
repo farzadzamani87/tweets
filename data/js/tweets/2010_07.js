@@ -1,6 +1,6 @@
 Grailbird.data.tweets_2010_07 = 
  [ {
-  "source" : "<a href=\"http://mobile.twitter.com\" rel=\"nofollow\">Twitter for Android</a>",
+  "source" : "\u003Ca href=\"http:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "CurryUpNow",
@@ -26,12 +26,12 @@ Grailbird.data.tweets_2010_07 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Michael Lake",
@@ -59,12 +59,12 @@ Grailbird.data.tweets_2010_07 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "CNN Entertainment",
@@ -79,7 +79,7 @@ Grailbird.data.tweets_2010_07 =
   },
   "geo" : { },
   "id_str" : "19586911283",
-  "text" : "RT @CNNshowbiz: Wyclef Jean considering running for president of Haiti http://on.cnn.com/aw8o42",
+  "text" : "RT @CNNshowbiz: Wyclef Jean considering running for president of Haiti http:\/\/on.cnn.com\/aw8o42",
   "retweeted_status" : {
     "source" : "web",
     "entities" : {
@@ -90,7 +90,7 @@ Grailbird.data.tweets_2010_07 =
     },
     "geo" : { },
     "id_str" : "19586564396",
-    "text" : "Wyclef Jean considering running for president of Haiti http://on.cnn.com/aw8o42",
+    "text" : "Wyclef Jean considering running for president of Haiti http:\/\/on.cnn.com\/aw8o42",
     "id" : 19586564396,
     "created_at" : "2010-07-26 16:38:46 +0000",
     "user" : {
@@ -98,7 +98,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "CNNshowbiz",
       "protected" : false,
       "id_str" : "110458336",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/670522529/cnnshowbiz_logo_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/670522529\/cnnshowbiz_logo_normal.jpg",
       "id" : 110458336,
       "verified" : false
     }
@@ -110,12 +110,12 @@ Grailbird.data.tweets_2010_07 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "K-Boooorn",
@@ -143,7 +143,7 @@ Grailbird.data.tweets_2010_07 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
@@ -169,7 +169,7 @@ Grailbird.data.tweets_2010_07 =
   },
   "geo" : { },
   "id_str" : "19298597949",
-  "text" : "RT @sportsguy33: Kahhhhhhhhhhhhn!!!!!!!!!!! http://tinyurl.com/275jkch RT @JDLang31 Your favorite GM called C-Webb a schmuck and used th ...",
+  "text" : "RT @sportsguy33: Kahhhhhhhhhhhhn!!!!!!!!!!! http:\/\/tinyurl.com\/275jkch RT @JDLang31 Your favorite GM called C-Webb a schmuck and used th ...",
   "retweeted_status" : {
     "source" : "web",
     "entities" : {
@@ -186,7 +186,7 @@ Grailbird.data.tweets_2010_07 =
     },
     "geo" : { },
     "id_str" : "19298525279",
-    "text" : "Kahhhhhhhhhhhhn!!!!!!!!!!! http://tinyurl.com/275jkch RT @JDLang31 Your favorite GM called C-Webb a schmuck and used the phrase \"methinks.\"",
+    "text" : "Kahhhhhhhhhhhhn!!!!!!!!!!! http:\/\/tinyurl.com\/275jkch RT @JDLang31 Your favorite GM called C-Webb a schmuck and used the phrase \"methinks.\"",
     "id" : 19298525279,
     "created_at" : "2010-07-23 01:07:27 +0000",
     "user" : {
@@ -194,7 +194,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "BillSimmons",
       "protected" : false,
       "id_str" : "32765534",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2416051975/a8riusej2c5rcf8rrfj9_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2416051975\/a8riusej2c5rcf8rrfj9_normal.jpeg",
       "id" : 32765534,
       "verified" : true
     }
@@ -206,12 +206,12 @@ Grailbird.data.tweets_2010_07 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Andrew Davidson",
@@ -239,7 +239,7 @@ Grailbird.data.tweets_2010_07 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
@@ -261,12 +261,12 @@ Grailbird.data.tweets_2010_07 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "blythe",
@@ -294,12 +294,12 @@ Grailbird.data.tweets_2010_07 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Kazu",
@@ -327,12 +327,12 @@ Grailbird.data.tweets_2010_07 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -341,7 +341,7 @@ Grailbird.data.tweets_2010_07 =
   },
   "geo" : { },
   "id_str" : "18126311665",
-  "text" : "Who writes a \"scathing letter\" in comic sans? http://bit.ly/9SyBki",
+  "text" : "Who writes a \"scathing letter\" in comic sans? http:\/\/bit.ly\/9SyBki",
   "id" : 18126311665,
   "created_at" : "2010-07-09 00:00:00 +0000",
   "user" : {
@@ -349,15 +349,15 @@ Grailbird.data.tweets_2010_07 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tom Ziller",
+      "name" : "Tomb Ziller",
       "screen_name" : "teamziller",
       "indices" : [ 3, 14 ],
       "id_str" : "21865953",
@@ -384,11 +384,11 @@ Grailbird.data.tweets_2010_07 =
     "id" : 17991771870,
     "created_at" : "2010-07-08 00:04:22 +0000",
     "user" : {
-      "name" : "Tom Ziller",
+      "name" : "Tomb Ziller",
       "screen_name" : "teamziller",
       "protected" : false,
       "id_str" : "21865953",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2431601207/2m7i1wdtvliax0pxcjed_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2431601207\/2m7i1wdtvliax0pxcjed_normal.jpeg",
       "id" : 21865953,
       "verified" : false
     }
@@ -400,12 +400,12 @@ Grailbird.data.tweets_2010_07 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Andrew Davidson",
@@ -439,12 +439,12 @@ Grailbird.data.tweets_2010_07 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://foursquare.com\" rel=\"nofollow\">foursquare</a>",
+  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003Efoursquare\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -453,7 +453,7 @@ Grailbird.data.tweets_2010_07 =
   },
   "geo" : { },
   "id_str" : "17685209902",
-  "text" : "Bend, OR (@ Bend Brewing Company) http://4sq.com/8x4UVO",
+  "text" : "Bend, OR (@ Bend Brewing Company) http:\/\/4sq.com\/8x4UVO",
   "id" : 17685209902,
   "created_at" : "2010-07-04 00:00:00 +0000",
   "user" : {
@@ -461,12 +461,12 @@ Grailbird.data.tweets_2010_07 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -483,7 +483,7 @@ Grailbird.data.tweets_2010_07 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }

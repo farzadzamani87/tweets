@@ -1,6 +1,6 @@
 Grailbird.data.tweets_2010_11 = 
  [ {
-  "source" : "<a href=\"http://flickr.com/services/twitter/\" rel=\"nofollow\">Flickr</a>",
+  "source" : "\u003Ca href=\"http:\/\/flickr.com\/services\/twitter\/\" rel=\"nofollow\"\u003EFlickr\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -12,7 +12,7 @@ Grailbird.data.tweets_2010_11 =
     "coordinates" : [ 37.335497, -118.54248 ]
   },
   "id_str" : "9874338970865664",
-  "text" : "Took my first star trails photo and removed some images from it. 30s exposures, 5 minutes between shots. http://flic.kr/p/8Xypjj",
+  "text" : "Took my first star trails photo and removed some images from it. 30s exposures, 5 minutes between shots. http:\/\/flic.kr\/p\/8Xypjj",
   "id" : 9874338970865664,
   "created_at" : "2010-12-01 07:40:00 +0000",
   "user" : {
@@ -20,12 +20,12 @@ Grailbird.data.tweets_2010_11 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://flickr.com/services/twitter/\" rel=\"nofollow\">Flickr</a>",
+  "source" : "\u003Ca href=\"http:\/\/flickr.com\/services\/twitter\/\" rel=\"nofollow\"\u003EFlickr\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -37,7 +37,7 @@ Grailbird.data.tweets_2010_11 =
     "coordinates" : [ 37.335429, -118.542416 ]
   },
   "id_str" : "9799987613405184",
-  "text" : "My first attempt at a composite of pictures to create a monster star trail http://flic.kr/p/8Xrxcd",
+  "text" : "My first attempt at a composite of pictures to create a monster star trail http:\/\/flic.kr\/p\/8Xrxcd",
   "id" : 9799987613405184,
   "created_at" : "2010-12-01 02:44:33 +0000",
   "user" : {
@@ -45,7 +45,7 @@ Grailbird.data.tweets_2010_11 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
@@ -78,12 +78,12 @@ Grailbird.data.tweets_2010_11 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Dean Eckles",
@@ -109,12 +109,12 @@ Grailbird.data.tweets_2010_11 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "K-Boooorn",
@@ -142,12 +142,12 @@ Grailbird.data.tweets_2010_11 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Rohit Nafday",
@@ -175,12 +175,12 @@ Grailbird.data.tweets_2010_11 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Rohit Nafday",
@@ -208,7 +208,7 @@ Grailbird.data.tweets_2010_11 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
@@ -241,12 +241,12 @@ Grailbird.data.tweets_2010_11 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.chrisstreeter.com\" rel=\"nofollow\">chrisstreeter.com</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.chrisstreeter.com\" rel=\"nofollow\"\u003Echrisstreeter.com\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -255,7 +255,7 @@ Grailbird.data.tweets_2010_11 =
   },
   "geo" : { },
   "id_str" : "7837684642881536",
-  "text" : "New blog post: Facebook Exporter for Aperture http://bit.ly/eRet1G",
+  "text" : "New blog post: Facebook Exporter for Aperture http:\/\/bit.ly\/eRet1G",
   "id" : 7837684642881536,
   "created_at" : "2010-11-25 16:47:04 +0000",
   "user" : {
@@ -263,7 +263,7 @@ Grailbird.data.tweets_2010_11 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
@@ -296,7 +296,7 @@ Grailbird.data.tweets_2010_11 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
@@ -318,12 +318,12 @@ Grailbird.data.tweets_2010_11 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://flickr.com/services/twitter/\" rel=\"nofollow\">Flickr</a>",
+  "source" : "\u003Ca href=\"http:\/\/flickr.com\/services\/twitter\/\" rel=\"nofollow\"\u003EFlickr\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -335,7 +335,7 @@ Grailbird.data.tweets_2010_11 =
     "coordinates" : [ 37.429112, -121.979141 ]
   },
   "id_str" : "6962124647571456",
-  "text" : "Circling to Land http://flic.kr/p/8VwQ46",
+  "text" : "Circling to Land http:\/\/flic.kr\/p\/8VwQ46",
   "id" : 6962124647571456,
   "created_at" : "2010-11-23 06:47:54 +0000",
   "user" : {
@@ -343,7 +343,7 @@ Grailbird.data.tweets_2010_11 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
@@ -365,7 +365,7 @@ Grailbird.data.tweets_2010_11 =
   "geo" : { },
   "id_str" : "6936352591446016",
   "in_reply_to_user_id" : 756404,
-  "text" : "@SashaL Very Hungry Caterpillar (http://amzn.to/dSi24u) or Everybody Poops (http://amzn.to/fYXcMT)",
+  "text" : "@SashaL Very Hungry Caterpillar (http:\/\/amzn.to\/dSi24u) or Everybody Poops (http:\/\/amzn.to\/fYXcMT)",
   "id" : 6936352591446016,
   "in_reply_to_status_id" : 6934876330663936,
   "created_at" : "2010-11-23 05:05:29 +0000",
@@ -376,12 +376,12 @@ Grailbird.data.tweets_2010_11 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Twitter",
@@ -400,14 +400,14 @@ Grailbird.data.tweets_2010_11 =
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 89, 108 ],
-      "url" : "http://t.co/hwAWYF3",
-      "expanded_url" : "http://bit.ly/bLx3vN",
-      "display_url" : "bit.ly/bLx3vN"
+      "url" : "http:\/\/t.co\/hwAWYF3",
+      "expanded_url" : "http:\/\/bit.ly\/bLx3vN",
+      "display_url" : "bit.ly\/bLx3vN"
     } ]
   },
   "geo" : { },
   "id_str" : "6828636720078849",
-  "text" : "RT @twitter: \"To succeed spectacularly you have to be ready to fail spectacularly\" \u2013@biz http://t.co/hwAWYF3",
+  "text" : "RT @twitter: \"To succeed spectacularly you have to be ready to fail spectacularly\" \u2013@biz http:\/\/t.co\/hwAWYF3",
   "retweeted_status" : {
     "source" : "web",
     "entities" : {
@@ -422,14 +422,14 @@ Grailbird.data.tweets_2010_11 =
       "hashtags" : [ ],
       "urls" : [ {
         "indices" : [ 76, 95 ],
-        "url" : "http://t.co/hwAWYF3",
-        "expanded_url" : "http://bit.ly/bLx3vN",
-        "display_url" : "bit.ly/bLx3vN"
+        "url" : "http:\/\/t.co\/hwAWYF3",
+        "expanded_url" : "http:\/\/bit.ly\/bLx3vN",
+        "display_url" : "bit.ly\/bLx3vN"
       } ]
     },
     "geo" : { },
     "id_str" : "6811604783996929",
-    "text" : "\"To succeed spectacularly you have to be ready to fail spectacularly\" \u2013@biz http://t.co/hwAWYF3",
+    "text" : "\"To succeed spectacularly you have to be ready to fail spectacularly\" \u2013@biz http:\/\/t.co\/hwAWYF3",
     "id" : 6811604783996929,
     "created_at" : "2010-11-22 20:49:47 +0000",
     "user" : {
@@ -437,7 +437,7 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "twitter",
       "protected" : false,
       "id_str" : "783214",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2284174758/v65oai7fxn47qv9nectx_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2284174758\/v65oai7fxn47qv9nectx_normal.png",
       "id" : 783214,
       "verified" : true
     }
@@ -449,12 +449,12 @@ Grailbird.data.tweets_2010_11 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.chrisstreeter.com\" rel=\"nofollow\">chrisstreeter.com</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.chrisstreeter.com\" rel=\"nofollow\"\u003Echrisstreeter.com\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -463,7 +463,7 @@ Grailbird.data.tweets_2010_11 =
   },
   "geo" : { },
   "id_str" : "5172910121558016",
-  "text" : "New blog post: Wide Angle Lenses for Nikon Bodies http://bit.ly/dfImdi",
+  "text" : "New blog post: Wide Angle Lenses for Nikon Bodies http:\/\/bit.ly\/dfImdi",
   "id" : 5172910121558016,
   "created_at" : "2010-11-18 08:18:12 +0000",
   "user" : {
@@ -471,12 +471,12 @@ Grailbird.data.tweets_2010_11 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.chrisstreeter.com\" rel=\"nofollow\">chrisstreeter.com</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.chrisstreeter.com\" rel=\"nofollow\"\u003Echrisstreeter.com\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -485,7 +485,7 @@ Grailbird.data.tweets_2010_11 =
   },
   "geo" : { },
   "id_str" : "4791076078493696",
-  "text" : "New blog post: Big Sur http://bit.ly/c7s2XI",
+  "text" : "New blog post: Big Sur http:\/\/bit.ly\/c7s2XI",
   "id" : 4791076078493696,
   "created_at" : "2010-11-17 07:00:56 +0000",
   "user" : {
@@ -493,7 +493,7 @@ Grailbird.data.tweets_2010_11 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
@@ -524,12 +524,12 @@ Grailbird.data.tweets_2010_11 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.chrisstreeter.com\" rel=\"nofollow\">chrisstreeter.com</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.chrisstreeter.com\" rel=\"nofollow\"\u003Echrisstreeter.com\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -538,7 +538,7 @@ Grailbird.data.tweets_2010_11 =
   },
   "geo" : { },
   "id_str" : "4424417778077696",
-  "text" : "New blog post: Last Night Game at the Old Memorial Stadium http://bit.ly/bVrxqK",
+  "text" : "New blog post: Last Night Game at the Old Memorial Stadium http:\/\/bit.ly\/bVrxqK",
   "id" : 4424417778077696,
   "created_at" : "2010-11-16 06:43:58 +0000",
   "user" : {
@@ -546,7 +546,7 @@ Grailbird.data.tweets_2010_11 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
@@ -585,7 +585,7 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "ConanOBrien",
       "protected" : false,
       "id_str" : "115485051",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/728337241/conan_4cred_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/728337241\/conan_4cred_normal.jpg",
       "id" : 115485051,
       "verified" : true
     }
@@ -597,7 +597,7 @@ Grailbird.data.tweets_2010_11 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
@@ -619,7 +619,7 @@ Grailbird.data.tweets_2010_11 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
@@ -641,7 +641,7 @@ Grailbird.data.tweets_2010_11 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
@@ -663,7 +663,7 @@ Grailbird.data.tweets_2010_11 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
@@ -677,7 +677,7 @@ Grailbird.data.tweets_2010_11 =
   },
   "geo" : { },
   "id_str" : "29447143324",
-  "text" : "Live SF police scanner: http://bit.ly/b30kHv",
+  "text" : "Live SF police scanner: http:\/\/bit.ly\/b30kHv",
   "id" : 29447143324,
   "created_at" : "2010-11-02 00:00:00 +0000",
   "user" : {
@@ -685,7 +685,7 @@ Grailbird.data.tweets_2010_11 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
@@ -730,7 +730,7 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "darian314",
       "protected" : false,
       "id_str" : "12776692",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000568405708/9eb01c007003c886e2ab95e30f61aff7_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000625943131\/abf3381ef51cce17577881f0667aa5fc_normal.jpeg",
       "id" : 12776692,
       "verified" : false
     }
@@ -742,7 +742,7 @@ Grailbird.data.tweets_2010_11 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
@@ -764,7 +764,7 @@ Grailbird.data.tweets_2010_11 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }

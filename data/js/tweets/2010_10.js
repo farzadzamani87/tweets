@@ -28,12 +28,12 @@ Grailbird.data.tweets_2010_10 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.chrisstreeter.com\" rel=\"nofollow\">chrisstreeter.com</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.chrisstreeter.com\" rel=\"nofollow\"\u003Echrisstreeter.com\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -42,7 +42,7 @@ Grailbird.data.tweets_2010_10 =
   },
   "geo" : { },
   "id_str" : "29209354018",
-  "text" : "New blog post: Death Valley Roadtrip http://bit.ly/cuYqoj",
+  "text" : "New blog post: Death Valley Roadtrip http:\/\/bit.ly\/cuYqoj",
   "id" : 29209354018,
   "created_at" : "2010-10-30 00:00:00 +0000",
   "user" : {
@@ -50,15 +50,15 @@ Grailbird.data.tweets_2010_10 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tom Ziller",
+      "name" : "Tomb Ziller",
       "screen_name" : "teamziller",
       "indices" : [ 3, 14 ],
       "id_str" : "21865953",
@@ -75,7 +75,7 @@ Grailbird.data.tweets_2010_10 =
   "id_str" : "28961585629",
   "text" : "RT @teamziller: The last time the #NBAKings won their season opener? LeBron's NBA debut in 2003.",
   "retweeted_status" : {
-    "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -91,11 +91,11 @@ Grailbird.data.tweets_2010_10 =
     "id" : 28956424169,
     "created_at" : "2010-10-28 03:57:20 +0000",
     "user" : {
-      "name" : "Tom Ziller",
+      "name" : "Tomb Ziller",
       "screen_name" : "teamziller",
       "protected" : false,
       "id_str" : "21865953",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2431601207/2m7i1wdtvliax0pxcjed_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2431601207\/2m7i1wdtvliax0pxcjed_normal.jpeg",
       "id" : 21865953,
       "verified" : false
     }
@@ -107,12 +107,12 @@ Grailbird.data.tweets_2010_10 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.chrisstreeter.com\" rel=\"nofollow\">chrisstreeter.com</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.chrisstreeter.com\" rel=\"nofollow\"\u003Echrisstreeter.com\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -121,7 +121,7 @@ Grailbird.data.tweets_2010_10 =
   },
   "geo" : { },
   "id_str" : "28875267449",
-  "text" : "New blog post: Yosemite Fall 2010 http://bit.ly/8YbUlV",
+  "text" : "New blog post: Yosemite Fall 2010 http:\/\/bit.ly\/8YbUlV",
   "id" : 28875267449,
   "created_at" : "2010-10-27 00:00:00 +0000",
   "user" : {
@@ -129,12 +129,12 @@ Grailbird.data.tweets_2010_10 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -151,12 +151,12 @@ Grailbird.data.tweets_2010_10 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -168,7 +168,7 @@ Grailbird.data.tweets_2010_10 =
     "coordinates" : [ 37.778515, -122.39005 ]
   },
   "id_str" : "27867575965",
-  "text" : "NLCS Game 3 - http://yfrog.com/jcmjozj",
+  "text" : "NLCS Game 3 - http:\/\/yfrog.com\/jcmjozj",
   "id" : 27867575965,
   "created_at" : "2010-10-19 00:00:00 +0000",
   "user" : {
@@ -176,7 +176,7 @@ Grailbird.data.tweets_2010_10 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
@@ -209,7 +209,7 @@ Grailbird.data.tweets_2010_10 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
@@ -231,7 +231,7 @@ Grailbird.data.tweets_2010_10 =
   "id_str" : "27767607087",
   "text" : "RT @jefflab: Zoodles is looking for an Android developer to work on some seriously cool features.  Forward this to your android develope ...",
   "retweeted_status" : {
-    "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -248,7 +248,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "jefflab",
       "protected" : false,
       "id_str" : "14124477",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1782834405/fb_photo_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1782834405\/fb_photo_normal.jpg",
       "id" : 14124477,
       "verified" : false
     }
@@ -260,7 +260,7 @@ Grailbird.data.tweets_2010_10 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
@@ -293,12 +293,12 @@ Grailbird.data.tweets_2010_10 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://flickr.com/services/twitter/\" rel=\"nofollow\">Flickr</a>",
+  "source" : "\u003Ca href=\"http:\/\/flickr.com\/services\/twitter\/\" rel=\"nofollow\"\u003EFlickr\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -313,7 +313,7 @@ Grailbird.data.tweets_2010_10 =
     "coordinates" : [ -8.748214, 115.164877 ]
   },
   "id_str" : "27643534302",
-  "text" : "Thai Airlines thinks #Twilight is a classic movie - http://flic.kr/p/8KGEV2",
+  "text" : "Thai Airlines thinks #Twilight is a classic movie - http:\/\/flic.kr\/p\/8KGEV2",
   "id" : 27643534302,
   "created_at" : "2010-10-17 00:00:00 +0000",
   "user" : {
@@ -321,12 +321,12 @@ Grailbird.data.tweets_2010_10 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.chrisstreeter.com\" rel=\"nofollow\">chrisstreeter.com</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.chrisstreeter.com\" rel=\"nofollow\"\u003Echrisstreeter.com\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -335,7 +335,7 @@ Grailbird.data.tweets_2010_10 =
   },
   "geo" : { },
   "id_str" : "27194531373",
-  "text" : "New blog post: Balinese Cremation http://bit.ly/brGwgu",
+  "text" : "New blog post: Balinese Cremation http:\/\/bit.ly\/brGwgu",
   "id" : 27194531373,
   "created_at" : "2010-10-13 00:00:00 +0000",
   "user" : {
@@ -343,7 +343,7 @@ Grailbird.data.tweets_2010_10 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
@@ -357,7 +357,7 @@ Grailbird.data.tweets_2010_10 =
   },
   "geo" : { },
   "id_str" : "26997290614",
-  "text" : "Settling In In Ubud - http://www.chrisstreeter.com/archive/2010/10/603/settling-in-in-ubud",
+  "text" : "Settling In In Ubud - http:\/\/www.chrisstreeter.com\/archive\/2010\/10\/603\/settling-in-in-ubud",
   "id" : 26997290614,
   "created_at" : "2010-10-11 00:00:00 +0000",
   "user" : {
@@ -365,7 +365,7 @@ Grailbird.data.tweets_2010_10 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
@@ -387,7 +387,7 @@ Grailbird.data.tweets_2010_10 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
@@ -401,7 +401,7 @@ Grailbird.data.tweets_2010_10 =
   },
   "geo" : { },
   "id_str" : "26545667677",
-  "text" : "Exploring Bali By Motorcycle - http://www.chrisstreeter.com/archive/2010/10/577/exploring-bali-by-motorbike",
+  "text" : "Exploring Bali By Motorcycle - http:\/\/www.chrisstreeter.com\/archive\/2010\/10\/577\/exploring-bali-by-motorbike",
   "id" : 26545667677,
   "created_at" : "2010-10-06 00:00:00 +0000",
   "user" : {
@@ -409,7 +409,7 @@ Grailbird.data.tweets_2010_10 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
@@ -423,7 +423,7 @@ Grailbird.data.tweets_2010_10 =
   },
   "geo" : { },
   "id_str" : "26545693447",
-  "text" : "Lovina and Pulau Menjangan - http://www.chrisstreeter.com/archive/2010/10/586/lovina-and-pulau-menjangan",
+  "text" : "Lovina and Pulau Menjangan - http:\/\/www.chrisstreeter.com\/archive\/2010\/10\/586\/lovina-and-pulau-menjangan",
   "id" : 26545693447,
   "created_at" : "2010-10-06 00:00:00 +0000",
   "user" : {
@@ -431,7 +431,7 @@ Grailbird.data.tweets_2010_10 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
@@ -445,7 +445,7 @@ Grailbird.data.tweets_2010_10 =
   },
   "geo" : { },
   "id_str" : "26545709232",
-  "text" : "Tulamben - http://www.chrisstreeter.com/archive/2010/10/596/tulamben",
+  "text" : "Tulamben - http:\/\/www.chrisstreeter.com\/archive\/2010\/10\/596\/tulamben",
   "id" : 26545709232,
   "created_at" : "2010-10-06 00:00:00 +0000",
   "user" : {
@@ -453,7 +453,7 @@ Grailbird.data.tweets_2010_10 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }

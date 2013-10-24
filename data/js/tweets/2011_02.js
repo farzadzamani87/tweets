@@ -1,6 +1,6 @@
 Grailbird.data.tweets_2011_02 = 
  [ {
-  "source" : "<a href=\"http://flickr.com/services/twitter/\" rel=\"nofollow\">Flickr</a>",
+  "source" : "\u003Ca href=\"http:\/\/flickr.com\/services\/twitter\/\" rel=\"nofollow\"\u003EFlickr\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -12,7 +12,7 @@ Grailbird.data.tweets_2011_02 =
     "coordinates" : [ 38.648966, -121.517912 ]
   },
   "id_str" : "42434818134388736",
-  "text" : "Kings vs Blakers http://flic.kr/p/9mUjFk",
+  "text" : "Kings vs Blakers http:\/\/flic.kr\/p\/9mUjFk",
   "id" : 42434818134388736,
   "created_at" : "2011-03-01 04:03:43 +0000",
   "user" : {
@@ -20,12 +20,12 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://flickr.com/services/twitter/\" rel=\"nofollow\">Flickr</a>",
+  "source" : "\u003Ca href=\"http:\/\/flickr.com\/services\/twitter\/\" rel=\"nofollow\"\u003EFlickr\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -37,7 +37,7 @@ Grailbird.data.tweets_2011_02 =
     "coordinates" : [ 39.161316, -120.218612 ]
   },
   "id_str" : "41655477507067904",
-  "text" : "Best Day of 2011 http://flic.kr/p/9mi6sb",
+  "text" : "Best Day of 2011 http:\/\/flic.kr\/p\/9mi6sb",
   "id" : 41655477507067904,
   "created_at" : "2011-02-27 00:26:54 +0000",
   "user" : {
@@ -45,12 +45,12 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Alpine Meadows",
@@ -73,26 +73,26 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 57, 76 ],
-      "url" : "http://t.co/HnRuko7",
-      "expanded_url" : "http://www.hulu.com/watch/219097/the-colbert-report-corporate-hacker-tries-to-take-down-wikileaks",
-      "display_url" : "hulu.com/watch/219097/t\u2026"
+      "url" : "http:\/\/t.co\/HnRuko7",
+      "expanded_url" : "http:\/\/www.hulu.com\/watch\/219097\/the-colbert-report-corporate-hacker-tries-to-take-down-wikileaks",
+      "display_url" : "hulu.com\/watch\/219097\/t\u2026"
     } ]
   },
   "geo" : { },
   "id_str" : "41272692460097536",
-  "text" : "Colbert's quick take on the HBGary / Anonymous scandal - http://t.co/HnRuko7",
+  "text" : "Colbert's quick take on the HBGary \/ Anonymous scandal - http:\/\/t.co\/HnRuko7",
   "id" : 41272692460097536,
   "created_at" : "2011-02-25 23:05:51 +0000",
   "user" : {
@@ -100,12 +100,12 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://flickr.com/services/twitter/\" rel=\"nofollow\">Flickr</a>",
+  "source" : "\u003Ca href=\"http:\/\/flickr.com\/services\/twitter\/\" rel=\"nofollow\"\u003EFlickr\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -117,7 +117,7 @@ Grailbird.data.tweets_2011_02 =
     "coordinates" : [ 39.35075, -120.206178 ]
   },
   "id_str" : "41190996981194752",
-  "text" : "Snow!  http://flic.kr/p/9kVS6V",
+  "text" : "Snow!  http:\/\/flic.kr\/p\/9kVS6V",
   "id" : 41190996981194752,
   "created_at" : "2011-02-25 17:41:13 +0000",
   "user" : {
@@ -125,12 +125,12 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://flickr.com/services/twitter/\" rel=\"nofollow\">Flickr</a>",
+  "source" : "\u003Ca href=\"http:\/\/flickr.com\/services\/twitter\/\" rel=\"nofollow\"\u003EFlickr\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -142,7 +142,7 @@ Grailbird.data.tweets_2011_02 =
     "coordinates" : [ 39.35075, -120.206178 ]
   },
   "id_str" : "41190739073437696",
-  "text" : "2+ Feet Overnight http://flic.kr/p/9kVRuv",
+  "text" : "2+ Feet Overnight http:\/\/flic.kr\/p\/9kVRuv",
   "id" : 41190739073437696,
   "created_at" : "2011-02-25 17:40:12 +0000",
   "user" : {
@@ -150,12 +150,12 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Alpine Meadows",
@@ -178,12 +178,12 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "K-Boooorn",
@@ -211,12 +211,12 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://flickr.com/services/twitter/\" rel=\"nofollow\">Flickr</a>",
+  "source" : "\u003Ca href=\"http:\/\/flickr.com\/services\/twitter\/\" rel=\"nofollow\"\u003EFlickr\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -225,7 +225,7 @@ Grailbird.data.tweets_2011_02 =
   },
   "geo" : { },
   "id_str" : "40882723518291968",
-  "text" : "Snow and Wind http://flic.kr/p/9kJVAz",
+  "text" : "Snow and Wind http:\/\/flic.kr\/p\/9kJVAz",
   "id" : 40882723518291968,
   "created_at" : "2011-02-24 21:16:15 +0000",
   "user" : {
@@ -233,12 +233,12 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "unofficialsquaw",
@@ -251,15 +251,15 @@ Grailbird.data.tweets_2011_02 =
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 82, 101 ],
-      "url" : "http://t.co/cShLZYF",
-      "expanded_url" : "http://flic.kr/p/7UJm1c",
-      "display_url" : "flic.kr/p/7UJm1c"
+      "url" : "http:\/\/t.co\/cShLZYF",
+      "expanded_url" : "http:\/\/flic.kr\/p\/7UJm1c",
+      "display_url" : "flic.kr\/p\/7UJm1c"
     } ]
   },
   "geo" : { },
   "id_str" : "40552733719138304",
   "in_reply_to_user_id" : 1414901,
-  "text" : "@unofficialsquaw This is what happens if you leave your car for a winter in Tahoe http://t.co/cShLZYF",
+  "text" : "@unofficialsquaw This is what happens if you leave your car for a winter in Tahoe http:\/\/t.co\/cShLZYF",
   "id" : 40552733719138304,
   "created_at" : "2011-02-23 23:24:59 +0000",
   "in_reply_to_screen_name" : "unofficialsquaw",
@@ -269,12 +269,12 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "ben mathes",
@@ -287,16 +287,16 @@ Grailbird.data.tweets_2011_02 =
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 80, 99 ],
-      "url" : "http://t.co/cShLZYF",
-      "expanded_url" : "http://flic.kr/p/7UJm1c",
-      "display_url" : "flic.kr/p/7UJm1c"
+      "url" : "http:\/\/t.co\/cShLZYF",
+      "expanded_url" : "http:\/\/flic.kr\/p\/7UJm1c",
+      "display_url" : "flic.kr\/p\/7UJm1c"
     } ]
   },
   "in_reply_to_status_id_str" : "40551292409487361",
   "geo" : { },
   "id_str" : "40552432979156993",
   "in_reply_to_user_id" : 14207787,
-  "text" : ". @ben_mathes This is what happens if you leave your car for a winter in Tahoe. http://t.co/cShLZYF",
+  "text" : ". @ben_mathes This is what happens if you leave your car for a winter in Tahoe. http:\/\/t.co\/cShLZYF",
   "id" : 40552432979156993,
   "in_reply_to_status_id" : 40551292409487361,
   "created_at" : "2011-02-23 23:23:48 +0000",
@@ -307,7 +307,7 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
@@ -327,7 +327,7 @@ Grailbird.data.tweets_2011_02 =
   },
   "geo" : { },
   "id_str" : "39707500727115776",
-  "text" : "Some insight on the shape of passwords from the @RockYouInc password dataset http://elie.im/blog/security/some-insights-on-password-shapes/",
+  "text" : "Some insight on the shape of passwords from the @RockYouInc password dataset http:\/\/elie.im\/blog\/security\/some-insights-on-password-shapes\/",
   "id" : 39707500727115776,
   "created_at" : "2011-02-21 15:26:20 +0000",
   "user" : {
@@ -335,12 +335,12 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Kazu",
@@ -368,12 +368,12 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "graham melcher",
@@ -401,12 +401,12 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://flickr.com/services/twitter/\" rel=\"nofollow\">Flickr</a>",
+  "source" : "\u003Ca href=\"http:\/\/flickr.com\/services\/twitter\/\" rel=\"nofollow\"\u003EFlickr\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -418,7 +418,7 @@ Grailbird.data.tweets_2011_02 =
     "coordinates" : [ 39.327041, -120.2058 ]
   },
   "id_str" : "36187346969821184",
-  "text" : "Today's NYT: Or, Why Internet News Wins http://flic.kr/p/9htNzq",
+  "text" : "Today's NYT: Or, Why Internet News Wins http:\/\/flic.kr\/p\/9htNzq",
   "id" : 36187346969821184,
   "created_at" : "2011-02-11 22:18:30 +0000",
   "user" : {
@@ -426,26 +426,26 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 44, 63 ],
-      "url" : "http://t.co/jNMZhxB",
-      "expanded_url" : "http://currentconfig.com/2005/02/22/essential-life-lesson-1-over-is-right-under-is-wrong/",
-      "display_url" : "currentconfig.com/2005/02/22/ess\u2026"
+      "url" : "http:\/\/t.co\/jNMZhxB",
+      "expanded_url" : "http:\/\/currentconfig.com\/2005\/02\/22\/essential-life-lesson-1-over-is-right-under-is-wrong\/",
+      "display_url" : "currentconfig.com\/2005\/02\/22\/ess\u2026"
     } ]
   },
   "geo" : { },
   "id_str" : "35772508246519808",
-  "text" : "Toilet Paper: Over is Right, Under is Wrong http://t.co/jNMZhxB",
+  "text" : "Toilet Paper: Over is Right, Under is Wrong http:\/\/t.co\/jNMZhxB",
   "id" : 35772508246519808,
   "created_at" : "2011-02-10 18:50:05 +0000",
   "user" : {
@@ -453,12 +453,12 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://flickr.com/services/twitter/\" rel=\"nofollow\">Flickr</a>",
+  "source" : "\u003Ca href=\"http:\/\/flickr.com\/services\/twitter\/\" rel=\"nofollow\"\u003EFlickr\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -470,7 +470,7 @@ Grailbird.data.tweets_2011_02 =
     "coordinates" : [ 39.338383, -120.2815 ]
   },
   "id_str" : "35422043872694272",
-  "text" : "Snowshoeing  http://flic.kr/p/9gZq8m",
+  "text" : "Snowshoeing  http:\/\/flic.kr\/p\/9gZq8m",
   "id" : 35422043872694272,
   "created_at" : "2011-02-09 19:37:28 +0000",
   "user" : {
@@ -478,12 +478,12 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Alpine Meadows",
@@ -511,12 +511,12 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://flickr.com/services/twitter/\" rel=\"nofollow\">Flickr</a>",
+  "source" : "\u003Ca href=\"http:\/\/flickr.com\/services\/twitter\/\" rel=\"nofollow\"\u003EFlickr\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -528,7 +528,7 @@ Grailbird.data.tweets_2011_02 =
     "coordinates" : [ 39.154244, -120.2423 ]
   },
   "id_str" : "35058171898761216",
-  "text" : "Cold and Windy http://flic.kr/p/9gG4aR",
+  "text" : "Cold and Windy http:\/\/flic.kr\/p\/9gG4aR",
   "id" : 35058171898761216,
   "created_at" : "2011-02-08 19:31:34 +0000",
   "user" : {
@@ -536,12 +536,12 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -558,12 +558,12 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://flickr.com/services/twitter/\" rel=\"nofollow\">Flickr</a>",
+  "source" : "\u003Ca href=\"http:\/\/flickr.com\/services\/twitter\/\" rel=\"nofollow\"\u003EFlickr\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -575,7 +575,7 @@ Grailbird.data.tweets_2011_02 =
     "coordinates" : [ 39.149894, -120.247912 ]
   },
   "id_str" : "34669801049694208",
-  "text" : "Fresh Corduroy http://flic.kr/p/9gpdtk",
+  "text" : "Fresh Corduroy http:\/\/flic.kr\/p\/9gpdtk",
   "id" : 34669801049694208,
   "created_at" : "2011-02-07 17:48:19 +0000",
   "user" : {
@@ -583,12 +583,12 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Cal Bears",
@@ -623,7 +623,7 @@ Grailbird.data.tweets_2011_02 =
   "id_str" : "34476487650312193",
   "text" : "RT @CalAthletics: Congrats @AaronRodgers12 and @desbishop55 - Super Bowl Champions! Once a Bear, Always a Bear! #Cal #GoBears",
   "retweeted_status" : {
-    "source" : "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootSuite\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Aaron Rodgers",
@@ -658,7 +658,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "CalAthletics",
       "protected" : false,
       "id_str" : "50545304",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3504122733/b0adf62878fe465a7047377c5ca7b320_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3504122733\/b0adf62878fe465a7047377c5ca7b320_normal.jpeg",
       "id" : 50545304,
       "verified" : true
     }
@@ -670,12 +670,12 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Dean Eckles",
@@ -701,7 +701,7 @@ Grailbird.data.tweets_2011_02 =
     },
     "geo" : { },
     "id_str" : "33434581025685504",
-    "text" : "NPR: 25% of Twitter's [US] users are black. With N=105 and survey weighting error, I'd bet the 95% CI is around 14 - 37% http://n.pr/cliquey",
+    "text" : "NPR: 25% of Twitter's [US] users are black. With N=105 and survey weighting error, I'd bet the 95% CI is around 14 - 37% http:\/\/n.pr\/cliquey",
     "id" : 33434581025685504,
     "created_at" : "2011-02-04 07:59:59 +0000",
     "user" : {
@@ -709,7 +709,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "deaneckles",
       "protected" : false,
       "id_str" : "759249",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3724595323/0368609575fbee252712c8c28a0fa14c_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/3724595323\/0368609575fbee252712c8c28a0fa14c_normal.jpeg",
       "id" : 759249,
       "verified" : false
     }
@@ -721,12 +721,12 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Dean Eckles",
@@ -741,7 +741,7 @@ Grailbird.data.tweets_2011_02 =
   },
   "geo" : { },
   "id_str" : "33544166696820736",
-  "text" : "RT @deaneckles: NPR segment on \"friendly world syndrome\" in Facebook and (though the piece suggests otherwise) Twitter too http://n.pr/c ...",
+  "text" : "RT @deaneckles: NPR segment on \"friendly world syndrome\" in Facebook and (though the piece suggests otherwise) Twitter too http:\/\/n.pr\/c ...",
   "retweeted_status" : {
     "source" : "web",
     "entities" : {
@@ -752,7 +752,7 @@ Grailbird.data.tweets_2011_02 =
     },
     "geo" : { },
     "id_str" : "33430267079172098",
-    "text" : "NPR segment on \"friendly world syndrome\" in Facebook and (though the piece suggests otherwise) Twitter too http://n.pr/cliquey",
+    "text" : "NPR segment on \"friendly world syndrome\" in Facebook and (though the piece suggests otherwise) Twitter too http:\/\/n.pr\/cliquey",
     "id" : 33430267079172098,
     "created_at" : "2011-02-04 07:42:51 +0000",
     "user" : {
@@ -760,7 +760,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "deaneckles",
       "protected" : false,
       "id_str" : "759249",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3724595323/0368609575fbee252712c8c28a0fa14c_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/3724595323\/0368609575fbee252712c8c28a0fa14c_normal.jpeg",
       "id" : 759249,
       "verified" : false
     }
@@ -772,12 +772,12 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Andrew Davidson",
@@ -803,12 +803,12 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Lifehacker",
@@ -821,30 +821,30 @@ Grailbird.data.tweets_2011_02 =
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 90, 109 ],
-      "url" : "http://t.co/kST6AEs",
-      "expanded_url" : "http://lifehacker.com/5748939/readyforzero-is-a-simple-webapp-thatll-help-get-you-out-of-debt",
-      "display_url" : "lifehacker.com/5748939/readyf\u2026"
+      "url" : "http:\/\/t.co\/kST6AEs",
+      "expanded_url" : "http:\/\/lifehacker.com\/5748939\/readyforzero-is-a-simple-webapp-thatll-help-get-you-out-of-debt",
+      "display_url" : "lifehacker.com\/5748939\/readyf\u2026"
     } ]
   },
   "geo" : { },
   "id_str" : "33060557045108736",
-  "text" : "RT @Lifehacker: Got debt?  ReadyForZero is a neat webapp that can help you get out of it: http://t.co/kST6AEs",
+  "text" : "RT @Lifehacker: Got debt?  ReadyForZero is a neat webapp that can help you get out of it: http:\/\/t.co\/kST6AEs",
   "retweeted_status" : {
-    "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
       "hashtags" : [ ],
       "urls" : [ {
         "indices" : [ 74, 93 ],
-        "url" : "http://t.co/kST6AEs",
-        "expanded_url" : "http://lifehacker.com/5748939/readyforzero-is-a-simple-webapp-thatll-help-get-you-out-of-debt",
-        "display_url" : "lifehacker.com/5748939/readyf\u2026"
+        "url" : "http:\/\/t.co\/kST6AEs",
+        "expanded_url" : "http:\/\/lifehacker.com\/5748939\/readyforzero-is-a-simple-webapp-thatll-help-get-you-out-of-debt",
+        "display_url" : "lifehacker.com\/5748939\/readyf\u2026"
       } ]
     },
     "geo" : { },
     "id_str" : "32871692992774144",
-    "text" : "Got debt?  ReadyForZero is a neat webapp that can help you get out of it: http://t.co/kST6AEs",
+    "text" : "Got debt?  ReadyForZero is a neat webapp that can help you get out of it: http:\/\/t.co\/kST6AEs",
     "id" : 32871692992774144,
     "created_at" : "2011-02-02 18:43:16 +0000",
     "user" : {
@@ -852,7 +852,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "lifehacker",
       "protected" : false,
       "id_str" : "7144422",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1861146796/Twitter_-_Avatar_normal.png",
+      "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/1861146796\/Twitter_-_Avatar_normal.png",
       "id" : 7144422,
       "verified" : true
     }
@@ -864,26 +864,26 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 31, 50 ],
-      "url" : "http://t.co/I1bkBSK",
-      "expanded_url" : "http://www.youtube.com/watch?v=jQvBrEEYS20",
-      "display_url" : "youtube.com/watch?v=jQvBrE\u2026"
+      "url" : "http:\/\/t.co\/I1bkBSK",
+      "expanded_url" : "http:\/\/www.youtube.com\/watch?v=jQvBrEEYS20",
+      "display_url" : "youtube.com\/watch?v=jQvBrE\u2026"
     } ]
   },
   "geo" : { },
   "id_str" : "32564288447057920",
-  "text" : "The Mature Marshamallow Test - http://t.co/I1bkBSK",
+  "text" : "The Mature Marshamallow Test - http:\/\/t.co\/I1bkBSK",
   "id" : 32564288447057920,
   "created_at" : "2011-02-01 22:21:46 +0000",
   "user" : {
@@ -891,12 +891,12 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Andrew Davidson",
@@ -924,12 +924,12 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Andrew Davidson",
@@ -957,12 +957,12 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Kazu",
@@ -975,8 +975,8 @@ Grailbird.data.tweets_2011_02 =
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 12, 31 ],
-      "url" : "http://t.co/19FevrF",
-      "expanded_url" : "http://sfbeerweek.org/",
+      "url" : "http:\/\/t.co\/19FevrF",
+      "expanded_url" : "http:\/\/sfbeerweek.org\/",
       "display_url" : "sfbeerweek.org"
     } ]
   },
@@ -984,7 +984,7 @@ Grailbird.data.tweets_2011_02 =
   "geo" : { },
   "id_str" : "32504013589053441",
   "in_reply_to_user_id" : 49887122,
-  "text" : "@kazuomatsu http://t.co/19FevrF  I'm gone for the whole week of it, but you should definitely hit it up. And yes, we should",
+  "text" : "@kazuomatsu http:\/\/t.co\/19FevrF  I'm gone for the whole week of it, but you should definitely hit it up. And yes, we should",
   "id" : 32504013589053441,
   "in_reply_to_status_id" : 32494360612315136,
   "created_at" : "2011-02-01 18:22:15 +0000",
@@ -995,12 +995,12 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Andrew Davidson",
@@ -1028,12 +1028,12 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Kazu",
@@ -1061,7 +1061,7 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }

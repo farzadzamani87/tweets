@@ -1,8 +1,8 @@
 var user_details =  {
-  "expanded_url" : "http://chrisstreeter.com",
+  "expanded_url" : "http:\/\/chrisstreeter.com",
   "screen_name" : "chrisstreeter",
   "location" : "California",
-  "url" : "http://t.co/l9qt8FqxKY",
+  "url" : "http:\/\/t.co\/l9qt8FqxKY",
   "full_name" : "Chris Streeter",
   "bio" : "Programmer, hobbiest photographer, @Cal bear fan and world traveler. Co-founder of @educreations.",
   "id" : "15344895",

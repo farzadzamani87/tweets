@@ -1,6 +1,6 @@
 Grailbird.data.tweets_2010_08 = 
  [ {
-  "source" : "<a href=\"http://mobile.twitter.com\" rel=\"nofollow\">mobile web</a>",
+  "source" : "\u003Ca href=\"http:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003Emobile web\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "The Onion",
@@ -15,9 +15,9 @@ Grailbird.data.tweets_2010_08 =
   },
   "geo" : { },
   "id_str" : "22622955065",
-  "text" : "RT @TheOnion: New WNBA Promotion Lets First 100 Fans Leave Early http://onion.com/dbVsWj",
+  "text" : "RT @TheOnion: New WNBA Promotion Lets First 100 Fans Leave Early http:\/\/onion.com\/dbVsWj",
   "retweeted_status" : {
-    "source" : "<a href=\"http://dev.twitter.com/\" rel=\"nofollow\">API</a>",
+    "source" : "\u003Ca href=\"http:\/\/dev.twitter.com\/\" rel=\"nofollow\"\u003EAPI\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -26,7 +26,7 @@ Grailbird.data.tweets_2010_08 =
     },
     "geo" : { },
     "id_str" : "22620857556",
-    "text" : "New WNBA Promotion Lets First 100 Fans Leave Early http://onion.com/dbVsWj",
+    "text" : "New WNBA Promotion Lets First 100 Fans Leave Early http:\/\/onion.com\/dbVsWj",
     "id" : 22620857556,
     "created_at" : "2010-08-31 14:30:02 +0000",
     "user" : {
@@ -34,7 +34,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "TheOnion",
       "protected" : false,
       "id_str" : "14075928",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3654358881/476bd54bd9c2bc0f9a38b4e097ce6af5_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3654358881\/476bd54bd9c2bc0f9a38b4e097ce6af5_normal.jpeg",
       "id" : 14075928,
       "verified" : true
     }
@@ -46,12 +46,12 @@ Grailbird.data.tweets_2010_08 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Andrew Davidson",
@@ -79,7 +79,7 @@ Grailbird.data.tweets_2010_08 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
@@ -93,7 +93,7 @@ Grailbird.data.tweets_2010_08 =
   },
   "geo" : { },
   "id_str" : "21988685363",
-  "text" : "My gallery is open for business: http://gallery.chrisstreeter.com/",
+  "text" : "My gallery is open for business: http:\/\/gallery.chrisstreeter.com\/",
   "id" : 21988685363,
   "created_at" : "2010-08-24 00:00:00 +0000",
   "user" : {
@@ -101,12 +101,12 @@ Grailbird.data.tweets_2010_08 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://mobile.twitter.com\" rel=\"nofollow\">Twitter for Android</a>",
+  "source" : "\u003Ca href=\"http:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -123,7 +123,7 @@ Grailbird.data.tweets_2010_08 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
@@ -157,7 +157,7 @@ Grailbird.data.tweets_2010_08 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
@@ -188,12 +188,12 @@ Grailbird.data.tweets_2010_08 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -202,7 +202,7 @@ Grailbird.data.tweets_2010_08 =
   },
   "geo" : { },
   "id_str" : "20418949936",
-  "text" : "Sierra Roadtrip photos: http://bit.ly/9GXQ3t",
+  "text" : "Sierra Roadtrip photos: http:\/\/bit.ly\/9GXQ3t",
   "id" : 20418949936,
   "created_at" : "2010-08-05 00:00:00 +0000",
   "user" : {
@@ -210,7 +210,7 @@ Grailbird.data.tweets_2010_08 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
@@ -224,7 +224,7 @@ Grailbird.data.tweets_2010_08 =
   },
   "geo" : { },
   "id_str" : "20279890035",
-  "text" : "Photos from Boliva posted: http://www.flickr.com/photos/chrisstreeter/sets/72157624606274888/",
+  "text" : "Photos from Boliva posted: http:\/\/www.flickr.com\/photos\/chrisstreeter\/sets\/72157624606274888\/",
   "id" : 20279890035,
   "created_at" : "2010-08-04 00:00:00 +0000",
   "user" : {
@@ -232,7 +232,7 @@ Grailbird.data.tweets_2010_08 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }

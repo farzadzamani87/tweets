@@ -1,6 +1,6 @@
 Grailbird.data.tweets_2011_09 = 
  [ {
-  "source" : "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootSuite\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Flickr",
@@ -23,12 +23,12 @@ Grailbird.data.tweets_2011_09 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "A Googler",
@@ -57,12 +57,12 @@ Grailbird.data.tweets_2011_09 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Eduvant, Inc.",
@@ -114,7 +114,7 @@ Grailbird.data.tweets_2011_09 =
       "screen_name" : "Eduvant",
       "protected" : false,
       "id_str" : "362653962",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1514755288/eduvant_sq_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1514755288\/eduvant_sq_normal.jpg",
       "id" : 362653962,
       "verified" : false
     }
@@ -126,12 +126,12 @@ Grailbird.data.tweets_2011_09 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Brett Kopf",
@@ -172,7 +172,7 @@ Grailbird.data.tweets_2011_09 =
   "id_str" : "118769653332975617",
   "text" : "RT @brettkopf: So excited for @usamahc & @liamdon from @classdojo won the Innovation Challenge at #EducationNation! #proudofyou!",
   "retweeted_status" : {
-    "source" : "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootSuite\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Usamah Chaudhary",
@@ -213,7 +213,7 @@ Grailbird.data.tweets_2011_09 =
       "screen_name" : "brettkopf",
       "protected" : false,
       "id_str" : "15161274",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/125876793/Professional_normal.JPG",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/125876793\/Professional_normal.JPG",
       "id" : 15161274,
       "verified" : false
     }
@@ -225,12 +225,12 @@ Grailbird.data.tweets_2011_09 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "ClassDojo",
@@ -251,9 +251,9 @@ Grailbird.data.tweets_2011_09 =
   },
   "geo" : { },
   "id_str" : "118331276913680384",
-  "text" : "RT @ClassDojo: Morning all! Please vote @ClassDojo up in the NBC Innovation Challenge - hit the 'like' button, takes 1 sec! http://t.co/ ...",
+  "text" : "RT @ClassDojo: Morning all! Please vote @ClassDojo up in the NBC Innovation Challenge - hit the 'like' button, takes 1 sec! http:\/\/t.co\/ ...",
   "retweeted_status" : {
-    "source" : "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootSuite\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "ClassDojo",
@@ -266,14 +266,14 @@ Grailbird.data.tweets_2011_09 =
       "hashtags" : [ ],
       "urls" : [ {
         "indices" : [ 109, 129 ],
-        "url" : "http://t.co/TXMMthLH",
-        "expanded_url" : "http://bit.ly/pKPz7U",
-        "display_url" : "bit.ly/pKPz7U"
+        "url" : "http:\/\/t.co\/TXMMthLH",
+        "expanded_url" : "http:\/\/bit.ly\/pKPz7U",
+        "display_url" : "bit.ly\/pKPz7U"
       } ]
     },
     "geo" : { },
     "id_str" : "118292383426285569",
-    "text" : "Morning all! Please vote @ClassDojo up in the NBC Innovation Challenge - hit the 'like' button, takes 1 sec! http://t.co/TXMMthLH",
+    "text" : "Morning all! Please vote @ClassDojo up in the NBC Innovation Challenge - hit the 'like' button, takes 1 sec! http:\/\/t.co\/TXMMthLH",
     "id" : 118292383426285569,
     "created_at" : "2011-09-26 11:54:36 +0000",
     "user" : {
@@ -281,7 +281,7 @@ Grailbird.data.tweets_2011_09 =
       "screen_name" : "ClassDojo",
       "protected" : false,
       "id_str" : "315617667",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1935894954/Orig_Chrome_Store_Logo_normal.JPG",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1935894954\/Orig_Chrome_Store_Logo_normal.JPG",
       "id" : 315617667,
       "verified" : false
     }
@@ -293,12 +293,12 @@ Grailbird.data.tweets_2011_09 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Sam Amick",
@@ -315,7 +315,7 @@ Grailbird.data.tweets_2011_09 =
   "id_str" : "117260166453399552",
   "text" : "RT @sam_amick: The NBA has indefinitely postponed training camp and canceled preseason games from Oct. 9 to Oct. 15.",
   "retweeted_status" : {
-    "source" : "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+    "source" : "\u003Ca href=\"http:\/\/twitterrific.com\" rel=\"nofollow\"\u003ETwitterrific\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -332,7 +332,7 @@ Grailbird.data.tweets_2011_09 =
       "screen_name" : "sam_amick",
       "protected" : false,
       "id_str" : "19017659",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1232097271/Work_pic_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1232097271\/Work_pic_normal.jpg",
       "id" : 19017659,
       "verified" : true
     }
@@ -344,12 +344,12 @@ Grailbird.data.tweets_2011_09 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootSuite\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Henry Reich",
@@ -384,12 +384,12 @@ Grailbird.data.tweets_2011_09 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Henry Reich",
@@ -416,7 +416,7 @@ Grailbird.data.tweets_2011_09 =
   },
   "geo" : { },
   "id_str" : "116960427895832578",
-  "text" : "RT @minutephysics: @khanacademy brought education to the masses, @educreations lets the masses create their own khanacademy http://t.co/ ...",
+  "text" : "RT @minutephysics: @khanacademy brought education to the masses, @educreations lets the masses create their own khanacademy http:\/\/t.co\/ ...",
   "retweeted_status" : {
     "source" : "web",
     "entities" : {
@@ -437,15 +437,15 @@ Grailbird.data.tweets_2011_09 =
       "hashtags" : [ ],
       "urls" : [ {
         "indices" : [ 105, 125 ],
-        "url" : "http://t.co/mAuNKsTN",
-        "expanded_url" : "http://www.educreations.com/",
+        "url" : "http:\/\/t.co\/mAuNKsTN",
+        "expanded_url" : "http:\/\/www.educreations.com\/",
         "display_url" : "educreations.com"
       } ]
     },
     "geo" : { },
     "id_str" : "116938320205971457",
     "in_reply_to_user_id" : 16689804,
-    "text" : "@khanacademy brought education to the masses, @educreations lets the masses create their own khanacademy http://t.co/mAuNKsTN",
+    "text" : "@khanacademy brought education to the masses, @educreations lets the masses create their own khanacademy http:\/\/t.co\/mAuNKsTN",
     "id" : 116938320205971457,
     "created_at" : "2011-09-22 18:14:02 +0000",
     "in_reply_to_screen_name" : "khanacademy",
@@ -455,7 +455,7 @@ Grailbird.data.tweets_2011_09 =
       "screen_name" : "minutephysics",
       "protected" : false,
       "id_str" : "321029318",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1408136716/OMP_logo_brush_square2_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1408136716\/OMP_logo_brush_square2_normal.jpg",
       "id" : 321029318,
       "verified" : false
     }
@@ -467,12 +467,12 @@ Grailbird.data.tweets_2011_09 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootSuite\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "educreations",
@@ -485,14 +485,14 @@ Grailbird.data.tweets_2011_09 =
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 95, 115 ],
-      "url" : "http://t.co/eeTuRUJu",
-      "expanded_url" : "http://bit.ly/mQ2o8c",
-      "display_url" : "bit.ly/mQ2o8c"
+      "url" : "http:\/\/t.co\/eeTuRUJu",
+      "expanded_url" : "http:\/\/bit.ly\/mQ2o8c",
+      "display_url" : "bit.ly\/mQ2o8c"
     } ]
   },
   "geo" : { },
   "id_str" : "116605248130396161",
-  "text" : "RT @educreations: ImagineK12 hatches its first class of education tech startups | VentureBeat: http://t.co/eeTuRUJu",
+  "text" : "RT @educreations: ImagineK12 hatches its first class of education tech startups | VentureBeat: http:\/\/t.co\/eeTuRUJu",
   "id" : 116605248130396161,
   "created_at" : "2011-09-21 20:10:32 +0000",
   "user" : {
@@ -500,12 +500,12 @@ Grailbird.data.tweets_2011_09 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootSuite\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Christine Herron",
@@ -534,26 +534,26 @@ Grailbird.data.tweets_2011_09 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.chrisstreeter.com\" rel=\"nofollow\">chrisstreeter.com</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.chrisstreeter.com\" rel=\"nofollow\"\u003Echrisstreeter.com\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 48, 68 ],
-      "url" : "http://t.co/xXnI1cdF",
-      "expanded_url" : "http://www.chrisstreeter.com/archive/2011/09/821/homebrew-package-update-notifications-via-",
-      "display_url" : "chrisstreeter.com/archive/2011/0\u2026"
+      "url" : "http:\/\/t.co\/xXnI1cdF",
+      "expanded_url" : "http:\/\/www.chrisstreeter.com\/archive\/2011\/09\/821\/homebrew-package-update-notifications-via-",
+      "display_url" : "chrisstreeter.com\/archive\/2011\/0\u2026"
     } ]
   },
   "geo" : { },
   "id_str" : "116178218070982656",
-  "text" : "Homebrew Package Update Notifications via Growl http://t.co/xXnI1cdF",
+  "text" : "Homebrew Package Update Notifications via Growl http:\/\/t.co\/xXnI1cdF",
   "id" : 116178218070982656,
   "created_at" : "2011-09-20 15:53:40 +0000",
   "user" : {
@@ -561,12 +561,12 @@ Grailbird.data.tweets_2011_09 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Matt Bornski",
@@ -594,26 +594,26 @@ Grailbird.data.tweets_2011_09 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 48, 68 ],
-      "url" : "http://t.co/VXMOcInJ",
-      "expanded_url" : "http://blog.jarredsumner.com/2011/09/18/sell-to-teachers/",
-      "display_url" : "blog.jarredsumner.com/2011/09/18/sel\u2026"
+      "url" : "http:\/\/t.co\/VXMOcInJ",
+      "expanded_url" : "http:\/\/blog.jarredsumner.com\/2011\/09\/18\/sell-to-teachers\/",
+      "display_url" : "blog.jarredsumner.com\/2011\/09\/18\/sel\u2026"
     } ]
   },
   "geo" : { },
   "id_str" : "115822614374662144",
-  "text" : "Sell to Teachers by making something they want: http://t.co/VXMOcInJ",
+  "text" : "Sell to Teachers by making something they want: http:\/\/t.co\/VXMOcInJ",
   "id" : 115822614374662144,
   "created_at" : "2011-09-19 16:20:37 +0000",
   "user" : {
@@ -621,12 +621,12 @@ Grailbird.data.tweets_2011_09 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Hack Education",
@@ -639,30 +639,30 @@ Grailbird.data.tweets_2011_09 =
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 52, 72 ],
-      "url" : "http://t.co/T22QFlCq",
-      "expanded_url" : "http://dlvr.it/lxqtB",
-      "display_url" : "dlvr.it/lxqtB"
+      "url" : "http:\/\/t.co\/T22QFlCq",
+      "expanded_url" : "http:\/\/dlvr.it\/lxqtB",
+      "display_url" : "dlvr.it\/lxqtB"
     } ]
   },
   "geo" : { },
   "id_str" : "115419898624229376",
-  "text" : "RT @hackeducation: ClassConnect: Rethinking the LMS http://t.co/T22QFlCq",
+  "text" : "RT @hackeducation: ClassConnect: Rethinking the LMS http:\/\/t.co\/T22QFlCq",
   "retweeted_status" : {
-    "source" : "<a href=\"http://dlvr.it\" rel=\"nofollow\">dlvr.it</a>",
+    "source" : "\u003Ca href=\"http:\/\/dlvr.it\" rel=\"nofollow\"\u003Edlvr.it\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
       "hashtags" : [ ],
       "urls" : [ {
         "indices" : [ 33, 53 ],
-        "url" : "http://t.co/T22QFlCq",
-        "expanded_url" : "http://dlvr.it/lxqtB",
-        "display_url" : "dlvr.it/lxqtB"
+        "url" : "http:\/\/t.co\/T22QFlCq",
+        "expanded_url" : "http:\/\/dlvr.it\/lxqtB",
+        "display_url" : "dlvr.it\/lxqtB"
       } ]
     },
     "geo" : { },
     "id_str" : "115251666386817024",
-    "text" : "ClassConnect: Rethinking the LMS http://t.co/T22QFlCq",
+    "text" : "ClassConnect: Rethinking the LMS http:\/\/t.co\/T22QFlCq",
     "id" : 115251666386817024,
     "created_at" : "2011-09-18 02:31:53 +0000",
     "user" : {
@@ -670,7 +670,7 @@ Grailbird.data.tweets_2011_09 =
       "screen_name" : "hackeducation",
       "protected" : false,
       "id_str" : "149029700",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1092738632/garghack2_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1092738632\/garghack2_normal.jpg",
       "id" : 149029700,
       "verified" : false
     }
@@ -682,7 +682,7 @@ Grailbird.data.tweets_2011_09 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
@@ -715,21 +715,21 @@ Grailbird.data.tweets_2011_09 =
     } ],
     "urls" : [ {
       "indices" : [ 69, 89 ],
-      "url" : "http://t.co/9gbHv2v0",
-      "expanded_url" : "http://www.classdojo.com/",
+      "url" : "http:\/\/t.co\/9gbHv2v0",
+      "expanded_url" : "http:\/\/www.classdojo.com\/",
       "display_url" : "classdojo.com"
     }, {
       "indices" : [ 111, 131 ],
-      "url" : "http://t.co/tnsaAsGp",
-      "expanded_url" : "http://ustre.am/Cnla",
-      "display_url" : "ustre.am/Cnla"
+      "url" : "http:\/\/t.co\/tnsaAsGp",
+      "expanded_url" : "http:\/\/ustre.am\/Cnla",
+      "display_url" : "ustre.am\/Cnla"
     } ]
   },
   "geo" : { },
   "id_str" : "114766058270892032",
-  "text" : "RT @usamahc: RT @devp: RT @EdSurge: Teachers need this kind of help: http://t.co/9gbHv2v0 ( #tcdisrupt live at http://t.co/tnsaAsGp)",
+  "text" : "RT @usamahc: RT @devp: RT @EdSurge: Teachers need this kind of help: http:\/\/t.co\/9gbHv2v0 ( #tcdisrupt live at http:\/\/t.co\/tnsaAsGp)",
   "retweeted_status" : {
-    "source" : "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootSuite\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "DevP",
@@ -751,19 +751,19 @@ Grailbird.data.tweets_2011_09 =
       } ],
       "urls" : [ {
         "indices" : [ 56, 76 ],
-        "url" : "http://t.co/9gbHv2v0",
-        "expanded_url" : "http://www.classdojo.com/",
+        "url" : "http:\/\/t.co\/9gbHv2v0",
+        "expanded_url" : "http:\/\/www.classdojo.com\/",
         "display_url" : "classdojo.com"
       }, {
         "indices" : [ 98, 118 ],
-        "url" : "http://t.co/tnsaAsGp",
-        "expanded_url" : "http://ustre.am/Cnla",
-        "display_url" : "ustre.am/Cnla"
+        "url" : "http:\/\/t.co\/tnsaAsGp",
+        "expanded_url" : "http:\/\/ustre.am\/Cnla",
+        "display_url" : "ustre.am\/Cnla"
       } ]
     },
     "geo" : { },
     "id_str" : "114748462637133825",
-    "text" : "RT @devp: RT @EdSurge: Teachers need this kind of help: http://t.co/9gbHv2v0 ( #tcdisrupt live at http://t.co/tnsaAsGp)",
+    "text" : "RT @devp: RT @EdSurge: Teachers need this kind of help: http:\/\/t.co\/9gbHv2v0 ( #tcdisrupt live at http:\/\/t.co\/tnsaAsGp)",
     "id" : 114748462637133825,
     "created_at" : "2011-09-16 17:12:20 +0000",
     "user" : {
@@ -771,7 +771,7 @@ Grailbird.data.tweets_2011_09 =
       "screen_name" : "usamahc",
       "protected" : false,
       "id_str" : "233505637",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1543022900/1cf3bb9_bigger_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1543022900\/1cf3bb9_bigger_normal.jpg",
       "id" : 233505637,
       "verified" : false
     }
@@ -783,12 +783,12 @@ Grailbird.data.tweets_2011_09 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Loren Baxter",
@@ -805,7 +805,7 @@ Grailbird.data.tweets_2011_09 =
   "id_str" : "114422272986578944",
   "text" : "RT @lorenbaxter: And the winner of TechCrunch disrupt is: A social video game!\n\nAll they're disrupting is the concept of \"companies that ...",
   "retweeted_status" : {
-    "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -822,7 +822,7 @@ Grailbird.data.tweets_2011_09 =
       "screen_name" : "lorenbaxter",
       "protected" : false,
       "id_str" : "15649565",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/344513261567457982/fd35302e2d472713cce91f6f744f1ab6_normal.png",
+      "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/344513261567457982\/fd35302e2d472713cce91f6f744f1ab6_normal.png",
       "id" : 15649565,
       "verified" : false
     }
@@ -834,12 +834,12 @@ Grailbird.data.tweets_2011_09 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Imagine K12",
@@ -852,14 +852,14 @@ Grailbird.data.tweets_2011_09 =
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 51, 71 ],
-      "url" : "http://t.co/Oergw7tc",
-      "expanded_url" : "http://www.techcrunch.tv/show/disrupt/0wNXNzMjqnvtv4ArdN5of6ARTadjInSV",
-      "display_url" : "techcrunch.tv/show/disrupt/0\u2026"
+      "url" : "http:\/\/t.co\/Oergw7tc",
+      "expanded_url" : "http:\/\/www.techcrunch.tv\/show\/disrupt\/0wNXNzMjqnvtv4ArdN5of6ARTadjInSV",
+      "display_url" : "techcrunch.tv\/show\/disrupt\/0\u2026"
     } ]
   },
   "geo" : { },
   "id_str" : "114364736820355073",
-  "text" : "RT @imaginek12: Imagine K12 at TechCrunch Disrupt: http://t.co/Oergw7tc",
+  "text" : "RT @imaginek12: Imagine K12 at TechCrunch Disrupt: http:\/\/t.co\/Oergw7tc",
   "id" : 114364736820355073,
   "created_at" : "2011-09-15 15:47:32 +0000",
   "user" : {
@@ -867,7 +867,7 @@ Grailbird.data.tweets_2011_09 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
@@ -888,14 +888,14 @@ Grailbird.data.tweets_2011_09 =
     } ],
     "urls" : [ {
       "indices" : [ 36, 56 ],
-      "url" : "http://t.co/RtO05tmB",
-      "expanded_url" : "http://www.flickr.com/photos/disruptsf2011/6147861686/",
-      "display_url" : "flickr.com/photos/disrupt\u2026"
+      "url" : "http:\/\/t.co\/RtO05tmB",
+      "expanded_url" : "http:\/\/www.flickr.com\/photos\/disruptsf2011\/6147861686\/",
+      "display_url" : "flickr.com\/photos\/disrupt\u2026"
     } ]
   },
   "geo" : { },
   "id_str" : "114075828387721216",
-  "text" : "Educreations on stage at #TCDisrupt http://t.co/RtO05tmB /cc @educreations",
+  "text" : "Educreations on stage at #TCDisrupt http:\/\/t.co\/RtO05tmB \/cc @educreations",
   "id" : 114075828387721216,
   "created_at" : "2011-09-14 20:39:31 +0000",
   "user" : {
@@ -903,7 +903,7 @@ Grailbird.data.tweets_2011_09 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
@@ -921,14 +921,14 @@ Grailbird.data.tweets_2011_09 =
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 36, 56 ],
-      "url" : "http://t.co/bA2b6Koj",
-      "expanded_url" : "http://www.imaginek12.com/cohort1.html",
-      "display_url" : "imaginek12.com/cohort1.html"
+      "url" : "http:\/\/t.co\/bA2b6Koj",
+      "expanded_url" : "http:\/\/www.imaginek12.com\/cohort1.html",
+      "display_url" : "imaginek12.com\/cohort1.html"
     } ]
   },
   "geo" : { },
   "id_str" : "114060374197796864",
-  "text" : "And the @imaginek12 cohort is live! http://t.co/bA2b6Koj",
+  "text" : "And the @imaginek12 cohort is live! http:\/\/t.co\/bA2b6Koj",
   "id" : 114060374197796864,
   "created_at" : "2011-09-14 19:38:07 +0000",
   "user" : {
@@ -936,12 +936,12 @@ Grailbird.data.tweets_2011_09 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "jefflab",
@@ -958,7 +958,7 @@ Grailbird.data.tweets_2011_09 =
   "id_str" : "114031736115052544",
   "text" : "RT @jefflab: Congratulations to the ImagineK12 people who presented at TC disrupt.  I'm excited to see so many people working on importa ...",
   "retweeted_status" : {
-    "source" : "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+    "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -975,7 +975,7 @@ Grailbird.data.tweets_2011_09 =
       "screen_name" : "jefflab",
       "protected" : false,
       "id_str" : "14124477",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1782834405/fb_photo_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1782834405\/fb_photo_normal.jpg",
       "id" : 14124477,
       "verified" : false
     }
@@ -987,7 +987,7 @@ Grailbird.data.tweets_2011_09 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
@@ -1030,7 +1030,7 @@ Grailbird.data.tweets_2011_09 =
   "id_str" : "114025617653104640",
   "text" : "RT @danieljyoo: @drh192 @goalbookapp #TCDisrupt Thanks so much for the compliment!  I am excited about all the @imaginek12 companies.  E ...",
   "retweeted_status" : {
-    "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Duncan Hamilton",
@@ -1073,7 +1073,7 @@ Grailbird.data.tweets_2011_09 =
       "screen_name" : "danieljyoo",
       "protected" : false,
       "id_str" : "17831644",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1552742813/techcrunch_about_me_square_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1552742813\/techcrunch_about_me_square_normal.png",
       "id" : 17831644,
       "verified" : false
     }
@@ -1085,7 +1085,7 @@ Grailbird.data.tweets_2011_09 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
@@ -1106,16 +1106,16 @@ Grailbird.data.tweets_2011_09 =
     } ],
     "urls" : [ {
       "indices" : [ 77, 96 ],
-      "url" : "http://t.co/heMFHHo",
-      "expanded_url" : "http://ustre.am/Cnla",
-      "display_url" : "ustre.am/Cnla"
+      "url" : "http:\/\/t.co\/heMFHHo",
+      "expanded_url" : "http:\/\/ustre.am\/Cnla",
+      "display_url" : "ustre.am\/Cnla"
     } ]
   },
   "geo" : { },
   "id_str" : "114025542709284864",
-  "text" : "RT @EdSurge: Sweet job, Imagineers! You all nailed it.  ( #tcdisrupt live at http://t.co/heMFHHo)",
+  "text" : "RT @EdSurge: Sweet job, Imagineers! You all nailed it.  ( #tcdisrupt live at http:\/\/t.co\/heMFHHo)",
   "retweeted_status" : {
-    "source" : "<a href=\"http://www.ustream.tv\" rel=\"nofollow\">Ustream.TV</a>",
+    "source" : "\u003Ca href=\"http:\/\/www.ustream.tv\" rel=\"nofollow\"\u003EUstream.TV\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1125,14 +1125,14 @@ Grailbird.data.tweets_2011_09 =
       } ],
       "urls" : [ {
         "indices" : [ 64, 83 ],
-        "url" : "http://t.co/heMFHHo",
-        "expanded_url" : "http://ustre.am/Cnla",
-        "display_url" : "ustre.am/Cnla"
+        "url" : "http:\/\/t.co\/heMFHHo",
+        "expanded_url" : "http:\/\/ustre.am\/Cnla",
+        "display_url" : "ustre.am\/Cnla"
       } ]
     },
     "geo" : { },
     "id_str" : "114020863988334592",
-    "text" : "Sweet job, Imagineers! You all nailed it.  ( #tcdisrupt live at http://t.co/heMFHHo)",
+    "text" : "Sweet job, Imagineers! You all nailed it.  ( #tcdisrupt live at http:\/\/t.co\/heMFHHo)",
     "id" : 114020863988334592,
     "created_at" : "2011-09-14 17:01:07 +0000",
     "user" : {
@@ -1140,7 +1140,7 @@ Grailbird.data.tweets_2011_09 =
       "screen_name" : "EdSurge",
       "protected" : false,
       "id_str" : "274793711",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3761776057/c30376375f244c545955e234f1d5af67_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000607127730\/b01175cc3b41acac7982e8019bcd15e1_normal.png",
       "id" : 274793711,
       "verified" : false
     }
@@ -1152,7 +1152,7 @@ Grailbird.data.tweets_2011_09 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
@@ -1177,7 +1177,7 @@ Grailbird.data.tweets_2011_09 =
   "id_str" : "114025127674527744",
   "text" : "RT @evowo: educreations creating a 5 min lesson should take 5 min - make it simple to teach on any place and device #TCDisrupt",
   "retweeted_status" : {
-    "source" : "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/#!\/download\/ipad\" rel=\"nofollow\"\u003ETwitter for iPad\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1197,7 +1197,7 @@ Grailbird.data.tweets_2011_09 =
       "screen_name" : "evowo",
       "protected" : false,
       "id_str" : "6809792",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1100722151/q673313056_4037_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1100722151\/q673313056_4037_normal.jpg",
       "id" : 6809792,
       "verified" : false
     }
@@ -1209,7 +1209,7 @@ Grailbird.data.tweets_2011_09 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
@@ -1234,7 +1234,7 @@ Grailbird.data.tweets_2011_09 =
   "id_str" : "114025070179000321",
   "text" : "RT @pemullen: So refreshing to see education-focused startups pitching at #TCDisrupt. We have enough photo, social, check-in, daily deal ...",
   "retweeted_status" : {
-    "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1254,7 +1254,7 @@ Grailbird.data.tweets_2011_09 =
       "screen_name" : "pemullen",
       "protected" : false,
       "id_str" : "28338565",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1149495143/face2_normal.jpg",
+      "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/1149495143\/face2_normal.jpg",
       "id" : 28338565,
       "verified" : false
     }
@@ -1266,7 +1266,7 @@ Grailbird.data.tweets_2011_09 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
@@ -1287,16 +1287,16 @@ Grailbird.data.tweets_2011_09 =
     } ],
     "urls" : [ {
       "indices" : [ 72, 91 ],
-      "url" : "http://t.co/heMFHHo",
-      "expanded_url" : "http://ustre.am/Cnla",
-      "display_url" : "ustre.am/Cnla"
+      "url" : "http:\/\/t.co\/heMFHHo",
+      "expanded_url" : "http:\/\/ustre.am\/Cnla",
+      "display_url" : "ustre.am\/Cnla"
     } ]
   },
   "geo" : { },
   "id_str" : "114024973466730497",
-  "text" : "RT @EdSurge: You rock, most excellent edsurgents!  ( #tcdisrupt live at http://t.co/heMFHHo)",
+  "text" : "RT @EdSurge: You rock, most excellent edsurgents!  ( #tcdisrupt live at http:\/\/t.co\/heMFHHo)",
   "retweeted_status" : {
-    "source" : "<a href=\"http://www.ustream.tv\" rel=\"nofollow\">Ustream.TV</a>",
+    "source" : "\u003Ca href=\"http:\/\/www.ustream.tv\" rel=\"nofollow\"\u003EUstream.TV\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1306,14 +1306,14 @@ Grailbird.data.tweets_2011_09 =
       } ],
       "urls" : [ {
         "indices" : [ 59, 78 ],
-        "url" : "http://t.co/heMFHHo",
-        "expanded_url" : "http://ustre.am/Cnla",
-        "display_url" : "ustre.am/Cnla"
+        "url" : "http:\/\/t.co\/heMFHHo",
+        "expanded_url" : "http:\/\/ustre.am\/Cnla",
+        "display_url" : "ustre.am\/Cnla"
       } ]
     },
     "geo" : { },
     "id_str" : "114018451043004416",
-    "text" : "You rock, most excellent edsurgents!  ( #tcdisrupt live at http://t.co/heMFHHo)",
+    "text" : "You rock, most excellent edsurgents!  ( #tcdisrupt live at http:\/\/t.co\/heMFHHo)",
     "id" : 114018451043004416,
     "created_at" : "2011-09-14 16:51:31 +0000",
     "user" : {
@@ -1321,7 +1321,7 @@ Grailbird.data.tweets_2011_09 =
       "screen_name" : "EdSurge",
       "protected" : false,
       "id_str" : "274793711",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3761776057/c30376375f244c545955e234f1d5af67_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000607127730\/b01175cc3b41acac7982e8019bcd15e1_normal.png",
       "id" : 274793711,
       "verified" : false
     }
@@ -1333,12 +1333,12 @@ Grailbird.data.tweets_2011_09 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "educreations",
@@ -1356,7 +1356,7 @@ Grailbird.data.tweets_2011_09 =
   },
   "geo" : { },
   "id_str" : "114018662301700096",
-  "text" : "Educreations is on stage at #tcdisrupt ! /cc @educreations",
+  "text" : "Educreations is on stage at #tcdisrupt ! \/cc @educreations",
   "id" : 114018662301700096,
   "created_at" : "2011-09-14 16:52:22 +0000",
   "user" : {
@@ -1364,12 +1364,12 @@ Grailbird.data.tweets_2011_09 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "educreations",
@@ -1387,7 +1387,7 @@ Grailbird.data.tweets_2011_09 =
   },
   "geo" : { },
   "id_str" : "114017406967484416",
-  "text" : "Educreations is going to be on stage in just a few minutes! /cc @educreations #tcdisrupt",
+  "text" : "Educreations is going to be on stage in just a few minutes! \/cc @educreations #tcdisrupt",
   "id" : 114017406967484416,
   "created_at" : "2011-09-14 16:47:22 +0000",
   "user" : {
@@ -1395,12 +1395,12 @@ Grailbird.data.tweets_2011_09 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Eduvant, Inc.",
@@ -1426,7 +1426,7 @@ Grailbird.data.tweets_2011_09 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
@@ -1455,9 +1455,9 @@ Grailbird.data.tweets_2011_09 =
   },
   "geo" : { },
   "id_str" : "114016657298554880",
-  "text" : "RT @thedelk: @imaginek12 Well done! Pitches are on par w/ or above what we've seen all week at #TCDisrupt. Love that the innovations sol ...",
+  "text" : "RT @thedelk: @imaginek12 Well done! Pitches are on par w\/ or above what we've seen all week at #TCDisrupt. Love that the innovations sol ...",
   "retweeted_status" : {
-    "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Imagine K12",
@@ -1476,7 +1476,7 @@ Grailbird.data.tweets_2011_09 =
     "geo" : { },
     "id_str" : "114016370290724865",
     "in_reply_to_user_id" : 267753999,
-    "text" : "@imaginek12 Well done! Pitches are on par w/ or above what we've seen all week at #TCDisrupt. Love that the innovations solve real problems!",
+    "text" : "@imaginek12 Well done! Pitches are on par w\/ or above what we've seen all week at #TCDisrupt. Love that the innovations solve real problems!",
     "id" : 114016370290724865,
     "created_at" : "2011-09-14 16:43:15 +0000",
     "in_reply_to_screen_name" : "imaginek12",
@@ -1486,7 +1486,7 @@ Grailbird.data.tweets_2011_09 =
       "screen_name" : "delk",
       "protected" : false,
       "id_str" : "45360799",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3633497321/6639e584ac2dfef582a30bdf37a9b130_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3633497321\/6639e584ac2dfef582a30bdf37a9b130_normal.jpeg",
       "id" : 45360799,
       "verified" : false
     }
@@ -1498,12 +1498,12 @@ Grailbird.data.tweets_2011_09 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "educreations",
@@ -1516,14 +1516,14 @@ Grailbird.data.tweets_2011_09 =
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 78, 97 ],
-      "url" : "http://t.co/s6M40DW",
-      "expanded_url" : "http://edcr8.co/oCRnyC",
-      "display_url" : "edcr8.co/oCRnyC"
+      "url" : "http:\/\/t.co\/s6M40DW",
+      "expanded_url" : "http:\/\/edcr8.co\/oCRnyC",
+      "display_url" : "edcr8.co\/oCRnyC"
     } ]
   },
   "geo" : { },
   "id_str" : "113956825891737600",
-  "text" : "RT @educreations: We're live! Sign up and start teaching and sharing today at http://t.co/s6M40DW",
+  "text" : "RT @educreations: We're live! Sign up and start teaching and sharing today at http:\/\/t.co\/s6M40DW",
   "id" : 113956825891737600,
   "created_at" : "2011-09-14 12:46:39 +0000",
   "user" : {
@@ -1531,12 +1531,12 @@ Grailbird.data.tweets_2011_09 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "EdSurge",
@@ -1595,12 +1595,12 @@ Grailbird.data.tweets_2011_09 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "educreations",
@@ -1613,14 +1613,14 @@ Grailbird.data.tweets_2011_09 =
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 27, 46 ],
-      "url" : "http://t.co/PfAI3WN",
-      "expanded_url" : "http://www.educreations.com/",
+      "url" : "http:\/\/t.co\/PfAI3WN",
+      "expanded_url" : "http:\/\/www.educreations.com\/",
       "display_url" : "educreations.com"
     } ]
   },
   "geo" : { },
   "id_str" : "113820270300631040",
-  "text" : "And @educreations is live! http://t.co/PfAI3WN",
+  "text" : "And @educreations is live! http:\/\/t.co\/PfAI3WN",
   "id" : 113820270300631040,
   "created_at" : "2011-09-14 03:44:01 +0000",
   "user" : {
@@ -1628,12 +1628,12 @@ Grailbird.data.tweets_2011_09 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1650,12 +1650,12 @@ Grailbird.data.tweets_2011_09 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Daniel Jhin Yoo",
@@ -1672,7 +1672,7 @@ Grailbird.data.tweets_2011_09 =
   "id_str" : "112137488683909121",
   "text" : "RT @danieljyoo: Friday is a very big day",
   "retweeted_status" : {
-    "source" : "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry\u00AE</a>",
+    "source" : "\u003Ca href=\"http:\/\/blackberry.com\/twitter\" rel=\"nofollow\"\u003ETwitter for BlackBerry\u00AE\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1689,7 +1689,7 @@ Grailbird.data.tweets_2011_09 =
       "screen_name" : "danieljyoo",
       "protected" : false,
       "id_str" : "17831644",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1552742813/techcrunch_about_me_square_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1552742813\/techcrunch_about_me_square_normal.png",
       "id" : 17831644,
       "verified" : false
     }
@@ -1701,12 +1701,12 @@ Grailbird.data.tweets_2011_09 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1723,26 +1723,26 @@ Grailbird.data.tweets_2011_09 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 34, 53 ],
-      "url" : "http://t.co/ObAOngx",
-      "expanded_url" : "http://techcrunch.com/2011/09/07/disrupt-sf-2011-agenda/",
-      "display_url" : "techcrunch.com/2011/09/07/dis\u2026"
+      "url" : "http:\/\/t.co\/ObAOngx",
+      "expanded_url" : "http:\/\/techcrunch.com\/2011\/09\/07\/disrupt-sf-2011-agenda\/",
+      "display_url" : "techcrunch.com\/2011\/09\/07\/dis\u2026"
     } ]
   },
   "geo" : { },
   "id_str" : "111612781085728768",
-  "text" : "Check out the Wednesday schedule: http://t.co/ObAOngx",
+  "text" : "Check out the Wednesday schedule: http:\/\/t.co\/ObAOngx",
   "id" : 111612781085728768,
   "created_at" : "2011-09-08 01:32:15 +0000",
   "user" : {
@@ -1750,12 +1750,12 @@ Grailbird.data.tweets_2011_09 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Conor Driscoll",
@@ -1789,12 +1789,12 @@ Grailbird.data.tweets_2011_09 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/tweetbutton\" rel=\"nofollow\">Tweet Button</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/tweetbutton\" rel=\"nofollow\"\u003ETweet Button\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Tina Barseghian",
@@ -1807,14 +1807,14 @@ Grailbird.data.tweets_2011_09 =
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 81, 100 ],
-      "url" : "http://t.co/JWB2V9g",
-      "expanded_url" : "http://mindshift.kqed.org/2011/09/can-mobile-phones-help-teachers-manage-classroom-behavior/",
-      "display_url" : "mindshift.kqed.org/2011/09/can-mo\u2026"
+      "url" : "http:\/\/t.co\/JWB2V9g",
+      "expanded_url" : "http:\/\/mindshift.kqed.org\/2011\/09\/can-mobile-phones-help-teachers-manage-classroom-behavior\/",
+      "display_url" : "mindshift.kqed.org\/2011\/09\/can-mo\u2026"
     } ]
   },
   "geo" : { },
   "id_str" : "111560209213816833",
-  "text" : "Via @MindShiftKQED: Can Mobile Phones Help Teachers Manage Classroom Behavior? | http://t.co/JWB2V9g",
+  "text" : "Via @MindShiftKQED: Can Mobile Phones Help Teachers Manage Classroom Behavior? | http:\/\/t.co\/JWB2V9g",
   "id" : 111560209213816833,
   "created_at" : "2011-09-07 22:03:21 +0000",
   "user" : {
@@ -1822,12 +1822,12 @@ Grailbird.data.tweets_2011_09 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Jannis Leidel",
@@ -1850,7 +1850,7 @@ Grailbird.data.tweets_2011_09 =
   "id_str" : "111471656416976896",
   "text" : "RT @jezdez: Let's try again, django_compressor 1.0.1 is out with a bugfix of the staticfiles compatibility module. Thx, @chrisstreeter!  ...",
   "retweeted_status" : {
-    "source" : "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific for Mac</a>",
+    "source" : "\u003Ca href=\"http:\/\/twitterrific.com\" rel=\"nofollow\"\u003ETwitterrific for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Chris Streeter",
@@ -1876,7 +1876,7 @@ Grailbird.data.tweets_2011_09 =
       "screen_name" : "jezdez",
       "protected" : false,
       "id_str" : "641003",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2444739232/6n75pyszl3h5tqyxh4a0_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2444739232\/6n75pyszl3h5tqyxh4a0_normal.jpeg",
       "id" : 641003,
       "verified" : false
     }
@@ -1888,12 +1888,12 @@ Grailbird.data.tweets_2011_09 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Jannis Leidel",
@@ -1921,12 +1921,12 @@ Grailbird.data.tweets_2011_09 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "EdSurge",
@@ -1939,14 +1939,14 @@ Grailbird.data.tweets_2011_09 =
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 92, 111 ],
-      "url" : "http://t.co/ZBizyJR",
-      "expanded_url" : "http://bit.ly/qD0jsJ",
-      "display_url" : "bit.ly/qD0jsJ"
+      "url" : "http:\/\/t.co\/ZBizyJR",
+      "expanded_url" : "http:\/\/bit.ly\/qD0jsJ",
+      "display_url" : "bit.ly\/qD0jsJ"
     } ]
   },
   "geo" : { },
   "id_str" : "110828275923820545",
-  "text" : "The more edtech startup events the better! RT @EdSurge: why seattle needs a startupweekend. http://t.co/ZBizyJR",
+  "text" : "The more edtech startup events the better! RT @EdSurge: why seattle needs a startupweekend. http:\/\/t.co\/ZBizyJR",
   "id" : 110828275923820545,
   "created_at" : "2011-09-05 21:34:54 +0000",
   "user" : {
@@ -1954,12 +1954,12 @@ Grailbird.data.tweets_2011_09 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1976,7 +1976,7 @@ Grailbird.data.tweets_2011_09 =
     "screen_name" : "chrisstreeter",
     "protected" : false,
     "id_str" : "15344895",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2803763948/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
     "id" : 15344895,
     "verified" : false
   }
