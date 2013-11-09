@@ -709,7 +709,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "deaneckles",
       "protected" : false,
       "id_str" : "759249",
-      "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/3724595323\/0368609575fbee252712c8c28a0fa14c_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3724595323\/0368609575fbee252712c8c28a0fa14c_normal.jpeg",
       "id" : 759249,
       "verified" : false
     }
@@ -760,7 +760,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "deaneckles",
       "protected" : false,
       "id_str" : "759249",
-      "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/3724595323\/0368609575fbee252712c8c28a0fa14c_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3724595323\/0368609575fbee252712c8c28a0fa14c_normal.jpeg",
       "id" : 759249,
       "verified" : false
     }
@@ -852,7 +852,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "lifehacker",
       "protected" : false,
       "id_str" : "7144422",
-      "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/1861146796\/Twitter_-_Avatar_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1861146796\/Twitter_-_Avatar_normal.png",
       "id" : 7144422,
       "verified" : true
     }

@@ -339,7 +339,7 @@ Grailbird.data.tweets_2011_05 =
       "screen_name" : "rynbtmn",
       "protected" : false,
       "id_str" : "6790312",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000418480918\/6cbf11dd75ba076ea69227408836c55d_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000660059807\/8c0d0077b823f28c87501829697696f4_normal.jpeg",
       "id" : 6790312,
       "verified" : false
     }

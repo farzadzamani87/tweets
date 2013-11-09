@@ -363,7 +363,7 @@ Grailbird.data.tweets_2011_04 =
       "screen_name" : "ian",
       "protected" : false,
       "id_str" : "259",
-      "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/378800000173530508\/ea92f35676a14f605b8175175e7310f0_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000173530508\/ea92f35676a14f605b8175175e7310f0_normal.jpeg",
       "id" : 259,
       "verified" : false
     }

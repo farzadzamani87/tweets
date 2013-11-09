@@ -431,7 +431,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "ccgus",
       "protected" : false,
       "id_str" : "710563",
-      "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/1508498145\/stevie_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1508498145\/stevie_normal.png",
       "id" : 710563,
       "verified" : false
     }

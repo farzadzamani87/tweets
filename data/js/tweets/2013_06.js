@@ -2792,7 +2792,7 @@ Grailbird.data.tweets_2013_06 =
       "screen_name" : "JoeWSJ",
       "protected" : false,
       "id_str" : "19070315",
-      "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/1341148165\/Camelcorrespondent_normal.JPG",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1341148165\/Camelcorrespondent_normal.JPG",
       "id" : 19070315,
       "verified" : true
     }
@@ -2888,7 +2888,7 @@ Grailbird.data.tweets_2013_06 =
       "id_str" : "65375759",
       "id" : 65375759
     }, {
-      "name" : "kemalozturk2020",
+      "name" : "Kemal \u00D6zt\u00FCrk",
       "screen_name" : "kemalozturk2020",
       "indices" : [ 37, 53 ],
       "id_str" : "1949017723",

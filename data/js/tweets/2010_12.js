@@ -78,7 +78,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tomb Ziller",
+      "name" : "Tom Ziller",
       "screen_name" : "teamziller",
       "indices" : [ 3, 14 ],
       "id_str" : "21865953",
@@ -172,7 +172,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Spook-E O'Future",
+      "name" : "Matt Novak",
       "screen_name" : "paleofuture",
       "indices" : [ 3, 15 ],
       "id_str" : "16877374",
@@ -199,7 +199,7 @@ Grailbird.data.tweets_2010_12 =
     "id" : 15517064701673474,
     "created_at" : "2010-12-16 21:22:11 +0000",
     "user" : {
-      "name" : "Spook-E O'Future",
+      "name" : "Matt Novak",
       "screen_name" : "paleofuture",
       "protected" : false,
       "id_str" : "16877374",

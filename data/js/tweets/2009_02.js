@@ -613,13 +613,7 @@ Grailbird.data.tweets_2009_02 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitterrific.com\" rel=\"nofollow\"\u003ETwitterrific\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "tom eckles",
-      "screen_name" : "tomeckles",
-      "indices" : [ 0, 10 ],
-      "id_str" : "14268428",
-      "id" : 14268428
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]

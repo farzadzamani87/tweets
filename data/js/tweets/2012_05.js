@@ -166,7 +166,7 @@ Grailbird.data.tweets_2012_05 =
       "screen_name" : "bcuban",
       "protected" : false,
       "id_str" : "14221588",
-      "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/378800000381305180\/77c6b13950b203b438b010f4b93480c1_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000381305180\/77c6b13950b203b438b010f4b93480c1_normal.jpeg",
       "id" : 14221588,
       "verified" : true
     }
@@ -683,7 +683,7 @@ Grailbird.data.tweets_2012_05 =
       "screen_name" : "ben_mathes",
       "protected" : false,
       "id_str" : "14207787",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000531474256\/e4f61f05512a9cf68b1b721de628e2bd_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000696041679\/3600113643c0e1c9369d36f8eea79c0f_normal.jpeg",
       "id" : 14207787,
       "verified" : false
     }

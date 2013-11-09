@@ -58,7 +58,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tomb Ziller",
+      "name" : "Tom Ziller",
       "screen_name" : "teamziller",
       "indices" : [ 3, 14 ],
       "id_str" : "21865953",
@@ -91,7 +91,7 @@ Grailbird.data.tweets_2010_10 =
     "id" : 28956424169,
     "created_at" : "2010-10-28 03:57:20 +0000",
     "user" : {
-      "name" : "Tomb Ziller",
+      "name" : "Tom Ziller",
       "screen_name" : "teamziller",
       "protected" : false,
       "id_str" : "21865953",

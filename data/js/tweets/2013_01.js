@@ -828,7 +828,7 @@ Grailbird.data.tweets_2013_01 =
       "screen_name" : "ChaseAdam17",
       "protected" : false,
       "id_str" : "393129393",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000051134426\/9a819ee8faf4679a7466b0f658876e11_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000663708481\/d43d04749454d16a069b1632514f563c_normal.jpeg",
       "id" : 393129393,
       "verified" : false
     }

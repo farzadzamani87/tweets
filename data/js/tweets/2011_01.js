@@ -34,7 +34,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "bigdata",
       "protected" : false,
       "id_str" : "18318677",
-      "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/235298259\/bigdata_logo_center3_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/235298259\/bigdata_logo_center3_normal.jpg",
       "id" : 18318677,
       "verified" : false
     }

@@ -292,7 +292,7 @@ Grailbird.data.tweets_2009_09 =
   "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\/\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tomb Ziller",
+      "name" : "Tom Ziller",
       "screen_name" : "teamziller",
       "indices" : [ 3, 14 ],
       "id_str" : "21865953",

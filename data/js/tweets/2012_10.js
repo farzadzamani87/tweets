@@ -110,7 +110,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "robdelaney",
       "protected" : false,
       "id_str" : "22084427",
-      "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/1643163355\/Screen_shot_2011-11-16_at_9.08.14_PM_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1643163355\/Screen_shot_2011-11-16_at_9.08.14_PM_normal.png",
       "id" : 22084427,
       "verified" : true
     }

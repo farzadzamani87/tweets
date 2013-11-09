@@ -340,7 +340,7 @@ Grailbird.data.tweets_2012_04 =
       "screen_name" : "BillSimmons",
       "protected" : false,
       "id_str" : "32765534",
-      "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2416051975\/a8riusej2c5rcf8rrfj9_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2416051975\/a8riusej2c5rcf8rrfj9_normal.jpeg",
       "id" : 32765534,
       "verified" : true
     }

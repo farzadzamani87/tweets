@@ -2446,7 +2446,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/chrisstreeter.com\" rel=\"nofollow\"\u003EStreeterdroid\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uC560\uC290\uB9AC",
+      "name" : "d-trick",
       "screen_name" : "d2fn",
       "indices" : [ 3, 8 ],
       "id_str" : "16476434",
@@ -2473,7 +2473,7 @@ Grailbird.data.tweets_2013_09 =
     "id" : 171826012617846784,
     "created_at" : "2012-02-21 05:18:08 +0000",
     "user" : {
-      "name" : "\uC560\uC290\uB9AC",
+      "name" : "d-trick",
       "screen_name" : "d2fn",
       "protected" : false,
       "id_str" : "16476434",

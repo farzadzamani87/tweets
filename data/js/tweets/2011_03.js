@@ -919,7 +919,7 @@ Grailbird.data.tweets_2011_03 =
       "screen_name" : "paulg",
       "protected" : false,
       "id_str" : "183749519",
-      "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/1824002576\/pg-railsconf_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1824002576\/pg-railsconf_normal.jpg",
       "id" : 183749519,
       "verified" : true
     }

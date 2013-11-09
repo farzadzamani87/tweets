@@ -194,7 +194,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "BillSimmons",
       "protected" : false,
       "id_str" : "32765534",
-      "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2416051975\/a8riusej2c5rcf8rrfj9_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2416051975\/a8riusej2c5rcf8rrfj9_normal.jpeg",
       "id" : 32765534,
       "verified" : true
     }
@@ -357,7 +357,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tomb Ziller",
+      "name" : "Tom Ziller",
       "screen_name" : "teamziller",
       "indices" : [ 3, 14 ],
       "id_str" : "21865953",
@@ -384,7 +384,7 @@ Grailbird.data.tweets_2010_07 =
     "id" : 17991771870,
     "created_at" : "2010-07-08 00:04:22 +0000",
     "user" : {
-      "name" : "Tomb Ziller",
+      "name" : "Tom Ziller",
       "screen_name" : "teamziller",
       "protected" : false,
       "id_str" : "21865953",

@@ -881,7 +881,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "fivethirtyeight",
       "protected" : false,
       "id_str" : "16017475",
-      "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/378800000188475595\/9048bff5190578d8e2c558dca3606fbb_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000188475595\/9048bff5190578d8e2c558dca3606fbb_normal.png",
       "id" : 16017475,
       "verified" : true
     }
@@ -959,7 +959,7 @@ Grailbird.data.tweets_2011_06 =
       "id_str" : "15344895",
       "id" : 15344895
     }, {
-      "name" : "500px is Photography",
+      "name" : "500px",
       "screen_name" : "500px",
       "indices" : [ 103, 109 ],
       "id_str" : "20431922",

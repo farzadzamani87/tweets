@@ -62,7 +62,7 @@ Grailbird.data.tweets_2009_11 =
       "screen_name" : "SacramentoKings",
       "protected" : false,
       "id_str" : "667563",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000544408244\/00032acc04472ad643e6e3a856ac518f_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000681430930\/55e1335fc7fca1cc5d25df1a856d2469_normal.jpeg",
       "id" : 667563,
       "verified" : true
     }

@@ -932,7 +932,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "blendspace",
       "protected" : false,
       "id_str" : "411807845",
-      "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/378800000371956350\/ba7984e3f07b37bf851fbcaf9df285d4_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000371956350\/ba7984e3f07b37bf851fbcaf9df285d4_normal.png",
       "id" : 411807845,
       "verified" : false
     }

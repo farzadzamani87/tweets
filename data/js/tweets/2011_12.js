@@ -438,7 +438,7 @@ Grailbird.data.tweets_2011_12 =
       "id_str" : "15793108",
       "id" : 15793108
     }, {
-      "name" : "alex choi \u2744",
+      "name" : "alex choi ",
       "screen_name" : "xc",
       "indices" : [ 20, 23 ],
       "id_str" : "26233",
@@ -461,7 +461,7 @@ Grailbird.data.tweets_2011_12 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "alex choi \u2744",
+        "name" : "alex choi ",
         "screen_name" : "xc",
         "indices" : [ 3, 6 ],
         "id_str" : "26233",

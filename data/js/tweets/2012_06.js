@@ -2233,7 +2233,7 @@ Grailbird.data.tweets_2012_06 =
       "screen_name" : "MattVelasco0",
       "protected" : false,
       "id_str" : "577359586",
-      "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2210034766\/406508_10100934191739073_1205191_62436417_16149057_n_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2210034766\/406508_10100934191739073_1205191_62436417_16149057_n_normal.jpg",
       "id" : 577359586,
       "verified" : false
     }

@@ -248,7 +248,7 @@ Grailbird.data.tweets_2012_03 =
       "screen_name" : "rickyyean",
       "protected" : false,
       "id_str" : "15123226",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3002471405\/14c76c276ce82e9f0e2c7b0d02f96b61_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000694931443\/b349310a7de461017316d210240f2279_normal.png",
       "id" : 15123226,
       "verified" : false
     }

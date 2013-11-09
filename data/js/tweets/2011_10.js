@@ -866,7 +866,7 @@ Grailbird.data.tweets_2011_10 =
       "screen_name" : "DEVOPS_BORAT",
       "protected" : false,
       "id_str" : "167499429",
-      "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/1079908235\/borat_855_18535194_0_0_12672_300_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1079908235\/borat_855_18535194_0_0_12672_300_normal.jpg",
       "id" : 167499429,
       "verified" : false
     }

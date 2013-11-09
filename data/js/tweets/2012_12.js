@@ -2659,7 +2659,7 @@ Grailbird.data.tweets_2012_12 =
       "screen_name" : "jcarlpayne",
       "protected" : false,
       "id_str" : "28433635",
-      "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/3481941045\/1b929cf63a032f57be5c30dbc179c3a9_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3481941045\/1b929cf63a032f57be5c30dbc179c3a9_normal.jpeg",
       "id" : 28433635,
       "verified" : false
     }

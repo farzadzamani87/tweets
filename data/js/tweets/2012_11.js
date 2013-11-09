@@ -938,60 +938,6 @@ Grailbird.data.tweets_2012_11 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Chris Conte",
-      "screen_name" : "ChrisConte47",
-      "indices" : [ 3, 16 ],
-      "id_str" : "334756182",
-      "id" : 334756182
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "270997729935769601",
-  "text" : "RT @ChrisConte47: Sad to see coach Tedford go. Great coach and great guy. Everyone is quick to forget how much he has done for the Cal p ...",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ {
-        "text" : "respect",
-        "indices" : [ 126, 134 ]
-      } ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "270950713406918657",
-    "text" : "Sad to see coach Tedford go. Great coach and great guy. Everyone is quick to forget how much he has done for the Cal program. #respect",
-    "id" : 270950713406918657,
-    "created_at" : "2012-11-20 18:04:18 +0000",
-    "user" : {
-      "name" : "Chris Conte",
-      "screen_name" : "ChrisConte47",
-      "protected" : false,
-      "id_str" : "334756182",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1593984004\/Picture_20_normal.png",
-      "id" : 334756182,
-      "verified" : true
-    }
-  },
-  "id" : 270997729935769601,
-  "created_at" : "2012-11-20 21:11:08 +0000",
-  "user" : {
-    "name" : "Chris Streeter",
-    "screen_name" : "chrisstreeter",
-    "protected" : false,
-    "id_str" : "15344895",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
-    "id" : 15344895,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2101,7 +2047,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "SFGiants",
       "protected" : false,
       "id_str" : "43024351",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000630386294\/82a7c51eded4a9667d4c0f472d976d45_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000675557655\/00fbcbecbd552f2935e24d9fea961661_normal.png",
       "id" : 43024351,
       "verified" : true
     }
