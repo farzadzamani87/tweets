@@ -341,7 +341,7 @@ Grailbird.data.tweets_2012_01 =
   "id_str" : "161493463869820929",
   "text" : "RT @ACLU: BREAKING: #Privacy victory in #Jones v US! #SCOTUS rules that the #4thAmendment applies to #GPS tracking. MORE SOON.",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -581,7 +581,7 @@ Grailbird.data.tweets_2012_01 =
       "screen_name" : "educreations",
       "protected" : false,
       "id_str" : "223638132",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1666990515\/Icon-128_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000772524263\/e9b2192f658370022274185bcdc157c9_normal.png",
       "id" : 223638132,
       "verified" : false
     }
@@ -795,7 +795,7 @@ Grailbird.data.tweets_2012_01 =
   "id_str" : "159343158960988160",
   "text" : "RT @nsvf: What does SOPA have to do with education and #edpolicy? @BenjaminjRiley's latest Policy Update  http:\/\/t.co\/CmnqlR98",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Benjamin Riley",
@@ -1543,7 +1543,7 @@ Grailbird.data.tweets_2012_01 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Conor Driscoll",

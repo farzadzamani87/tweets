@@ -140,7 +140,7 @@ Grailbird.data.tweets_2011_01 =
   "id_str" : "30768251583602690",
   "text" : "RT @falguni: Twitter= I need to pee. Facebook= I peed! Foursquare= I'm peeing here. Quora= Why am I peeing? Youtube= Watch this pee! Lin ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -365,7 +365,7 @@ Grailbird.data.tweets_2011_01 =
   "id_str" : "28144923802869760",
   "text" : "RT @tomvanderbilt: '...in Libya the cigarette's a unit of time. How far's the village? 3 cigarettes.  How long will you be? 1 cigarette. ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],

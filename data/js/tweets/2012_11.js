@@ -177,7 +177,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "educreations",
       "protected" : false,
       "id_str" : "223638132",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1666990515\/Icon-128_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000772524263\/e9b2192f658370022274185bcdc157c9_normal.png",
       "id" : 223638132,
       "verified" : false
     }
@@ -2047,7 +2047,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "SFGiants",
       "protected" : false,
       "id_str" : "43024351",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000675557655\/00fbcbecbd552f2935e24d9fea961661_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000759750349\/e52549ba3e86a1642b87955e2ad1a251_normal.jpeg",
       "id" : 43024351,
       "verified" : true
     }
@@ -2282,7 +2282,7 @@ Grailbird.data.tweets_2012_11 =
   "id_str" : "266032781400875008",
   "text" : "RT @garettng: Pundits keep talking about each candidate's ground game in Ohio. Can @CalFootball recruit those people?",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Cal Football",

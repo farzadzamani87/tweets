@@ -578,7 +578,7 @@ Grailbird.data.tweets_2013_02 =
   "id_str" : "306174444391497729",
   "text" : "RT @nsvf: How do we improve teacher tools? Our @jencarolan says refinement and intuitiveness of interface and function is key: http:\/\/t. ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Jennifer Carolan",
@@ -1285,7 +1285,7 @@ Grailbird.data.tweets_2013_02 =
       "screen_name" : "flourishingkids",
       "protected" : false,
       "id_str" : "18615528",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000686142197\/16e978268fec8c10dfd187ee94f0c604_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000750726356\/70b4aca50a3569fd719c49041e09afc7_normal.jpeg",
       "id" : 18615528,
       "verified" : false
     }
@@ -2861,7 +2861,7 @@ Grailbird.data.tweets_2013_02 =
   "id_str" : "301730008236437504",
   "text" : "RT @Firebase: We're excited to announce that we're exiting private beta today! Sign up for Firebase without a beta code: http:\/\/t.co\/FuB ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2950,7 +2950,7 @@ Grailbird.data.tweets_2013_02 =
   "id_str" : "301725554384703488",
   "text" : "RT @hellobuglers: BREAKING: Vatican rules out Silvio Berlusconi becoming Pope. \"He's about 500 years too late. Otherwise, he would have  ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -3428,7 +3428,7 @@ Grailbird.data.tweets_2013_02 =
       "screen_name" : "flourishingkids",
       "protected" : false,
       "id_str" : "18615528",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000686142197\/16e978268fec8c10dfd187ee94f0c604_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000750726356\/70b4aca50a3569fd719c49041e09afc7_normal.jpeg",
       "id" : 18615528,
       "verified" : false
     }
@@ -3809,7 +3809,7 @@ Grailbird.data.tweets_2013_02 =
   "id_str" : "300390993079963648",
   "text" : "RT @GoldenBlogs: Just a little. #BEATSTANFURD RT @SteveKerrTNT: At a hotel near campus. Think the Bears take their rivalry seriously? ht ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Steve Kerr",

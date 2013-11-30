@@ -89,7 +89,7 @@ Grailbird.data.tweets_2011_10 =
       "screen_name" : "WojYahooNBA",
       "protected" : false,
       "id_str" : "50323173",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2062589385\/butlergym_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000754993957\/b1ee6d4683dd4ca6e32237cae905a518_normal.jpeg",
       "id" : 50323173,
       "verified" : true
     }
@@ -681,7 +681,7 @@ Grailbird.data.tweets_2011_10 =
   "id_str" : "127260736501190656",
   "text" : "RT @CoryBooker: excited 2 hear from tech entrepreneurs at @imaginek12 - check out what they're building = http:\/\/t.co\/uCZf8v7z",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Imagine K12",

@@ -362,7 +362,7 @@ Grailbird.data.tweets_2012_02 =
   "id_str" : "171998204739600384",
   "text" : "RT @nsvf: RESPECT, find at what it means... to the education community. @BenjaminJRiley on $5b program aimed at #teachers. http:\/\/t.co\/5 ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Benjamin Riley",

@@ -1031,7 +1031,7 @@ Grailbird.data.tweets_2011_03 =
   "id_str" : "48072974439415808",
   "text" : "RT @tomvanderbilt: In S.F., noting instruction to cars to park with wheels inward on hills, wondering how many parked 'runaways' there a ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],

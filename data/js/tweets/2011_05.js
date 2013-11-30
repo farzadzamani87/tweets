@@ -466,7 +466,7 @@ Grailbird.data.tweets_2011_05 =
   "id_str" : "70169698901295104",
   "text" : "RT @hellobuglers: US V-P Joey Biden claims to have invented funk music. \"It was me. It's unquestionably my groove. I am the First Lord o ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -950,7 +950,7 @@ Grailbird.data.tweets_2011_05 =
   "id_str" : "65070383556075521",
   "text" : "RT @hellobuglers: CELEB REACTIONS: US bilemeister Glenn Beck: \"Murderer Obama must be brought to justice.\"",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],

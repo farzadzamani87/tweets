@@ -102,7 +102,7 @@ Grailbird.data.tweets_2013_05 =
   "id_str" : "340290011469586432",
   "text" : "RT @sam_amick: Can confirm @WojYahooNBA report on Mike Malone to Kings. Deal is worth more than $9 million if fourth year team option is pi\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Adrian Wojnarowski",
@@ -2530,7 +2530,7 @@ Grailbird.data.tweets_2013_05 =
   "id_str" : "334792971943813121",
   "text" : "RT @sam_amick: The NBA Board of Governors has voted down the relocation bid to move the Kings to Seattle, @USATODAYsports has learned",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "USA TODAY Sports",
@@ -4137,7 +4137,7 @@ Grailbird.data.tweets_2013_05 =
       "screen_name" : "NeinQuarterly",
       "protected" : false,
       "id_str" : "458966079",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000407658829\/22ca3c43473c3e295405af50ebc56cc1_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000803402082\/ed4c25faaa25fbba40b11fabe8241a59_normal.jpeg",
       "id" : 458966079,
       "verified" : false
     }

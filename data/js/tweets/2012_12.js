@@ -1014,7 +1014,7 @@ Grailbird.data.tweets_2012_12 =
       "screen_name" : "educreations",
       "protected" : false,
       "id_str" : "223638132",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1666990515\/Icon-128_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000772524263\/e9b2192f658370022274185bcdc157c9_normal.png",
       "id" : 223638132,
       "verified" : false
     }
@@ -1809,7 +1809,7 @@ Grailbird.data.tweets_2012_12 =
   "id_str" : "281093226859991041",
   "text" : "RT @Firebase: We're thrilled to release our security features today! Read our post and see our screencast for all the juicy details! htt ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2171,12 +2171,6 @@ Grailbird.data.tweets_2012_12 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Fouad",
-      "screen_name" : "heyfouad",
-      "indices" : [ 0, 9 ],
-      "id_str" : "355920763",
-      "id" : 355920763
-    }, {
       "name" : "Kalen Gallagher",
       "screen_name" : "kalengallagher",
       "indices" : [ 10, 25 ],
@@ -2195,7 +2189,7 @@ Grailbird.data.tweets_2012_12 =
   "id" : 280501899512393728,
   "in_reply_to_status_id" : 279942381854400513,
   "created_at" : "2012-12-17 02:37:18 +0000",
-  "in_reply_to_screen_name" : "heyfouad",
+  "in_reply_to_screen_name" : "fouadmatin",
   "in_reply_to_user_id_str" : "355920763",
   "user" : {
     "name" : "Chris Streeter",
@@ -2306,12 +2300,6 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Fouad",
-      "screen_name" : "heyfouad",
-      "indices" : [ 0, 9 ],
-      "id_str" : "355920763",
-      "id" : 355920763
-    }, {
       "name" : "Kalen Gallagher",
       "screen_name" : "kalengallagher",
       "indices" : [ 10, 25 ],
@@ -2330,7 +2318,7 @@ Grailbird.data.tweets_2012_12 =
   "id" : 279862472666648576,
   "in_reply_to_status_id" : 279810041526239234,
   "created_at" : "2012-12-15 08:16:27 +0000",
-  "in_reply_to_screen_name" : "heyfouad",
+  "in_reply_to_screen_name" : "fouadmatin",
   "in_reply_to_user_id_str" : "355920763",
   "user" : {
     "name" : "Chris Streeter",
@@ -2448,12 +2436,6 @@ Grailbird.data.tweets_2012_12 =
       "indices" : [ 0, 15 ],
       "id_str" : "21851200",
       "id" : 21851200
-    }, {
-      "name" : "Fouad",
-      "screen_name" : "heyfouad",
-      "indices" : [ 16, 25 ],
-      "id_str" : "355920763",
-      "id" : 355920763
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2533,13 +2515,7 @@ Grailbird.data.tweets_2012_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Fouad",
-      "screen_name" : "heyfouad",
-      "indices" : [ 0, 9 ],
-      "id_str" : "355920763",
-      "id" : 355920763
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2552,7 +2528,7 @@ Grailbird.data.tweets_2012_12 =
   "id" : 279446957460709376,
   "in_reply_to_status_id" : 279446876254793728,
   "created_at" : "2012-12-14 04:45:21 +0000",
-  "in_reply_to_screen_name" : "heyfouad",
+  "in_reply_to_screen_name" : "fouadmatin",
   "in_reply_to_user_id_str" : "355920763",
   "user" : {
     "name" : "Chris Streeter",
@@ -2771,7 +2747,7 @@ Grailbird.data.tweets_2012_12 =
   "id_str" : "278560559266414593",
   "text" : "RT @SeinfeldToday: Jerry breaks up with a beautiful woman because she favorites every one of his tweets. Kramer and Newman start a podcast.",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2822,7 +2798,7 @@ Grailbird.data.tweets_2012_12 =
   "id_str" : "278559477559615488",
   "text" : "RT @SeinfeldToday: Kramer fights with an Apple Genius. Elaine dates a hot subway conductor. Jerry gets an offer to \"ghost tweet\" the Kel ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -3380,7 +3356,7 @@ Grailbird.data.tweets_2012_12 =
   "id_str" : "276548997613760513",
   "text" : "RT @GoldenBlogs: There it is. RT @CalFootball: Sonny Dykes named @CalFootball Head Football Coach. http:\/\/t.co\/vt23X020 #GoBears",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Cal Football",

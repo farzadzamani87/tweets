@@ -214,7 +214,7 @@ Grailbird.data.tweets_2013_04 =
       "screen_name" : "WojYahooNBA",
       "protected" : false,
       "id_str" : "50323173",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2062589385\/butlergym_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000754993957\/b1ee6d4683dd4ca6e32237cae905a518_normal.jpeg",
       "id" : 50323173,
       "verified" : true
     }
@@ -248,7 +248,7 @@ Grailbird.data.tweets_2013_04 =
   "id_str" : "328990464369897472",
   "text" : "RT @sam_amick: I can confirm NBA ownership committee is recommending Kings stay in Sacramento. This is not final vote, but a huge win for S\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -794,7 +794,7 @@ Grailbird.data.tweets_2013_04 =
   "id_str" : "327834210909954051",
   "text" : "RT @SpearsNBAYahoo: Thunder say guard Russell Westbrook will undergo surgery in the coming days to repair a lateral meniscus tear in his ri\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1222,13 +1222,7 @@ Grailbird.data.tweets_2013_04 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Fouad",
-      "screen_name" : "heyfouad",
-      "indices" : [ 0, 9 ],
-      "id_str" : "355920763",
-      "id" : 355920763
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1241,7 +1235,7 @@ Grailbird.data.tweets_2013_04 =
   "id" : 326808113787310080,
   "in_reply_to_status_id" : 326807879208271873,
   "created_at" : "2013-04-23 21:21:40 +0000",
-  "in_reply_to_screen_name" : "heyfouad",
+  "in_reply_to_screen_name" : "fouadmatin",
   "in_reply_to_user_id_str" : "355920763",
   "user" : {
     "name" : "Chris Streeter",
@@ -1288,13 +1282,7 @@ Grailbird.data.tweets_2013_04 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Fouad",
-      "screen_name" : "heyfouad",
-      "indices" : [ 0, 9 ],
-      "id_str" : "355920763",
-      "id" : 355920763
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1307,7 +1295,7 @@ Grailbird.data.tweets_2013_04 =
   "id" : 326807748371173378,
   "in_reply_to_status_id" : 326806860403462146,
   "created_at" : "2013-04-23 21:20:13 +0000",
-  "in_reply_to_screen_name" : "heyfouad",
+  "in_reply_to_screen_name" : "fouadmatin",
   "in_reply_to_user_id_str" : "355920763",
   "user" : {
     "name" : "Chris Streeter",
@@ -2449,7 +2437,7 @@ Grailbird.data.tweets_2013_04 =
   "id_str" : "323899679827980289",
   "text" : "RT @Drsforamerica: If you're in #Boston and want to donate blood, here's info for the Red Cross Blood Donation Center: http:\/\/t.co\/LGLFA ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2519,7 +2507,7 @@ Grailbird.data.tweets_2013_04 =
   "id_str" : "323877738148671488",
   "text" : "RT @AntDeRosa: Live blog from @Reuters on Boston Marathon explosion: http:\/\/t.co\/sY1ui68kXJ",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Reuters Top News",
@@ -2547,7 +2535,7 @@ Grailbird.data.tweets_2013_04 =
       "screen_name" : "AntDeRosa",
       "protected" : false,
       "id_str" : "1140451",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000678022018\/01aff197841d09eabf7adab5df134832_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000806194292\/c215139a2ec9f6f1bd8e5e8cbb125978_normal.png",
       "id" : 1140451,
       "verified" : true
     }
@@ -2584,7 +2572,7 @@ Grailbird.data.tweets_2013_04 =
   "id_str" : "323877429443710977",
   "text" : "RT @ReutersUS: Boston marathon headquarters locked down after explosion reported near finish line: spokesman #breaking",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],

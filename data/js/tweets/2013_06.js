@@ -3108,7 +3108,7 @@ Grailbird.data.tweets_2013_06 =
       "screen_name" : "educreations",
       "protected" : false,
       "id_str" : "223638132",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1666990515\/Icon-128_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000772524263\/e9b2192f658370022274185bcdc157c9_normal.png",
       "id" : 223638132,
       "verified" : false
     }
@@ -3845,7 +3845,7 @@ Grailbird.data.tweets_2013_06 =
   "id_str" : "344117646532419585",
   "text" : "RT @ClassDojo: Heading to #ISTE13? Join us at the 2013 StartUp Party along with @remind101, @educreations, and @Desmos! RSVP here: http:\/\/t\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Remind101",
@@ -4597,7 +4597,7 @@ Grailbird.data.tweets_2013_06 =
   "id_str" : "341249275705044992",
   "text" : "RT @techsoc: Turkish PM Erdo\u011Fan: \"There is this curse called Twitter.  It's all lies ... That thing called social media is the curse of soc\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],

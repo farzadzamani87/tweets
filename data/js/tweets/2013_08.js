@@ -2424,7 +2424,7 @@ Grailbird.data.tweets_2013_08 =
       "screen_name" : "diana_clarke",
       "protected" : false,
       "id_str" : "137780739",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1524717044\/diana_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000786223635\/e8ae544dabc3c6bd941f05028e020b39_normal.png",
       "id" : 137780739,
       "verified" : false
     }

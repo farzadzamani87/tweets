@@ -822,7 +822,7 @@ Grailbird.data.tweets_2011_09 =
       "screen_name" : "lorenbaxter",
       "protected" : false,
       "id_str" : "15649565",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/344513261567457982\/fd35302e2d472713cce91f6f744f1ab6_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000759570267\/91c7975895c7e652b2a18471b296c225_normal.jpeg",
       "id" : 15649565,
       "verified" : false
     }
@@ -1030,7 +1030,7 @@ Grailbird.data.tweets_2011_09 =
   "id_str" : "114025617653104640",
   "text" : "RT @danieljyoo: @drh192 @goalbookapp #TCDisrupt Thanks so much for the compliment!  I am excited about all the @imaginek12 companies.  E ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Duncan Hamilton",
@@ -1234,7 +1234,7 @@ Grailbird.data.tweets_2011_09 =
   "id_str" : "114025070179000321",
   "text" : "RT @pemullen: So refreshing to see education-focused startups pitching at #TCDisrupt. We have enough photo, social, check-in, daily deal ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],

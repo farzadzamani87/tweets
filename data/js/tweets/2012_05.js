@@ -149,7 +149,7 @@ Grailbird.data.tweets_2012_05 =
   "id_str" : "208011280446001152",
   "text" : "RT @bcuban: New Orleans Hornets get the first pick due to \"Basketball Reasons\"",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -883,7 +883,7 @@ Grailbird.data.tweets_2012_05 =
   "id_str" : "204788038969204736",
   "text" : "RT @sam_amick: Yep RT @MikeWiseguy: Oklahoma reminds me of Sacramento, circa 2002. Small market, only game in town and everyone waiting  ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Mike Wise",

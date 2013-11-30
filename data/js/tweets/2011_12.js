@@ -1113,7 +1113,7 @@ Grailbird.data.tweets_2011_12 =
       "screen_name" : "educreations",
       "protected" : false,
       "id_str" : "223638132",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1666990515\/Icon-128_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000772524263\/e9b2192f658370022274185bcdc157c9_normal.png",
       "id" : 223638132,
       "verified" : false
     }
@@ -1303,7 +1303,7 @@ Grailbird.data.tweets_2011_12 =
   "id_str" : "145016353441595392",
   "text" : "RT @sam_amick: Must-read RT @YahooSportsNBA: Cavs owner Dan Gilbert called Lakers' trade a \"travesty\" in email to Stern.  http:\/\/t.co\/OK ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Yahoo Sports NBA",

@@ -1902,7 +1902,7 @@ Grailbird.data.tweets_2013_01 =
   "id_str" : "292461687821455360",
   "text" : "RT @hellobuglers: Oprah's wearing the same kit she was in yesterday. #wasntexpectingtostaythenight",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1956,7 +1956,7 @@ Grailbird.data.tweets_2013_01 =
   "id_str" : "292461668896743424",
   "text" : "RT @hellobuglers: Regarding the straws in the drinks, apparently that was a sine qua non for the interview taking place. No straw, no Lance.",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2067,7 +2067,7 @@ Grailbird.data.tweets_2013_01 =
   "id_str" : "292090916183867393",
   "text" : "RT @hellobuglers: Lance fessing up. Big time. But, after everything that has gone before, can we believe him? I think he's now lying. An ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],

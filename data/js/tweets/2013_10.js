@@ -105,7 +105,7 @@ Grailbird.data.tweets_2013_10 =
   "id_str" : "396016739076407296",
   "text" : "RT @binarybits: We're all going to look really dumb when airplanes start falling out of the sky due to the new in-flight electronics rule.",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -163,57 +163,6 @@ Grailbird.data.tweets_2013_10 =
   "text" : "\/cc @jcarlpayne RT @HackerNewsOnion: Marc Benioff buys rights to the next America's Cup, renames it Sailsforce",
   "id" : 395984427634790400,
   "created_at" : "2013-10-31 18:43:39 +0000",
-  "user" : {
-    "name" : "Chris Streeter",
-    "screen_name" : "chrisstreeter",
-    "protected" : false,
-    "id_str" : "15344895",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
-    "id" : 15344895,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Hacker News Onion",
-      "screen_name" : "HackerNewsOnion",
-      "indices" : [ 3, 19 ],
-      "id_str" : "1263967268",
-      "id" : 1263967268
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "395984084087758848",
-  "text" : "RT @HackerNewsOnion: 100% of programs you don't write won't have a syntax error",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "395799575438450688",
-    "text" : "100% of programs you don't write won't have a syntax error",
-    "id" : 395799575438450688,
-    "created_at" : "2013-10-31 06:29:07 +0000",
-    "user" : {
-      "name" : "Hacker News Onion",
-      "screen_name" : "HackerNewsOnion",
-      "protected" : false,
-      "id_str" : "1263967268",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3374120487\/e4f509a5ea232cd5b80f9cbac23d9432_normal.jpeg",
-      "id" : 1263967268,
-      "verified" : false
-    }
-  },
-  "id" : 395984084087758848,
-  "created_at" : "2013-10-31 18:42:17 +0000",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -4614,7 +4563,7 @@ Grailbird.data.tweets_2013_10 =
       "screen_name" : "rbranson",
       "protected" : false,
       "id_str" : "5264791",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3548414449\/f876a554a7b585eb13d8b235f9c2233c_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000750724388\/a50babd5d3dd407164e816304daa62a7_normal.jpeg",
       "id" : 5264791,
       "verified" : false
     }
@@ -6345,7 +6294,7 @@ Grailbird.data.tweets_2013_10 =
       "screen_name" : "phatnatlegit",
       "protected" : false,
       "id_str" : "588605425",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000701904087\/f2e2f646b863be8f9bf89f045c4c3258_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000762830942\/15d6cdf4a8f67ac52656923d363a4784_normal.jpeg",
       "id" : 588605425,
       "verified" : false
     }

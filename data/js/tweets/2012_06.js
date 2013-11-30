@@ -1021,6 +1021,12 @@ Grailbird.data.tweets_2012_06 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "David",
+      "screen_name" : "dmerfield",
+      "indices" : [ 0, 10 ],
+      "id_str" : "1709812987",
+      "id" : 1709812987
+    }, {
       "name" : "Josh Bryant",
       "screen_name" : "jb",
       "indices" : [ 11, 14 ],

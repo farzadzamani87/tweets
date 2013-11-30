@@ -753,7 +753,7 @@ Grailbird.data.tweets_2012_08 =
   "id_str" : "236595502223867905",
   "text" : "RT @nsvf: .@Educreations is hiring! Who's up for solving challenging problems and bringing innovation to education? http:\/\/t.co\/c6vnea8U ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "educreations",
@@ -1386,7 +1386,7 @@ Grailbird.data.tweets_2012_08 =
   "id_str" : "234772022557818881",
   "text" : "RT @hellobuglers: BREAKING: The Spice Girls have been recaptured and are once again safely in the custody of the authorities. The show c ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
