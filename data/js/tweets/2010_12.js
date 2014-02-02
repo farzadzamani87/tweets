@@ -209,7 +209,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "paleofuture",
       "protected" : false,
       "id_str" : "16877374",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3539347461\/1ba8d74ee412af49293ee2a6ddaa3215_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/416281066542886912\/6wFjjOFb_normal.jpeg",
       "id" : 16877374,
       "verified" : false
     }
@@ -303,7 +303,10 @@ Grailbird.data.tweets_2010_12 =
       "id" : 18240896
     } ],
     "media" : [ ],
-    "hashtags" : [ ],
+    "hashtags" : [ {
+      "text" : "wikileaks",
+      "indices" : [ 139, 140 ]
+    } ],
     "urls" : [ ]
   },
   "geo" : { },

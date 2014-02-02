@@ -88,8 +88,8 @@ Grailbird.data.tweets_2010_09 =
     } ],
     "media" : [ ],
     "hashtags" : [ {
-      "text" : "kanye",
-      "indices" : [ 130, 136 ]
+      "text" : "kanyeistracyjordan",
+      "indices" : [ 130, 140 ]
     } ],
     "urls" : [ ]
   },

@@ -36,7 +36,7 @@ Grailbird.data.tweets_2012_02 =
       "id_str" : "80880113",
       "id" : 80880113
     }, {
-      "name" : "educreations",
+      "name" : "Educreations",
       "screen_name" : "educreations",
       "indices" : [ 52, 65 ],
       "id_str" : "223638132",
@@ -356,7 +356,12 @@ Grailbird.data.tweets_2012_02 =
       "text" : "teachers",
       "indices" : [ 112, 121 ]
     } ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/54RewTtl",
+      "expanded_url" : "http:\/\/bit.ly\/z4cArp",
+      "display_url" : "bit.ly\/z4cArp"
+    } ]
   },
   "geo" : { },
   "id_str" : "171998204739600384",
@@ -485,7 +490,37 @@ Grailbird.data.tweets_2012_02 =
       "id_str" : "19261045",
       "id" : 19261045
     } ],
-    "media" : [ ],
+    "media" : [ {
+      "expanded_url" : "http:\/\/twitter.com\/ConDri\/status\/170734364571865088\/photo\/1",
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/ZEuoGfKr",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/Al6R__-CEAArRxH.jpg",
+      "id_str" : "170734364576059392",
+      "id" : 170734364576059392,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Al6R__-CEAArRxH.jpg",
+      "sizes" : [ {
+        "h" : 765,
+        "resize" : "fit",
+        "w" : 1024
+      }, {
+        "h" : 254,
+        "resize" : "fit",
+        "w" : 340
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 448,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 765,
+        "resize" : "fit",
+        "w" : 1024
+      } ],
+      "display_url" : "pic.twitter.com\/ZEuoGfKr"
+    } ],
     "hashtags" : [ {
       "text" : "inittowinit",
       "indices" : [ 46, 58 ]
@@ -664,7 +699,12 @@ Grailbird.data.tweets_2012_02 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/4oe8TLPK",
+      "expanded_url" : "http:\/\/ow.ly\/96SgM",
+      "display_url" : "ow.ly\/96SgM"
+    } ]
   },
   "geo" : { },
   "id_str" : "170179607327293440",
@@ -782,7 +822,12 @@ Grailbird.data.tweets_2012_02 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/3ntq30PJ",
+      "expanded_url" : "http:\/\/amd.im\/OkNI",
+      "display_url" : "amd.im\/OkNI"
+    } ]
   },
   "geo" : { },
   "id_str" : "169512117328818176",
@@ -857,7 +902,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "educreations",
+      "name" : "Educreations",
       "screen_name" : "educreations",
       "indices" : [ 29, 42 ],
       "id_str" : "223638132",

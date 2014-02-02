@@ -2341,7 +2341,37 @@ Grailbird.data.tweets_2013_06 =
       "id_str" : "485187061",
       "id" : 485187061
     } ],
-    "media" : [ ],
+    "media" : [ {
+      "expanded_url" : "http:\/\/twitter.com\/zeynep_erdim\/status\/347038888323338240\/photo\/1",
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/IA8FvfqHNg",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/BNDuB74CUAATcpx.jpg",
+      "id_str" : "347038888327532544",
+      "id" : 347038888327532544,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BNDuB74CUAATcpx.jpg",
+      "sizes" : [ {
+        "h" : 450,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 768,
+        "resize" : "fit",
+        "w" : 1024
+      }, {
+        "h" : 768,
+        "resize" : "fit",
+        "w" : 1024
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 255,
+        "resize" : "fit",
+        "w" : 340
+      } ],
+      "display_url" : "pic.twitter.com\/IA8FvfqHNg"
+    } ],
     "hashtags" : [ {
       "text" : "duranadam",
       "indices" : [ 88, 98 ]
@@ -3021,13 +3051,13 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "educreations",
+      "name" : "Educreations",
       "screen_name" : "educreations",
       "indices" : [ 3, 16 ],
       "id_str" : "223638132",
       "id" : 223638132
     }, {
-      "name" : "educreations",
+      "name" : "Educreations",
       "screen_name" : "educreations",
       "indices" : [ 57, 70 ],
       "id_str" : "223638132",
@@ -3052,8 +3082,16 @@ Grailbird.data.tweets_2013_06 =
       "id" : 267874610
     } ],
     "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
+    "hashtags" : [ {
+      "text" : "iste13",
+      "indices" : [ 143, 144 ]
+    } ],
+    "urls" : [ {
+      "indices" : [ 143, 144 ],
+      "url" : "http:\/\/t.co\/HHdvSvFSO8",
+      "expanded_url" : "http:\/\/edtechparty2013.eventbrite.com\/",
+      "display_url" : "edtechparty2013.eventbrite.com"
+    } ]
   },
   "geo" : { },
   "id_str" : "345559264867270657",
@@ -3062,7 +3100,7 @@ Grailbird.data.tweets_2013_06 =
     "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "educreations",
+        "name" : "Educreations",
         "screen_name" : "educreations",
         "indices" : [ 39, 52 ],
         "id_str" : "223638132",
@@ -3104,7 +3142,7 @@ Grailbird.data.tweets_2013_06 =
     "id" : 345559216632766465,
     "created_at" : "2013-06-14 15:11:52 +0000",
     "user" : {
-      "name" : "educreations",
+      "name" : "Educreations",
       "screen_name" : "educreations",
       "protected" : false,
       "id_str" : "223638132",
@@ -3280,7 +3318,7 @@ Grailbird.data.tweets_2013_06 =
       "screen_name" : "SportsCenter",
       "protected" : false,
       "id_str" : "26257166",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000056243605\/397a42648d71e68327b9179258ec2d90_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/417192959864344576\/wvwStqon_normal.jpeg",
       "id" : 26257166,
       "verified" : true
     }
@@ -3377,7 +3415,37 @@ Grailbird.data.tweets_2013_06 =
       "id_str" : "65375759",
       "id" : 65375759
     } ],
-    "media" : [ ],
+    "media" : [ {
+      "expanded_url" : "http:\/\/twitter.com\/zeynep\/status\/344830993263374336\/photo\/1",
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/wFdHgnIt0Y",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/BMkV9h3CMAE2oLC.jpg",
+      "id_str" : "344830993275957249",
+      "id" : 344830993275957249,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BMkV9h3CMAE2oLC.jpg",
+      "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 816,
+        "resize" : "fit",
+        "w" : 612
+      }, {
+        "h" : 453,
+        "resize" : "fit",
+        "w" : 340
+      }, {
+        "h" : 816,
+        "resize" : "fit",
+        "w" : 612
+      }, {
+        "h" : 800,
+        "resize" : "fit",
+        "w" : 600
+      } ],
+      "display_url" : "pic.twitter.com\/wFdHgnIt0Y"
+    } ],
     "hashtags" : [ {
       "text" : "occupygezi",
       "indices" : [ 21, 32 ]
@@ -3768,7 +3836,7 @@ Grailbird.data.tweets_2013_06 =
       "screen_name" : "radleybalko",
       "protected" : false,
       "id_str" : "15816595",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1765530207\/balkostaffphoto_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/425470478254219264\/ek1eQHbV_normal.jpeg",
       "id" : 15816595,
       "verified" : true
     }
@@ -3822,7 +3890,7 @@ Grailbird.data.tweets_2013_06 =
       "id_str" : "80880113",
       "id" : 80880113
     }, {
-      "name" : "educreations",
+      "name" : "Educreations",
       "screen_name" : "educreations",
       "indices" : [ 92, 105 ],
       "id_str" : "223638132",
@@ -3839,7 +3907,12 @@ Grailbird.data.tweets_2013_06 =
       "text" : "ISTE13",
       "indices" : [ 26, 33 ]
     } ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/LECy61q8Xj",
+      "expanded_url" : "http:\/\/goo.gl\/AqaLu",
+      "display_url" : "goo.gl\/AqaLu"
+    } ]
   },
   "geo" : { },
   "id_str" : "344117646532419585",
@@ -3854,7 +3927,7 @@ Grailbird.data.tweets_2013_06 =
         "id_str" : "80880113",
         "id" : 80880113
       }, {
-        "name" : "educreations",
+        "name" : "Educreations",
         "screen_name" : "educreations",
         "indices" : [ 77, 90 ],
         "id_str" : "223638132",
@@ -4429,7 +4502,10 @@ Grailbird.data.tweets_2013_06 =
       "id" : 237836050
     } ],
     "media" : [ ],
-    "hashtags" : [ ],
+    "hashtags" : [ {
+      "text" : "occupygezi",
+      "indices" : [ 139, 140 ]
+    } ],
     "urls" : [ {
       "indices" : [ 114, 136 ],
       "url" : "http:\/\/t.co\/s2LyJLwkcD",
@@ -4582,13 +4658,7 @@ Grailbird.data.tweets_2013_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "zeynep",
-      "screen_name" : "techsoc",
-      "indices" : [ 3, 11 ],
-      "id_str" : "1481046252",
-      "id" : 1481046252
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]

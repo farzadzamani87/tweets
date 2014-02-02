@@ -2446,7 +2446,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/chrisstreeter.com\" rel=\"nofollow\"\u003EStreeterdroid\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uB514\uD2B8\uB9AD",
+      "name" : "Dietrich",
       "screen_name" : "d2fn",
       "indices" : [ 3, 8 ],
       "id_str" : "16476434",
@@ -2473,7 +2473,7 @@ Grailbird.data.tweets_2013_09 =
     "id" : 171826012617846784,
     "created_at" : "2012-02-21 05:18:08 +0000",
     "user" : {
-      "name" : "\uB514\uD2B8\uB9AD",
+      "name" : "Dietrich",
       "screen_name" : "d2fn",
       "protected" : false,
       "id_str" : "16476434",
@@ -3121,8 +3121,8 @@ Grailbird.data.tweets_2013_09 =
       "name" : "Opscode",
       "screen_name" : "opscode",
       "indices" : [ 93, 101 ],
-      "id_str" : "16333852",
-      "id" : 16333852
+      "id_str" : "2151413550",
+      "id" : 2151413550
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3154,8 +3154,8 @@ Grailbird.data.tweets_2013_09 =
       "name" : "Opscode",
       "screen_name" : "opscode",
       "indices" : [ 0, 8 ],
-      "id_str" : "16333852",
-      "id" : 16333852
+      "id_str" : "2151413550",
+      "id" : 2151413550
     }, {
       "name" : "Chris Streeter",
       "screen_name" : "chrisstreeter",
@@ -3173,7 +3173,7 @@ Grailbird.data.tweets_2013_09 =
   "text" : "@opscode RT @chrisstreeter: Want to discourage contributions to your open source project? See what Opscode does, as they try pretty hard.",
   "id" : 375416161506062338,
   "created_at" : "2013-09-05 00:32:42 +0000",
-  "in_reply_to_screen_name" : "opscode",
+  "in_reply_to_screen_name" : "getchefdotcom",
   "in_reply_to_user_id_str" : "16333852",
   "user" : {
     "name" : "Chris Streeter",

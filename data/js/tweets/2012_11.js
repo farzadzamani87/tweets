@@ -141,7 +141,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "educreations",
+      "name" : "Educreations",
       "screen_name" : "educreations",
       "indices" : [ 3, 16 ],
       "id_str" : "223638132",
@@ -149,7 +149,12 @@ Grailbird.data.tweets_2012_11 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/pqYOH7fl",
+      "expanded_url" : "http:\/\/crunchies2012.techcrunch.com\/nominate\/?MTE6RWR1Y3JlYXRpb25z",
+      "display_url" : "crunchies2012.techcrunch.com\/nominate\/?MTE6\u2026"
+    } ]
   },
   "geo" : { },
   "id_str" : "274291812737372160",
@@ -173,7 +178,7 @@ Grailbird.data.tweets_2012_11 =
     "id" : 274277508411707392,
     "created_at" : "2012-11-29 22:23:48 +0000",
     "user" : {
-      "name" : "educreations",
+      "name" : "Educreations",
       "screen_name" : "educreations",
       "protected" : false,
       "id_str" : "223638132",
@@ -919,7 +924,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "MikeSilver",
       "protected" : false,
       "id_str" : "49883265",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2648060894\/c68b979067f6993dc287f3cb7920ce56_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429800805420761090\/NayJEE_O_normal.jpeg",
       "id" : 49883265,
       "verified" : true
     }
@@ -1373,13 +1378,7 @@ Grailbird.data.tweets_2012_11 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "The Batman",
-      "screen_name" : "God_Damn_Batman",
-      "indices" : [ 3, 19 ],
-      "id_str" : "1176900734",
-      "id" : 1176900734
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1470,7 +1469,7 @@ Grailbird.data.tweets_2012_11 =
       "id_str" : "14269518",
       "id" : 14269518
     }, {
-      "name" : "educreations",
+      "name" : "Educreations",
       "screen_name" : "educreations",
       "indices" : [ 59, 72 ],
       "id_str" : "223638132",
@@ -1980,13 +1979,43 @@ Grailbird.data.tweets_2012_11 =
       "id_str" : "43024351",
       "id" : 43024351
     } ],
-    "media" : [ ],
+    "media" : [ {
+      "expanded_url" : "http:\/\/twitter.com\/SFGiants\/status\/266638757921435649\/photo\/1",
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/V3OhIJia",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/A7NKiaHCMAACoVj.jpg",
+      "id_str" : "266638757929824256",
+      "id" : 266638757929824256,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/A7NKiaHCMAACoVj.jpg",
+      "sizes" : [ {
+        "h" : 170,
+        "resize" : "fit",
+        "w" : 340
+      }, {
+        "h" : 500,
+        "resize" : "fit",
+        "w" : 1000
+      }, {
+        "h" : 500,
+        "resize" : "fit",
+        "w" : 1000
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 300,
+        "resize" : "fit",
+        "w" : 600
+      } ],
+      "display_url" : "pic.twitter.com\/V3OhIJia"
+    } ],
     "hashtags" : [ {
       "text" : "SFGiants",
       "indices" : [ 118, 127 ]
     }, {
-      "text" : "MVPose",
-      "indices" : [ 129, 136 ]
+      "text" : "MVPosey",
+      "indices" : [ 129, 140 ]
     } ],
     "urls" : [ ]
   },
@@ -2047,7 +2076,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "SFGiants",
       "protected" : false,
       "id_str" : "43024351",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000759750349\/e52549ba3e86a1642b87955e2ad1a251_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/420249888396292096\/m2HQ-0_K_normal.jpeg",
       "id" : 43024351,
       "verified" : true
     }

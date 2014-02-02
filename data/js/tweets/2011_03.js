@@ -965,13 +965,7 @@ Grailbird.data.tweets_2011_03 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Keaton Mowery",
-      "screen_name" : "blazingice",
-      "indices" : [ 3, 14 ],
-      "id_str" : "1596222038",
-      "id" : 1596222038
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1383,7 +1377,7 @@ Grailbird.data.tweets_2011_03 =
       "screen_name" : "hotdogsladies",
       "protected" : false,
       "id_str" : "749863",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/51857279\/merlin_icon_184-1_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/416379332324372480\/7k5UxDOt_normal.jpeg",
       "id" : 749863,
       "verified" : true
     }

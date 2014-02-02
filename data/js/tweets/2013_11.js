@@ -1,5 +1,5 @@
 Grailbird.data.tweets_2013_11 = 
-[ {
+ [ {
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
@@ -1158,7 +1158,7 @@ Grailbird.data.tweets_2013_11 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "educreations",
+      "name" : "Educreations",
       "screen_name" : "educreations",
       "indices" : [ 14, 27 ],
       "id_str" : "223638132",
@@ -1366,8 +1366,8 @@ Grailbird.data.tweets_2013_11 =
       "id_str" : "2067201",
       "id" : 2067201
     }, {
-      "name" : "MapBox",
-      "screen_name" : "MapBox",
+      "name" : "Mapbox",
+      "screen_name" : "Mapbox",
       "indices" : [ 103, 110 ],
       "id_str" : "55236002",
       "id" : 55236002
@@ -1396,7 +1396,7 @@ Grailbird.data.tweets_2013_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "source" : "web",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Royce Young",
@@ -1495,7 +1495,7 @@ Grailbird.data.tweets_2013_11 =
       "id_str" : "14807047",
       "id" : 14807047
     }, {
-      "name" : "educreations",
+      "name" : "Educreations",
       "screen_name" : "educreations",
       "indices" : [ 42, 55 ],
       "id_str" : "223638132",

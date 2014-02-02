@@ -890,13 +890,7 @@ Grailbird.data.tweets_2012_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "edcanvas",
-      "screen_name" : "edcanvas",
-      "indices" : [ 3, 12 ],
-      "id_str" : "1640968062",
-      "id" : 1640968062
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
@@ -1208,7 +1202,12 @@ Grailbird.data.tweets_2012_09 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/px7DywTi",
+      "expanded_url" : "http:\/\/www.redcross.org\/support\/volunteer",
+      "display_url" : "redcross.org\/support\/volunt\u2026"
+    } ]
   },
   "geo" : { },
   "id_str" : "248140229087723520",
@@ -1236,7 +1235,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "zachbraff",
       "protected" : false,
       "id_str" : "76997832",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000163567555\/50f4badc5201c194f9d0f94ffe2c9bbe_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/416698729777733632\/MMzGb-IQ_normal.jpeg",
       "id" : 76997832,
       "verified" : true
     }
@@ -1272,8 +1271,16 @@ Grailbird.data.tweets_2012_09 =
     "hashtags" : [ {
       "text" : "SPED",
       "indices" : [ 74, 79 ]
+    }, {
+      "text" : "edtech",
+      "indices" : [ 139, 140 ]
     } ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/HnJ5mijZ",
+      "expanded_url" : "http:\/\/www.newschools.org\/blog\/goalbook",
+      "display_url" : "newschools.org\/blog\/goalbook"
+    } ]
   },
   "geo" : { },
   "id_str" : "248060074315112449",

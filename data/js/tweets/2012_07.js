@@ -493,6 +493,12 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 3, 16 ],
       "id_str" : "18739136",
       "id" : 18739136
+    }, {
+      "name" : "Imagine K12",
+      "screen_name" : "imaginek12",
+      "indices" : [ 139, 140 ],
+      "id_str" : "267753999",
+      "id" : 267753999
     } ],
     "media" : [ ],
     "hashtags" : [ {
@@ -1256,7 +1262,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "\u003Ca href=\"http:\/\/twitterrific.com\" rel=\"nofollow\"\u003ETwitterrific for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "educreations",
+      "name" : "Educreations",
       "screen_name" : "educreations",
       "indices" : [ 12, 25 ],
       "id_str" : "223638132",
@@ -2359,8 +2365,16 @@ Grailbird.data.tweets_2012_07 =
       "id" : 35993
     } ],
     "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
+    "hashtags" : [ {
+      "text" : "Crikey",
+      "indices" : [ 139, 140 ]
+    } ],
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/pq9Kp4OG",
+      "expanded_url" : "http:\/\/daringfireball.net\/linked\/2012\/07\/03\/microsoft-vf",
+      "display_url" : "daringfireball.net\/linked\/2012\/07\u2026"
+    } ]
   },
   "geo" : { },
   "id_str" : "220237497668616192",
@@ -2475,7 +2489,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "zachbraff",
       "protected" : false,
       "id_str" : "76997832",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000163567555\/50f4badc5201c194f9d0f94ffe2c9bbe_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/416698729777733632\/MMzGb-IQ_normal.jpeg",
       "id" : 76997832,
       "verified" : true
     }
@@ -2669,7 +2683,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "waxpancake",
       "protected" : false,
       "id_str" : "13461",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000769512512\/70a13dfa2d062680224c4d05889f8f67_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/416642320574844928\/Gz7V2B6r_normal.jpeg",
       "id" : 13461,
       "verified" : false
     }

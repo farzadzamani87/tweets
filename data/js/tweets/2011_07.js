@@ -167,7 +167,12 @@ Grailbird.data.tweets_2011_07 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/7ZIJ3Nz",
+      "expanded_url" : "http:\/\/youtu.be\/C07hQisoFSg",
+      "display_url" : "youtu.be\/C07hQisoFSg"
+    } ]
   },
   "geo" : { },
   "id_str" : "95965274804719616",
@@ -221,7 +226,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "educreations",
+      "name" : "Educreations",
       "screen_name" : "educreations",
       "indices" : [ 3, 16 ],
       "id_str" : "223638132",
@@ -254,7 +259,7 @@ Grailbird.data.tweets_2011_07 =
     "id" : 95739891245252608,
     "created_at" : "2011-07-26 06:19:03 +0000",
     "user" : {
-      "name" : "educreations",
+      "name" : "Educreations",
       "screen_name" : "educreations",
       "protected" : false,
       "id_str" : "223638132",
@@ -431,7 +436,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "ccgus",
       "protected" : false,
       "id_str" : "710563",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1508498145\/stevie_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/422159461793271808\/EjGzNJBA_normal.png",
       "id" : 710563,
       "verified" : false
     }
@@ -660,13 +665,7 @@ Grailbird.data.tweets_2011_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Follow @SFGiantsFans",
-      "screen_name" : "SF_Giants",
-      "indices" : [ 3, 13 ],
-      "id_str" : "121267106",
-      "id" : 121267106
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ {
       "text" : "YouKnowYoureADodgerFanWhen",
@@ -1261,7 +1260,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "ReadyForZero",
       "protected" : false,
       "id_str" : "186603541",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1710438120\/rfz_twitter_avatar_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/413913341979918337\/8JA61Bat_normal.png",
       "id" : 186603541,
       "verified" : false
     }

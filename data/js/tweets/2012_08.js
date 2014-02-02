@@ -467,7 +467,7 @@ Grailbird.data.tweets_2012_08 =
       "id_str" : "613014542",
       "id" : 613014542
     }, {
-      "name" : "educreations",
+      "name" : "Educreations",
       "screen_name" : "educreations",
       "indices" : [ 49, 62 ],
       "id_str" : "223638132",
@@ -734,14 +734,17 @@ Grailbird.data.tweets_2012_08 =
       "id_str" : "27247847",
       "id" : 27247847
     }, {
-      "name" : "educreations",
+      "name" : "Educreations",
       "screen_name" : "educreations",
       "indices" : [ 11, 24 ],
       "id_str" : "223638132",
       "id" : 223638132
     } ],
     "media" : [ ],
-    "hashtags" : [ ],
+    "hashtags" : [ {
+      "text" : "edjobs",
+      "indices" : [ 139, 140 ]
+    } ],
     "urls" : [ {
       "indices" : [ 116, 136 ],
       "url" : "http:\/\/t.co\/c6vnea8U",
@@ -756,7 +759,7 @@ Grailbird.data.tweets_2012_08 =
     "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "educreations",
+        "name" : "Educreations",
         "screen_name" : "educreations",
         "indices" : [ 1, 14 ],
         "id_str" : "223638132",
@@ -1029,11 +1032,11 @@ Grailbird.data.tweets_2012_08 =
       "id_str" : "462336970",
       "id" : 462336970
     }, {
-      "name" : "@TE",
-      "screen_name" : "TE",
-      "indices" : [ 133, 136 ],
-      "id_str" : "5632292",
-      "id" : 5632292
+      "name" : "TechCrunch",
+      "screen_name" : "TechCrunch",
+      "indices" : [ 133, 140 ],
+      "id_str" : "816653",
+      "id" : 816653
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1234,7 +1237,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "educreations",
+      "name" : "Educreations",
       "screen_name" : "educreations",
       "indices" : [ 8, 21 ],
       "id_str" : "223638132",
@@ -1457,7 +1460,7 @@ Grailbird.data.tweets_2012_08 =
       "id_str" : "48900286",
       "id" : 48900286
     }, {
-      "name" : "educreations",
+      "name" : "Educreations",
       "screen_name" : "educreations",
       "indices" : [ 45, 58 ],
       "id_str" : "223638132",

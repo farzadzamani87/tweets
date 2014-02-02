@@ -990,7 +990,12 @@ Grailbird.data.tweets_2013_07 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/5ePl6opTXi",
+      "expanded_url" : "http:\/\/www.chesnok.com\/daily\/2013\/07\/24\/what-open-source-developers-can-do-for-teachers-volunteer-to-speak-in-a-classroom\/?utm_source=rss&utm_medium=rss&utm_campaign=what-open-source-developers-can-do-for-teachers-volunteer-to-speak-in-a-classroom",
+      "display_url" : "chesnok.com\/daily\/2013\/07\/\u2026"
+    } ]
   },
   "geo" : { },
   "id_str" : "360405355005612032",
@@ -2044,7 +2049,12 @@ Grailbird.data.tweets_2013_07 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/0NrMQgSdTp",
+      "expanded_url" : "http:\/\/www.imaginek12.com\/",
+      "display_url" : "imaginek12.com"
+    } ]
   },
   "geo" : { },
   "id_str" : "357947370685734913",
@@ -2937,13 +2947,13 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bryan Veloso",
+      "name" : "Bryan Veloso '14",
       "screen_name" : "bryanveloso",
       "indices" : [ 0, 12 ],
       "id_str" : "615403",
       "id" : 615403
     }, {
-      "name" : "Daniel Greenfeld",
+      "name" : "Daniel Roy Greenfeld",
       "screen_name" : "pydanny",
       "indices" : [ 13, 21 ],
       "id_str" : "14835908",
@@ -3938,7 +3948,7 @@ Grailbird.data.tweets_2013_07 =
       "id_str" : "22721086",
       "id" : 22721086
     }, {
-      "name" : "educreations",
+      "name" : "Educreations",
       "screen_name" : "educreations",
       "indices" : [ 56, 69 ],
       "id_str" : "223638132",

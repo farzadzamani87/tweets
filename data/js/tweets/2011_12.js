@@ -47,9 +47,21 @@ Grailbird.data.tweets_2011_12 =
       "indices" : [ 3, 19 ],
       "id_str" : "37973069",
       "id" : 37973069
+    }, {
+      "name" : "Educreations",
+      "screen_name" : "educreations",
+      "indices" : [ 139, 140 ],
+      "id_str" : "223638132",
+      "id" : 223638132
     } ],
     "media" : [ ],
-    "hashtags" : [ ],
+    "hashtags" : [ {
+      "text" : "edtech",
+      "indices" : [ 139, 140 ]
+    }, {
+      "text" : "k12",
+      "indices" : [ 139, 140 ]
+    } ],
     "urls" : [ {
       "indices" : [ 104, 124 ],
       "url" : "http:\/\/t.co\/aFC65aZ0",
@@ -64,7 +76,7 @@ Grailbird.data.tweets_2011_12 =
     "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootSuite\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "educreations",
+        "name" : "Educreations",
         "screen_name" : "educreations",
         "indices" : [ 104, 117 ],
         "id_str" : "223638132",
@@ -290,7 +302,7 @@ Grailbird.data.tweets_2011_12 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "educreations",
+      "name" : "Educreations",
       "screen_name" : "educreations",
       "indices" : [ 4, 17 ],
       "id_str" : "223638132",
@@ -438,7 +450,7 @@ Grailbird.data.tweets_2011_12 =
       "id_str" : "15793108",
       "id" : 15793108
     }, {
-      "name" : "alex choi ",
+      "name" : "alex choi \u2615\uFE0F",
       "screen_name" : "xc",
       "indices" : [ 20, 23 ],
       "id_str" : "26233",
@@ -461,7 +473,7 @@ Grailbird.data.tweets_2011_12 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "alex choi ",
+        "name" : "alex choi \u2615\uFE0F",
         "screen_name" : "xc",
         "indices" : [ 3, 6 ],
         "id_str" : "26233",
@@ -585,7 +597,7 @@ Grailbird.data.tweets_2011_12 =
       "id_str" : "19261045",
       "id" : 19261045
     }, {
-      "name" : "educreations",
+      "name" : "Educreations",
       "screen_name" : "educreations",
       "indices" : [ 23, 36 ],
       "id_str" : "223638132",
@@ -666,7 +678,7 @@ Grailbird.data.tweets_2011_12 =
       "id_str" : "19261045",
       "id" : 19261045
     }, {
-      "name" : "educreations",
+      "name" : "Educreations",
       "screen_name" : "educreations",
       "indices" : [ 49, 62 ],
       "id_str" : "223638132",
@@ -765,7 +777,7 @@ Grailbird.data.tweets_2011_12 =
       "id_str" : "63241187",
       "id" : 63241187
     }, {
-      "name" : "educreations",
+      "name" : "Educreations",
       "screen_name" : "educreations",
       "indices" : [ 14, 27 ],
       "id_str" : "223638132",
@@ -773,7 +785,12 @@ Grailbird.data.tweets_2011_12 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/An90h7A6",
+      "expanded_url" : "http:\/\/fb.me\/S2ZG201e",
+      "display_url" : "fb.me\/S2ZG201e"
+    } ]
   },
   "geo" : { },
   "id_str" : "146648434328346624",
@@ -782,7 +799,7 @@ Grailbird.data.tweets_2011_12 =
     "source" : "\u003Ca href=\"http:\/\/www.facebook.com\/twitter\" rel=\"nofollow\"\u003EFacebook\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "educreations",
+        "name" : "Educreations",
         "screen_name" : "educreations",
         "indices" : [ 0, 13 ],
         "id_str" : "223638132",
@@ -897,15 +914,26 @@ Grailbird.data.tweets_2011_12 =
       "id_str" : "14899012",
       "id" : 14899012
     }, {
-      "name" : "educreations",
+      "name" : "Educreations",
       "screen_name" : "educreations",
       "indices" : [ 50, 63 ],
       "id_str" : "223638132",
       "id" : 223638132
+    }, {
+      "name" : "Imagine K12",
+      "screen_name" : "imaginek12",
+      "indices" : [ 139, 140 ],
+      "id_str" : "267753999",
+      "id" : 267753999
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/5XW0bvOu",
+      "expanded_url" : "http:\/\/su.pr\/1WFpCD",
+      "display_url" : "su.pr\/1WFpCD"
+    } ]
   },
   "geo" : { },
   "id_str" : "146314183670116352",
@@ -914,7 +942,7 @@ Grailbird.data.tweets_2011_12 =
     "source" : "web",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "educreations",
+        "name" : "Educreations",
         "screen_name" : "educreations",
         "indices" : [ 30, 43 ],
         "id_str" : "223638132",
@@ -1029,7 +1057,7 @@ Grailbird.data.tweets_2011_12 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "educreations",
+      "name" : "Educreations",
       "screen_name" : "educreations",
       "indices" : [ 16, 29 ],
       "id_str" : "223638132",
@@ -1071,7 +1099,7 @@ Grailbird.data.tweets_2011_12 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "educreations",
+      "name" : "Educreations",
       "screen_name" : "educreations",
       "indices" : [ 3, 16 ],
       "id_str" : "223638132",
@@ -1082,7 +1110,12 @@ Grailbird.data.tweets_2011_12 =
       "text" : "iPad",
       "indices" : [ 87, 92 ]
     } ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/bBnwUw9t",
+      "expanded_url" : "http:\/\/bit.ly\/utdO56",
+      "display_url" : "bit.ly\/utdO56"
+    } ]
   },
   "geo" : { },
   "id_str" : "146274557874016256",
@@ -1109,7 +1142,7 @@ Grailbird.data.tweets_2011_12 =
     "id" : 146209418722295808,
     "created_at" : "2011-12-12 12:46:56 +0000",
     "user" : {
-      "name" : "educreations",
+      "name" : "Educreations",
       "screen_name" : "educreations",
       "protected" : false,
       "id_str" : "223638132",
@@ -1139,7 +1172,7 @@ Grailbird.data.tweets_2011_12 =
       "id_str" : "291920171",
       "id" : 291920171
     }, {
-      "name" : "educreations",
+      "name" : "Educreations",
       "screen_name" : "educreations",
       "indices" : [ 28, 41 ],
       "id_str" : "223638132",
@@ -1161,7 +1194,7 @@ Grailbird.data.tweets_2011_12 =
     "source" : "web",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "educreations",
+        "name" : "Educreations",
         "screen_name" : "educreations",
         "indices" : [ 12, 25 ],
         "id_str" : "223638132",
@@ -1297,7 +1330,12 @@ Grailbird.data.tweets_2011_12 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/OKS395xJ",
+      "expanded_url" : "http:\/\/yhoo.it\/s1du3z",
+      "display_url" : "yhoo.it\/s1du3z"
+    } ]
   },
   "geo" : { },
   "id_str" : "145016353441595392",

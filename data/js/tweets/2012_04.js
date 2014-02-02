@@ -308,13 +308,7 @@ Grailbird.data.tweets_2012_04 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Bill Simmons 1.0",
-      "screen_name" : "SportsGuy33",
-      "indices" : [ 3, 15 ],
-      "id_str" : "941724637",
-      "id" : 941724637
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -498,7 +492,7 @@ Grailbird.data.tweets_2012_04 =
       "id_str" : "16333991",
       "id" : 16333991
     }, {
-      "name" : "educreations",
+      "name" : "Educreations",
       "screen_name" : "educreations",
       "indices" : [ 53, 66 ],
       "id_str" : "223638132",
@@ -843,7 +837,7 @@ Grailbird.data.tweets_2012_04 =
       "id_str" : "16859522",
       "id" : 16859522
     }, {
-      "name" : "Daniel Greenfeld",
+      "name" : "Daniel Roy Greenfeld",
       "screen_name" : "pydanny",
       "indices" : [ 12, 20 ],
       "id_str" : "14835908",
@@ -882,7 +876,7 @@ Grailbird.data.tweets_2012_04 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Daniel Greenfeld",
+      "name" : "Daniel Roy Greenfeld",
       "screen_name" : "pydanny",
       "indices" : [ 0, 8 ],
       "id_str" : "14835908",

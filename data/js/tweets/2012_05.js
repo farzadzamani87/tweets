@@ -683,7 +683,7 @@ Grailbird.data.tweets_2012_05 =
       "screen_name" : "ben_mathes",
       "protected" : false,
       "id_str" : "14207787",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000696041679\/3600113643c0e1c9369d36f8eea79c0f_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/428669129655353345\/33A4oaTt_normal.jpeg",
       "id" : 14207787,
       "verified" : false
     }
@@ -1158,7 +1158,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "educreations",
+      "name" : "Educreations",
       "screen_name" : "educreations",
       "indices" : [ 15, 28 ],
       "id_str" : "223638132",
@@ -1446,7 +1446,7 @@ Grailbird.data.tweets_2012_05 =
       "id_str" : "15668311",
       "id" : 15668311
     }, {
-      "name" : "educreations",
+      "name" : "Educreations",
       "screen_name" : "educreations",
       "indices" : [ 39, 52 ],
       "id_str" : "223638132",

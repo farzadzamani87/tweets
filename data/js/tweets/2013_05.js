@@ -4137,7 +4137,7 @@ Grailbird.data.tweets_2013_05 =
       "screen_name" : "NeinQuarterly",
       "protected" : false,
       "id_str" : "458966079",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000803402082\/ed4c25faaa25fbba40b11fabe8241a59_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000829092209\/ed4c25faaa25fbba40b11fabe8241a59_normal.jpeg",
       "id" : 458966079,
       "verified" : false
     }

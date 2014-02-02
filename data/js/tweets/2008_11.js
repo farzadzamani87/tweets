@@ -94,28 +94,6 @@ Grailbird.data.tweets_2008_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1023659083",
-  "text" : "Heading to GV after a stopover in Marin.",
-  "id" : 1023659083,
-  "created_at" : "2008-11-26 00:00:00 +0000",
-  "user" : {
-    "name" : "Chris Streeter",
-    "screen_name" : "chrisstreeter",
-    "protected" : false,
-    "id_str" : "15344895",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
-    "id" : 15344895,
-    "verified" : false
-  }
-}, {
   "source" : "web",
   "entities" : {
     "user_mentions" : [ ],
@@ -127,6 +105,28 @@ Grailbird.data.tweets_2008_11 =
   "id_str" : "1025134438",
   "text" : "In Grass Valley.",
   "id" : 1025134438,
+  "created_at" : "2008-11-26 00:00:00 +0000",
+  "user" : {
+    "name" : "Chris Streeter",
+    "screen_name" : "chrisstreeter",
+    "protected" : false,
+    "id_str" : "15344895",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "id" : 15344895,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1023659083",
+  "text" : "Heading to GV after a stopover in Marin.",
+  "id" : 1023659083,
   "created_at" : "2008-11-26 00:00:00 +0000",
   "user" : {
     "name" : "Chris Streeter",

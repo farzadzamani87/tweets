@@ -533,7 +533,7 @@ Grailbird.data.tweets_2011_10 =
       "id_str" : "15808765",
       "id" : 15808765
     }, {
-      "name" : "educreations",
+      "name" : "Educreations",
       "screen_name" : "educreations",
       "indices" : [ 24, 37 ],
       "id_str" : "223638132",
@@ -566,7 +566,7 @@ Grailbird.data.tweets_2011_10 =
   "source" : "\u003Ca href=\"http:\/\/flickr.com\/services\/twitter\/\" rel=\"nofollow\"\u003EFlickr\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "educreations",
+      "name" : "Educreations",
       "screen_name" : "educreations",
       "indices" : [ 22, 35 ],
       "id_str" : "223638132",
@@ -1168,7 +1168,12 @@ Grailbird.data.tweets_2011_10 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/0tG3vM06",
+      "expanded_url" : "http:\/\/www.thenational.ae\/news\/uae-news\/blackberry-cuts-made-roads-safer-police-say",
+      "display_url" : "thenational.ae\/news\/uae-news\/\u2026"
+    } ]
   },
   "geo" : { },
   "id_str" : "125584240682352641",

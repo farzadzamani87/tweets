@@ -151,12 +151,6 @@ Grailbird.data.tweets_2010_07 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bill Simmons 1.0",
-      "screen_name" : "SportsGuy33",
-      "indices" : [ 3, 15 ],
-      "id_str" : "941724637",
-      "id" : 941724637
-    }, {
       "name" : "Jeff Lang",
       "screen_name" : "JDLang31",
       "indices" : [ 74, 83 ],

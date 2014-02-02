@@ -61,7 +61,7 @@ Grailbird.data.tweets_2011_05 =
       "screen_name" : "mager",
       "protected" : false,
       "id_str" : "632023",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000580850126\/71346908cc2dfe58a6b3b6278631c6a1_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/413766061117304832\/x8LTW7ZZ_normal.jpeg",
       "id" : 632023,
       "verified" : false
     }
@@ -307,13 +307,7 @@ Grailbird.data.tweets_2011_05 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Mega Trev",
-      "screen_name" : "secretsquirrel",
-      "indices" : [ 3, 18 ],
-      "id_str" : "1659510655",
-      "id" : 1659510655
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]

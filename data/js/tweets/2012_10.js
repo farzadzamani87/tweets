@@ -110,7 +110,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "robdelaney",
       "protected" : false,
       "id_str" : "22084427",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1643163355\/Screen_shot_2011-11-16_at_9.08.14_PM_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/418220613992345600\/izWms6G5_normal.jpeg",
       "id" : 22084427,
       "verified" : true
     }
@@ -338,7 +338,12 @@ Grailbird.data.tweets_2012_10 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/uaNpiFng",
+      "expanded_url" : "http:\/\/bit.ly\/SVyDSz",
+      "display_url" : "bit.ly\/SVyDSz"
+    } ]
   },
   "geo" : { },
   "id_str" : "262991434213388288",
@@ -1802,7 +1807,7 @@ Grailbird.data.tweets_2012_10 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Daniel Greenfeld",
+      "name" : "Daniel Roy Greenfeld",
       "screen_name" : "pydanny",
       "indices" : [ 0, 8 ],
       "id_str" : "14835908",

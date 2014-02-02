@@ -1342,10 +1342,21 @@ Grailbird.data.tweets_2013_04 =
       "indices" : [ 3, 14 ],
       "id_str" : "816653",
       "id" : 816653
+    }, {
+      "name" : "rip empson",
+      "screen_name" : "ripemp",
+      "indices" : [ 139, 140 ],
+      "id_str" : "152476366",
+      "id" : 152476366
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/VwuwHiREsb",
+      "expanded_url" : "http:\/\/tcrn.ch\/12c0sLX",
+      "display_url" : "tcrn.ch\/12c0sLX"
+    } ]
   },
   "geo" : { },
   "id_str" : "326776821750304768",
@@ -1410,7 +1421,12 @@ Grailbird.data.tweets_2013_04 =
       "text" : "ik12",
       "indices" : [ 111, 116 ]
     } ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/hhFPk1mlwY",
+      "expanded_url" : "http:\/\/ow.ly\/klNic",
+      "display_url" : "ow.ly\/klNic"
+    } ]
   },
   "geo" : { },
   "id_str" : "326775260798124032",
@@ -1758,7 +1774,7 @@ Grailbird.data.tweets_2013_04 =
       "screen_name" : "cocoalabs",
       "protected" : false,
       "id_str" : "689183",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000700777461\/29fcec09644dc75e4822c9a87c8ac65e_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/426194126938578944\/PUI2rAfs_normal.jpeg",
       "id" : 689183,
       "verified" : false
     }
@@ -2431,7 +2447,12 @@ Grailbird.data.tweets_2013_04 =
       "text" : "Boston",
       "indices" : [ 32, 39 ]
     } ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/LGLFACI3oK",
+      "expanded_url" : "http:\/\/bit.ly\/12g0Hqo",
+      "display_url" : "bit.ly\/12g0Hqo"
+    } ]
   },
   "geo" : { },
   "id_str" : "323899679827980289",
@@ -2462,7 +2483,7 @@ Grailbird.data.tweets_2013_04 =
       "screen_name" : "Drsforamerica",
       "protected" : false,
       "id_str" : "25911044",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000533484657\/f5f500be44ec7c2fc7254551f278fd8b_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000866965902\/WWlnco0Z_normal.jpeg",
       "id" : 25911044,
       "verified" : false
     }
@@ -2535,7 +2556,7 @@ Grailbird.data.tweets_2013_04 =
       "screen_name" : "AntDeRosa",
       "protected" : false,
       "id_str" : "1140451",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000806194292\/c215139a2ec9f6f1bd8e5e8cbb125978_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/416251441557143552\/zbtv4WAh_normal.png",
       "id" : 1140451,
       "verified" : true
     }
@@ -2856,7 +2877,7 @@ Grailbird.data.tweets_2013_04 =
       "screen_name" : "BoxHQ",
       "protected" : false,
       "id_str" : "14936846",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1682092588\/GooglePlus_200x200_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/423565922092072960\/B59pjQDv_normal.jpeg",
       "id" : 14936846,
       "verified" : true
     }
@@ -2894,7 +2915,37 @@ Grailbird.data.tweets_2013_04 =
       "id_str" : "15344895",
       "id" : 15344895
     } ],
-    "media" : [ ],
+    "media" : [ {
+      "expanded_url" : "http:\/\/twitter.com\/imaginek12\/status\/322440361748332544\/photo\/1",
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/Aaz7QYfxXr",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/BHmJzPfCAAA2IYJ.jpg",
+      "id_str" : "322440361756721152",
+      "id" : 322440361756721152,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BHmJzPfCAAA2IYJ.jpg",
+      "sizes" : [ {
+        "h" : 450,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 768,
+        "resize" : "fit",
+        "w" : 1024
+      }, {
+        "h" : 768,
+        "resize" : "fit",
+        "w" : 1024
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 255,
+        "resize" : "fit",
+        "w" : 340
+      } ],
+      "display_url" : "pic.twitter.com\/Aaz7QYfxXr"
+    } ],
     "hashtags" : [ {
       "text" : "ik12",
       "indices" : [ 26, 31 ]

@@ -30,9 +30,9 @@ Grailbird.data.tweets_2010_03 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "11227825888",
-  "text" : "Last night in Peru for a couple weeks.  Leaving Arequipa tomorrow.  http:\/\/flic.kr\/p\/7P9kB9",
-  "id" : 11227825888,
+  "id_str" : "11247141853",
+  "text" : "Handstand at 4650 Meters Above Sea Level http:\/\/flic.kr\/p\/7PhQ2N",
+  "id" : 11247141853,
   "created_at" : "2010-03-29 00:00:00 +0000",
   "user" : {
     "name" : "Chris Streeter",
@@ -52,9 +52,9 @@ Grailbird.data.tweets_2010_03 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "11247141853",
-  "text" : "Handstand at 4650 Meters Above Sea Level http:\/\/flic.kr\/p\/7PhQ2N",
-  "id" : 11247141853,
+  "id_str" : "11227825888",
+  "text" : "Last night in Peru for a couple weeks.  Leaving Arequipa tomorrow.  http:\/\/flic.kr\/p\/7P9kB9",
+  "id" : 11227825888,
   "created_at" : "2010-03-29 00:00:00 +0000",
   "user" : {
     "name" : "Chris Streeter",

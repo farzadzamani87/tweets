@@ -11,7 +11,12 @@ Grailbird.data.tweets_2012_01 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/jFX3GxSD",
+      "expanded_url" : "http:\/\/nyti.ms\/z53swK",
+      "display_url" : "nyti.ms\/z53swK"
+    } ]
   },
   "geo" : { },
   "id_str" : "164564325678329856",
@@ -65,7 +70,7 @@ Grailbird.data.tweets_2012_01 =
       "id_str" : "14818177",
       "id" : 14818177
     }, {
-      "name" : "educreations",
+      "name" : "Educreations",
       "screen_name" : "educreations",
       "indices" : [ 68, 81 ],
       "id_str" : "223638132",
@@ -87,7 +92,7 @@ Grailbird.data.tweets_2012_01 =
     "source" : "\u003Ca href=\"http:\/\/www.educreations.com\" rel=\"nofollow\"\u003EEducreations for iPad\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "educreations",
+        "name" : "Educreations",
         "screen_name" : "educreations",
         "indices" : [ 49, 62 ],
         "id_str" : "223638132",
@@ -522,17 +527,23 @@ Grailbird.data.tweets_2012_01 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "educreations",
+      "name" : "Educreations",
       "screen_name" : "educreations",
       "indices" : [ 3, 16 ],
       "id_str" : "223638132",
       "id" : 223638132
     }, {
-      "name" : "Eduardo Sterblitch",
-      "screen_name" : "edu",
-      "indices" : [ 132, 136 ],
-      "id_str" : "18088810",
-      "id" : 18088810
+      "name" : "Educreations",
+      "screen_name" : "educreations",
+      "indices" : [ 132, 140 ],
+      "id_str" : "223638132",
+      "id" : 223638132
+    }, {
+      "name" : "Scientific American",
+      "screen_name" : "sciam",
+      "indices" : [ 139, 140 ],
+      "id_str" : "14647570",
+      "id" : 14647570
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -550,7 +561,7 @@ Grailbird.data.tweets_2012_01 =
     "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "educreations",
+        "name" : "Educreations",
         "screen_name" : "educreations",
         "indices" : [ 114, 127 ],
         "id_str" : "223638132",
@@ -577,7 +588,7 @@ Grailbird.data.tweets_2012_01 =
     "id" : 160435170313383937,
     "created_at" : "2012-01-20 18:55:00 +0000",
     "user" : {
-      "name" : "educreations",
+      "name" : "Educreations",
       "screen_name" : "educreations",
       "protected" : false,
       "id_str" : "223638132",

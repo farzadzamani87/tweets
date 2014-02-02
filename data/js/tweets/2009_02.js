@@ -666,28 +666,6 @@ Grailbird.data.tweets_2009_02 =
     "verified" : false
   }
 }, {
-  "source" : "web",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1178401754",
-  "text" : "Decided to stop twittering my crossfitting. Looking for another place to record it all... Maybe another twitter account?",
-  "id" : 1178401754,
-  "created_at" : "2009-02-05 00:00:00 +0000",
-  "user" : {
-    "name" : "Chris Streeter",
-    "screen_name" : "chrisstreeter",
-    "protected" : false,
-    "id_str" : "15344895",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
-    "id" : 15344895,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/twitterrific.com\" rel=\"nofollow\"\u003ETwitterrific\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -699,6 +677,28 @@ Grailbird.data.tweets_2009_02 =
   "id_str" : "1180767008",
   "text" : "Making an offer on a house.",
   "id" : 1180767008,
+  "created_at" : "2009-02-05 00:00:00 +0000",
+  "user" : {
+    "name" : "Chris Streeter",
+    "screen_name" : "chrisstreeter",
+    "protected" : false,
+    "id_str" : "15344895",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "id" : 15344895,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1178401754",
+  "text" : "Decided to stop twittering my crossfitting. Looking for another place to record it all... Maybe another twitter account?",
+  "id" : 1178401754,
   "created_at" : "2009-02-05 00:00:00 +0000",
   "user" : {
     "name" : "Chris Streeter",

@@ -120,7 +120,7 @@ Grailbird.data.tweets_2012_03 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "educreations",
+      "name" : "Educreations",
       "screen_name" : "educreations",
       "indices" : [ 4, 17 ],
       "id_str" : "223638132",
@@ -329,7 +329,7 @@ Grailbird.data.tweets_2012_03 =
       "id_str" : "101595994",
       "id" : 101595994
     }, {
-      "name" : "educreations",
+      "name" : "Educreations",
       "screen_name" : "educreations",
       "indices" : [ 84, 97 ],
       "id_str" : "223638132",
@@ -1456,7 +1456,7 @@ Grailbird.data.tweets_2012_03 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "educreations",
+      "name" : "Educreations",
       "screen_name" : "educreations",
       "indices" : [ 13, 26 ],
       "id_str" : "223638132",
@@ -1621,7 +1621,12 @@ Grailbird.data.tweets_2012_03 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/YZJBCnFE",
+      "expanded_url" : "http:\/\/edshelf.com",
+      "display_url" : "edshelf.com"
+    } ]
   },
   "geo" : { },
   "id_str" : "175974621072470017",

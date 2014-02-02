@@ -56,7 +56,7 @@ Grailbird.data.tweets_2013_01 =
       "screen_name" : "extragrumpycat",
       "protected" : false,
       "id_str" : "601298466",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000327332138\/4f2afe9af2d8a9ab7f9c350dfc4b6b8e_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429723362076540929\/mSYuIaIM_normal.png",
       "id" : 601298466,
       "verified" : false
     }
@@ -1031,7 +1031,10 @@ Grailbird.data.tweets_2013_01 =
       "id" : 42562446
     } ],
     "media" : [ ],
-    "hashtags" : [ ],
+    "hashtags" : [ {
+      "text" : "GSW",
+      "indices" : [ 139, 140 ]
+    } ],
     "urls" : [ ]
   },
   "geo" : { },
@@ -1064,7 +1067,7 @@ Grailbird.data.tweets_2013_01 =
       "screen_name" : "Dlee042",
       "protected" : false,
       "id_str" : "40190028",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3465705072\/5675be05e8d4368beba43170429a47c6_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/420360367206699008\/v8UMB4h1_normal.jpeg",
       "id" : 40190028,
       "verified" : true
     }
@@ -2327,7 +2330,7 @@ Grailbird.data.tweets_2013_01 =
       "screen_name" : "SportsCenter",
       "protected" : false,
       "id_str" : "26257166",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000056243605\/397a42648d71e68327b9179258ec2d90_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/417192959864344576\/wvwStqon_normal.jpeg",
       "id" : 26257166,
       "verified" : true
     }
@@ -2612,7 +2615,7 @@ Grailbird.data.tweets_2013_01 =
       "id_str" : "41083399",
       "id" : 41083399
     }, {
-      "name" : "educreations",
+      "name" : "Educreations",
       "screen_name" : "educreations",
       "indices" : [ 61, 74 ],
       "id_str" : "223638132",
@@ -2863,10 +2866,10 @@ Grailbird.data.tweets_2013_01 =
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 123, 136 ],
-      "url" : "http:\/\/t.co\/M",
-      "expanded_url" : "https:\/\/twitter.com\/markbach",
-      "display_url" : "twitter.com\/markbach"
+      "indices" : [ 123, 140 ],
+      "url" : "http:\/\/t.co\/M5DG9pRj",
+      "expanded_url" : "http:\/\/ow.ly\/gKnG5",
+      "display_url" : "ow.ly\/gKnG5"
     } ]
   },
   "geo" : { },

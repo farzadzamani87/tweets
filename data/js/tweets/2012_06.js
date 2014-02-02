@@ -36,7 +36,7 @@ Grailbird.data.tweets_2012_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "educreations",
+      "name" : "Educreations",
       "screen_name" : "educreations",
       "indices" : [ 12, 25 ],
       "id_str" : "223638132",
@@ -426,12 +426,9 @@ Grailbird.data.tweets_2012_06 =
   },
   "geo" : { },
   "id_str" : "217713277407465472",
-  "in_reply_to_user_id" : 284643435,
   "text" : "@ClassConnectInc where you guys at today? No hugs for teachers?",
   "id" : 217713277407465472,
   "created_at" : "2012-06-26 20:17:44 +0000",
-  "in_reply_to_screen_name" : "TeamClaco",
-  "in_reply_to_user_id_str" : "284643435",
   "user" : {
     "name" : "Chris Streeter",
     "screen_name" : "chrisstreeter",
@@ -634,7 +631,7 @@ Grailbird.data.tweets_2012_06 =
       "screen_name" : "holman",
       "protected" : false,
       "id_str" : "11322372",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1444317557\/holman_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/418621979491450880\/xNRUDtqG_normal.jpeg",
       "id" : 11322372,
       "verified" : false
     }
@@ -907,7 +904,37 @@ Grailbird.data.tweets_2012_06 =
       "id_str" : "15344895",
       "id" : 15344895
     } ],
-    "media" : [ ],
+    "media" : [ {
+      "expanded_url" : "http:\/\/twitter.com\/ConDri\/status\/215626698446745600\/photo\/1",
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/Zamvzmcy",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/Av4PVv2CMAAnzcA.jpg",
+      "id_str" : "215626698455134208",
+      "id" : 215626698455134208,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Av4PVv2CMAAnzcA.jpg",
+      "sizes" : [ {
+        "h" : 465,
+        "resize" : "fit",
+        "w" : 340
+      }, {
+        "h" : 720,
+        "resize" : "fit",
+        "w" : 526
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 720,
+        "resize" : "fit",
+        "w" : 526
+      }, {
+        "h" : 720,
+        "resize" : "fit",
+        "w" : 526
+      } ],
+      "display_url" : "pic.twitter.com\/Zamvzmcy"
+    } ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
@@ -1096,7 +1123,12 @@ Grailbird.data.tweets_2012_06 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/tJ24TWxq",
+      "expanded_url" : "http:\/\/sfdjangosprint2.eventbrite.com\/",
+      "display_url" : "sfdjangosprint2.eventbrite.com"
+    } ]
   },
   "geo" : { },
   "id_str" : "213141608982519809",
@@ -1385,7 +1417,7 @@ Grailbird.data.tweets_2012_06 =
       "id_str" : "291920171",
       "id" : 291920171
     }, {
-      "name" : "educreations",
+      "name" : "Educreations",
       "screen_name" : "educreations",
       "indices" : [ 59, 72 ],
       "id_str" : "223638132",
@@ -2197,6 +2229,12 @@ Grailbird.data.tweets_2012_06 =
       "indices" : [ 3, 16 ],
       "id_str" : "577359586",
       "id" : 577359586
+    }, {
+      "name" : "Andrew Hayhurst",
+      "screen_name" : "ahay27",
+      "indices" : [ 139, 140 ],
+      "id_str" : "425774445",
+      "id" : 425774445
     } ],
     "media" : [ ],
     "hashtags" : [ ],

@@ -317,6 +317,28 @@ Grailbird.data.tweets_2009_03 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "1356689522",
+  "text" : "I think my bracket just got screwed.",
+  "id" : 1356689522,
+  "created_at" : "2009-03-19 00:00:00 +0000",
+  "user" : {
+    "name" : "Chris Streeter",
+    "screen_name" : "chrisstreeter",
+    "protected" : false,
+    "id_str" : "15344895",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
+    "id" : 15344895,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\/\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "1355732975",
   "text" : "Go Bears. Beat Maryland!",
   "id" : 1355732975,
@@ -342,28 +364,6 @@ Grailbird.data.tweets_2009_03 =
   "id_str" : "1356105680",
   "text" : "Live vido streaming of the Cal game might be the end of my productivity: http:\/\/mmod.ncaa.com\/",
   "id" : 1356105680,
-  "created_at" : "2009-03-19 00:00:00 +0000",
-  "user" : {
-    "name" : "Chris Streeter",
-    "screen_name" : "chrisstreeter",
-    "protected" : false,
-    "id_str" : "15344895",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2803763948\/c5ac9b970e9e29e242062b7ed1771bab_normal.jpeg",
-    "id" : 15344895,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\/\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1356689522",
-  "text" : "I think my bracket just got screwed.",
-  "id" : 1356689522,
   "created_at" : "2009-03-19 00:00:00 +0000",
   "user" : {
     "name" : "Chris Streeter",

@@ -62,13 +62,7 @@ Grailbird.data.tweets_2011_11 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/#!\/download\/ipad\" rel=\"nofollow\"\u003ETwitter for iPad\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Blake Griffin",
-      "screen_name" : "blakegriffin",
-      "indices" : [ 3, 16 ],
-      "id_str" : "1197738637",
-      "id" : 1197738637
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -598,12 +592,6 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bill Simmons 1.0",
-      "screen_name" : "SportsGuy33",
-      "indices" : [ 3, 15 ],
-      "id_str" : "941724637",
-      "id" : 941724637
-    }, {
       "name" : "Marc Stein",
       "screen_name" : "ESPNSteinLine",
       "indices" : [ 50, 64 ],

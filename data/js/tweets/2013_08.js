@@ -450,7 +450,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bryan Veloso",
+      "name" : "Bryan Veloso '14",
       "screen_name" : "bryanveloso",
       "indices" : [ 0, 12 ],
       "id_str" : "615403",
@@ -1056,7 +1056,12 @@ Grailbird.data.tweets_2013_08 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/D8iNDS2fip",
+      "expanded_url" : "http:\/\/www.nytimes.com\/2013\/07\/15\/business\/attention-shopper-stores-are-tracking-your-cell.html",
+      "display_url" : "nytimes.com\/2013\/07\/15\/bus\u2026"
+    } ]
   },
   "geo" : { },
   "id_str" : "371836816476733440",
@@ -3456,7 +3461,12 @@ Grailbird.data.tweets_2013_08 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/JOXBaXCFmD",
+      "expanded_url" : "http:\/\/ow.ly\/2z3YpA",
+      "display_url" : "ow.ly\/2z3YpA"
+    } ]
   },
   "geo" : { },
   "id_str" : "367348084398768128",

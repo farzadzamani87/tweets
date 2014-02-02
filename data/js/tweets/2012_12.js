@@ -973,7 +973,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "educreations",
+      "name" : "Educreations",
       "screen_name" : "educreations",
       "indices" : [ 3, 16 ],
       "id_str" : "223638132",
@@ -1010,7 +1010,7 @@ Grailbird.data.tweets_2012_12 =
     "id" : 282173376699707393,
     "created_at" : "2012-12-21 17:19:10 +0000",
     "user" : {
-      "name" : "educreations",
+      "name" : "Educreations",
       "screen_name" : "educreations",
       "protected" : false,
       "id_str" : "223638132",
@@ -1664,7 +1664,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "educreations",
+      "name" : "Educreations",
       "screen_name" : "educreations",
       "indices" : [ 37, 50 ],
       "id_str" : "223638132",
@@ -1803,7 +1803,12 @@ Grailbird.data.tweets_2012_12 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/Ng29gPAk",
+      "expanded_url" : "http:\/\/bit.ly\/XFbTYe",
+      "display_url" : "bit.ly\/XFbTYe"
+    } ]
   },
   "geo" : { },
   "id_str" : "281093226859991041",
@@ -1938,7 +1943,12 @@ Grailbird.data.tweets_2012_12 =
       "text" : "edtech",
       "indices" : [ 83, 90 ]
     } ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/GpcwajGl",
+      "expanded_url" : "http:\/\/ow.ly\/gaBfl",
+      "display_url" : "ow.ly\/gaBfl"
+    } ]
   },
   "geo" : { },
   "id_str" : "280766139993300993",
@@ -2907,7 +2917,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"http:\/\/angel.co\" rel=\"nofollow\"\u003EAngelList\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "educreations",
+      "name" : "Educreations",
       "screen_name" : "educreations",
       "indices" : [ 14, 27 ],
       "id_str" : "223638132",
@@ -3559,7 +3569,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "educreations",
+      "name" : "Educreations",
       "screen_name" : "educreations",
       "indices" : [ 3, 16 ],
       "id_str" : "223638132",

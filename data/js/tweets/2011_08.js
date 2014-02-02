@@ -166,7 +166,12 @@ Grailbird.data.tweets_2011_08 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/opVXUSG",
+      "expanded_url" : "http:\/\/bit.ly\/o8VGPq",
+      "display_url" : "bit.ly\/o8VGPq"
+    } ]
   },
   "geo" : { },
   "id_str" : "108604437941075968",
@@ -699,7 +704,7 @@ Grailbird.data.tweets_2011_08 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "educreations",
+      "name" : "Educreations",
       "screen_name" : "educreations",
       "indices" : [ 21, 34 ],
       "id_str" : "223638132",
@@ -1113,7 +1118,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "Percival",
       "protected" : false,
       "id_str" : "2156951",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000696888421\/ecf24f60ecac75c4d1727818f4a64615_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/424307405443170304\/3NCdWw_X_normal.jpeg",
       "id" : 2156951,
       "verified" : false
     }
@@ -1140,7 +1145,10 @@ Grailbird.data.tweets_2011_08 =
       "id" : 228759424
     } ],
     "media" : [ ],
-    "hashtags" : [ ],
+    "hashtags" : [ {
+      "text" : "USA",
+      "indices" : [ 139, 140 ]
+    } ],
     "urls" : [ ]
   },
   "geo" : { },

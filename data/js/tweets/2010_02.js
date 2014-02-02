@@ -469,9 +469,9 @@ Grailbird.data.tweets_2010_02 =
     "user" : {
       "name" : "Office for Mac",
       "screen_name" : "officeformac",
-      "protected" : false,
+      "protected" : true,
       "id_str" : "20819431",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1153254049\/Mac_BU_SM_Logo_Square_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/426836138955784192\/CUAjLe0X_normal.png",
       "id" : 20819431,
       "verified" : false
     }

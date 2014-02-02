@@ -658,7 +658,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "CalAthletics",
       "protected" : false,
       "id_str" : "50545304",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3504122733\/b0adf62878fe465a7047377c5ca7b320_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/427886123046563840\/asgJK2-H_normal.jpeg",
       "id" : 50545304,
       "verified" : true
     }

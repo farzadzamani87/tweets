@@ -33,8 +33,8 @@ Grailbird.data.tweets_2009_11 =
     } ],
     "media" : [ ],
     "hashtags" : [ {
-      "text" : "Re",
-      "indices" : [ 133, 136 ]
+      "text" : "RekeROY",
+      "indices" : [ 133, 140 ]
     } ],
     "urls" : [ ]
   },
